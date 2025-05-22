@@ -29,33 +29,39 @@ FOMC_[document type]_YYYY-MM-DD
 ✅ Modular and extensible codebase	Easy to extend for other Fed documents (e.g., SEP, transcripts)
 
 📁 Project Structure
-bash
-复制
-编辑
-fed_crawler/
-├── fetch_minutes.py          # Download and organize FOMC Minutes
-├── fetch_greenbook.py        # Download and organize Greenbook / Tealbook
-├── utils/
-│   └── parser.py             # HTML parser utilities for extracting file links
-├── data/
-│   ├── greenbook/
-│   └── minutes/
-├── README.md
-└── requirements.txt
-⚙️ Usage
-bash
-复制
-编辑
-# Download FOMC Minutes
-python fetch_minutes.py
-
-# Download Greenbook/Tealbook reports
-python fetch_greenbook.py
-🤝 Contributions & License
-This repo was built to improve transparency and reproducibility in research involving Fed communication.
-If you find it useful or want to contribute enhancements (e.g., adding new document types), feel free to open an issue or pull request.
-
-MIT License.
+```
+FED-document/
+├── data/ #没做，暂时也不重要
+│   ├──
+│   ├──
+│   ├──
+│   ├──
+│   ├──
+│   ├──
+│   ├──
+│   └──
+│
+├── src/
+│   ├──fomc_get_data
+│   │   ├──FomcAgenda.py #没搞，你可以根据我加⭐的写，比较简单
+│   │   ├──FomcBase.py #我搞好了，但是可以修改
+│   │   ├──FomcBeigeBook.py #没搞，你可以根据我加⭐的写，比较简单
+│   │   ├──FomcBlueBook.py #没搞，你可以根据我加⭐的写。注意2010年后bluebook和Greenbook合并为tealbook。
+│   │   ├──FomcGreenbook.py #我搞好了，没有必要修改
+│   │   ├──FomcMeetingScript.py #没搞，你可以根据我加⭐的写。对应网页中的FOMC Meeting Transcript。
+│   │   ├──FomcMinutes.py #⭐我搞好了，没有必要修改
+│   │   ├──FomcPresConfScript.py #没搞好，比较难的一个
+│   │   ├──FomcStatement.py #⭐我搞好了，没有必要修改
+│   │   ├──FomcTealbook.py #⭐我搞好了，没有必要修改
+│   │   ├──FomcTestimony.py #没搞
+│   │   └──__init__.py #搞好了，但是要修改
+│   │
+│   ├──FomcGetData.py #⭐我搞好了，但是要修改
+│   ├──QuandlGetData.py
+│   └──pdf2text.py #⭐我搞好了，没有必要修改
+│
+└── requirements.txt #⭐我搞好了，没有必要修改
+```
 
 ## 2. Data detail
 
