@@ -28,7 +28,7 @@ FOMC_[document type]_YYYY-MM-DD
 
 ✅ Modular and extensible codebase	Easy to extend for other Fed documents (e.g., SEP, transcripts)
 
-📁 Project Structure
+## 2. Project description
 ```
 FED-document/
 ├── data/                                   #没做，暂时也不重要
@@ -53,13 +53,13 @@ FED-document/
 └── requirements.txt                        #✅我搞好了，没有必要修改
 ```
 
-## 2. Data detail
+## 3. Data detail
 
 ```
 解释一下每个文件，直接chatgpt+wiki
 ```
 
-## 3. Initialization and installation
+## 4. Initialization and installation
 
 ```
 最好做一个makefile，然后讲一下怎么下载数据
