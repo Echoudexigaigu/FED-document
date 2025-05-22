@@ -6,18 +6,26 @@ This repository contains code for downloading and organizing Federal Reserve doc
 
 These files were used as part of my NLP project. While the data collection, my data collection code is inspired by [centralbank_analysis](https://github.com/yukit-k/centralbank_analysis) by [yukit-k](https://github.com/yukit-k). 
 However, that implementation had some limitations:
+
 ❌ Incomplete handling of newer HTML structures on the Fed website
+
 ❌ No support for Greenbook/Tealbook files
+
 ❌ File naming and folder structure not ideal for downstream processing
+
 ❌ No handling of failed downloads or noisy formatting
 
+
 So I made som key Improvements:
+
 ✅ Supports both Greenbook and Minutes	You can choose which type to download
+
 ✅ Automatic directory organization	Files are saved using consistent format as:
 ```
 FOMC_[document type]_YYYY-MM-DD
 ```
 ✅ Duplicate check & resume support	Prevents redundant downloads and handles broken links gracefully
+
 ✅ Modular and extensible codebase	Easy to extend for other Fed documents (e.g., SEP, transcripts)
 
 📁 Project Structure
