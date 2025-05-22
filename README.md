@@ -28,7 +28,7 @@ FOMC_[document type]_YYYY-MM-DD
 
 ✅ Modular and extensible codebase	Easy to extend for other Fed documents (e.g., SEP, transcripts)
 
-## 2. Project description
+## 2. Project structure
 ```
 FED-document/
 ├── data/                                   #没做，暂时也不重要
