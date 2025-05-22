@@ -65,7 +65,13 @@ FED-document/
 
 ## 2. Data detail
 
-## 3. Code detail
+```
+解释一下每个文件，直接chatgpt+wiki
+```
 
-## 4.Initialization and installation
+## 3. Initialization and installation
+
+```
+最好做一个makefile，然后讲一下怎么下载数据
+```
 
