@@ -121,6 +121,19 @@ class FomcBase(metaclass=ABCMeta):
         '''
         self._get_links(from_year)
         self._get_articles_multi_threaded()
+        
+        # Validate and synchronize array lengths before creating DataFrame
+        min_length = min(len(self.dates), len(self.articles), len(self.speakers), len(self.titles))
+        if self.verbose:
+            print(f"Array lengths - dates: {len(self.dates)}, articles: {len(self.articles)}, speakers: {len(self.speakers)}, titles: {len(self.titles)}")
+            print(f"Using minimum length: {min_length}")
+        
+        # Truncate all arrays to the same minimum length
+        self.dates = self.dates[:min_length]
+        self.articles = self.articles[:min_length]
+        self.speakers = self.speakers[:min_length]
+        self.titles = self.titles[:min_length]
+        
         dict = {
             'date': self.dates,
             'contents': self.articles,
@@ -135,6 +148,7 @@ class FomcBase(metaclass=ABCMeta):
         '''
         Dump an internal DataFrame df to a pickle file
         '''
+        print(f"Attempting to save to absolute path: {os.path.abspath(self.base_dir)}")
         filepath = self.base_dir + filename
         print("")
         if self.verbose: print("Writing to ", filepath)
@@ -146,6 +160,7 @@ class FomcBase(metaclass=ABCMeta):
         '''
         Save an internal DataFrame df to text files
         '''
+        print(f"Attempting to save to absolute path for texts: {os.path.abspath(self.base_dir)}")
         tmp_dates = []
         tmp_seq = 1
         for i, row in self.df.iterrows():

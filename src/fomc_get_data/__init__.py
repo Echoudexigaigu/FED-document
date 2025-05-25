@@ -4,5 +4,8 @@ from .FomcMeetingScript import FomcMeetingScript
 from .FomcPresConfScript import FomcPresConfScript
 from .FomcSpeech import FomcSpeech
 from .FomcTestimony import FomcTestimony
-from .FomcTealbook     import FomcTealbook
-from .FomcGreenbook    import FomcGreenbook
+from .FomcTealbook import FomcTealbook
+from .FomcGreenbook import FomcGreenbook
+from .FomcAgenda import FomcAgenda
+from .FomcBeigeBook import FomcBeigeBook
+from .FomcBlueBook import FomcBlueBook

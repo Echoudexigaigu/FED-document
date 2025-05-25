@@ -9,8 +9,11 @@ from fomc_get_data.FomcMeetingScript import FomcMeetingScript
 from fomc_get_data.FomcPresConfScript import FomcPresConfScript
 from fomc_get_data.FomcSpeech import FomcSpeech
 from fomc_get_data.FomcTestimony import FomcTestimony
-from fomc_get_data.FomcTealbook     import FomcTealbook
-from fomc_get_data.FomcGreenbook    import FomcGreenbook
+from fomc_get_data.FomcTealbook import FomcTealbook
+from fomc_get_data.FomcGreenbook import FomcGreenbook
+from fomc_get_data.FomcAgenda import FomcAgenda
+from fomc_get_data.FomcBeigeBook import FomcBeigeBook
+from fomc_get_data.FomcBlueBook import FomcBlueBook
 
 def download_data(fomc, from_year):
     df = fomc.get_contents(from_year)
@@ -23,7 +26,7 @@ def download_data(fomc, from_year):
 if __name__ == '__main__':
     pg_name = sys.argv[0]
     args = sys.argv[1:]
-    content_type_all =  ('statement','minutes','meeting_script','presconf_script','speech','testimony','tealbook_a','greenbook_part1','all')
+    content_type_all = ('statement','minutes','meeting_script','presconf_script','speech','testimony','tealbook_a','greenbook_part1','agenda','beigebook','bluebook','all')
     
     if (len(args) != 1) and (len(args) != 2):
         print("Usage: ", pg_name)
@@ -33,7 +36,7 @@ if __name__ == '__main__':
         sys.exit(1)
 
     if len(args) == 1:
-        from_year = 1966
+        from_year = 1936
     else:
         from_year = int(args[1])
     
@@ -43,9 +46,9 @@ if __name__ == '__main__':
         print("Please specify the first argument from ", content_type_all)
         sys.exit(1)
     
-    if (from_year < 1966) or (from_year > 2020):
+    if (from_year < 1936) or (from_year > 2025):
         print("Usage: ", pg_name)
-        print("Please specify the second argument between 1980 and 2020")
+        print("Please specify the second argument between 1936 and 2025")
         sys.exit(1)
 
     if content_type == 'all':
@@ -60,6 +63,16 @@ if __name__ == '__main__':
         fomc = FomcSpeech()
         download_data(fomc, from_year)
         fomc = FomcTestimony()
+        download_data(fomc, from_year)
+        fomc = FomcTealbook()
+        download_data(fomc, from_year)
+        fomc = FomcGreenbook()
+        download_data(fomc, from_year)
+        fomc = FomcAgenda()
+        download_data(fomc, from_year)
+        fomc = FomcBeigeBook()
+        download_data(fomc, from_year)
+        fomc = FomcBlueBook()
         download_data(fomc, from_year)
     else:
         if content_type == 'statement':
@@ -78,5 +91,11 @@ if __name__ == '__main__':
             fomc = FomcTealbook()
         elif content_type == 'greenbook_part1':
             fomc = FomcGreenbook()
+        elif content_type == 'agenda':
+            fomc = FomcAgenda()
+        elif content_type == 'beigebook':
+            fomc = FomcBeigeBook()
+        elif content_type == 'bluebook':
+            fomc = FomcBlueBook()
 
         download_data(fomc, from_year)

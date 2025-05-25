@@ -11,12 +11,9 @@ from bs4 import BeautifulSoup
 import numpy as np
 import pandas as pd
 
-# Tika depends on Java version, so use textract instead as the pdf is anyway a simple text only
-# # User TIKA for pdf parsing
-# os.environ['TIKA_SERVER_JAR'] = 'https://repo1.maven.org/maven2/org/apache/tika/tika-server/1.19/tika-server-1.19.jar'
-# import tika
-# from tika import parser
-import textract
+# Use PyPDF2 instead of textract for better compatibility
+from PyPDF2 import PdfReader
+from io import BytesIO
 
 # Import parent class
 from .FomcBase import FomcBase
@@ -30,7 +27,7 @@ class FomcMeetingScript(FomcBase):
         fomc = FomcMeetingScript()
         df = fomc.get_contents()
     '''
-    def __init__(self, verbose = True, max_threads = 10, base_dir = '../data/FOMC/'):
+    def __init__(self, verbose = True, max_threads = 10, base_dir = 'data/FOMC/'):
         super().__init__('meeting_script', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):
@@ -55,7 +52,7 @@ class FomcMeetingScript(FomcBase):
                 fomc_yearly_url = self.base_url + '/monetarypolicy/fomchistorical' + str(year) + '.htm'
                 r_year = requests.get(fomc_yearly_url)
                 soup_yearly = BeautifulSoup(r_year.text, 'html.parser')
-                meeting_scripts = soup_yearly.find_all('a', href=re.compile('^/monetarypolicy/files/FOMC\d{8}meeting.pdf'))
+                meeting_scripts = soup_yearly.find_all('a', href=re.compile(r'^/monetarypolicy/files/FOMC\d{8}meeting.pdf'))
                 for meeting_script in meeting_scripts:
                     self.links.append(meeting_script.attrs['href'])
                     self.speakers.append(self._speaker_from_date(self._date_from_link(meeting_script.attrs['href'])))
@@ -79,21 +76,30 @@ class FomcMeetingScript(FomcBase):
 
         # Scripts are provided only in pdf. Save the pdf and pass the content
         res = requests.get(link_url)
+        
+        # Create directory if it doesn't exist
+        os.makedirs(os.path.dirname(pdf_filepath), exist_ok=True)
+        
         with open(pdf_filepath, 'wb') as f:
             f.write(res.content)
 
-        # Extract text from the pdf
-        # pdf_file_parsed = parser.from_file(pdf_filepath)
-        # paragraphs = re.sub('(\n)(\n)+', '\n', pdf_file_parsed['content'].strip())
-        pdf_file_parsed = textract.process(pdf_filepath).decode('utf-8')
+        # Extract text from the pdf using PyPDF2
+        try:
+            pdf_reader = PdfReader(BytesIO(res.content))
+            pdf_file_parsed = "\n".join([page.extract_text() or '' for page in pdf_reader.pages])
+        except Exception as e:
+            if self.verbose:
+                print(f"Error processing PDF {link}: {e}")
+            pdf_file_parsed = ""
+        
         paragraphs = re.sub('(\n)(\n)+', '\n', pdf_file_parsed.strip())
         paragraphs = paragraphs.split('\n')
 
         section = -1
         paragraph_sections = []
         for paragraph in paragraphs:
-            if not re.search('^(page|january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)', paragraph.lower()):
-                if len(re.findall(r'[A-Z]', paragraph[:10])) > 5 and not re.search('(present|frb/us|abs cdo|libor|rp–ioer|lsaps|cusip|nairu|s cpi|clos, r)', paragraph[:10].lower()):
+            if not re.search(r'^(page|january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)', paragraph.lower()):
+                if len(re.findall(r'[A-Z]', paragraph[:10])) > 5 and not re.search(r'(present|frb/us|abs cdo|libor|rp–ioer|lsaps|cusip|nairu|s cpi|clos, r)', paragraph[:10].lower()):
                     section += 1
                     paragraph_sections.append("")
                 if section >= 0:

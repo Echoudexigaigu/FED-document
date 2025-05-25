@@ -23,7 +23,7 @@ class FomcTestimony(FomcBase):
         fomc = FomcTestimony()
         df = fomc.get_contents()
     '''
-    def __init__(self, verbose = True, max_threads = 10, base_dir = '../data/FOMC/'):
+    def __init__(self, verbose = True, max_threads = 10, base_dir = 'data/FOMC/'):
         super().__init__('testimony', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):
@@ -47,7 +47,7 @@ class FomcTestimony(FomcBase):
 
         url = self.base_url + '/json/ne-testimony.json'
         res = requests.get(url)
-        res_list = json.loads(res.text)
+        res_list = json.loads(res.content.decode('utf-8-sig'))
         for record in res_list:
             doc_link = record.get('l')
             if doc_link:
@@ -126,7 +126,7 @@ class FomcTestimony(FomcBase):
         # Parse html text by BeautifulSoup
         article = BeautifulSoup(html, 'html.parser')
         # Remove footnote
-        for fn in article.find_all('a', {'name': re.compile('fn\d')}):
+        for fn in article.find_all('a', {'name': re.compile(r'fn\d')}):
             # if fn.parent:
             #     fn.parent.decompose()
             # else:

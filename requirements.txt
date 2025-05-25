@@ -1,4 +1,6 @@
 bs4
+beautifulsoup4
+PyPDF2
 textract
 numpy
 pandas

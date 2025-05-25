@@ -7,7 +7,7 @@ from PyPDF2 import PdfReader
 from .FomcBase import FomcBase
 
 class FomcTealbook(FomcBase):
-    def __init__(self, verbose=True, max_threads=4, base_dir='../data/FOMC/'):
+    def __init__(self, verbose=True, max_threads=4, base_dir='data/FOMC/'):
         super().__init__('tealbook', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):

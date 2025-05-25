@@ -18,7 +18,7 @@ class FomcStatement(FomcBase):
         fomc = FomcStatement()
         df = fomc.get_contents()
     '''
-    def __init__(self, verbose=True, max_threads=10, base_dir='../data/FOMC/'):
+    def __init__(self, verbose=True, max_threads=10, base_dir='data/FOMC/'):
         super().__init__('statement', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):

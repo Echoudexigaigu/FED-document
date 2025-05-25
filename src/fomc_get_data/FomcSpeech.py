@@ -21,7 +21,7 @@ class FomcSpeech(FomcBase):
         fomc = FomcSpeech()
         df = fomc.get_contents()
     '''
-    def __init__(self, verbose = True, max_threads = 10, base_dir = '../data/FOMC/'):
+    def __init__(self, verbose = True, max_threads = 10, base_dir = 'data/FOMC/'):
         super().__init__('speech', verbose, max_threads, base_dir)
         self.speech_base_url = self.base_url + '/newsevents/speech'
 
@@ -53,7 +53,7 @@ class FomcSpeech(FomcBase):
 
             res = requests.get(speech_url)
             soup = BeautifulSoup(res.text, 'html.parser')
-            speech_links = soup.findAll('a', href=re.compile('^/?newsevents/speech/.*{}\d\d\d\d.*.htm|^/boarddocs/speeches/{}/|^{}\d\d\d\d.*.htm'.format(str(year), str(year), str(year))))
+            speech_links = soup.findAll('a', href=re.compile(r'^/?newsevents/speech/.*{}\d\d\d\d.*.htm|^/boarddocs/speeches/{}/|^{}\d\d\d\d.*.htm'.format(str(year), str(year), str(year))))
             for speech_link in speech_links:
                 # Sometimes the same link is put for watch live video. Skip those.
                 if speech_link.find({'class': 'watchLive'}):
@@ -106,7 +106,7 @@ class FomcSpeech(FomcBase):
         # Parse html text by BeautifulSoup
         article = BeautifulSoup(html, 'html.parser')
         # Remove footnote
-        for fn in article.find_all('a', {'name': re.compile('fn\d')}):
+        for fn in article.find_all('a', {'name': re.compile(r'fn\d')}):
             if fn.parent:
                 fn.parent.decompose()
             else:

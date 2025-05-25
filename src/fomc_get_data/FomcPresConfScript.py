@@ -11,12 +11,9 @@ from bs4 import BeautifulSoup
 import numpy as np
 import pandas as pd
 
-# Tika depends on Java version, so use textract instead as the pdf is anyway a simple text only
-# # User TIKA for pdf parsing
-# os.environ['TIKA_SERVER_JAR'] = 'https://repo1.maven.org/maven2/org/apache/tika/tika-server/1.19/tika-server-1.19.jar'
-# import tika
-# from tika import parser
-import textract
+# Use PyPDF2 instead of textract for better compatibility
+from PyPDF2 import PdfReader
+from io import BytesIO
 
 # Import parent class
 from .FomcBase import FomcBase
@@ -29,7 +26,7 @@ class FomcPresConfScript(FomcBase):
         fomc = FomcPresConfScript()
         df = fomc.get_contents()
     '''
-    def __init__(self, verbose = True, max_threads = 10, base_dir = '../data/FOMC/'):
+    def __init__(self, verbose = True, max_threads = 10, base_dir = 'data/FOMC/'):
         super().__init__('presconf_script', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):
@@ -46,12 +43,12 @@ class FomcPresConfScript(FomcBase):
         soup = BeautifulSoup(r.text, 'html.parser')
         
         if self.verbose: print("Getting links for press conference scripts...")
-        presconfs = soup.find_all('a', href=re.compile('^/monetarypolicy/fomcpresconf\d{8}.htm'))
+        presconfs = soup.find_all('a', href=re.compile(r'^/monetarypolicy/fomcpresconf\d{8}.htm'))
         presconf_urls = [self.base_url + presconf.attrs['href'] for presconf in presconfs]
         for presconf_url in presconf_urls:
             r_presconf = requests.get(presconf_url)
             soup_presconf = BeautifulSoup(r_presconf.text, 'html.parser')
-            contents = soup_presconf.find_all('a', href=re.compile('^/mediacenter/files/FOMCpresconf\d{8}.pdf'))
+            contents = soup_presconf.find_all('a', href=re.compile(r'^/mediacenter/files/FOMCpresconf\d{8}.pdf'))
             for content in contents:
                 #print(content)
                 self.links.append(content.attrs['href'])
@@ -69,13 +66,13 @@ class FomcPresConfScript(FomcBase):
                 r_year = requests.get(fomc_yearly_url)
                 soup_yearly = BeautifulSoup(r_year.text, 'html.parser')
 
-                presconf_hists = soup_yearly.find_all('a', href=re.compile('^/monetarypolicy/fomcpresconf\d{8}.htm'))
+                presconf_hists = soup_yearly.find_all('a', href=re.compile(r'^/monetarypolicy/fomcpresconf\d{8}.htm'))
                 presconf_hist_urls = [self.base_url + presconf_hist.attrs['href'] for presconf_hist in presconf_hists]
                 for presconf_hist_url in presconf_hist_urls:
                     #print(presconf_hist_url)
                     r_presconf_hist = requests.get(presconf_hist_url)
                     soup_presconf_hist = BeautifulSoup(r_presconf_hist.text, 'html.parser')
-                    yearly_contents = soup_presconf_hist.find_all('a', href=re.compile('^/mediacenter/files/FOMCpresconf\d{8}.pdf'))
+                    yearly_contents = soup_presconf_hist.find_all('a', href=re.compile(r'^/mediacenter/files/FOMCpresconf\d{8}.pdf'))
                     for yearly_content in yearly_contents:
                         #print(yearly_content)
                         self.links.append(yearly_content.attrs['href'])
@@ -103,21 +100,29 @@ class FomcPresConfScript(FomcBase):
         # Scripts are provided only in pdf. Save the pdf and pass the content
         res = requests.get(link_url)
 
+        # Create directory if it doesn't exist
+        os.makedirs(os.path.dirname(pdf_filepath), exist_ok=True)
+
         with open(pdf_filepath, 'wb') as f:
             f.write(res.content)
 
-        # Extract text from the pdf
-        # pdf_file_parsed = parser.from_file(pdf_filepath)
-        # paragraphs = re.sub('(\n)(\n)+', '\n', pdf_file_parsed['content'].strip())
-        pdf_file_parsed = textract.process(pdf_filepath).decode('utf-8')
-        paragraphs = re.sub('(\n)(\n)+', '\n', pdf_file_parsed.strip())
+        # Extract text from the pdf using PyPDF2
+        try:
+            pdf_reader = PdfReader(BytesIO(res.content))
+            pdf_file_parsed = "\n".join([page.extract_text() or '' for page in pdf_reader.pages])
+        except Exception as e:
+            if self.verbose:
+                print(f"Error processing PDF {link}: {e}")
+            pdf_file_parsed = ""
+
+        paragraphs = re.sub(r'(\n)(\n)+', '\n', pdf_file_parsed.strip())
         paragraphs = paragraphs.split('\n')
 
         section = -1
         paragraph_sections = []
         for paragraph in paragraphs:
-            if not re.search('^(page|january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)', paragraph.lower()):
-                if len(re.findall(r'[A-Z]', paragraph[:10])) > 5 and not re.search('(present|frb/us|abs cdo|libor|rp–ioer|lsaps|cusip|nairu|s cpi|clos, r)', paragraph[:10].lower()):
+            if not re.search(r'^(page|january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)', paragraph.lower()):
+                if len(re.findall(r'[A-Z]', paragraph[:10])) > 5 and not re.search(r'(present|frb/us|abs cdo|libor|rp–ioer|lsaps|cusip|nairu|s cpi|clos, r)', paragraph[:10].lower()):
                     section += 1
                     paragraph_sections.append("")
                 if section >= 0:
