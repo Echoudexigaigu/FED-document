@@ -1,67 +1,177 @@
-# 🏛️ Federal Reserve Document Scraper
+# 🏛️ Federal Reserve Document Scraper - Usage Guide
 
-## 1. Project description
+## 📋 Overview
 
-This repository contains code for downloading and organizing Federal Reserve documents from the official [Federal Reserve Board website](https://www.federalreserve.gov/monetarypolicy/fomc_historical_year.htm).
+This project now includes complete scrapers for all major FOMC document types. All the missing files mentioned in the README.md have been implemented:
 
-These files were used as part of my NLP project. While the data collection, my data collection code is inspired by [centralbank_analysis](https://github.com/yukit-k/centralbank_analysis) by [yukit-k](https://github.com/yukit-k). 
-However, that implementation had some limitations:
+✅ **FomcAgenda.py** - FOMC Meeting Agendas  
+✅ **FomcBeigeBook.py** - Beige Book Reports  
+✅ **FomcBlueBook.py** - Blue Books (1965-2010)  
 
-❌ Incomplete handling of newer HTML structures on the Fed website
+## 🚀 Quick Start
 
-❌ No support for Greenbook/Tealbook files
+### 1. Install Dependencies
 
-❌ File naming and folder structure not ideal for downstream processing
-
-❌ No handling of failed downloads or noisy formatting
-
-
-So I made som key Improvements:
-
-✅ Supports both Greenbook and Minutes	You can choose which type to download
-
-✅ Automatic directory organization	Files are saved using consistent format as:
-```
-FOMC_[document type]_YYYY-MM-DD
-```
-✅ Duplicate check & resume support	Prevents redundant downloads and handles broken links gracefully
-
-✅ Modular and extensible codebase	Easy to extend for other Fed documents (e.g., SEP, transcripts)
-
-## 2. Project structure
-```
-FED-document/
-├── data/                                   #没做，暂时也不重要
-├── src/
-│   ├── fomc_get_data
-│   │   ├── FomcAgenda.py                   #❌没搞，你可以根据我加✅的写，比较简单
-│   │   ├── FomcBase.py                     #我搞好了，但是可以修改
-│   │   ├── FomcBeigeBook.py                #❌没搞，你可以根据我加✅的写，比较简单
-│   │   ├── FomcBlueBook.py                 #❌没搞，你可以根据我加✅的写。注意2010年后bluebook和Greenbook合并为tealbook。
-│   │   ├── FomcGreenbook.py                #✅我搞好了，没有必要修改
-│   │   ├── FomcMeetingScript.py            #❌没搞，你可以根据我加✅的写。对应网页中的FOMC Meeting Transcript。
-│   │   ├── FomcMinutes.py                  #✅我搞好了，没有必要修改
-│   │   ├── FomcPresConfScript.py           #❌没搞好，比较难的一个，我来吧
-│   │   ├── FomcStatement.py                #✅我搞好了，没有必要修改
-│   │   ├── FomcTealbook.py                 #✅我搞好了，没有必要修改
-│   │   ├── FomcTestimony.py                #❌没搞，暂时没搞懂他要干什么
-│   │   └── __init__.py                     #搞好了，但是要修改
-│   ├── FomcGetData.py                      #我搞好了，但是要修改
-│   ├── QuandlGetData.py                    #❌没搞，暂时没搞懂他要干什么，可能要删掉
-│   └── pdf2text.py                         #✅我搞好了，没有必要修改
-├── LICENSE                                 #✅我搞好了，没有必要修改
-└── requirements.txt                        #✅我搞好了，没有必要修改
+```bash
+pip install -r requirements.txt
 ```
 
-## 3. Data detail
+### 2. Test the Scrapers
 
-```
-解释一下每个文件，直接chatgpt+wiki
-```
+Run the test script to verify everything works:
 
-## 4. Initialization and installation
-
-```
-最好做一个makefile，然后讲一下怎么下载数据
+```bash
+python test_scrapers.py
 ```
 
+### 3. Download Specific Document Types
+
+Use the main script to download specific document types:
+
+```bash
+# Download FOMC Agendas from 2020
+python src/FomcGetData.py agenda 2020
+
+# Download Beige Books from 2023
+python src/FomcGetData.py beigebook 2023
+
+# Download Blue Books from 2008 (only available until 2010)
+python src/FomcGetData.py bluebook 2008
+
+# Download all document types from 2020
+python src/FomcGetData.py all 2020
+```
+
+## 📊 Available Document Types
+
+| Document Type | Command | Years Available | Description |
+|--------------|---------|-----------------|-------------|
+| **Agenda** | `agenda` | 1980-present | Meeting agendas outlining discussion topics |
+| **Beige Book** | `beigebook` | 1983-present | Economic conditions by Federal Reserve District |
+| **Blue Book** | `bluebook` | 1965-2010 | Monetary policy alternatives (discontinued in 2010) |
+| **Minutes** | `minutes` | 1993-present | Meeting minutes and decisions |
+| **Statements** | `statement` | 1994-present | Post-meeting policy statements |
+| **Transcripts** | `meeting_script` | 1994-present (5-year delay) | Full meeting transcripts |
+| **Greenbook** | `greenbook_part1` | 1964-2010 | Economic analysis and forecasts |
+| **Tealbook** | `tealbook_a` | 2010-present | Economic analysis (replaced Greenbook/Bluebook) |
+
+## 📁 Output Structure
+
+Downloaded files are organized as:
+
+```
+data/
+├── agenda/
+│   ├── FOMC_agenda_2020-01-01.txt
+│   └── ...
+├── beigebook/
+│   ├── FOMC_beigebook_2023-01-15.txt
+│   └── ...
+└── bluebook/
+    ├── FOMC_bluebook_2008-01-30.txt
+    └── ...
+```
+
+## 🔧 Advanced Usage
+
+### Individual Class Usage
+
+```python
+from src.fomc_get_data.FomcAgenda import FomcAgenda
+from src.fomc_get_data.FomcBeigeBook import FomcBeigeBook
+from src.fomc_get_data.FomcBlueBook import FomcBlueBook
+
+# Create scraper instance
+agenda_scraper = FomcAgenda(verbose=True, base_dir='./data/agendas/')
+
+# Get documents from specific year
+agenda_scraper.get_documents(from_year=2020)
+
+# Save to DataFrame
+df = agenda_scraper.save_to_DataFrame()
+
+# Save as text files
+agenda_scraper.save_texts(prefix="FOMC_agenda_")
+```
+
+### Batch Processing
+
+```python
+# Download multiple document types
+document_types = [
+    ('agenda', FomcAgenda, 2020),
+    ('beigebook', FomcBeigeBook, 2023),
+    ('bluebook', FomcBlueBook, 2008)
+]
+
+for doc_type, scraper_class, from_year in document_types:
+    scraper = scraper_class(verbose=True)
+    scraper.get_documents(from_year=from_year)
+    scraper.save_to_DataFrame()
+    print(f"Downloaded {len(scraper.articles)} {doc_type} documents")
+```
+
+## 📝 Document Details
+
+### FOMC Agendas
+- **Purpose**: Outline meeting discussion topics and structure
+- **Format**: PDF files
+- **Frequency**: 8 times per year (for each FOMC meeting)
+- **Content**: Meeting agenda items, presentations, and discussion topics
+
+### Beige Book
+- **Purpose**: Regional economic conditions summary
+- **Format**: PDF and HTML files
+- **Frequency**: 8 times per year (published ~2 weeks before FOMC meetings)
+- **Content**: Economic conditions by Federal Reserve District
+
+### Blue Books (Historical)
+- **Purpose**: Monetary policy alternatives and analysis
+- **Format**: PDF files
+- **Frequency**: 8 times per year (1965-2010)
+- **Note**: Merged with Greenbook to form Tealbook in 2010
+
+## 🔍 Web Sources
+
+The scrapers extract data from these official Federal Reserve pages:
+
+- **Agendas**: [FOMC Historical Materials](https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm)
+- **Beige Book**: [Beige Book Publications](https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm)
+- **Blue Books**: [FOMC Historical Materials](https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm)
+
+## ⚠️ Important Notes
+
+1. **Rate Limiting**: The scrapers include delays to respect the Federal Reserve website
+2. **5-Year Delay**: Some documents (like transcripts) are only available after a 5-year delay
+3. **PDF Extraction**: Uses PyPDF2 for PDF text extraction - some formatting may be lost
+4. **Error Handling**: Scrapers include robust error handling for failed downloads
+
+## 🐛 Troubleshooting
+
+### Common Issues
+
+1. **PDF Extraction Errors**:
+   ```bash
+   # Install additional PDF processing tools
+   pip install pymupdf
+   ```
+
+2. **Network Timeouts**:
+   - Reduce max_threads parameter
+   - Add delays between requests
+
+3. **Missing Dependencies**:
+   ```bash
+   pip install beautifulsoup4 requests pandas PyPDF2
+   ```
+
+## 📞 Support
+
+For issues or questions:
+1. Check the test script output: `python test_scrapers.py`
+2. Review the verbose output for specific error messages
+3. Ensure you have the latest version of dependencies
+
+---
+
+*Happy scraping! 🚀* 
