@@ -9,7 +9,8 @@ from fomc_get_data.FomcMeetingScript import FomcMeetingScript
 from fomc_get_data.FomcPresConfScript import FomcPresConfScript
 from fomc_get_data.FomcSpeech import FomcSpeech
 from fomc_get_data.FomcTestimony import FomcTestimony
-from fomc_get_data.FomcTealbook import FomcTealbook
+from fomc_get_data.FomcTealbookA import FomcTealbookA
+from fomc_get_data.FomcTealbookB import FomcTealbookB
 from fomc_get_data.FomcGreenbook import FomcGreenbook
 from fomc_get_data.FomcAgenda import FomcAgenda
 from fomc_get_data.FomcBeigeBook import FomcBeigeBook
@@ -26,7 +27,7 @@ def download_data(fomc, from_year):
 if __name__ == '__main__':
     pg_name = sys.argv[0]
     args = sys.argv[1:]
-    content_type_all = ('statement','minutes','meeting_script','presconf_script','speech','testimony','tealbook_a','greenbook_part1','agenda','beigebook','bluebook','all')
+    content_type_all = ('statement','minutes','meeting_script','presconf_script','speech','testimony','tealbook_a','tealbook_b','greenbook_part1','agenda','beigebook','bluebook','all')
     
     if (len(args) != 1) and (len(args) != 2):
         print("Usage: ", pg_name)
@@ -88,7 +89,9 @@ if __name__ == '__main__':
         elif content_type == 'testimony':
             fomc = FomcTestimony()
         elif content_type == 'tealbook_a':
-            fomc = FomcTealbook()
+            fomc = FomcTealbookA()
+        elif content_type == 'tealbook_b':
+            fomc = FomcTealbookB()
         elif content_type == 'greenbook_part1':
             fomc = FomcGreenbook()
         elif content_type == 'agenda':

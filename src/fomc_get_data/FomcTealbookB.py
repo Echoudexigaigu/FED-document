@@ -6,7 +6,7 @@ from io import BytesIO
 from PyPDF2 import PdfReader
 from .FomcBase import FomcBase
 
-class FomcTealbook(FomcBase):
+class FomcTealbookB(FomcBase):
     def __init__(self, verbose=True, max_threads=4, base_dir='data/FOMC/'):
         super().__init__('tealbook', verbose, max_threads, base_dir)
 
@@ -22,16 +22,16 @@ class FomcTealbook(FomcBase):
                 print(f"Fetching Tealbook for {year}: {page_url}")
             r = requests.get(page_url)
             soup = BeautifulSoup(r.text, 'html.parser')
-            found = soup.find_all('a', href=re.compile(r'tealbooka.*\.pdf$', re.I))
+            found = soup.find_all('a', href=re.compile(r'tealbookb.*\.pdf$', re.I))
             for a in found:
                 href = a['href']
                 dt_str = self._date_from_link(href)
                 self.links.append(href)
-                self.titles.append('Tealbook A')
+                self.titles.append('Tealbook B')
                 self.dates.append(datetime.strptime(dt_str, '%Y-%m-%d'))
                 self.speakers.append(self._speaker_from_date(dt_str))
         if self.verbose:
-            print(f"Total Tealbook A links: {len(self.links)}")
+            print(f"Total Tealbook B links: {len(self.links)}")
 
     def _add_article(self, link, index=None):
         if self.verbose:
