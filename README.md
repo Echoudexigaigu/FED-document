@@ -34,18 +34,18 @@ FED-document/
 ├── data/                                   #没做，暂时也不重要
 ├── src/
 │   ├── fomc_get_data
-│   │   ├── FomcAgenda.py                   #❌没搞，你可以根据我加✅的写，比较简单
-│   │   ├── FomcBase.py                     #我搞好了，但是可以修改
-│   │   ├── FomcBeigeBook.py                #❌没搞，你可以根据我加✅的写，比较简单
-│   │   ├── FomcBlueBook.py                 #❌没搞，你可以根据我加✅的写。注意2010年后bluebook和Greenbook合并为tealbook。
-│   │   ├── FomcGreenbook.py                #✅我搞好了，没有必要修改
-│   │   ├── FomcMeetingScript.py            #❌没搞，你可以根据我加✅的写。对应网页中的FOMC Meeting Transcript。
-│   │   ├── FomcMinutes.py                  #✅我搞好了，没有必要修改
-│   │   ├── FomcPresConfScript.py           #❌没搞好，比较难的一个，我来吧
-│   │   ├── FomcStatement.py                #✅我搞好了，没有必要修改
-│   │   ├── FomcTealbook.py                 #✅我搞好了，没有必要修改
-│   │   ├── FomcTestimony.py                #❌没搞，暂时没搞懂他要干什么
-│   │   └── __init__.py                     #搞好了，但是要修改
+│   │   ├── FomcAgenda.py 
+│   │   ├── FomcBase.py
+│   │   ├── FomcBeigeBook.py
+│   │   ├── FomcBlueBook.py
+│   │   ├── FomcGreenbook.py
+│   │   ├── FomcMeetingScript.py 
+│   │   ├── FomcMinutes.py
+│   │   ├── FomcPresConfScript.py
+│   │   ├── FomcStatement.py
+│   │   ├── FomcTealbook.py
+│   │   ├── FomcTestimony.py
+│   │   └── __init__.py
 │   ├── FomcGetData.py                      #我搞好了，但是要修改
 │   ├── QuandlGetData.py                    #❌没搞，暂时没搞懂他要干什么，可能要删掉
 │   └── pdf2text.py                         #✅我搞好了，没有必要修改
