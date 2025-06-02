@@ -6,7 +6,8 @@ from .FomcSpeech import FomcSpeech
 from .FomcTestimony import FomcTestimony
 from .FomcTealbookA import FomcTealbookA
 from .FomcTealbookB import FomcTealbookB
-from .FomcGreenbook import FomcGreenbook
+from .FomcGreenbook1 import FomcGreenbook1
+from .FomcGreenbook2 import FomcGreenbook2
 from .FomcAgenda import FomcAgenda
 from .FomcBeigeBook import FomcBeigeBook
 from .FomcBlueBook import FomcBlueBook

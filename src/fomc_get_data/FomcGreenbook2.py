@@ -1,37 +1,37 @@
+from datetime import datetime
 import re
 import requests
-from datetime import datetime
 from bs4 import BeautifulSoup
 from io import BytesIO
 from PyPDF2 import PdfReader
 from .FomcBase import FomcBase
 
-class FomcTealbookB(FomcBase):
+class FomcGreenbook2(FomcBase):
     def __init__(self, verbose=True, max_threads=4, base_dir='data/FOMC/'):
-        super().__init__('tealbookb', verbose, max_threads, base_dir)
+        super().__init__('greenbook', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):
         self.links = []
         self.titles = []
-        self.dates = []
         self.speakers = []
-        start = max(from_year, 2010)
-        for year in range(start, datetime.today().year + 1):
+        self.dates = []
+        end_year = min(2010, datetime.today().year)
+        for year in range(1964, end_year + 1):
             page_url = self.base_url + f"/monetarypolicy/fomchistorical{year}.htm"
             if self.verbose:
-                print(f"Fetching Tealbook for {year}: {page_url}")
+                print(f"Fetching Greenbook for {year}: {page_url}")
             r = requests.get(page_url)
             soup = BeautifulSoup(r.text, 'html.parser')
-            found = soup.find_all('a', href=re.compile(r'tealbookb.*\.pdf$', re.I))
+            found = soup.find_all('a', href=re.compile(r'(greenbook|gbpt2).*\.pdf$', re.I))
             for a in found:
                 href = a['href']
                 dt_str = self._date_from_link(href)
                 self.links.append(href)
-                self.titles.append('Tealbook B')
+                self.titles.append('Greenbook2')
                 self.dates.append(datetime.strptime(dt_str, '%Y-%m-%d'))
                 self.speakers.append(self._speaker_from_date(dt_str))
         if self.verbose:
-            print(f"Total Tealbook B links: {len(self.links)}")
+            print(f"Total Greenbook2 links: {len(self.links)}")
 
     def _add_article(self, link, index=None):
         if self.verbose:

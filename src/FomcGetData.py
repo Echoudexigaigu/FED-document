@@ -11,7 +11,8 @@ from fomc_get_data.FomcSpeech import FomcSpeech
 from fomc_get_data.FomcTestimony import FomcTestimony
 from fomc_get_data.FomcTealbookA import FomcTealbookA
 from fomc_get_data.FomcTealbookB import FomcTealbookB
-from fomc_get_data.FomcGreenbook import FomcGreenbook
+from fomc_get_data.FomcGreenbook1 import FomcGreenbook1
+from fomc_get_data.FomcGreenbook2 import FomcGreenbook2
 from fomc_get_data.FomcAgenda import FomcAgenda
 from fomc_get_data.FomcBeigeBook import FomcBeigeBook
 from fomc_get_data.FomcBlueBook import FomcBlueBook
@@ -27,7 +28,7 @@ def download_data(fomc, from_year):
 if __name__ == '__main__':
     pg_name = sys.argv[0]
     args = sys.argv[1:]
-    content_type_all = ('statement','minutes','meeting_script','presconf_script','speech','testimony','tealbook_a','tealbook_b','greenbook_part1','agenda','beigebook','bluebook','all')
+    content_type_all = ('statement','minutes','meeting_script','presconf_script','speech','testimony','tealbook_a','tealbook_b','greenbook1','greenbook2','agenda','beigebook','bluebook','all')
     
     if (len(args) != 1) and (len(args) != 2):
         print("Usage: ", pg_name)
@@ -65,9 +66,13 @@ if __name__ == '__main__':
         download_data(fomc, from_year)
         fomc = FomcTestimony()
         download_data(fomc, from_year)
-        fomc = FomcTealbook()
+        fomc = FomcTealbookA()
         download_data(fomc, from_year)
-        fomc = FomcGreenbook()
+        fomc = FomcTealbookB()
+        download_data(fomc, from_year)
+        fomc = FomcGreenbook1()
+        download_data(fomc, from_year)
+        fomc = FomcGreenbook2()
         download_data(fomc, from_year)
         fomc = FomcAgenda()
         download_data(fomc, from_year)
@@ -92,8 +97,10 @@ if __name__ == '__main__':
             fomc = FomcTealbookA()
         elif content_type == 'tealbook_b':
             fomc = FomcTealbookB()
-        elif content_type == 'greenbook_part1':
-            fomc = FomcGreenbook()
+        elif content_type == 'greenbook1':
+            fomc = FomcGreenbook1()
+        elif content_type == 'greenbook2':
+            fomc = FomcGreenbook2()
         elif content_type == 'agenda':
             fomc = FomcAgenda()
         elif content_type == 'beigebook':
