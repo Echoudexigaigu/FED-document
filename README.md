@@ -126,7 +126,6 @@ This includes the Chair’s **Semiannual Monetary Policy Report to Congress** an
 ## 📚 References
 
 - [Federal Reserve – FOMC Archive](https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm)  
-- [Guide to FOMC Documents](https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm#docguide)  
 - [Wikipedia – Federal Open Market Committee](https://en.wikipedia.org/wiki/Federal_Open_Market_Committee)
 
 
