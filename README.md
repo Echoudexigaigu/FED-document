@@ -62,8 +62,6 @@ Below is a reference guide to the major FOMC document types represented in this 
 
 ---
 
-## 📋 FOMC Document Overview
-
 ### 📅 `FomcAgenda.py` – Meeting Agendas
 Agendas are created by the FOMC Secretariat in coordination with the Chair and outline the topics of discussion for each meeting, including standard items (e.g., open market operations, economic outlook) and special topics. Participants receive the agenda about one week in advance.
 
