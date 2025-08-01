@@ -1,0 +1,993 @@
+ 
+Prefatory Note  
+ 
+ 
+The attached document represents the most complete and accurate version 
+available based on original copies culled from  the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserv e System.  This electronic document was 
+created through a comprehensiv e digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain.  
+Please note that this document may contain occasional gaps in the text.  These 
+gaps are the result of a re daction process that removed information obtained on a 
+confidential basis.  All redact ed passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+ 
+                                                
+ 
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and we re not checked or corrected by staff. 
+STRICTLY CONFIDENTIAL (FR) CLASS II FOMC
+DECEMBER5, 2002
+MONETARY POLICY ALTERNATIVES
+PREPARED FOR THE FEDERAL OPEN MARKET COMMITTEE
+BYTHE STAFF OF THE BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM
+
+1 The fede ral funds rat e aver aged cl ose to 1 -1/4 pe rcent  over t he int ermeeti ng
+period.  To cou nteract reserve drains from the year-end  increase in currency, the Desk
+expanded  outstanding lon g-term R Ps from $6  billion to $18 billion.  The D esk also
+purchas ed $653 mil lion of  Treasur y coupon is sues i n the marke t and $250  milli on of
+Treasury bills from foreign cen tral banks.Stric tly C onfidential (F.R .) Decem ber 5, 2002
+Class II – FOMC
+MONETARY POLICY ALTERNATIV ES
+Recent D evelo pments
+(1) Market par ticipant s had expe cted t hat the  FOM C would cut it s target for
+the f ederal  funds r ate 25  basis  points  at the  November meetin g and ret ain a ba lance  of
+risks toward wea kness, and then ease policy again early next year.  Co nsequently, they
+were caught off guard by t he immediate 50 basis point  cut and the shif t to an
+assessment of  balanc ed ris ks.  Treasur y coupon yi elds initially fell following the
+anno uncem ent bu t rebou nded  later that after noon, as investo rs focused  on th e shift
+to balance and low ered the odds o n prono unced econ omic w eakness, in part
+reflecting the pol icy action.  Over most  of the  intermeeti ng peri od, incoming
+economic da ta and e arning s news f urther  reas sured mark et par ticipant s about t he
+outloo k.  In recen t days, ho weve r, mark ets absor bed m ore m ixed eco nom ic repor ts
+and dow nbeat inform ation on pro spects in the tech sector.  Still,  interest-rate futures
+suggest that investors continue to exp ect monetary p olicy tightening to com mence
+next year and, indeed, now  anticipate a higher path for the federal fund s rate after
+midyear than  they did before the last meeting (ch art 1).  Options on  those futures
+indicate le ss near-term  uncer tainty ab out th e path fo r rates and , in particu lar, little
+likelihood of  outcomes r equiri ng very  low funds r ates next s pring ( see the box on
+page 2 ).  Future s quo tes and su rvey resu lts sugges t that m arket pa rticipants p ut slim
+odds on a pol icy easing  at the  December meeti ng.1
+Chart 1
+Financial Market Indicators
+Note: Solid vertical lines indicate November 5.Dec Mar Jun Sep Dec Mar Jun Sep
+2002 2003 20041234Percent
+November 5, 2002December 5, 2002Expected Federal Funds Rates Estimated from
+Financial Futures*
+*Estimates from federal funds and eurodollar futures rates with an allowance for term premia and other adjustments.1357 1 0 2 0 3 0123456 Percent
+November 5, 2002December 5, 2002Treasury Yield Curve*
+Maturity in Years
+*Smoothed yield curve estimated from off-the-run Treasury coupon
+securities.  Yields shown are those on notional par Treasury securitieswith semi-annual coupons.
+Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec
+2000 2001 20021.52.02.53.03.5PercentLong-Run Inflation Expectations
+Michigan Survey
+Philadelphia Fed Survey
+TIIS Inflation
+Compensation*
+*The inflation rate that equalizes the price of the January 2012 TIIS and
+the value of a portfolio of nominal securities with the same payments. 800 850 900 9501000105011001150
+Jun Jul Aug Sep Oct Nov Dec
+20024.04.24.44.64.85.05.25.45.6Index Percent
+S&P 500 Index
+(Left Scale)Ten-year Treasury
+(Right Scale)S&P 500 and the Ten-year Treasury
+Daily
+1993 1995 1997 1999 2001123456789Percent12-Month Forward Earnings-Price Ratio
+for S&P 500 and 10-Year Treasury
+Monthly
+E/P ratio
+Real 10-year Treasury yield*Nov.
+Dec.+
+* 10-year Treasury yield minus Philadelphia Fed 10-year expected
+inflation.+ Denotes the latest observation using daily prices and latest earningsdata from I/B/E/S.Apr May Jun Jul Aug Sep Oct Nov
+20022025303540455055Percent
+S&P 100 (VIX)Stock Market Volatility
+Daily
+2
+TheFOMC’sdecisiontolowerthetargetrateto1-1/4percentatitsNovember
+meetingandtheprevailingconditionsoflowinflationandsluggishglobaleconomic
+growthhavespurreddiscussioninthepressandinmarketsaboutthepossibilitythat
+U.S.monetarypolicycouldbeconstrainedbythezeroboundonnominalinterest
+rates.Mostrecently,however,investorsapparentlyhaveputlowoddsonsuchan
+outcome.Thedashedandsolidlinesintheleft-handpanelbelowdepictthe
+estimatedprobabilitiesembeddedinthepricesofoptionsoninterest-ratefuturesthat
+thetargetfundsratewillmovetoorbelow100basispointsand50basispoints,
+respectively,overthenextfivemonths.ThoseprobabilitiesroseinearlyOctober
+amidthedowndraftinequitypricesandjumpedagainlatethatmonthfollowingnews
+reportssuggestingthattheFOMCwaspreparingtoeasepolicyatitsNovember
+meeting.Sincethen,however,theprobabilityofarateatorbelow50basispointshas
+fallentoquitelowlevelsasinvestors’fearsaboutdownsiderisksfortheeconomy
+seemtohavediminished.Suchreducedconcernsalsoseemtobeevidentinequity
+indexoptions.Asnotedinthebottomrightpanel,theprobabilitythatinvestors
+attachtoasignificantdropinequitypriceshasfallenoverthepasttwomonthsbut
+remainselevated.Market-based Estimates 
+of the 
+Likelihood of  Approaching the Zero Bound
+3
+(2) Reflecti ng the upward shift in t he expected path f or the target  federal
+funds rate after the midd le of next year, yields on two-year Treasury no tes climbed
+about 15 ba sis points  over t he int ermeeti ng peri od.  Yie lds on t en-ye ar nominal  and
+inflat ion-indexed Treasuri es both were about unchanged on balance, s uggesting that
+long-term in flation expectations were stable.  The  imp roved ou tlook for the economy
+and earnings initially buoyed stock  prices, but equity markets sold off over the p ast
+few days in response to th e mixed read ings on the econ omy an d signs of a less
+buoyant p ath for earnings than p reviously expected.  On  balance, broad stock price
+indexe s edged  dow n ½ to 1 per cent, wh ile the N asdaq  was u p abo ut ½  percen t,
+implying that earnings-price ratios remained fairly high relative to real interest rates. 
+Expected s tock marke t vola tility implie d by opti ons pri ces was  about uncha nged on
+net.  Spreads of  yields on i nvestment-grade i ssues over Treas uries decl ined 10 to 40
+basis po ints, while th ose on  specula tive-grad e bon ds dro pped  more than  100 ba sis
+points  (char t 2).  Nonethele ss, credi t spre ads st ayed wide , proba bly re flecting concer ns
+that defa ult rates co uld rem ain high  and re covery r ates low  for som e time.  O verall
+market conditions generally improved in the weeks prior to the November FOMC
+meeting a nd have i mproved somewhat f urther  over t he int ermeeti ng peri od, hel ping
+to keep year-end pressures subdued thus far (see the box on page 4). 
+(3) The dol lar’s value ag ainst maj or foreign cur rencies strengthene d about
+3/4 percent on a trade- weighted basis over  the intermeeti ng period.  In the e uro area,
+signs of increasing econom ic weakness prom pted the Eu ropean C entral Bank to low er
+policy rates 50 basis points today, somew hat mo re than had b een built into ma rket
+prices.  For the period as a w hole, yields on long-term go vernmen t debt in the Eu ro
+area fell 10 to 15 ba sis point s, stock pr ice inde xes decl ined a li ttle, and t he eur o’s value
+against th e dollar w as abo ut un chang ed.  Fina ncial m arkets in Ja pan flu ctuated  main ly
+in response to  speculation about fisc al policy measures and banking sector reforms.  
+Chart 2
+Financial Market Indicators
+Note: Solid vertical lines indicate November 05.Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec
+2000 2001 2002 50100150200250300350Basis points
+Ten-year AATen-year BBB
+Ten-year SwapSpreads of Selected Private Long-Term Yields
+Daily
+Note. Spreads measured over ten-year Treasury. 400 80012001600200024002800
+Jul Sep Nov Jan Mar May Jul Sep Nov
+2001 2002 500 700 900110013001500Basis Points Basis PointsHigh-Yield Debt Spreads
+Telecom Sector
+Master II
+Note: Spreads measured over ten-year Treasury.  Source: Merrill Lynch.Daily
+Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec
+2000 2001 2002100102104106108110112114Index(8/31/00 = 100)
+Broad Index
+Major
+Currencies IndexOther Important
+Trading PartnersDailyNominal Trade-Weighted Dollar
+Exchange Rates
+Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec
+2000 2001 200210001500200025003000Basis Points
+OverallBrazilDailyEMBI+ Index
+4
+Year-end Pressures and Credit Market Conditions
+Asshowninthebottom-leftpanel,termfundingpressuresoveryear-endinthe
+commercialpapermarkethavebeenrathermutedtodate.Thesharpcontraction
+overthepastyearinpaperoutstandingandtheexitofriskiercreditsfromthemarket
+havereportedlydampedyear-endpremiums.Intheinterbankmarket,many
+institutionsareexperiencingstrongcoredepositgrowthandthusmayfeellittle
+pressuretosecuretermfundingovertheturnoftheyear.Moreover,futuresmarket
+quotessuggestthatmarketparticipantsanticipatethattheSystemwillagainbequite
+generousintheprovisionofreservesatyear-end,withtheimpliedfundsrateexpected
+atyear-endatleast50basispointsbelowthetarget.
+Therecentimprovementincreditmarketconditionsmorebroadlyhas
+probablyalsobeenafactortendingtodampyear-endpressuresbyreducingconcerns
+thatintermediationcouldbeimpairedandthatlower-ratedborrowersmightnotbe
+abletoobtainfundingovertheturn.Spreadsoncreditdefaultswapsofmajor
+intermediaries(shownattheright)andonthesubordinateddebtoflargebankshave
+continuedtoshrinkovertheperiod.AnecdotalinformationcollectedbytheDesk
+suggeststhatliquidityconditionsareaboutnormalintheTreasurymarketandhave
+improvedconsiderablyintheinvestment-gradecorporatebondmarket.Liquidityin
+thejunkbondmarketreportedlyremainssub-par,butsomemarketparticipantshave
+notedanimprovedtoneoflateaccompanyingthesizableinflowstojunkbondmutual
+funds.
+5
+2            
+     .  The Desk did not  intervene f or the a ccounts  of the
+System or th e Treasury.The ann ounce ment of  reforms i n late Novembe r omit ted s ome key  deta ils, but
+market pa rticipant s judge d that t he ful l plan will  be inade quate t o the t ask.  After t he
+announcement,  bank st ock pri ces s taged a  modest re covery  but fi nishe d well down on
+the per iod.  Broad inde xes of  Japanes e shar e pric es were  off onl y slightly.  The  Bank
+of Japa n indic ated t hat it now would aim at  the upper  end of i ts target  range f or
+reserve balances and bega n to imp lement its previously anno unced plan  to purchase
+equiti es from banks.   On net, t he doll ar gai ned about 2 -1/2 pe rcent  vers us the y en,
+with a sizable  move late in the peri od following comments by Japanese offi cials that
+seemed to favor yen  weakness.  Ag ainst an index of the curren cies of our other
+important  tradi ng partne rs, the dol lar moved up a  touch ove r the pe riod.   Early i n the
+period, pro-ma rket statements by associates of the Brazilian president-elect
+contributed to a s ubstantial  narrowing of that country’ s EMB I+ spread, but that  move
+was retr aced p artially as m arkets be came jittery abo ut the staffin g of key e cono mic
+posts; although stocks rose abo ut 6 percent, the real decli ned 5-1 /2 perce nt agai nst the
+dollar.2
+(4) With the U.S.  corpora te bond marke t more rec eptive, gross  bond
+issuance by nonfinancial firms in November recovered to the fastest p ace since June. 
+In market s for  short er-term busine ss credit, bot h commercial  paper and ba nk loans
+were about  unchanged l ast month a fter shar p decli nes ove r most of  the ye ar.  The
+sum of outsta nding  bon ds, pape r, and b usiness lo ans ap pears to  be incre asing th is
+quart er after the first qua rterly decl ines ever recorded f or this series in the pr evious
+two quarters.  I nvestor appeti te for ri skier corpora te securi ties appare ntly has
+increased , with bo th equ ity and ju nk bo nd m utual fu nds ex perienc ing inflo ws in
+6
+Novem ber following ou tflows in several recent mon ths.  In the household sector,
+indexe s of mort gage appl ications s uggest  that hous eholds  have cont inued t o take o n
+mortgag e debt at a rapid clip.  Grow th in consum er credit slowed further in O ctober
+from it s modest t hird- quarte r pace,  likely hel d down by paydowns of  consumer debt
+with the  procee ds of c ash-o ut mortgage  refinancing .
+(5) M2 posted an 8- 3/4 perc ent annua l growth r ate in November fol lowing
+a 10-1/ 4 percen t increase in  October, w ith the ad vance a gain co ncentra ted in liq uid
+depo sits.  The d emand for  liquid a ssets contin ued to  be lifted b y the low  level of the ir
+opportunity costs  and heavy mortgage refinanci ng.  Over the four quarters  of 2002,
+M2 is e stimated to h ave expanded about 7 percent after rising 10-1/4 percent in 2001. 
+Growth in  M2 has ag ain ou tstripped  that of n ominal G DP, which  is expected  to
+expand 4- 1/4 perc ent, but by l ess than in 200 1.  Domesti c nonfi nancia l sector de bt
+likely will ri se 6-3/4 perce nt in 2002,  a bit fas ter than in 2001,  but its nonfeder al
+component is  expect ed to dec elerate a bout a per centa ge point  to 6-1 /2 perce nt.  The
+appen dix con tains a m ore de tailed discu ssion o f develop ments in m oney a nd cre dit
+over the year.
+7
+Policy Alternatives
+(6) The FO MC’s decision to ease monetary po licy at the Novem ber
+meeting, some improvement in financi al market conditi ons on balance, and an
+assessm ent that fisca l policy co uld b e som ewhat mo re expa nsiona ry have  led the sta ff
+to boost its projection of econo mic activity over the next two  years.  The assumed
+funds r ate target  is now 50 ba sis points  lower t han in t he previ ous proj ection and
+remains at that level until mid-200 4, when the FO MC begins tightening.  Treasury
+bond and  mortgage r ates are ro ughly  flat over th e forecast p eriod, w hile investm ent-
+grade corporate yi elds move down considerably as ri sk premiums fall f urther in an
+enviro nment of stren gthen ing gro wth.  E quity p rices rise at ab out th e sam e pace as  in
+the last Gre enbook,  but fr om an upwardly re vised base.   The exchan ge val ue of t he
+dollar, as before, is seen as edging down in th is forecast.  Real GDP  growth, projected
+at 3-1/4 perc ent nex t yea r and 4- 1/4 perc ent in 2004,  is up a l ittle more t han 1/4
+percentage point from  the last Greenboo k.  The forecast for unem ploymen t has been
+revised d own corresp ondingly, with  the rate n ow se en as de clining fro m a h igh of 6
+perce nt in t he first three quar ters of next  year t o just  below 5- 1/2 perc ent by t he end
+of the forecast period, still above the staff’ s estimate of the NA IRU.  As a
+consequen ce of the lessened slack in resource use, prices are predicted to decelerate a
+shade le ss than in  the prev ious p rojection , with co re PC E inflatio n exp ected to  drift
+down to a 1-1/4 percent rate in 2004. 
+(7) Should the  Comm ittee sha re the  staff’s assessment  of the  underly ing
+force s shapi ng the ec onomy and be of t he vie w that t he monetary  stimulus in t he
+pipeline i s adequate to support s atisfactory economic growth with low infl ation, i t may
+want to stand  pat at this meeting on b oth the funds rate target and  the risk
+assessment.   Standard r elationshi ps sugge st that, given t he lags  in the  effects of
+monetary pol icy, last year’ s eas ings a re still support ing growt h in aggr egate  demand,
+8
+and N ovem ber’s action , which  moved th e real feder al fund s rate m ore distin ctly into
+negative t erritory , creat ed a larger gap bel ow the band of estimated equili brium real
+rates ( chart 3).   In view of the st imulus that is a lready in pl ace, t he Com mittee may
+wish to  await th e arrival o f mo re inform ation, po ssibly inclu ding th e econ omic
+implic ations of a ny mili tary confl ict, before adj usting its  polic y stance.  The
+Comm ittee may bel ieve that,  given t he curr ent st ance of  polic y, the low odds but  high
+costs of m arked fu rther d isinflation (o r even o utrigh t deflation ) and th e econ omic
+weakness  that pr esumably  would att end such a  devel opment roughl y bala nce the
+arguably higher o dds but low er costs of increased inflation and an un sustainable pace
+of growth.   Thus, t he Committee may be lieve that  retaining t he curr ent degr ee of
+policy accommodation would be consistent with an assessment of b alanced risks. 
+(8) If the Committee sees a ne ed for additi onal insurance agai nst excess ive
+disinflation and econom ic weakness, it may wan t to implem ent a further 25 basis
+point  reducti on in its f unds rate targe t at thi s meeting while maintaini ng an
+assessm ent of b alanced  risks.  The a vailable ev idence su ggests o nly a sm all increase in
+real G DP this qu arter, and  the reco very in G DP grow th from  the cur rent “so ft spot”
+is still largely a forecast, so that a mu ch weaker outcome c annot be ruled ou t.  Some
+combinatio n of an emic r eal grow th and  a mo re favora ble inflation -outpu t tradeo ff
+could ca use the  inflation rate  over t he next  couple of  years  to run not iceably bel ow the
+staff projection, potentially constraining the Com mittee’s ability to lower real interest
+rates if the need were to arise.  Even abstracting from  uncertainties, the Com mittee
+might con cur with the G reenbook’s revised projections for ou tput and resou rce use
+under the po licy assum ption o f that foreca st but still reg ard the m to  be un acceptab ly
+weak and to war rant f urther  stimulus, a s in t he poli cymaker pe rfect foresight
+simu lations p ortrayed  in chart 4 .  Shou ld the fu rther po licy easing e ventu ally prov e to
+have bee n unneces sary, the likely persi stenc e of s ome economic sl ack f or at l east the
+Chart 3
+Actual Real Federal Funds Rate and 
+Range of Estimated Equilibrium Real Rates
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003-1 0 1 2 3 4 5Percent
+Note: The shaded range represents the maximum and the minimum values each quarter of six estimates of the equilibrium 
+real federal funds rate based on a statistical filter and the FRB/US model. Real federal funds rates employ four-quarter lagged
+core PCE inflation as a proxy for inflation expectations, with the staff projection used for 2002Q4.Quarterly
+-1 0 1 2 3 4 5
+Actual Real Funds Rate
+TIIS-Based EstimateHistorical Average: 2.72
+  (1966Q1-2002Q3)
+●
+●Current Rate
+25 b.p. Easing
+ Equilibrium Real Funds Rate Estimates (Percent)
+●
+●
+●
+●
+●
+●    2001 2002H1 2002Q3 2002Q4    ____ ______ ______ ______
+     November Bluebook
+     November Bluebook
+     November Bluebook
+     November Bluebook
+     November Bluebook
+     November Bluebook
+   November BluebookStatistical Filter
+ - Two-sided:
+     Based on historical data*
+     Based on historical data and the staff forecast - One-sided:
+     Based on historical data*
+FRB/US Model
+ - Two-sided:
+     Based on historical data**
+     Based on historical data and the staff forecast - One-sided:
+     Based on historical data**
+Treasury Inflation-Indexed Securities1.5
+1.2
+2.5
+1.9
+2.4
+2.3
+3.91.2
+1.2
+2.4
+1.9
+2.2
+2.3
+3.91.0
+0.6
+1.7
+1.2
+2.0
+1.4
+3.70.6
+0.6
+1.6
+1.2
+1.8
+1.4
+3.70.9
+0.4
+0.9
+0.9
+1.8
+0.9
+3.30.4
+0.3
+0.8
+0.9
+1.6
+0.8
+3.3--
+0.3
+--
+--
+1.8
+--
+3.40.4
+0.3
+0.4
+0.7
+1.6
+0.6
+3.4
+* Also employs the staff projection for the current and next quarters.
+** Also employs the staff projection for the current quarter.
+Chart 4
+Policymaker Perfect Foresight Strategy for Monetary Policy
+1          
+2001 2002 2003 2004 2005 2006 2007 200801234567Nominal Federal Funds Rate
+Percent
+Greenbook
+1 percent inflation goal
+1-1/2 percent inflation goal
+2001 2002 2003 2004 2005 2006 2007 2008-1 0 1 2 3 4 5 6Real Federal Funds Rate
+Percent
+2001 2002 2003 2004 2005 2006 2007 20080.81.01.21.41.61.82.0PCE Inflation (ex. food and energy)
+(Four-quarter percent change)
+Percent2001 2002 2003 2004 2005 2006 2007 20083.54.04.55.05.56.06.5Civilian Unemployment Rate
+Percent
+The perfect foresight simulations extend the key assumptions of the staff outlook (other than the path for monetary policy) thr ough 2008:
+      ●      potential output grows at about 3-1/2 percent per year
+      ●      the relative price of oil stabilizes at its end of 2004 level
+      ●      the exchange value of dollar measured in real terms falls at a 3 percent clip
+      ●      federal budget deficit relative to GDP declines gradually
+1.  The real federal funds rate is calculated as the quarterly average nominal funds rate minus the four-quarter lagged core PC E inflation
+rate as a proxy for inflation expectations.
+9
+next s evera l quart ers suggest s that  the move coul d probably  be reve rsed be fore a ny
+damag e was don e to the Com mittee’s longer-run inflation objectives.
+(9) Given tha t market  parti cipant s see  little chance o f a sh ift in ei ther t he
+funds  rate target o r the assessm ent of risks a t this m eeting, a ch oice that m atches th is
+expectati on should not have any appreciabl e effe ct on market prices .  An easing of 25
+basis points, however, wou ld surprise investors, and the resulting fall in short-term
+interes t rates  could carry over i n part to bond yields.   Stock prices c ould rise as
+prospective earnings are discou nted at lower interest rates and, perhaps, as investors
+revise up the ir out look f or earn ings.   The value  of the  dolla r might move l ower in l ine
+with the reduction  in fixed-income yields.  How ever, if equity markets rally strongly,
+these ef fects on bond yields and the dollar could well be reversed. 
+(10) Under the Greenb ook forecast and its assum ption of an un changed
+polic y stance though  mid-2004 , the proje cted gr owth of M2 from November thr ough
+March, at  7 perce nt, would be a bi t slower than i n rece nt months.   An ebbing of
+mortgag e refinancing and renew ed attractiveness of investment in the stock m arket
+shou ld dam p the ex pansio n of liqu id acco unts.  R educe d ho me m ortgag e grow th is
+projected to cause a fal loff in o verall borrowing by h ouseholds in com ing months. 
+Consum er credit g rowth sho uld rem ain m odera te, as the effects of a  slowd own in
+spendi ng on durabl es ar e roughl y off set by  smalle r paydowns of  consumer l oans f rom
+cash-ou t mo rtgage r efinancin g.  For b usinesses, th e staff anticipa tes a sm all uptu rn in
+borrowing,  reflecting a wider  gap betwee n capit al spe nding and i nterna l funds  and
+some revival o f merg er activity.  C orpo rate bo nd issu ance, in p articular, is likely to
+show some vig or, as inve stors ’ risk ave rsion diminis hes f urther , whil e bank l oans and
+comm ercial  paper stay about f lat.  Nonfederal debt is proj ected to expand at a 6
+perce nt rat e in t he first qua rter, down a l ittle from this  year’ s pace .  With f ederal  debt
+growth li kely to remai n near t his y ear’s rate, ov erall domesti c nonfi nancia l sector de bt
+10
+growth is  projec ted to  edge down 1/2 per centa ge point  from thi s yea r’s pace t o 6-1/4
+percent in t he first quarter.  
+                M2 Growth Under Alternative Policy Action s
+            No change *          Ease 25 bp
+Monthly Growth Rates
+Oct-02 10.2 10.2
+Nov-02 8.8 8.8
+Dec-02 7.8 8.0
+Jan-03 7.5 8.1
+Feb-03 7.0 7.8
+Mar-03 6.0 6.8
+Quarterly Growth Rate s
+2002 Q1 5.4 5.4
+2002 Q2 3.3 3.32002 Q3 10.3 10.32002 Q4 8.5 8.52003 Q1 7.5 8.0
+Annual Growth Rates
+2001 10.3 10.32002 7.0 7.0
+Growth From To
+2001 Q4 Nov-02 7.1 7.1
+Nov-02 Mar-03 7.1 7.7
+2002 Q4 Mar-03 7.2 7.8
+* This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
+11
+Directive  and Bala nce-of- Risks Language
+(11) Presented below for t he memb ers' c onsiderati on is draft wording f or (1)
+the directive and (2) the balance-of-risks sentence.
+(1) Direc tive Wording
+The Federa l Open Market Committee  seeks  monetary a nd
+financial co ndition s that w ill foster price sta bility and  prom ote
+sustainable growth in  output.  To furth er its long-run objectives,
+the Comm ittee in the immediate future  seeks condit ions in rese rve
+markets consistent with MAINTA INING/I NCREASI NG/
+reduci ng the f ederal  funds r ate AT/to an a verage  of around
+___1-1/4  percen t.
+(2) Bala nce-of-R isks S entence
+Against the ba ckground  of its long-run goals of price
+stabi lity and sus tainable e conomic growt h and of t he inf ormation
+currently available, the Co mmit tee believes that the risks [ARE
+WEIGHT ED MAINL Y TOWARDS CONDI TIONS THAT
+MAY GENERATE ECONOMIC  WEAKNESS]  [are balanced
+with respect to prospects for both goals] [ARE WEIGHTED
+MAINL Y TOWARD CONDI TIONS THAT  MAY
+GENERATE HEIGH TENED IN FLA TIO N PRESSURES] in
+the foreseeable future.
+Appendix
+Review of Debt  and Money Growth in 2002
+Declines in lo ng-term  interest rates, w hich b rough t yields to for ty-year low s,
+importa ntly shaped pr ivate credi t flows thi s year .  In t he busine ss sector , low i nterest rates on
+corporate bon ds helped sustain a brisk p ace of gross bon d issuance through  mid-year,
+although the proceeds were l argely used t o refinance exis ting debt.   Subsequently, mixed
+readings o n the  stren gth o f the e conomic ex pansion, repo rts of d eficie ncies in co rporate
+governance, a worsening of corporat e credit qual ity, and heightened geopolit ical ri sks pushed
+risk spre ads sharply hig her and brought issuance t o a virtual hal t.  For the yea r as a whole,
+overall busi ness borrowing was quite weak, mainly owing to sagg ing capita l expenditures , an
+evaporation of merger and acquisi tion acti vity, a nd an increased reli ance on liquid asset s that
+had b een b uilt up p reviou sly. 
+Household borr owing, by c ontra st, remained r obust i n 2002.  Credit  flows i n the
+residenti al mort gage market  picked up f rom an alre ady bri sk pace as  borrowers  took
+advantag e of low mort gage i nterest rates, and as st rong motor ve hicle sales boost ed the
+expansion of consumer credit.  Agains t the backdrop of weak tax receipt s and increased
+outlays,  the federal  government tapped markets in heavy volume for the firs t time in several
+years.  M eanw hile, greater sa fe-hav en de mand fo r liquid a ssets that likely ref lected inv estors’
+disenchantm ent with the stock m arket supported the b road m onetary aggregates this year,
+although their expan sion slowed, ow ing to the waning  effects of the substantial monetary
+policy ea sing of 2 001.
+Domestic  Nonfinanci al Sec tor Debt
+The aggrega te debt o f dom estic non financ ial sectors ex pand ed 6¾  percen t in 200 2, a
+bit fas ter than in 2001.  Spurred by weak tax receipts and an acceler ation in spendi ng, federal
+debt grew 7½ percent this year af ter contr acting s lightly in 2001.  The growth of nonfederal
+debt,  by contr ast, slowed to a 6½ percent  pace in 2002 f rom 7½ percent l ast year,  owing for
+the most part t o a sharp slowdown in business borrowing.
+   
+Anemic busine ss bor rowing t his ye ar was l argel y attribut able t o weak demand for
+credit,  reflect ing depressed capi tal expendit ures and modest increases  in inter nal funds, as
+well as the t endency of some firms to draw on liquid asset s—w hich began the year at  high
+levels—rather than t o seek external f inancing.  Over the fi rst hal f of the year,  gross is suance
+of corp orate bo nds b y non financ ial corpo rations m odera ted som ewhat from  the rapid  clip
+set in 20 01, b ut still remain ed brisk .  Firm s used th e proc eeds to re financ e highe r-cost
+long-t erm debt at  more att ractive interest rates and t o str engthe n thei r bala nce shee ts by
+paying down s hort- term obligat ions s uch as bank l oans and commerci al paper .  Issuance of
+bonds by higher-rate d speculati ve-grade fir ms outside the belea guered telec om and energy
+sectors also held up reason ably well in the first half.
+A-2
+Both investment-grade and high- yield corporat e bond issuance, however, sl owed
+dramaticall y in the second half  of 2002, as investors ’ demand for corporate debt weakened
+because of co ncerns a bout the re liability  of fin ancial state ments an d the  quality of c orporate
+governance, deteri orating cr edit worthines s, and hist oricall y low recovery rates  on defaulted
+bonds in  som e sec tors.  W orrie s abo ut the  possibility o f add itiona l earn ings r estatem ents
+diminished after  the SEC’s August 14 deadline for cert ificat ion of financial  statements passed
+without  any si gnifi cant ne w revelat ions of  corporat e chica nery.   However, with a  weaker t one
+of economic data and heightened geopolit ical ri sks early  in the fal l, spr eads of lower-ti er
+investm ent-grad e and  high-y ield issues o ver T reasuries c limbe d to their h ighest leve ls in
+more than a decade, evidently r eflect ing both great er expected loss es and some pullback
+from risk-taki ng.  Trading conditi ons in the corporat e bond m arket als o deteriorat ed
+somewhat during this peri od, with debt is sued by auto manufacturers and thei r finance
+subsidiaries especially hard hit at times.  As t he fall progressed, howe ver, mo re upb eat news
+about t he economy spar ked a ral ly in equit y pric es and r enewed inves tors’ appet ite for
+corporat e debt,  pushing  risk spreads  sharpl y lower and l eading t o a rebound i n bond
+issuance.
+In the co mmercial pa per m arket, co mpanies p erceive d as ha ving q uestion able
+accou nting pr actices ex perien ced sign ificant inv estor resistanc e and  most discon tinued  their
+progra ms, w hile othe rs shifted to a lternative fo rms o f financ e in an  effort to stren gthen th eir
+balance  sheet s.  In addit ion, c ommercial banks  report ed that  they t ightened st andards a nd
+terms o n com mercial pap er back up line s of cred it, citing heighte ned c once rns abo ut possib le
+deterioration in the credit quality of issuers and a higher probability of lines being drawn
+upon because of potential s trains  in the commercial paper market.  All t old, nonfinancial
+commercial pa per out standing decl ined 39 per cent i n 2002, aft er droppi ng almost  a thi rd the
+previous year.
+The runoff of business l oans at commercial banks that s tarted early las t year
+intensified in 2002.  Large  banks repor ted a f urthe r weakening  of demand for C&I loans
+over t he cours e of t he year,  mainly owing  to re duced outl ays on capi tal equipment a nd
+invent ories  and moribund merger  activity.  These  institutions at tributed t he st riking decli ne
+in C&I loans not  only t o the r educed fundi ng needs of  credi twort hy borrower s tha t found
+bond financ ing or a  runoff of  liqui d asse ts more a ttractive, but al so to a  reduct ion in t he pool
+of credi twort hy borrower s tha t stemmed from a deteri oration in a sset quali ty and a
+tight ening of banks’ lending pol icies over the course of t he year.  A signi ficant net  percentage
+of banks poi nted t o the pos sibility of fur ther revel ations of acc ounting  problems a s a re ason
+for tightening t heir l ending pol icies duri ng the f irst half of t he year.   However, the
+proportions of banks t hat ti ghtened lending st andards and terms on C& I loans decli ned
+noticeabl y in 2 002.
+ 
+After having surged l ate in 2001, growth in commercial mortgage debt dropped
+sharply d uring the  first qu arter o f 2002, as no nresidential co nstru ction  spen ding fell.  D espite
+A-3
+the cont inued cont raction in out lays on nonresi denti al structures,  commercial mort gage debt
+expanded briskly over the re mainder of 2002, reflecti ng in part subst itution for other
+corpo rate deb t and su pporting a rob ust issuan ce of co mmercial m ortgage- back ed secu rities. 
+Although vacancy rates moved somewh at higher,  delinquency rates  on comm ercial
+mortgages remained at his torical ly low levels , and banks firmed standards on commercial real
+estate l oans in 2 002, on net.
+Expansio n of o verall ho useho ld deb t picked  up in 2 002 to the fastest p ace sinc e 198 9. 
+With mortgag e rates at very l ow levels  by hist orica l standards,  new purchase s of homes and
+mortg age r efinanci ng act ivity we re elevated throughout  the year , spurring a rap id 11½
+percent  advance i n home mortgage debt .  Report edly,  a sig nificant number of  households
+that ref inanced home m ortgages t ook the opportunity t o extract equi ty to re pay other debt as
+well as to  financ e hom e imp rovem ents and  other ex pend itures.  Still, consu mer credit
+expanded at a 4¼  perc ent p ace in  2002, sup ported in  part b y the  auto makers’ cut-r ate
+financing incent ives and generous rebat es.  Hefty gr owth of overall household debt offs et
+decli nes in t he cost  of debt , on net , to ke ep the hous ehold debt -service bur den near i ts mid-
+1980 s peak ov er the year.
+Despite the elev ated de bt-service  burd en, ho useho ld balan ce shee ts stayed in
+relativ ely go od repair.  Al thou gh th e rate  of p ersonal b ankruptcy fillin gs ha s risen , on n et,
+this year and de linque ncy rat es re main high f or subpr ime borrower s, broad measures  of
+delinquencies  on home mortgages  and consumer l oans have edg ed down.  The rat io of
+househo ld ass ets to d isposable  inco me fell this  year , as stee p los ses in  equity m arkets
+outweighed solid gai ns in house prices  and disposable income rose.  Households conti nued
+net purchases of equi ty mutual funds through t he spring, des pite t he falli ng and volatile s tock
+market.   Further  net dec lines in equi ty pr ices since  then,  however, l ed to enor mous
+withdraw als from equ ity mutual funds, w hich eviden tly were partly redirected toward
+gove rnment bo nd fu nds.
+State and loca l gover nment debt a ccele rated thi s year  from the a lready bris k pace of
+2001.  Strong issuance of l ong-term municipal debt for new capital  projects  and advance
+refunding was bolste red by an appreciable decl ine in yiel ds on both revenue and general
+obligati on bonds.  Fiscal diff iculties in many stat es meant that s hort-te rm issuance also was
+well maint ained.   Credit  quali ty in the munici pal se ctor worsened s omewhat in t he second
+half of  2002, wit h the r atio of long- term municipal bond yi elds t o Treasur y yiel ds rising
+significantl y late in t he year,  reflecting dete riorating fis cal pos itions and t he heavy pace  of
+municipal issuance.
+After it resu med net bor rowing in  the se cond half of 2 001, the  Treasury continu ed to
+tap market s in vol ume this  year.   Federal  debt gr ew at an 8½ percent  pace in t he fir st ha lf of
+the ye ar, fueled by a  significant weakeni ng of t ax recei pts owi ng to r educed t ax rat es and
+sluggish income growt h, the  paucit y of t axable c apital gai ns, as  well as  incre ased out lays for
+A-4
+defense and homeland security.   In the spri ng, the Treasur y had to resort  to emergency
+account ing devi ces to creat e fina ncing r oom within t he exis ting $5.95 t rillion s tatutory  debt
+limit, wh ich th e Congress ra ised to  $6.4  trillion  on J une 27.  Fed eral b orrowing rem ained at a
+brisk 6 ½ percen t pace o ver the se cond  half of 2 002.      
+Depository C redit
+The expansi on of deposi tory credi t moderat ed in 2002.  Cre dit at thrift institutions
+decele rated somewhat fr om last  year’ s pace,  though t he slowdown can be at tributed f or the
+most part  to a l arge t hrift institution’ s conver sion t o a bank chart er.  The  growth of  bank
+credi t picked up sig nificantl y from the  anemic pace i n 2001, dri ven by a robus t acqui sition of
+secur ities, especi ally mortgag e-backed s ecuri ties, as well as  a surg e in home equit y and
+resid entia l real e state lo ans.  B usiness lo ans a t com mercial b anks, by c ontrast, co ntinu ed to
+run o ff.  The  pricing o f new  busine ss loans in dicated  that ban ks rem ain pa rticularly
+concerne d about l ower-qual ity borrowers , consi stent wit h the s elect ivity obser ved in t he
+bond and syndi cated loan market s.  In lendi ng to hous eholds,  moderate ne t per centa ges of
+dom estic ban ks also tigh tened c redit con ditions fo r credit card  and o ther con sumer loan s in
+2002.  The proportion of domestic banks that t ightened credi t standards on residenti al
+mortgage loa ns rose la te in the ye ar to the h ighest sha re in the p ast deca de, bu t none theless
+remained quite low.
+Com mercial banks regis tered st rong profit g ains thi s year, r eflect ing robust fe e
+income from mortg age and cr edit card l ending,  more str ingent  cost  contr ols, as well  as the
+relatively less e xpensive  funding of fered by  inflows of core  deposit s.  Los s provi sioni ng and
+nonperfor ming loan s increase d overall, althou gh ba nks ge nerally re mained v ery w ell
+capitalized .          
+Monetary  Aggregates
+M2 grew  7 perc ent this yea r, consid erably b elow  the 10 ¼ percen t rate of incre ase in
+2001.  Th e gro wth of M 2 dropped in  the fir st half  of 2 002, owing to a  shar p slo wdown in i ts
+liquid components, as t he opportunity cost  of holding M2 leveled out, because deposit  rates
+caught  up with t he earl ier fall in market  interest rates.  M2 accel erated sig nificantl y in t he
+secon d half, a s hou sehold s, appa rently in resp onse to  falling an d volatile equity p rices,
+moved large s ums from domesti c equit y mutual f unds.  M2 growth was  also s upporte d by
+anoth er wa ve of m ortgage re financ ing activity, a s mo rtgage intere st rates fell to new  lows. 
+With the  expansio n of M2 continu ing to  outr un th at of n ominal in come, M2 velocity
+declined for the fifth year in a row.
+      Chart A-1
+      Debt and Money Growth
+MARA:DD-20246810Growth of Nonfederal Debt
+AnnualizedPercent
+p
+H1 H2 Q1 Q2 Q3 Q4
+2001 2002
+p Preliminary.-20246810Growth of Total Nonfinancial Debt
+AnnualizedPercent
+p
+H1 H2 Q1 Q2 Q3 Q4
+2001 2002
+p Preliminary.
+-30-20-10010203040506070Commercial paper*
+C&I loans*
+BondsGrowth of Components of
+Nonfinancial Business Debt
+Billions of dollars
+Total
+2001 2002H1 H2 J F M A M J J A S O NMonthly rate
+* Seasonally adjusted.e
+e Estimated.1990 1992 1994 1996 1998 2000 2002 -5  0  5 10 15 20 
+Consumer Credit
+Home
+MortgageGrowth of Household Debt
+Percent
+Quarterly, s.a.a.r.
+e Estimated.Q4eQ4e
+-16-12-8-404812162024Growth of Federal Debt
+s.a.a.r.Percent
+H 1 H 2 JFMAMJJASON
+2001 2002e
+e Estimated.Note. Treasury debt held by the public, month end.-6-226101418Growth of M2
+s.a.a.r.Percent
+e
+e Estimated.H1 H2 J F M A M J J A S O N
+2001 2002
+Short-term Long-term
+Federal
+fundsTreasury bills
+secondary marketCDs
+secondary
+marketComm.
+paperOff-the-run Treasury yields Indexed yields Moody’s
+BaaMunicipal
+Bond
+BuyerConventional home
+mortgages
+primary market
+4-week 3-month 6-month 3-month 1-month 2-year 5-year 10-year 30-year 5-year 10-year Fixed-rate ARM
+1234567891 0 1 1 1 2 1 3 1 4 1 5 1 6
+5.99 3.66 5.51 5.30 5.96 6.12 4.91 5.11 5.68 5.99 3.59 3.61 8.20 5.65 7.24 6.86
+1.74 1.69 1.69 1.77 1.79 1.76 2.47 3.66 4.58 5.06 2.65 2.96 7.62 5.20 6.45 5.06
+1.80 1.80 1.85 2.12 1.97 1.79 3.69 4.94 5.69 6.00 3.31 3.54 8.18 5.67 7.18 5.26
+1.23 1.22 1.22 1.27 1.34 1.28 1.77 2.79 4.01 4.91 1.27 2.17 7.37 5.02 5.94 4.09
+1.82 1.71 1.72 1.82 1.83 1.84 3.12 4.52 5.40 5.77 3.28 3.54 8.05 5.56 7.07 5.23
+                                                                                                       
+1.73 1.67 1.68 1.77 1.74 1.70 3.03 4.45 5.32 5.71 3.14 3.45 7.87 5.48 7.00 5.18
+1.74 1.74 1.76 1.86 1.82 1.76 3.01 4.36 5.24 5.62 2.91 3.32 7.89 5.43 6.89 5.031.73 1.79 1.82 2.05 1.91 1.78 3.52 4.80 5.60 5.93 2.94 3.36 8.11 5.61 7.01 5.061.75 1.72 1.75 1.97 1.87 1.76 3.40 4.69 5.49 5.87 2.64 3.16 8.03 5.59 6.99 4.961.75 1.74 1.76 1.91 1.82 1.75 3.24 4.54 5.40 5.82 2.50 3.10 8.09 5.54 6.81 4.791.75 1.71 1.73 1.83 1.81 1.74 2.97 4.24 5.16 5.71 2.46 3.08 7.95 5.44 6.65 4.651.73 1.72 1.71 1.74 1.79 1.74 2.52 3.86 4.90 5.60 2.23 2.92 7.90 5.34 6.49 4.511.74 1.68 1.65 1.64 1.73 1.72 2.12 3.37 4.54 5.27 1.80 2.51 7.58 5.30 6.29 4.381.75 1.67 1.66 1.64 1.76 1.73 1.98 3.01 4.16 4.97 1.45 2.25 7.40 5.10 6.09 4.291.75 1.62 1.61 1.59 1.73 1.72 1.92 3.02 4.25 5.13 1.52 2.40 7.73 5.16 6.11 4.271.34 1.26 1.25 1.30 1.39 1.34 1.94 3.13 4.33 5.16 1.63 2.44 7.62 5.25 6.07 4.16
+1.78 1.60 1.58 1.53 1.72 1.73 1.77 2.80 4.03 4.92 1.27 2.18 7.44 5.03 6.01 4.29
+1.73 1.60 1.59 1.56 1.72 1.72 1.78 2.79 4.01 4.94 1.31 2.23 7.57 5.02 5.98 4.231.75 1.65 1.67 1.68 1.78 1.72 2.10 3.21 4.42 5.23 1.66 2.52 7.86 5.23 6.15 4.271.75 1.67 1.67 1.68 1.78 1.73 2.14 3.29 4.50 5.34 1.79 2.60 7.95 5.33 6.31 4.301.78 1.53 1.50 1.46 1.65 1.68 1.79 2.98 4.29 5.21 1.57 2.44 7.81 5.20 6.13 4.251.54 1.30 1.30 1.33 1.46 1.43 1.84 3.03 4.27 5.18 1.55 2.40 7.71 5.19 6.11 4.151.23 1.22 1.22 1.27 1.34 1.28 1.86 3.02 4.21 5.09 1.54 2.37 7.56 5.22 5.94 4.091.27 1.23 1.22 1.28 1.36 1.28 2.02 3.19 4.35 5.14 1.68 2.48 7.56 5.30 6.03 4.141.26 1.26 1.23 1.30 1.36 1.30 2.10 3.32 4.48 5.23 1.78 2.53 7.60 5.28 6.13 4.19
+  -- 1.24 1.23 1.31 1.36 1.29 2.05 3.34 4.49 5.23 1.82 2.53   --   -- 6.19 4.21
+1.20 1.23 1.21 1.28 1.36 1.28 1.93 3.08 4.25 5.06 1.61 2.42 7.49   --   --   --1.23 1.22 1.22 1.28 1.35 1.27 2.02 3.20 4.36 5.14 1.68 2.46 7.56   --   --   --1.27 1.23 1.22 1.28 1.36 1.29 2.07 3.27 4.43 5.20 1.75 2.52 7.60   --   --   --1.25 1.23 1.23 1.29 1.35 1.27 2.13 3.32 4.46 5.22 1.75 2.54 7.61   --   --   --1.32 1.24 1.24 1.31 1.36 1.28 2.12 3.32 4.47 5.22 1.75 2.53 7.61   --   --   --1.26 1.27 1.22 1.29 1.36 1.30 2.01 3.20 4.36 5.14 1.72 2.48 7.53   --   --   --1.27 1.28 1.23 1.31 1.37 1.31 2.17 3.40 4.57 5.30 1.83 2.56 7.65   --   --   --1.27   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --1.23 1.25 1.22 1.30 1.36 1.30 2.09 3.35 4.52 5.25 1.83 2.55 7.60   --   --   --1.27 1.26 1.24 1.32 1.36 1.31 2.10 3.38 4.52 5.25 1.84 2.55 7.59   --   --   --1.24 1.23 1.23 1.32 1.37 1.28 2.10 3.39 4.54 5.27 1.85 2.56 7.59   --   --   --1.23 1.23 1.22 1.30 1.35 1.27 2.04 3.32 4.48 5.23 1.81 2.52 7.56   --   --   --
+  -- 1.23 1.22 1.28 1.35   -- 1.99 3.26 4.42 5.18 1.77 2.51   --   --   --   --
+SELECTED INTEREST RATES
+(percent)
+NOTE: Weekly data for columns 1 through 13 are week-ending averages. Columns 2 through 4 are on a coupon equivalent basis. Data in column 6 are interpola ted from data on certain commercial paper trades settled by the
+DepositoryTrustCompany. Column14istheBondBuyerrevenueindex,whichisa1-dayquoteforThursday. Column15istheaveragecontractrateonnewco mmitmentsforfixed-ratemortgages(FRMs)with80percent
+loan-to-value ratios at major institutional lenders. Column 16 is the average initial contract rate on new commitments for 1-year, adjustable-rate mortgages (ARMs) at major institutional lenders offering both FRMs and
+ARMs with the same number of discount points.
+p - preliminary data   Dec     Jan Feb Mar Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  
+Oct  
+Oct  Oct  Oct  Nov  Nov  Nov  Nov  Nov  Dec  
+Nov  
+Nov  Nov  Nov  Nov  Nov  Nov  Nov  Nov  Dec  Dec  Dec  Dec  01
+    
+0202020202020202020202
+4
+111825
+18
+152229
+6
+192021222526272829
+2345                    
+                                        
+02020202020202020202
+02
+02020202020202020202020201   -- High
+-- Low
+02   -- High
+-- Low
+Monthly
+Weekly
+Daily
+p  
+MFMA
+Strictly Confidential (FR)-
+Class II FOMC
+     December 9, 2002     Exhibit 1
+Money Aggregates
+Seasonally adjusted
+nontransactions components
+Annual growth rates(%):
+Annually (Q4 to Q4)
+  1999            
+  2000            
+  2001            
+Quarterly(average)
+  2001-Q4         
+  2002-Q1         
+       Q2         
+       Q3         
+Monthly
+  2001-Nov.       
+       Dec.       
+                   
+  2002-Jan.        
+       Feb.        
+       Mar.        
+       Apr.        
+       May         
+       June        
+       July        
+       Aug.        
+       Sep.        
+       Oct.        
+       Nov. e      
+                   
+Levels ($billions):
+Monthly
+  2002-June        
+       July        
+       Aug.        
+       Sep.        
+       Oct.        
+                   
+Weekly
+  2002-Oct.  7     
+            14     
+            21     
+            28     
+                   
+       Nov.  4     
+            11     
+            18p    
+            25p    
+                        1.9
+    -1.7
+     6.8
+     2.1
+     5.9
+    -0.6
+     2.4
+     2.9
+    16.0
+         
+      3.7
+      1.9
+      3.0
+    -11.2
+      6.8
+      6.9
+      7.3
+    -14.2
+      8.1
+      8.5
+     -3.8
+         
+   1190.2
+   1197.4
+   1183.2
+   1191.2
+   1199.6
+         
+   1174.9
+   1193.4
+   1197.9
+   1217.8
+         
+   1200.4
+   1191.2
+   1195.8
+   1202.7
+              6.3
+     6.1
+    10.3
+     9.5
+     5.4
+     3.3
+    10.3
+    10.4
+     9.8
+         
+      2.1
+      6.7
+     -1.3
+     -3.6
+     14.4
+      7.4
+     12.7
+      9.5
+      5.3
+     10.2
+      8.8
+         
+   5576.4
+   5635.5
+   5680.2
+   5705.3
+   5753.8
+         
+   5716.4
+   5746.0
+   5754.4
+   5777.0
+         
+   5777.0
+   5790.4
+   5817.9
+   5799.7
+              7.8
+     8.6
+    11.3
+    11.5
+     5.3
+     4.4
+    12.4
+    12.5
+     8.1
+         
+      1.7
+      8.0
+     -2.4
+     -1.5
+     16.5
+      7.4
+     14.2
+     16.0
+      4.5
+     10.7
+     12.1
+         
+   4386.1
+   4438.1
+   4497.1
+   4514.1
+   4554.2
+         
+   4541.4
+   4552.5
+   4556.5
+   4559.2
+         
+   4576.7
+   4599.2
+   4622.1
+   4597.1
+             11.2
+    17.4
+    18.5
+    18.3
+     3.1
+     2.8
+     3.5
+    20.7
+    12.4
+         
+     -8.3
+      3.6
+      0.3
+      1.6
+      6.5
+      3.1
+     -1.8
+     11.3
+      1.8
+    -13.9
+     43.1
+         
+   2582.7
+   2578.9
+   2603.2
+   2607.1
+   2576.9
+         
+   2572.2
+   2569.0
+   2569.4
+   2583.2
+         
+   2591.1
+   2618.3
+   2687.0
+   2725.3
+              7.7
+     9.3
+    12.8
+    12.2
+     4.6
+     3.1
+     8.1
+    13.7
+    10.6
+         
+     -1.2
+      5.7
+     -0.8
+     -2.0
+     11.9
+      6.0
+      8.1     10.1
+      4.2
+      2.6
+     19.4
+         
+   8159.1
+   8214.4
+   8283.4
+   8312.5
+   8330.7
+         
+   8288.6
+   8315.0
+   8323.8
+   8360.3
+         
+   8368.1
+   8408.8
+   8504.9
+   8525.1
+         5 4 3 2 1Period
+In M3 only In M2M3 M2 M1
+ p    preliminary       
+ e    estimated         
+Changes in System Holdings of Securities 1 Strictly Confidential
+(Millions of dollars, not seasonally adjusted) Class II FOMC
+December 5, 2002
+Treasury Bills Treasury Coupons Federal Net change Net RPs 5 
+Agency total
+Net  Redemptions Net Net Purchases 3  Redemptions Net  Redemptions outright Short- Long- Net
+Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+1999 --- --- --- 11,895 19,731 4,303 9,428 1,429 43,928 157 43,771 2,035 8,347 10,382
+2000 8,676 24,522 -15,846 8,809 14,482 5,871 5,833 3,779 31,215 51 15,318 -2,163 7,133 4,970
+2001 15,503 10,095 5,408 15,663 22,814 6,003 8,531 16,802 36,208 120 41,496 3,492 636 4,128
+2001 QIII 3,965 1,543 2,422 1,619 5,854 1,691 1,535 5,723 4,976 --- 7,398 3,832 2,587 6,419
+QIV 4,659 --- 4,659 5,761 2,577 982 1,632 473 10,479 --- 15,138 -4,223 10,847 6,624
+2002 QI 6,827 --- 6,827 4,349 6,153 971 1,927 --- 13,401 --- 20,228 -1,961 -2,191 -4,152
+QII 8,227 --- 8,227 5,535 2,580 2,471 210 --- 10,796 --- 19,023 -2,644 -4,563 -7,207
+QIII 6,117 --- 6,117 2,835 3,676 1,318 143 --- 7,972 --- 14,089 -3,067 -5,225 -8,291
+2002 Apr 1,047 --- 1,047 2,709 1,142 1,670 210 --- 5,730 --- 6,777 1,211 -3,714 -2,503
+May 3,524 --- 3,524 2,826 1,439 259 --- --- 4,524 --- 8,048 -2,091 133 -1,958
+Jun 3,656 --- 3,656 --- --- 542 --- --- 542 --- 4,198 79 -833 -754
+Jul 4,838 --- 4,838 1,104 1,755 577 63 --- 3,499 --- 8,336 -2,434 -1,296 -3,730
+Aug 529 --- 529 445 1,921 690 80 --- 3,136 --- 3,665 -527 -4,645 -5,172
+Sep 750 --- 750 1,286 --- 51 --- --- 1,337 --- 2,087 1,084 -1,026 59
+Oct --- --- --- --- --- --- --- --- --- --- --- 2,779 -4,716 -1,937
+Nov 250 --- 250 --- --- --- --- --- --- --- 250 2,910 4,616 7,526
+2002 Sep 11 236 --- 236 --- --- --- --- --- --- --- 236 -6,152 --- -6,152
+Sep 18 205 --- 205 1,286 --- 51 --- --- 1,337 --- 1,542 77 -1,000 -923
+Sep 25 200 --- 200 --- --- --- --- --- --- --- 200 -4,432 --- -4,432
+Oct 2 --- --- --- --- --- --- --- --- --- --- --- 6,518 -1,000 5,518
+Oct 9 --- --- --- --- --- --- --- --- --- --- --- -3,476 -3,000 -6,476
+Oct 16 --- --- --- --- --- --- --- --- --- --- --- 6,620 -1,000 5,620
+Oct 23 --- --- --- --- --- --- --- --- --- --- --- -3,764 --- -3,764
+Oct 30 --- --- --- --- --- --- --- --- --- --- --- 4,339 --- 4,339
+Nov 6 --- --- --- --- --- --- --- --- --- --- --- -2,085 --- -2,085
+Nov 13 --- --- --- --- --- --- --- --- --- --- --- 1,608 3,000 4,608
+Nov 20 --- --- --- --- --- --- --- --- --- --- --- 675 3,000 3,675
+Nov 27 250 --- 250 --- --- --- --- --- --- --- 250 1,516 1,714 3,230
+Dec 4 --- --- --- --- 339 314 --- --- 653 --- 653 -1,408 4,286 2,878
+2002 Dec 5 --- --- --- --- --- --- --- --- --- --- --- -1,916 --- -1,916
+Intermeeting Period
+Nov 6-Dec 5 250 --- 250 --- 339 314 --- --- 653 --- 903 -4,852 12,000 7,148
+Memo: LEVEL (bil. $)
+Dec 5   224.6 95.6 173.9 53.3 79.8  402.6 0.0 627.2 -20.4 18.0 -2.4
+1.  Change from end-of-period to end-of-period.  Excludes changes in compensation for the effects of 4.  Includes redemptions (- ) of Treasury and agency securities.
+     inflation on the principal of inflation-indexed securities. 5.  RPs outstanding less matched sale-purchases.2.  Outright purchases less outright sales (in market and with foreign accounts). 6.  Original maturity of 15 days or less.3.  Outright purchases less outright sales (in market and with foreign accounts).  Includes short-term notes 7.  Original maturi ty of 16 to 90 days.
+     acquired in exchange for maturing bills.  Excludes maturity shifts and rollovers of maturing issues,     except the rollover of inflation compensation.
+MRA:HRM

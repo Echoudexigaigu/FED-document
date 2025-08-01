@@ -1,0 +1,2023 @@
+Prefatory Note  
+ 
+ 
+The attached document represents the most  complete and accurate version available 
+based on original copies culled from the f iles of the FOMC Secretariat at the Board 
+of Governors of the Federal Reserve Syst em.  This electronic document was created 
+through a comprehensive digitization proce ss which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned 
+versions text-searchable.2   Though a stringent quality assurance process was 
+employed, some imperfections may remain. 
+ Please note that some material may have b een redacted from this document if that 
+material was received on a confidential ba sis.  Redacted material is indicated by 
+occasional gaps in the text or by gray boxe s around non-text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of 
+Information Act.           
+ 
+   
+ 
+    
+ 
+                                                            
+ 
+1  In some cases, original copies needed to be photocopied before being scanned into electronic 
+format.  All scanned images were deskewed (to rem ove the effects of printer- and scanner-introduced 
+tilting) and lightly cleaned (to remove dark spots caused by staple holes, hole punches, and other 
+blemishes caused after initial printing). 
+ 
+2 A two-step process was used.  An advanced optical character recognition computer program (OCR) 
+first created electronic text from the document im age.  Where the OCR results were inconclusive, 
+staff checked and corrected the text as necessary.  Pl ease note that the numbers and text in charts and 
+tables were not reliably recognized by the OCR process and were not checked or corrected by staff.  
+Content last modified 6/05/2009. 
+ 
+December 11, 1974
+
+CONFIDENTIAL (FR)
+CURRENT ECONOMIC AND FINANCIAL CONDITIONS
+By the Staff
+Board of Governors
+of the Federal Reserve SystemDecember 11, 1974
+
+TABLE OF CONTENTS
+Section
+DOMESTIC NONFINANCIAL SCENE
+Industrial production .........
+Capacity utilization rates .......
+Labor market ...... ....
+Retail sales ............
+Business fixed investment. .. ...
+Commercial and industrial construction
+Plant and equipment survey .......
+Capital appropriations .........
+Private housing starts .......
+Prices of industrial materials and commodities
+Consumer prices ............
+Average hourly earnings ........
+Federal budget ............
+DOMESTIC FINANCIAL DEVELOPMENTS
+Short-term markets ......
+Long-term markets ......
+Monetary and deposit aggregates
+Credit developments ......
+INTERNATIONAL DEVELOPMENTS
+Foreign exchange markets .........
+Euro-dollar market ..............
+U.S. balance of payments ...........
+U.S. merchandise trade .........
+Total exports ......... .....
+Agricultural exports ....... ......
+Total imports ..............
+Petroleum imports ..............
+Recent policy changes in foreign industrial
+countries .................
+APPENDIX A
+The Full-Employment Surplus: A Revision of
+the Time Series .............-1
+-3
+-6
+-8
+-9
+-10
+-10
+-11
+.........-1.-1
+.- 2
+.- 2
+.- 3
+.- 5
+.5
+.- 5
+.- 5
+.- 5
+-6
+.-7
+.- 7
+.- 7....
+.... ..
+....
+........
+.... .....
+itis .
+........ .
+III
+.-1
+.-4
+.- 7
+.- 9
+........-12
+
+DOMESTIC NONFINANCIAL
+SCENE
+
+December 11, 1974
+II -- T -1
+SELECTED DOMESTIC NONFINANCIAL DATA
+AVAILABLE SINCE PRECEDING GREENBOOK
+(Seasonally adjusted)
+Latest Data Per Cent Change From
+Three
+Release Preceding Periods Year
+Period Date Data Period Earlier Earlier
+(At Annual Rates)
+Civilian labor force
+Unemployment rate (per cent)
+Insured unemployment rate (%)
+Nonfarm employment, payroll (mil.)
+Manufacturing
+Nonmanufacturing
+Private nonfarm:
+Average weekly hours (hours)
+Hourly earnings ($)
+Manufacturing:
+Average weekly hours (hours)
+Unit labor cost (1967=100)
+Consumer prices (1967=100)
+Food
+Commodities except food
+Services 2/
+Wholesale prices (1967=100)
+Industrial commodities
+Farm products & foods & feeds
+3/Personal income ($ billion)³
+Mfrs. new orders dur. goods ($ bil.)
+Capital goods industries:
+Nondefense
+Defense
+Inventories to sales ratio:
+Manufacturing and trade, total
+Manufacturing
+Trade
+Ratio: Mfrs.' durable goods inven-
+tories to unfilled orders
+Retail sales, total ($ bil.)
+GAF 5/
+Auto sales, total (mil. units)³
+Domestic models
+Foreign models
+Plant
+All
+All
+All
+All
+All& equipment expen. ($ bil.) 4
+industries
+industries
+industries
+industries
+industries
+Housing starts, private (thous.)³
+Leading indicators (1967=100)
+1/ Actual data. 2/ Not seasonallyNov.
+Nov.
+Nov.
+Nov.
+Nov.
+Nov.12/6/74
+12/6/74
+12/6/74
+12/6/74
+12/6/74
+12/6/7491.7
+6.5
+4.3
+78.4
+19.6
+58.7-4.2
+6.0¹
+3.6¹3.6
+-6.7
+-20.8
+-1.9
+1/Nov. 12/6/74 36.2 36.6-
+Nov. 12/6/74 4.35 2.8
+Nov. 12/6/74 39.5 40.11/
+Oct. 12/2/74 137.6 18.6
+Oct.
+Oct.
+Oct.
+Oct.
+Oct.
+Oct.
+Oct.
+Oct.
+Oct.
+Oct.
+Oct.
+Oct.
+Sept.
+Oct.
+Sept.
+Oct.
+Nov.
+Nov.
+Nov.
+Nov.
+Nov.
+1974
+'74:Q3
+'74:Q4
+'75:Q1
+'75:Q2
+Oct.
+Oct.11/21/74
+11/21/74
+11/21/74
+11/21/74
+11/14/74
+11/14/74
+11/14/74
+11/14/74
+12/3/74
+12/3/74
+12/3/74
+12/3/74
+11/14/74
+12/3/74
+11/14/74
+12/3/74
+12/10/74
+12/10/74
+12/5/73
+12/5/73
+12/5/73
+12/3/74
+12/3/74
+12/3/74
+12/3/74
+12/3/74
+11/21/74
+12/2/74
+adjusted. 3/ At153.2
+166.9
+142.5
+157.3
+171.2
+165.1
+188.0
+1166.4
+45.3
+12.8
+11.5
+1.4
+1.49
+1.65
+1.3410.3
+16.0
+6.8
+10.8
+27.9
+13.4
+56.8
+8.6
+(Not
+-2.3
+-5.0
+-3.0
+-19.5
+1/
+1.47 -
+1. 6-
+1.31-12.8
+5-4-/
+3.3-1
+-1.5
+-9.6
+1.3
+36.71/
+7.5
+40.21/
+10.4
+13.9
+18.8
+12.4
+12.6
+25.5
+19.0
+41.8
+9.32.0
+4.7-
+2.6*-
+.6
+-3.4
+2.0
+1/36.9-
+7.9
+40. 61
+10.3
+12.2
+11.9
+14.0
+10. 6
+22.6
+26.3
+10.6
+8.8
+at Annual Rates)
+-5.0 4.7
+-9.5 .6
+-10.3 5.0
+-1.9 -26.1
+1/ 1
+1.49- 1.471.631/ 1.571
+1.33- 1.33-
+.704 .687-1
+45.3
+11.7
+7.0
+5.7
+1.3
+111.92
+113.99
+114.40
+118.06
+119.47
+1,124
+170.3-1.3
+-1.1
+-13.1
+-11.0
+-21.5
+2.3
+.4
+3.2
+1.2
+-.7
+-1.3
+annual rate. 4/-3.8
+-1.8
+-35.2
+-37.9
+-19.5
+-16.0
+-5.4
+Planned--5.3
+3.5
+-33.3
+-35."0
+-24.4
+12.2
+13.0
+10.3
+10.1
+7.2
+-32.9
+2.1
+Commerce November plans. 5/ Advance confidential.I/
+'_/
+.6891/.7271/
+
+II -1
+DOMESTIC NONFINANCIAL DEVELOPMENTS
+A substantial downward adjustment in economic activity is now
+well underway, and appears to be spreading rapidly. The November decline
+in industrial production and the rise in unemployment were very sharp.
+Consumer expenditures generally have weakened further, while sales of
+motor vehicles have declined precipitously. Recent reports indicate
+that businessmen are cutting capital spending plans; actually, fixed
+investment in real terms appears to be declining in the current quarter.
+Moreover, producers and distributors are now making vigorous efforts
+to reduce inventories. Wage and price pressures remain strong but
+recent movements in both wages and prices show some signs of moderation.
+Industrial production.in November is tentatively estimated to
+have dropped at least 2 per cent, an abrupt decline by historical
+standards. Well publicized reductions in output of automotive pro-
+ducts, coal, and steel--though large--accounted for less than half of
+the total decrease. Household goods, apparel, construction products,
+nonferrous metals, textiles, paper, chemicals, and rubber products
+were all down appreciably. In addition, presently available data
+suggest a cut in output of business equipment.
+Auto assemblies dropped about one-fifth in November to an
+annual rate of 6.8 million units, but production remained far above
+sales for the second month in a row. Inventories of new autos mounted,
+and stocks of domestic-type new cars at the end of November were
+
+II -2
+equivalent to 106 days' supply at the reduced current sales rate, a
+post-World War II high. Stocks of imported cars were reported to be
+even higher in terms of number of days supply. Producers have scheduled
+another 20 per cent cutback in assemblies for December to about a 5-1/2
+million rate, about equal to the November sales rate.
+As a result of the strike, production of coal was off about
+30 per cent in November. Output of raw steel declined 5 per cent for
+the month as a whole, partly because of shortages of coal, and by the
+last week of November was about 10 per cent below the October average.
+With auto assemblies being reduced drastically and with further
+weakness clearly evident in other sectors, industrial production is
+expected to decline again in December. The resumption of coal pro-
+duction in mid-December will provide only a small offset to the pro-
+spective decline, nor is the steel industry likely to provideany
+stimulus to output. Final demands for steel appear to be easing and
+the temporary hedging against a coal strike now has been eliminated.
+Weakened demands have substantially reduced pressure on
+manufacturing capacity. Capacity utilization rates in major materials
+decreased further in November, with the index down more than 3 per cent
+to 84.0, the largest decline so far this year. This index has fallen
+about 7 per cent since last July, and is 11 per cent below its peak in
+mid-1973.
+An accelerating deterioration is evident in the labor market.
+In November the unemployment rate jumped to 6.5 per cent, up from 6.0
+
+II -3
+the previous month. Although the labor force declined by more than
+300,000, this was more than offset by a drop in employment of nearly
+800,000. Moreover,an additional 300,000 workers who usually work full-
+time work were on part-time for economic reasons.
+The increase in the unemployment rate from September to
+November was the sharpest two month rise since 1958. There were large
+increases in unemployment in both months among experienced workers,
+particularly those employed in manufacturing and in construction.
+Nonfarm payroll employment fell by 440,000 in November with
+declines recorded in nearly every goods-producing sector. The largest
+decrease was in manufacturing, especially electrical equipment,
+transportation equipment and textiles. Factory hours of work were also
+off sharply. Because of the timing of the survey, the employment
+figures were little affected by the coal strike and they take account
+of only a small portion of the announced layoffs of automobile workers.
+In the service-producing industries, a large drop in employment in
+retail trade more than offset moderate gains in services and in State
+and local governments.
+Retail sales weakened further in November. According to the
+advance Census estimates, total retail sales in current dollars dropped
+1.3 per cent, the third consecutive monthly decline. The largest
+decrease last month was in the automotive group but outlays for general
+merchandise were off as well. Total retail sales apart from autos
+and nonconsumer items were down .4 per cent. Compared with a year
+earlier, sales of all stores were up only 5.3 per cent.
+
+II -4
+Sales of new domestic-type autos were at a 5.7 million unit
+annual rate in November, 11 per cent below October and 35 per cent below
+November 1973. Sales of foreign autos, which had been relatively strong
+in October fell even more sharply in November, to a 1.3 million annual
+rate. The decline in total auto sales has been deeper than anticipated
+and the staff again has revised downward its estimate of fourth quarter
+unit sales.
+The sharp slump in demand for autos reflects several factors,
+including the increase in new auto prices, the decline of real earnings
+and mounting consumer apprehension concerning inflation and unemploy-
+ment. The recently released Conference Board and Michigan Surveys
+report measures of consumer confidence down substantially--for Michigan,
+lower than at any time in its twenty-five year history. The Michigan
+survey also reported more intense inflationary expectations but less
+willingness to buy in advance of expected price increases.
+Financial influences also may have played a part. There has
+been some attempt to stimulate sales through lengthening maturities
+over the past year. Thus, in September 10.5 per cent of new car loans
+at finance companies were written with maturities of over 36-months,
+up from 3.2 per cent a year earlier. However, there has been a
+counteracting increase in interest charges and in downpayment require-
+ments, as evidenced by a decline in loan to value ratios.
+
+II -5
+Recent indications portend a further contraction in real
+expenditures for business fixed investment in most sectors other than
+the materials industries. Total new orders for durable goods have
+continued to drop; in constant dollars, nondefense capital goods
+orders fell by 5.9 per cent further in October--the third consecutive
+month of decline. Contracts for commercial and industrial construction
+weakened further in October with reductions in both commercial and
+industrial categories; total contracted floor space was more than 30
+per cent below a year earlier.
+The Commerce Department's latest quarterly plant and equipment
+survey--conducted from mid-October through November--indicates that
+outlays for the first half of 1975 are expected to rise at an annual
+rate of 8.2 per cent, down from the 12.2 per cent increase now antici-
+pated for calendar 1974, and somewhat less than implied by the McGraw-
+Hill survey taken earlier. Both the Commerce survey and -Conference
+Board data on capital appropriations in manufacturing indicate that
+prospective capital spending plans by materials producers remain
+relatively strong, whereas planned expenditures of other industries are
+virtually flat in constant dollars.
+Residential construction activity as yet shows no signs of
+an imminent turnaround. Private housing starts in October were
+slightly below the third quarter average and the lowest since the first
+quarter of 1967. Given the extent of the drop from the cyclical peak
+in the first quarter of 1973--more than 50 per cent--plus the leveling
+
+II -6
+off of starts in the past few months and the recent improvement in
+savings flows to thrift institutions, it is the staff judgment that
+starts are bottoming out. However, under prevailing market conditions,
+lags are likely to be longer than usual, and the recent improved flows
+to savings institutions are expected to have little impact on starts
+before next spring. In October, sales of new single-family homes by
+merchant builders fell to a 4-1/2 year low and related stocks rose to
+12 months' supply--a near record high for the series.
+Recent rates of price rise have shown signs of moderation in
+some sectors, although price increases continue large, particularly
+for finished goods. Prices of industrial materials in spot markets
+have fallen further, and as of December 3 they were down more than 25
+per cent from their early April peak, based on the FR basic commodity
+price index. While wholesale prices of industrial commodities rose at
+an annual rate of about 15 per cent from August to October, this was
+an improvement from the over 30 per cent rate of increase recorded pre-
+viously this year. Several components of the WPI have actually declined
+recently, including textile products, nonferrous metals, hides and skins
+and lumber and wood products. Advances in October were smaller than
+in earlier months for several groups such as iron and steel and most
+paper products. However, increases were still substantial for chemicals,
+fuels and power, motor vehicles and machinery and equipment.
+
+II -7
+Consumer prices in October increased at an annual rate of about
+10 per cent. Food prices rose at a 16 per cent rate despite a decline
+in beef. However, the increase of close to 7 per cent for nonfood
+commodities was the smallest this year. Price increases were large
+for most groups, but gasoline prices declined again and apparel prices
+have changed little since August. The cost of services rose at about
+an 11 per cent annual rate.
+The average hourly earnings index for the private nonfarm
+economy rose at an annual rate of 6.6 per cent in November following a
+7.4 per cent rise in October, compared to a 11.0 per cent increase in
+the third quarter. A more moderate rate of increase was evident in manu-
+facturing, trade and services but wages continued to climb rapidly in
+the construction and transportation and public utilities industries.
+The new three year contract accepted by coal miners, ending a
+four week walkout, reportedly will raise wages and benefits by over
+50 per cent over the life of the contract, assuming the maximum payable
+(8 per cent per year) under the escalator clause. In other collective
+bargaining developments, aerospace workers for United Aircraft settled
+a new three year contract which will provide increased benefits and a
+first year wage increase of 14 per cent, and about a 40 per cent wage
+rise over the life of the contract.
+The staff is currently projecting Federal budget outlays for
+fiscal year 1975 at $307 billion, sharply higher than the projection of
+$299.5 billion contained in the November Greenbook. For the first four
+
+II -8
+months of the fiscal year expenditures have been running well above the
+amount implied by the Administration's former budget target. In his
+November 26 Message on Budget Restraint, the President revised upward
+the outlay target to $302.2 billion. The current staff projection of
+$307 billion differs from the new Administration estimate because we
+expect higher unemployment compensation outlays, a larger public service
+employment program, and we also assume that Congress will respond to
+only a small part of the President's proposed $4.6 billion cut in out-
+lays.
+Budget receipts are now estimated at $290.1 billion, yielding
+a fiscal year 1975 deficit of $16.9 billion. The current receipts
+projection is $4.5 billion below the estimate contained in the November
+Greenbook. This shortfall is accounted for by revisions which reflect
+the pattern of actual receipts and by an adjustment reflecting corporate
+shifts to a LIFO method of inventory valuation. In view of uncertainties
+regarding congressional action, these projections assume no new tax
+legislation.
+
+II -9
+RETAIL SALES
+(Seasonally adjusted, percentage
+previous period)change from
+1974
+QII QIII Sept. Oct. Nov.
+Total sales 2.9 4.4 -1.9 -.7 -1.3
+Durable 4.4 5.9 -6.3 -5.2 -2.8
+Auto 5.5 10.6 -9.4 -8.6 -6.0
+Furniture & appliance 3.7 2.0 -.6 -2.3 3.3
+Nondurable 2.3 3.6 .3 1.3 -.7
+Food 1.7 5.0 1.0 1.1 1.4
+General merchandise 2.0 .9 .7 -.4 -1.7
+Gasoline 8.8 4.7 .7 -.8 -1.0
+Total, less auto and
+nonconsumption items 2.6 3.4 .0 1.1 -.4
+GAF 1.6 1.6 .3 -.9 -1.1
+Real* .1 1.3 -3.1 -1.6 n.a.
+* Deflated by all commodities CPI, seasonally adjusted.
+
+MAJOR MATERIALS UTILIZATION
+(Seasonally adjusted, per cent)
+1973 1974 1974
+II III IV I II III June July Aug. Sept. Oct. Nov.**
+Major materials 93.4 93.5 92.3 90.2 90.2 88.2 89.2 90.0 87.8 87.3 86.8 84.0
+Textiles (yarn, fibers,
+woven fabric) 94.0 93.5 92.9 92.5 90.4 88.3 88.2 91.5 88.3 86.7 85.3
+Paper, pulp, board 95.6 98.0 96.4 95.1 96.6 95.6 96.3 98.0 91.7 95.7 92.1
+Paperboard 95.4 94.1 93.7 93.0 95.9 91.8 95.7 98.0 84.7 92.5 84.2 75.0
+Petroleum Refining 97.5 95.3 92.8 84.7 90.8 88.8 90.4 90.9 89.7 86.9 88.1
+Metals* 91.3 92.3 92.6 91.1 90.5 88.0 89.8 88.5 86.8 88.4 89.5
+Basic Iron and Steel 93.4 94.3 94.7 92.6 91.5 90.0 91.0 90.7 89.5 89.6 91.8 86.01
+Aluminum 92.0 92.7 95.3 98.1 99.1 97.9 98.6 99.0 98.7 97.5 96.6
+0
+Chemicals 91.2 91.1 90.0 88.6 86.7 86.7 85.3 88.4 87.8 85.8 87.0
+Cement 90.3 91.8 90.7 92.7 86.1 77.6 85.8 78.3 77.9 76.6 78.5
+Plywood 94.6 91.3 87.9 83.3 84.7 79.8 79.7 81.4 80.3 78.3 74.7 73.0
+*Consists of basic iron and steel, aluminum, and copper.
+**Projection, based on weekly data.
+Monthly data are confidential.
+
+II -11
+SELECTED UNEMPLOYMENT RATES
+(Seasonally adjusted)
+1973 1974
+November October November
+Total 4.7 6.0 6.5
+Men 20 years and over 3.0 4.3 4.6
+Women 20 years and over 4.7 5.6 6.6
+Teenagers 14.5 16.9 17.3
+Household heads 2.8 3.7 3.9
+White 4.2 5.4 5.8
+Negro and other races 8.9 10.9 11.7
+White collar workers 2.8 3.3 3.7
+Blue collar workers 5.4 7.3 8.2
+
+II -12
+CHANGES IN NONFARM PAYROLL EMPLOYMENT
+Employment
+(Nov. 1974)Average Monthly Change
+Oct. 1974- Nov. 1973-
+Nov. 1974 Nov. 1974
+Total nonfarm 78,368 -443 +38
+Goods-producing 24,162 -408 -75
+Construction 3,855 -49 -20
+Manufacturing 19,628 -348 -57
+Service-producing 54,206 -35 +113
+Trade 17,041 -119 +11
+Services 13,748 + 37 +44
+State and local gov't. 11,782 + 48 +44
+
+II -13
+RESULTS OF COMMERCE PLANT AND EQUIPMENT SURVEY
+(In billions of dollars) 1/
+1974 1975
+I II III IV I II
+------Anticipated------
+All industry 107.27 111.40 113.99 114.40 118.06 119.47
+(14.3) (16.3) (9.6) (1.4) (13.4) (4.9)
+Manufacturing 42.96 45.32 47.04 47.33 50.68 52.62
+(25.2) (23.9) (16.1) (2.5) (31.5) (16.2)
+Durables 21.43 22.50 23.08 23.45 24.09 24.50
+(19.9) (21.5) (10.7) (6.6) (11.4) (7.0)
+Nondurables 21.53 22.82 23.96 23.88 26.59 28.12
+(30.9) (26.2) (21.5) (-1.3) (53.7) (25.1)
+Nonmanufacturing 64.31 66.08 66.94 67.06 67.38 66.85
+(7.8) (11.5) (5.3) <.7) (1.9) (-3.1)
+1/ Figures in parentheses are percentage change from previous quarter at
+compound annual rate.
+2/ Survey conducted in late October and November.
+
+II -14
+NEW HOUSING UNITS
+(Seasonally adjusted annual rates, inmillions of units)
+Per cent change in
+1974 October from:
+QII QIII Sept. Oct.(p) Month ago Year ago
+Permits 1.17 .91 .82 .80 -3 -42
+Starts 1.57 1.20 1.13 1.12 -1 -33
+1-family .98 .87 .84 .79 -6 -18
+2- or more-family .59 .33 .30 .34 +14 -53
+2/ 2/Under construction¹ 1.48 1.37 1.37 n.a. -3 -20
+2/ 2/Completions 1.74 1.54 1.46 n.a. -2--25-
+MEMO:
+Mobile home shipments .44 .36 .32 .25 -22 -46
+1/ Seasonally adjusted, end of period.
+2/ Per cent changes based on September.
+
+II -15
+PRICE BEHAVIOR
+(Percentage changes, seasonally adjusted annual rates)1/
+CONSUMER PRICES
+Relative
+impor- Dec. 1972 Dec. 1973 March June Sept.
+tance to to to to to
+Dec. 1973 Dec. 1973 Mar. 1974 June 1974 Sept. 1974 Oct. 1974
+All items 100.0 8.8 14.2 10.9 14.2 10.3
+Food 24.8 20.1 19.4 3.1 12.3 16.0
+Commodities less
+food 38.6 5.0 16.0 15.8 16.5 6.8
+Services2/ 36.6 6.2 9.2 11.0 13.9 10.8
+Addendum
+All items less
+food and energy
+components 3/4/ 68.8 4.7 8.6 12.8 15.2 10.6
+Petroleum products 3/5/ 4.0 23.4 99.3 26.6 -4.1 -17.3
+Gas and electricity 2.4 6.9 28.2 16.1 20.2 11.9
+WHOLESALE PRICES
+All commodities 100.0 15.4 24.5 12.2 35.2 27.9
+Farm and food products 31.7 26.7 10.8 -29.3 59.2 56.8
+Industrial commodities6/ 68.3 10.7 32.3 35.7 28.3 13.4
+Materials, crude and
+intermediate 43.5 13.3 36.9 40.6 31.7 11.0
+Finshed Goods:
+Consumer excluding
+foods 17.6 7.4 28.3 25.3 18.5 20 .
+Producer 8.5 5.3 13.2 27.2 31.8 29.1
+Consumer foods 14.3 22.5 17.3 -16.7 29.4 47.5
+1/ Not compounded for one-month changes.
+2/ Not seasonally adjusted.
+3/ Confidential -- not for publication.
+4/ Excludes food, gasoline and motor oil, fuel oil and coal, and gas and electricity.
+5/ Includes coal.
+6/ Stage of processing components do not add to the total because they include some
+items found in farm and food products group.
+Note: Changes in CPI since March 1974 subject to revision next month to correct
+for error in used car component. WPI for October also subject to Change
+because of correction for price of raw sugar.
+
+TABLE 6
+FEDERAL BUDGET AND FEDERAL SECTOR IN NATIONAL INCOME ACCOUNTS
+(In billions of dollars)
+F.R.B. Staff Estimates
+Fiscal Fiscal 1975 e/ Fiscal Calendar Year Calendar Quarters
+Year Adm. Est. F.R. 1976 1973 FRB e/ 1974 1975
+1974* 11-26-74 1/ Board FRB e/ Actual 1974 1975 III* IV I II
+Federal Budget Unadjusted data
+Surplus/deficit -3.5 -9.2 -16.9 -31.5 -7.9 -10.4 -22.1 -1.6 -11.4 -9.9 6.6
+Receipts 264.9 293.0 290.1 307.5 250.4 279.4 299.1 72.9 65.8 67.0 84.4
+Outlays 268.4 302.2 307.0 339.0 258.3 289.8 321.2 74.5 77.2 76.8 78.4
+Means of financing:
+Net borrowing from the public 3.0 n.a. 18.0 n.e. 7.9 12.4 25.6 4.5 10.9 7.7 -5.1
+Decrease in cash operating balance 3.4 n.a. 2.4 n.e. .7 3.4 -- .5 1.7 .2 --
+Other 2/ -2.9 n.a. -3.5 n.e. -.7 -5.4 -3.5 -3.4 -1.2 2.6 -.9
+Cash operating balance, end of period 9.2 n.a. 6.8 n.e. 10.4 7.0 7.0 8.7 7.0 6.8 6.8
+Memo: Sponsored agency borrowing 3/ 14.8 n.a. 16.3 n.e. 16.3 16.4 n.e. 7.7 3.2 2.4 3.1
+Seasonally adjusted,National Income Sector annual ratesannual rates
+Surplus/deficit -5.4P  n.a. -12..4-/ -30.9=  -5.6 -3.8 -22.9 -1.1 -8.4 -16.4 -21.2
+Receipts 272.6P n.a. 303.6-/ 318.1/ 258.5 293.7 308.4 303.5 304.4 304.6 304.4
+Expenditures 278.0/  nt.a. 316.0 349.0 264.2 297.5 332.4 304.7 312.8 321.0 325.6
+High Employment surplus/deficit
+(NIA basis) 5/ p/ 8.1 n.a. 17.5 32.9 1.9 10.5 25.7 8.8 14.8 19.7 26.5
+* Actual e--projected n.e.--not estimated n.a.--not available p--preliminary
+1/ Estimates presented in the President's Message on Budget Restraint. $302.2 billion outlay total assumes
+favorable Congressional action on $4.6 billion of proposed reductions.
+2/ Includes such items as deposit fund accounts and clearing accounts.
+3/ Federally-sponsored credit agencies, i.e., Federal Home Loan Banks, Federal National Mortgage Assn.,
+Federal Land Banks, Federal Intermediate Credit Banks, and Banks for Cooperatives.
+4/ Quarterly average exceeds fiscal year total by $.6 billion for fiscal 1975 and $1billion for fiscal 1976 due
+to spreading of wage base effect over calendar year.
+5/ Estimated by F.R. Board Staff.
+
+DOMESTIC FINANCIAL
+SITUATION
+
+III-T-1
+SELECTED DOMESTIC FINANCIAL DATA
+(Dollar amounts in billions)
+Indicator Latest data Net change from
+Period Level Month Three Year
+ago months ago ago
+Monetary and credit aggregates
+Total reserves
+Reserves available (RPD's)
+Money supply
+Ml
+M2
+M3
+Time and savings deposits
+(Less CDs)
+CDs (dollar change in billions)
+Savings flows (S&Ls + MSBs)
+Bank credit (end of month)
+Market yields and stock prices
+Federal funds
+Treasury bill (90 day)
+Commercial paper (90-119 day)
+New utility issue Aaa
+Municipal bonds (Bond Buyer)
+FNMA auction yield (FHA/VA)
+Dividends/price ratio (Common
+stocks)
+NYSE index (12/31/65=50)SAAR (per cent)
+November 37.0 1.5 2.5
+November 35.0 .8 2.6
+wk. endg.
+"
+"
+1 day
+wk. endg.
+end of dayNovember
+November
+November
+November
+November
+November
+November
+12/4/74
+12/4/74
+12/4/74
+12/6/74
+12/5/74
+12/2/74
+11/30/74
+12/3/74
+Credit demands283.1
+612.6
+951.0
+329.5
+85.5
+338.4
+693.26.0
+9.5
+8.5
+12.5
+-.7
+6.4
+4.2
+Percentage or
+9.02 -.61
+7.45 -.31
+9.22 .22
+9.49 .49
+6.89 .23
+9.61 -.32
+5.23 .20
+35.65 -2.88
+Net change or
+Current month
+1974 19733.7
+7.0
+6.2
+10.0
+1.7
+4.7
+-1.3
+index points
+-2.62
+-1.73
+-2.72
+-1.12
+.01
+-.98
+-.01
+-.288.6
+9.4
+5.1
+8.0
+7.1
+10.7
+22.4
+5.6
+9.8
+-1.15
+.09
+-.11
+1.43
+1.74
+.80
+1.68
+-14.23
+gross offerings
+Year to date
+1974 1973
+Business loans at commercial
+banks November
+Consumer instalment credit outstanding October
+Mortgage debt outst. (major holders) September
+Corporate bonds (public offerings) November
+Municipal long-term bonds (gross November
+offerings)
+Federally sponsored Agcy. (net borrowing)November
+U.S. Treasury (net cash borrowing) December
+Total of above credits 14.6 14.2 145.7 150.2
+e -Estimated.9
+.4
+2.6
+2.9e
+2.2e
+-. 2e
+5.8e27.9
+9.6
+35.9
+23.3e
+21.4e
+15.2e
+12.4e26.3
+17.9
+48.3
+12.1
+21.9
+15.8
+7.9
+
+III -1
+DOMESTIC FINANCIAL DEVELOPMENTS
+Market interest rates generally backed up significantly in the
+weeks immediately following the November FOMC meeting. But with Federal
+funds trading at rates below 9 per cent in recent days and the Board's
+announcement of a lowering of the discount rate to 7-3/4 per cent from
+8 per cent last Friday, short term rates have dropped back to levels
+near or below those prevailing at the time of the November meeting.
+Yields on corporate and Treasury bonds also have declined recently,
+but are up somewhat on balance, while yields on municipals have con-
+tinued to advance,
+With interest rates remaining well below their summer and
+early fall highs, inflows into consumer-type time and savings deposits
+at banks and non-bank thrift institutions have continued to improve in
+recent weeks. Also, demand deposit growth at banks has strengthened.
+Banks and other thrift institutions have used a substantial share of
+these incoming funds to repay other short term liabilities and/or rebuild
+liquidity positions. At the same time, demand for credit at intermedi-
+aries has continued on the weak side, so that growth in loans and invest-
+ments at banks and in mortgage holdings at thrift institutions has been
+relatively slow.
+Short term markets. After posting sharp and fairly steady de-
+clines from early August until about the time of the November FOMC meet-
+ing, private short term rates backed up from 1/4 to close to a full per-
+centage point in the weeks immediately following the meeting, and Treasury
+bill rates have fluctuated within a fairly narrow range. Interruption of the
+
+III -2
+earlier downtrend in short-term rates was attributable largely to the
+behavior of the Federal funds rate, which leveled off at slightly below
+9.50 per cent during the final three statement weeks of November after
+previously declining in every statement week but one beginning in the
+second week of July.
+In the statement week ended last Wednesday, however, the
+Federal funds rate dropped to an average of 9.02 per cent and on sub-
+sequent days funds generally have traded at rates below 9 per cent
+without eliciting System intervention in the market. This easing in
+the funds market, together with last Friday's 1/4 percentage point
+reduction in the discount rate to 7-3/4 per cent, has renewed down-
+ward pressures on short-term rates generally. As a result, these rates
+have dropped back to levels near or somewhat below those prevailing at
+the time of the November meeting, and about 225 to 350 basis points
+below their record high levels reached this past summer.
+Demands for short-term funds in securities markets remained
+fairly heavy in November. Large businesses continued to issue an
+appreciable volume of commercial paper, as rates on these issues re-
+mained considerably under the lagging prime rate. In addition, the
+U.S. Treasury continued to add $200 million to each of its weekly and
+monthly bill auctions and recently sold a substantial block of tax
+anticipation bills. Finally, CD's and nondeposit liabilities at banks
+showed a sizable increase in recent weeks, after declining on balance
+in November.
+
+III -3
+Selected Short-Term and Long-Term Interest Rates
+(in per cent)
+Aug. Sept. Oct. Nov.
+FOMC FOMC FOMC FOMC
+Aug. 20 Sept. 11 Oct. 15 Nov. 19 Nov. 26 Dec. 3 Dec.10
+Short Term
+Federal funds
+(weekly average)
+Treasury bills
+3-month
+6-month
+1-year
+Commercial paper
+1-month
+3-month
+Large neg. CD's 2/
+3-months
+6-months
+Federal agencies
+1-year
+Bank prime rate12.23
+9.05
+9.13
+8.8611.48 10.11
+9.06
+8.83
+8.63
+12.00 11.75
+11.88 11.75
+12.35 11.85
+12.15 12.00
+9.65 9.777.74
+7.92
+7.70
+9.75
+9.50
+9.63
+9.50
+8.579.34
+7.46
+7.37
+7.18
+9.13
+8.88
+8.63
+8.50
+8.049.46
+7.42
+7.56
+7.29
+9.13
+9.00
+9.35
+9.00
+7.949.02 8.89¹
+7.53
+7.40
+7.167.15
+6. 98
+6.90
+9.63 9.13
+9.25 8.88
+9.60 8.80
+9.10 8.55
+n.a. n.a.
+12.00 12.00 11.75 10.75 10.50 10.50 10.50
+Long Term
+Corporate
+New AAA
+Recently offered
+Municipal
+(Bond Buyer)
+U.S Treasury
+20-yr. constant
+maturity)
+Stock Prices
+Dow-Jones
+N.Y.S.E10.26 10.27 10.44
+10.28 10.30 10.36
+6.73
+8.586.79
+8.596.48
+8.319.17
+9.299.68
+9.389.49
+9.35pn.a.
+n.a.
+6.53 6.71 6.89 n.a.
+7.93 7.96 8.06 7.84
+726.85 654.72 658.40 614.05 617.26 596.61 593.87
+39.32 35.82 37.67 36.19 36.86 35.65 35.53
+1/ First 6 days of
+2/ Highest quoted rstatement week ending December 10.
+new issues.
+
+III -4
+Long-term markets. Bond yields have increased on balance
+since the November FOMC meeting. They rose significantly in the latter
+part of November and the first few days of December, partly in response
+to the back-up in short-term rates, and then edged down along with the
+yield decline in short markets. An additional factor contributing to
+upward rate pressures in the bond markets has been the recent and
+prospective large volume of financing by corporations, State and local
+governments, and the U.S. Treasury.
+Despite AT&T's decision to postpone a $600 million issue
+because of an anti-trust suit recently filed by the Justice Department,
+the volume of new corporate issues brought to market has remained
+particularly heavy and corporate new issue yields have moved up as
+much as 30 basis points. The projected volume for December is $2.7
+billion, which, although smaller than the near record volumes of
+October and November, is unusually large for this month. Another
+relatively heavy calendar is in prospect for January.
+
+III -5
+SECURITY OFFERINGS
+(Monthly or monthly averages, in millions
+1973
+Year Half I QIIIof dollars)
+1974
+QIV-e/ Dec. Jan f/Nov. Dec. Jan.
+Gross offerings, long term
+Corporate securities -
+Total
+Public bonds
+Privately placed
+bonds
+Stock
+State and Local govern-
+ment securities2,779 3,047
+1,125 1,950
+725
+9292,600 4,183 3,850 4,000 3,200
+1,767 3,000 2,900 2,700 2,200
+467
+367567
+616400 900 600
+550 400 400
+1,942 2,113 1,833 1,967 2,200 1,400 2,000
+Net offerings, total
+U.S. Treasury 658 -501 1,498 3,640 4,400 5,800 2,700
+Sponsored Federal Agency 1,367 925 2,519 1,066 -200 1,200 900
+e/ Estimated.
+f/ Forecast.1975
+--
+
+III -6
+The volume of new issues in the municipal market has been
+smaller than in the corporate market but the largest yield advances
+were posted in this sector as traditional buyers of tax exempts--
+commercial banks and casualty companies--reportedly have shown only
+modest interest in acquiring such issues. As a result, dealer inven-
+tories rose further to unusually high levels in late November, and
+have remained relatively high in early December. Last week, moreover,
+municipal yields were given an additional boost by a record-setting
+yield on a New York City financing operation.
+Yields on long-term Treasury securities were subject to the
+least upward pressure following the November Committee meeting and
+recently have edged back near levels prevailing at the time of the
+meeting. Conditions in this sector of the market have been quiet
+since the Treasury's mid-November refunding operation, as dealers have
+remained content to hold sizable quantities of the coupon issues they
+were awarded in this financing. It is widely believed that the Treasury's
+deficit will considerably exceed the upward revised $9.2 billion figure
+recently announced by the President, perhaps by as much as $6-10 billion.
+The impact of this reassessment of the Treasury financing outlook has
+been tempered to some extent, however, by downward adjustments in pro-
+jections of borrowing by the sponsored Federal agencies in light of
+the improving deposit inflows at thrift institutions.
+In equity markets, prices have declined approximately 10
+per cent since early November. The Dow-Jones Industrial index closed
+
+III -7
+last Friday at 577.50, its lowest level in 12 years, but has moved up
+about 12 points so far this week. It appears that the further decline
+in prices was prompted mainly by the spate of news portraying a much
+weaker pattern of economic activity--and thus lower corporate profits--
+than was previously believed likely by investors.
+Monetary and deposit aggregates. Responding to the sharp net
+decline in market interest rates over the past 4 months, inflows into
+demand deposits at commercial banks increased further in November, and,
+with public demands for currency remaining unusually strong, M1 rose at
+a 6.0 per cent annual rate, well above the 2 per cent rate of expansion
+in the 4 months ending with October. Growth of time and savings deposits
+other than money market CD's was about the same in November as October's
+rapid rate and M2 expanded at a 9.5 per cent rate, the highest since
+the first quarter. A further strengthening of deposit inflows at
+mutual savings banks and savings and loan associations is also indicated
+by sample deposit data for November. It is currently estimated that
+aggregate deposits at these institutions grew at about a 7-1/2 per cent
+annual rate, the largest monthly increase of the year except for March.
+Commercial banks also experienced a sizable buildup in Treasury
+balances during November. Banks, in general, used a considerable portion
+of their regular deposit flows to reduce nondeposit liabilities and
+money market CD's. Since late November, however, a number of large
+New York City banks have again increased their large CD's and Euro-dollar
+borrowings.
+
+III -8
+MONETARY AGGREGATES
+(Seasonally adjusted changes)
+QI QII QIII Sept. Oct. Nov.p
+Per cent at annual rates
+M3
+Adjusted bank credit proxy
+Time and savings deposits
+At commercial banks:
+a. Total
+b. Other than large CD's
+1/At savings and loans ¹
+At mutual savings banks
+Combined5.5
+9.3
+8.86.5 1.6
+7.7 4.6
+6.4 4.0
+8.2 20.4 6.6
+15.1
+12.8
+9.6
+4.8
+8 221.3 9.2
+8.6 7.3
+5.2
+1.8
+4.23.3
+.4
+2.41.3 3.8
+3.2 8.3
+2.9 6.9
+.3.9 -.2
+6.8 13.8
+4.9 12.3
+4.2
+1.9
+3.5
+Billions of dollars ²
+Memoranda:
+a. U.S. Government demand
+deposits
+b. Negotiable CD's
+c. Nondeposit sources of
+funds.7 .3
+4.4 1.2
+.3 .1
+Based on month-end series.
+Change in average levels month-to-month or.1
+1.0-2.6
+1.4.9
+-.8
+-.4 -.7 -.2
+average monthly change for
+the quarter, measured from last month in quarter to last month in
+quarter, not annualized.
+p -Preliminary.6.0
+9.3
+8,4
+5.9
+7.6
+12.1
+8.5
+5.0
+7.5
+
+III -9
+Nonbank thrift institutions similarly used a large share of
+their recent fund inflows to repay loans at commercial banks and many
+S&L's reduced FHLB advances. Although FHLB's extended the entire $500
+million monthly allocation of subsidized advances, net advances over
+the month rose only $100 million.
+Credit developments. Banks and other thrift institutions generally
+appear to be following more conservative balance sheet policies than in
+comparable periods of earlier cyclical downturns. This is suggested
+by the pay-down of money market type liabilities referred to above.
+In addition, replies to the November Lending Practices Survey suggest
+that non-price lending terms have remained quite stringent. (The results
+of this survey will be summarized in the Supplement to the Greenbook.)
+Finally, the lagged response in bank prime rates to the decline of
+market rates--with most banks still quoting 10-1/2 per cent--illustrates
+the continuing bank efforts to discourage loan expansion.
+Reflecting these constraints, total loans and investments at
+commercial banks are estimated to have increased at only a 4 per cent
+annual rate in November, about in line with the sharply reduced rate
+of growth since mid-year. Investment holdings rose only slightly as
+a significant increase in holding of municipals and agency securities--
+the second such advance in as many months--was largely offset by a
+further rundown in holdings of U.S. Treasury securities. Total loans
+also rose only moderately and no significant strength was displayed in
+any of the major loan categories.
+
+III -10
+COMMERCIAL BANK CREDIT
+(Seasonally adjusted changes at annual percentage rates)¹
+1974
+QI QII QIII Sept. Oct. Nov.
+Total loans and investments²
+U.S. Treasury securities
+Other securities
+2/Total loans²
+2/Business loans²
+Real estate loans
+Consumer loans
+MEMO:
+Business loans plus nonfinan-
+cial commercial paper (per
+cent)17.5 12.0 5.6
+27.3 -29.8
+8.3 10.8
+19.0 13.8 11.2
+24.0
+12.9
+5.422.9
+14.2
+4.414.0
+6.0
+7.2
+22.5 24.9 18.1-8.6 -- 4.2
+-67.3 -57.5
+.9 11.4
+-4.8 2.9
+-11.1
+3.8 2.8
+2.9 1.4
+4.9 15.9-9.7
+4.5
+5.8
+4.7
+0.0
+10.9
+and December, which are adjusted
+as sold outright by banks to their
+own holding companies, affiliates, subsidiaries, and foreign branches.1/ Last-Wednesday-of-month series except for June
+to the last business day of the month.
+2/ Includes outstanding amounts of loans reported
+
+III -11
+Business loans increased at about a 6 per cent annual rate,
+roughly equivalent to the September-October average pace of advance
+and well below that of the third quarter, as prime borrowers continued
+to tap the relatively low cost funds available in short-term securities
+markets. Growth in aggregate short-term borrowing by businesses--at
+banks and in the market--has remained relatively modest, as has been the
+case since mid-summer. In addition to the rise of capital market
+borrowing and general slow down of economic activity, it is likely
+that the need to finance a further unintended buildup of inventories
+in autos and other industries is being only partly counterbalanced by
+a rundown of inventories due to the coal strike.
+Credit demands of other principal borrowing groups appear to
+have diminished significantly further recently. Consumer loans are
+estimated to have remained about unchanged at banks in November following
+a modest rise in October. If recent trends are continued, consumer
+borrowing from all lenders may weaken considerably further during
+November. Following a brief acceleration in July-August, when con-
+sumers increased their purchases of 1974 autos, the pace of advance in
+total consumer installment credit at all lenders dropped sharply in
+September and slowed further in October.
+Real estate loans at commercial banks are estimated to have
+grown at a somewhat more rapid pace in November than in the two pre-
+creding months, but the rate was still below the already depressed
+
+III -12
+third quarter level. Data on net mortgage extensions at thrift
+institutions in November are not yet available, but fragmentary
+evidence suggests a slight increase in commitments is likely. This
+appears consistent with the downtrend in mortgage yields that has
+continued uninterrupted through November and into early December. As
+is typical of the early stage of a decline, rates have dropped more
+sharply in the secondary mortgage market than in the primary market.
+CONVENTIONAL HOME MORTGAGES
+At 120 S&L's
+Average Basis point Federal Home Loan
+going rate on change from Spread 1/ Bank districts
+80 loans month or week (basis with funds in
+(per cent) earlier points) short supply
+1973--High 8.85 (9/28) -- 107 (9/12) 12 (Aug.-Sept.)
+Low 7.43 (1/26, 2/2, -- -12 (8/8) 0 (Jan.-Mar.)
+2/9)
+1974--High 10.03 (9/27) -- 94 (11/15) 12 (May, July-Oct.)
+Low 8.40 (3/15, 3/22) -- -106 (7/12) 0 (Feb.-Mar.)
+Nov. 1 9.87 -7 45 12
+8 9.81 -6 81 12
+15 9.81 -- 94 12
+22 9.73 -8 56 12
+29 9.72 -1 4 11
+Dec. 6 9.69 -3 20 12
+1/ Average mortgage return before deducting servicing costs minus average yield on
+new issues of Aaa utility bonds paying interest semi-annually and with 5-year
+call protection.
+
+III -13
+FNMA AUCTION RESULTS
+HOME MORTGAGE COMMITMENTS
+Date
+of auction
+1973-High
+Low
+L974--High
+Low
+Oct. 7
+21
+Nov. 4
+18
+Dec. 2Government-underwritten
+Amount
+(In $ millions Averag
+Offered Accepted yield
+551 (9/3) 289 (9/3) 9.37 (
+25 (10/15) 17 (10/15) 7.69 (
+1,155 (3/25) 333 (3/25) 10.59 (!
+26 (11/18) 18 (11/16) 8.43 (
+46.6 29.7 10.32
+34.5 26.0 10.11
+47.8 24.7 9.93
+25.7 17.6 9.81
+52.5 23.3 9.61e
+9/17)
+1/8)
+9/9)
+2/25)Conventional
+Amount
+(in $ millions)
+Offered Accepted
+S171 (8/20) 8f (4/16)
+9 (10/1) 7 (10/1)
+164 (4/18) 63 (4/8) 1
+14 (10/21) 7 (11/
+18)
+26.1 23.3 1
+14.1 12.2 1
+20.4 12.1 1
+20.6 6.8
+24.0 12.0Average
+yield
+9.68 (9/17)
+7.84 (1/2)
+0.71 (9/9)
+8.47 (3/11)
+0.46
+0.27
+0.11
+9.92
+9.80
+
+INTERNATIONAL
+DEVELOPMENTS
+
+CONFIDENTIAL (FR)
+IV -- T -1
+U.S. Balance of Payments
+(In illions of dollars; seasonally adjusted)
+Goods and services, net 1/
+Trade balance 2/
+Exports 2/
+Imports 2/
+Service balance
+Remittances and pensions
+Govt. grants & capital, net
+U.S. private capital (- = outflow)
+Direct investment abroad
+Foreign securities
+Bank-reported claims -- liquid
+" other
+Nonbank-reported claims -- liquid
+" " " other
+Foreign capital (excl. reserve trans.)
+Direct investment in U.S.
+U.S. corporate stocks
+New U.S. direct investment issues
+Other U.S. securities (excl. U.S. Treas.)
+Liquid liabilities to:
+Commercial banks abroad
+Of which liab. to branches 3/
+Other private foreign
+Intl. & regional organizations
+Other nonliquid liabilities
+Liab. to foreign official reserve agencies
+U.S. monetary reserves (increase,
+Gold stock
+Special drawing rights
+IMF gold tranche
+Convertible currencies
+Errors and omissions
+BALANCE (deficit -)
+Official settlements, S.A.
+" " , N.S.A.
+Net liquidity, S.A." " , N.S.A.
+Liquidity, S.A. 4/
+" , N.S.A.
+Basic balance, S.A.
+" " , N.S.A.1973 1974P
+YEAR 1Q 2Q 3Q OCT.*
+4,391 2.928 -122_
+471 -74 -1,631 -2,596 -200
+70,277 22,2991 24,089 24,632 8,560
+-69,806 -22,3731-25,720 -27,228 -8,760
+3,920 3,002 1,509
+-1,943 -390 -461_
+-3,471 -1,218 -1.007 _
+-14.101-8,585 ~9.7101  _
+-4,872 -627 -1,552
+-807 -646 -357 -312 -340
+-1,103 -2,239 -1,246 -334 322
+-4,773 -2,958i -6,263 -1,582 -336
+-841 -3611 126
+-1,704 -1,7541 -418
+t/12.241 -/7,152 St/4,652_
+2,537 1,281 1,516
+2,758 376 10 84 -80
+1,223 24 67 13
+69 287 3201 67
+-4,234 4,664. 2,862 4,190 521
+2,982 4,616 1,969 2,999 318
+(309) (3,379) (-982) (-56) (-1,835)
+876 633 601 9101 74
+376 -585 292 2811 129
+1,420 520 -123
+5,095 -852 4.887 1.333 1,062
+209 -210 -358 -1,003 30
+9 - -29 -123 -8
+-33 -209 -2441 -728I -15
+233 -1 -85! -1521 53
+-2,624 1,209 1,9791 __
+-5,304
+-7,594
+-9,538
+-8961,062
+1,495
+-987
+-177
+-3,602!
+-2,934
+1,7861
+2,1634,529
+-4,104
+-6,254
+-6,634
+-7,391
+-7,820
+-2,740
+-2,692-330
+-1,541
+-4,810
+-6,042
+-4,520
+-5,711-1,-092
+-1,613
+* Monthly, only exports and imports are seasonally adjusted.
+1/ Equals "net exports" in the GNP, except for latest revisions.
+2/ Balance of payments basis which differs a little from Census Basis.
+3/ Not seasonally adjusted.
+4/ Measured by changes in U.S. monetary reserves, all liabilities to foreign official
+reserve agencies and liquid liabilities to commercial banks and other foreigners.12/11/74
+
+INTERNATIONAL DEVELOPMENTS
+Foreign exchange markets. The dollar depreciated by a little
+over one per cent on a weighted average in the past month, showing declines
+of around 6 per cent against the Swiss franc and 3 per cent against the
+mark, but smaller or no change against other major currencies. Exchange
+rates for the Swiss franc and, to a lesser extent, the mark were quite
+volatile at times, primarily owing to contradictory and confusing actions
+and statements by Swiss and German officials regarding their willingness
+to intervene to moderate upward pressures on their respective currencies.
+Toward the end of the period under review, sterling came under strong
+selling pressure in response to a move by Saudi Arabia to reduce to zero
+the proportion (formerly about 20 to 25 per cent) of its mid-December oil
+royalty payments denominated in sterling.
+The Swiss franc had been under some upward pressure for a time
+as a result of fairly tight liquidity conditions in Switzerland at a time
+when there were indications that conditions were easing in some other
+major money markets, particularly the United States. This pressure inten-
+sified after late October when Swiss authorities removed the ban on payment
+of interest on non-resident franc deposits with Swiss banks. As the Swiss
+franc appreciated, the BNS indicated its willingness to intervene in concert
+to preserve orderly market conditions, but when it was not seen to inter-
+vene and when it continually denied that it had intervened, the franc
+soared. The BNS then moved to impose a negative interest charge on increases
+in non-resident franc deposits, retroactive to end-October, to prohibit
+
+IV -2
+increases in banks' forward sales of francs to non-residents, and to raise
+reserve requirements on non-resident deposits. After having risen by about
+10 per cent against the dollar in one week, the franc quickly declined
+by about that amount. Daily fluctuations in the dollar/franc rate reached
+4 per cent on occasion in this brief period, and the rate at present con-
+tinues to be extremely volatile.
+The mark, which had begun to appreciate in October following
+a sharp decline in U.S. interest rates, surged ahead in November, parti-
+cularly after a statement by Chancellor Schmidt reaffirming Germany's
+intention not to resist an appreciation of the mark produced by market
+forces.
+In the period from mid-November to mid-December there were net
+dollar sales by major central banks amounting to nearly $840 million, a
+factor contributing to the decline in the dollar's weighted average exchange
+value. The Bank of England sold about $880 million, of which $480 million
+came in the wake of Saudi Arabia's decision on sterling-denominated oil
+receipts. The Bank of Italy's dollar sales in this period amounted to
+$360 million. Only partly offsetting these sales were purchases of dollars
+by the System and the Bundesbank. The System sold a substantial amount
+of marks and small amounts of guilders and Belgian francs in late November,
+most of which it later repurchased. The Bundesbank purchased, net, some
+$240 million.
+
+IV -3
+Euro-dollar market. Euro-dollar deposit rates have shown mixed
+movements in the past four weeks. After many weeks of a declining trend
+the weekly average 3-month rate has risen about 30 basis points, approxi-
+mately in line with the upturn in the rate on 60-89 day CD's in the United
+States. In contrast, the overnight Euro-dollar rate in the latest week
+was down more than a percentage point from four weeks earlier, a decline
+that exceeded the decrease in the Federal funds rate. U.S. banks' gross
+liabilities to their foreign branches rose from an average of $2.3 billion
+in the week of November 6 to $3.0 billion in the week of December 4.
+Recent inquiries substantiate reports that Euro-dollar deposits
+held by official institutions in oil-exporting countries tend to be of
+very short maturity. Three large U.S. banks report confidentially that
+dollar deposits of oil-exporting countries at their foreign branches are
+almost entirely of maturities of six months or less, and two banks said
+that a high proportion consisted of call deposits. There have been no
+significant shifts in the maturity composition of these deposits in recent
+months. These banks said they were paying 1/2 to 1 per cent below quoted
+rates for deposits of oil-exporting countries, because of the exceptionally
+large size of such deposits. (The size of the rate concession also varies
+with banks' expectations about future interest rate levels.)
+In the past month, the cost to prime corporate borrowers of short-
+term Euro-dollar loans has risen slightly while the cost of bank credit
+in the United States declined by 1/2 to 5/8 per cent, as shown in the
+accompanying table. But relative costs of Euro-dollar financing and U.S.
+
+IV -4
+SELECTED EURO-DOLLAR AND U.S. MONEY MARKET RATES
+Average for (1) (2) (3) (4) (5) (6)
+month or Over- Differ- 3-month Differ-
+week ending night Federal ential Euro-$ 60-89 day ential
+Wednesday Euro-$ Funds (1)-(2)(*) Deposit CD rate (4)-(5)(*)
+1974-Aug. 11.29 12.01 -0.72 ( 0.26) 13.57 11.63 1.94 (2.11)
+Sept. 11.07 11.34 -0.27 ( 0.69) 12.41 11.17 1.18 (1.35)
+Oct. 9.77 10.06 -0.29 ( 0.56) 10.95 9.40 1.45 (1.68)
+1974-Nov. 6 9.13 9.63 -0.50 ( 0.29) 10.00 8.88 1.12 (1.22)
+13 9.41 9.37 0.04 ( 0.86) 9.89 8.75 1.14 (1.24)
+20 9.19 9.34 -0.15 ( 0.65) 10.00 8.50 1.50 (1.63)
+27 8.97 9.46 -0.49 ( 0.29) 10.29 9.06 1.23 (1.33)
+Dec. 4 9.34 9.02 0.32 ( 1.13) 10.81 9.15 1.66 (2.02)
+11p8.14 8.89 -0.75 (-0.04) 10.21 9.15 1.06 (1.37)
+*/ Differentials in
+reserves.
+p/ Preliminaryparentheses are adjusted for the cost of required
+SELECTED EURO-DOLLAR AND U.S. COSTS FOR PRIME BORROWERS
+(1974; Friday dates)
+1) 3-mo. Euro-$ loan-
+2) 90-119 day com'l. paper b/
+3) U.S. bank loan:
+a) predominant prime rate
+b) with 15% comp. bal's.
+c) with 20% comp. bal's. c/
+Differentials:
+(1) -(2)
+(1) -(3a)
+(1) -(3b)
+(1) -(3c)Nov. 8
+10.94
+9.13
+11.00
+12.94
+13.75
+1.81
+-0,06
+-2.00
+-2.81Nov. 29
+11.69
+9.25
+10.50
+12.35
+13.13
+2.44
+1.19
+-0.66
+-1.44
+1-1/8 per cent over deposit bid rate.
+offer rate plus 1/8 per cent.
+prime rate adjusted for compensating balances.
+WednesdayDec. 6
+11.50
+9.25
+10.50
+12,35
+13.13
+2.25
+1.00
+-0.85
+-1.63Dec. 11d,
+11.07
+9.00
+10.50
+12.35
+13.13
+2.07
+0.57
+1.28
+2.06
+
+IV -5
+commercial paper borrowing have changed much less. The spreads over deposit
+rates which banks charge on their Euro-dollar loans to nonbank borrowers
+have risen further. Short-term (one year and under), fixed-interest rate
+loans to the highest quality borrowers now carry a minimum spread of 1
+per cent over the London interbank offer rate (LIBO), normally equivalent
+to 1-1/8 per cent over the deposit bid rate. Spreads over LIBO are generally
+somewhat higher on medium-term loans.
+Publicized medium-term Euro-currency credits completed in the
+third quarter came to $4.6 billion compared with a quarterly average of
+$9.6 billion in the first half, according to World Bank compilations.
+Credits completed by both developed and developing countries fell sharply
+in the third quarter. Preliminary data for October and November show
+some further decline in loan completions from the third-quarter level.
+The Bank said that the reasons for the reduced volume included decreased
+confidence in the banking system (making it difficult for smaller banks
+to raise funds), greater reluctance by banks to relend short-term deposits
+at longer term, and banks' increased concern over risk and exposure.
+Maturities of these credits have shortened markedly; the proportion with
+final maturities of seven years and over dropped from 94 per cent in the
+first half to 58 per cent in the third quarter.
+
+IV -6
+U.S. balance of payments. During November,foreign official
+holdings at the Federal Reserve Bank of New York increased by $1.5 billion,
+about the same rise as in October. In both November and October, most of
+the increase was in official holdings of oil-exporting countries. Data
+for the November change in official holdings at commercial banks are not
+yet available; however there was a decline of $400 million in these hold-
+ings in October. U.S. reserve assets declined by $90 million in November,
+compared to a $30 million decline in October. The main element in the
+November reserve decline was the prepayment by Mexico of a swap with the
+Federal Reserve System ($180 million) that more than offset increases in
+the U.S. reserve position in the IMF ($60 million) and in foreign currency
+holdings ($30 million). In October, decreases in foreign currency holdings
+($53 million) were partly offset by increases in the IMF position and in
+SDR holdings.
+Bank-reported private capital transactions in October (the
+latest month for which there are data) showed a net inflow of about
+$500 million (not at an annual rate), somewhat less than the monthly
+average inflow in the third quarter. The October net inflow can be
+attributed mainly to inflows from the Euro-currency market. Liabilities
+of U.S. banks to their foreign branches declined (by about $1.8 billion),
+but this decline was more than offset by an increase in liabilities of
+banks in this country (including foreign bank branches and agencies) to
+other banks abroad (by about $2.1 billion).
+
+IV -7
+Bank-reported claims on foreigners were reduced only slightly
+in October compared with repayments in September exceeding $1 billion.
+Earlier in the year,outflows of bank credit were large. At least part
+of the turn-around in the past two months occurred as foreign countries,
+such as Japan, obtained funds directly from oil-producing countries and
+were therefore able to begin to repay loans made earlier in the year
+in the United States. Another contributing factor may have been
+that during September-October, U.S. lending rates declined more slowly
+than Euro-dollar rates. The small net reduction in claims in October
+resulted from a reduction in lending by U.S. agencies and branches of
+foreign banks(about $900 million) that was partly offset by increased
+lending by U.S. commercial banks (nearly $800 million). Despite the
+October increase in bank lending, U.S. commercial banks indicate they
+are becoming increasingly selective in extending credits to foreigners.
+In October, there was an outflow of capital through private
+securities transactions amounting to about $300 million compared with an
+outflow of about $200 million for the entire third quarter. U.S. purchases
+of Canadian new bond issues accounted for most of the outflow, but there
+were also U.S. purchases of stocks in the United Kingdom amounting to
+about $75 million. Throughout 1974 there have been fairly steady U.S.
+purchases of stocks in the United Kingdom; for 10 months this totaled
+$290 million, about half of which was purchased in the first quarter.
+Transactions in U.S. securities other than Treasury issues showed a
+
+IV -8
+small net inflow as foreign purchases of bonds (mainly by international
+institutions) exceeded foreign sales of U.S. stocks (primarily through
+the United Kingdom, Switzerland, and Germany).
+U.S. merchandise trade. In October, the U.S. trade deficit
+declined to $2.4 billion at an annual rate (balance of payments basis)
+as exports rose almost $5 billion and imports rose less than $1 billion
+from their September rates. The $3.9 billion change in the rate of the
+overall trade deficit between September and October reflected a similar
+change in the balance excluding agricultural exports and fuel imports.
+U.S. MERCHANDISE TRADE, BALANCE OF PAYMENTS BASIS
+(billions of dollars, seasonally adjusted annual rates)
+1973 1974
+1Q 2Q 3Q 4Q 1Q 2Q 3Q Sept. Oct.
+EXPORTS 60.9 66.7 72.6 80.9 89.2 96.4 98.5 98.0 102.7
+Agricultural 14.7 16.5 19.0 21.2 23.6 22.8 20.5 19.5 19.9
+Nonagricultural 46.2 50.2 53.6 59.7 65.6 73.5 78.1 78.5 82.8
+IMPORTS 64.7 68.2 70.3 76.0 89.5 102.9 108.9 104.3 105.1
+Fuels 6.7 7.8 9.0 11.6 20.4 28.2 29.9 27.6 28.0
+Nonfuels 58.1 60.3 61.3 64.5 69.1 74.6 79.0 76.7 77.1
+TRADE BALANCE -3.8 -1.5 +2.3 +4.8 -0.3 -6.5 -10.3 -6.3 -2.4
+(excluding fuel
+imports and
+agricultural
+exports) (-11.9) (-10.1)(-7.7)(-4.8) (-3.5)(-1.1)(-0.9) (+1.8)(+5.7)
+Note: Details may not add to totals because of rounding.
+
+IV -9
+October was the second consecutive month in which the trade
+deficit declined. While it is dangerous and inappropriate to read very
+much into the trade data for one or even two months, the date for the past
+two months suggest a possible leveling off of the trade deficit from the
+average increase of $5 billion (annual rate) in the first three quarters
+of 1974.
+The average value of total exports in September and October was
+only one percent above the value in the three previous months. The value
+of nonagricultural exports in September-October was up about 3.5 percent
+over the earlier period, but their volume was down 1.5 percent. The only
+major categories to show a substantial increase in the value of exports
+in September-October were machinery and civilian aircraft and parts. All
+other major categories of exports in this period were down in both value
+and volume from the previous three months. This general weakness is,
+of course, primarily due to the weakness in real demand abroad.
+Exports of machinery were at an average seasonally adjusted
+annual rate of $24.7 billion during September and October, 6 percent above
+the average rate in the previous three months. The value of new orders
+for machinery continued to increase in October, but in real terms they
+appear to have been on a slight downtrend since early summer. The value
+of exports of civilian aircraft and parts, always a volatile component
+in U.S. export statistics, increased in September and October to an
+average seasonally adjusted annual rate of over $6 billion from their
+
+IV -10
+depressed level in July and August and should remain high through mid-
+1975. Exports of automotive equipment to Canada increased to an average
+seasonally adjusted annual rate of $6.5 billion in September and October.
+The strength of such exports is in part the reflection of sales of
+commercial vehicles in Canada in the first ten months of 1974 that were
+28 percent above the rate in the same period in 1973. Exports of coal
+in October, prior to the strike by the miners of bituminous coal, were
+at an annual rate of $4.3 billion, up 40 percent from September; all of
+the increase was in volume.
+Agricultural exports in September and October were generally
+unchanged, down 10 percent from the previous three months. Volume was
+down by about 15 percent. The average price of agricultural exports in
+October was up about 9 percent from the low in June and July.
+The value of total imports in October was less than one percent
+above the rate in September. The average for the two months was 4.5
+percent below that for the period June through August, reflecting the
+recent weakness in U.S. aggregate demand and some downturn in fuel
+imports. In real terms, the September-October rate of imports was lower
+than in any pair of months since June-July 1972. The entire increase in
+non-fuel imports in October was accounted for by imports of iron and
+steel products which increased by 40 percent over the third quarter's
+rate presumably for inventory buildup in anticipation of the coal
+strike.
+
+IV -11
+Petroleum imports in October averaged 6.4 million barrels per
+day (not seasonally adjusted), about the same as in September. The
+average price of oil imports in October was $11.38 per barrel, down
+slightly from September. In September and October, the volume of imports
+of petroleum average 3 percent below the rate in the previous five months,
+and they averaged 2 percent lower in price. The small price declines
+were spread over all categories of oil imports.
+
+IV -12
+Recent policy changes in foreign industrial countries. As
+new data become available, showing a marked weakness in demand and
+output, and as economic forecasts continue to be revised downward, the
+focus of policy in industrial countries has begun to shift noticeably.
+Governments and central banks in all countries continue to cite inflation
+as a problem demanding high priority, but, since the summer, the
+authorities in most countries have been acknowledging publicly that
+the outlook for sharply higher unemployment is a major concern of
+policy as well. Although some measures have been adopted to provide
+a stimulus to demand -- notably in Germany, Canada, the Netherlands,
+the United Kingdom, and Australia -- and some easing of policy seems
+likely in France and Japan early next year, policy actions have generally
+not yet caught up to the change in policy rhetoric. However, if activity
+is as weall next year as expected, further expansionary measures will
+undoubtedly be forthcoming.
+The similarities in the internal situations in the various
+countries are striking, despite some important differences. Unemploy-
+ment is rising sharply, yet price and wage inflation is continuing at
+high levels. Domestic demand is generally weak in all countries, with
+the automobile and construction industries exceptionally weak, and with
+activity in the steel, coal, capital goods, and basic chemical industries
+in some countries relatively strong. All industrial countries have
+relied on exports as a major stimulus to aggregate demand and are thus
+
+IV -13
+concerned about the gloomy outlook for world trade in 1975. Financial
+markets are depressed. Of course, the extent of the weakness of demand,
+and the relative rates of wage and price inflation, differ considerably
+among countries.
+The response of policy to these internal problems has been
+cautious, and special attention has been given to reducing the sectoral
+imbalances. In general, the policy response in the various countries
+has been influenced -- and is likely to continue to be influenced --
+largely by their respective external situations. The consensus among
+all foreign countries -- as expressed, for example, in the recent meeting
+of the OECD's Economic Policy Committee -- is that countries with "strong"
+balance of payments positions have a responsibility to ensure that the
+level of demand in their countries is sufficiently high to avoid a world
+recession. The term "strong" in this context implies either an expected
+current account surplus or, at least, no expectation of serious financing
+problems; in other words, it implies the absence of a balance of payments
+constraint. The major "strong" countries are generally considered to
+be Germany and the United States, in particular, and, to a lesser extent,
+the Netherlands, Belgium, Austria, Norway, Canada, and Japan.
+Recognizing that their domestic situation demands action,
+and also acknowledging their global responsibility, the German
+authorities have recently eased their restrictive posture. In late
+October the Bundesbank reduced both its discount and Lombard rates
+by 1/2 percentage point, and increased rediscount quotas, in a move
+
+IV -14
+interpreted as a moderate but significant change in policy. On the
+fiscal side, the tax reform package going into effect in January 1975
+will add over the year DM 13-15 billion (or about 1.5 per cent of GNP)
+to consumers' disposable income. The government has also announced
+DM 900 million in assistance primarily to the construction sector.
+Additional measures are scheduled to be announced on December 12.
+In mid-November the Dutch authorities proposed a package of
+expansionary measures to moderate the upward trend of unemployment.
+Personal income taxes are to be reduced and social transfers are to be
+increased. Several measures to stimulate private investment, and to
+help the construction industry in particular, were also proposed.
+A budget was presented in Canada on November 18. Concerned
+that the slowdown in other countries -- especially in the United States --
+would have an increasingly severe adverse effect on the Canadian economy,
+Finance Minister Turner announced cuts in personal income taxes and
+other tax measures designed to encourage business capital expenditure
+and residential construction. At the same time, measures were proposed
+to reduce prices and costs directly (a reinstatement of tariff reductions
+and cuts in sales taxes).
+The Japanese have basically maintained their restrictive
+policy stance, in view of the persistence of high rates of inflation.
+However, policy changes may be forthcoming after the wage bargaining
+round in April-May.
+
+IV -15
+The "weak" countries, i.e., those that have present or
+prospective difficulties in financing their current account deficits,
+are not in a position to expand their domestic demand to ensure desired
+levels of output and employment. Most prominent among these countries
+is Italy. Italy's balance of payments problem has been so severe since
+the increase in oil prices, and its rate of inflation has been so high,
+that Italian stabilization policy has, by necessity, been restrictive.
+On December 2, Premier-designate Moro outlined his economic program --
+essentially a continuation of the existing policy stance. He placed
+renewed emphasis on the urgent need to redress the balance of payments
+and to reduce the rate of inflation. Tight controls on credit will
+remain in force, but more guidance will be provided on its allocation.
+Domestic interest rates may come down, but will remain above foreign
+rates to discourage capital outflows. Public expenditures will be kept
+under tight rein.
+Other "weak" countries include the Scandinavian countries,
+except for Norway, which can rely upon capital inflows associated with
+North Sea Oil to finance its current account deficit, and many of the
+smaller OECD countries, e.g., Ireland, Iceland, Spain, Portugal, Greece,
+Turkey, and New Zealand. With the exception of Denmark, these countries
+have generally maintained relatively easy demand management, and, as
+a result, have experienced relatively high rates of growth of output
+in 1974. But such growth cannot be maintained without running into
+serious external financing difficulties.
+
+IV -16
+The international payments positions of France and the
+United Kingdom cannot easily be characterized as either "strong" or
+"weak". Both have large current account deficits, but so far they
+have been able to finance these deficits easily and no major financing
+problems are foreseen. The French authorities have chosen, up to now,
+to maintain credit ceilings and price controls, and to moderate growth
+of government expenditures. On December 6, the Assembly passed an
+anti-inflation tax, to be effective early next year, which will tax
+certain firms whose "value added" increases by more than the expected
+growth of nominal GDP of 14.3 per cent in 1975. However, the stance
+of policy may not be as restrictive as it first appears. The credit
+ceilings are not likely to be binding, since the demand for credit
+has been weakening and several types of credit are exempt from the
+ceilings, in any case. And given recent indications of sharply slower
+activity, and strong union opposition, it is reasonable to expect
+some easing of policy following a general economic review on December 19.
+In Britain, although wage and price increases from 1974 to
+1975 are both expected to be around 20 per cent, the authorities moved
+in mid-November to moderate the decline in private fixed investment,
+mainly by actions to improve the corporate sector's financial positions.
+In the absence of further measures, output is expected to remain
+virtually flat next year. With unemployment likely to be rising,
+more stimulus may well be proposed when the Budget is presented next
+March.
+
+APPENDIX A: THE FULL-EMPLOYMENT SURPLUS: A REVISION OF THE TIME SERIES*
+The staff has made a basic change in its choice of a price de-
+flator for computing full-employment tax revenues. Up to now, the deflator
+which was used reflected not the current rate of inflation, but rather the
+inflation rate experienced four quarters in the past, adjusted downward
+toward a long-run "normal" rate. This deflator--sometimes referred to as
+the Okun deflator--was generally smaller than the actual deflator, and thus
+produced less full-employment revenue and a more stimulative portrayal of
+fiscal policy.
+The justification for our previous use of the Okun deflator was
+that when the economy was operating near or above full employment, use of
+the actual price deflator would fail to record the inflationary impact of
+an increase in government spending, because the inflation induced increase
+in revenues would leave the full-employment surplus relatively unchanged.
+Given the current state of the economy, however, with expected increases in
+unemployment and a high, although decreasing, projected rate of inflation,
+use of the Okun deflator no longer seems appropriate. On the one hand, its
+implicit assumption of return to a long-run normal price path has depressed
+current full-employment receipts to about their actual levels; thus causing
+fiscal restraint to be understated. On the other hand, with respect to pro-
+jections for 1975 and 1976, the lagged nature of the Okun deflator produces
+a larger increase in full-employment receipts than that indicated by the
+declining projected rate of inflation. Thus, for the forecasted period, the
+Okun method seems to overstate the degree of movement toward greater fiscal
+restraint. While under some assumptions one can defend continued use of the
+Okun deflator, its results are becoming difficult to interpret and thus can
+easily lead to confusion.
+For these reasons, the decision has been made to abandon the Okun
+deflator and instead to use the actual or projected deflator for computing
+the full-employment surplus. The following table provides a historical
+series of the full-employment measure under the differing deflator assumptions.
+It should be noted that our new estimates use the same approach as other
+published series, but may still differ due to different assumptions regard-
+ing the path of expenditures, full-employment income shares, and tax rates.
+Our estimates as well as those provided by other analysts assume a constant
+4 per cent growth rate for the potential path of real GNP which presumably
+would yield an unemployment rate of around 4 per cent over the long run. ¹
+1/ The 4 per cent growth in potential GNP reflects an assumed 1.8 per cent
+growth in the labor force, a .3 per cent decrease in annual hours worked,
+and a 2.5 per cent rise in output per man hour when the economy is
+operating at its potential.
+* Prepared by Frank Russek, Economist, Government Finance Section,
+Division of Research and Statistics.
+
+A -2
+If one were to assume that a constantly higher unemployment rate of, say,
+5 per cent represented full-employment, the level of capacity GNP would
+be smaller. However, the growth rate of capacity GNP would be affected
+very little, and hence, the changes in the full-employment surplus would
+not differ by much.
+Full Employment Surplus
+(billions of dollars)
+Calendar Year
+1964
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976 1/Using GNP Deflator
+3.4
+.1
+-4.9
+-12.5
+-9.1
+8.8
+6.2
+2.6
+-3.5
+1.9
+10.4
+25.7
+36.8Using Okun Deflator
+3.6
+.2
+-6.1
+-13.3
+-11.1
+5.6
+2.8
+.6
+-4.3
+-5.1
+-3.3
+16.2
+31.2
+period considered in the current 1/ This estimate extends beyond the
+Greenbook projections.

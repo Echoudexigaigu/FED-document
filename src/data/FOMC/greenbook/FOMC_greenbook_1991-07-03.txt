@@ -1,0 +1,5643 @@
+ 
+Prefatory Note  
+ 
+ 
+The attached document represents the most complete and accurate version 
+available based on original copies culled from  the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserv e System.  This electronic document was 
+created through a comprehensiv e digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain.  
+Please note that this document may contain occasional gaps in the text.  These 
+gaps are the result of a re daction process that removed information obtained on a 
+confidential basis.  All redact ed passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+ 
+                                                
+ 
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and we re not checked or corrected by staff. 
+Confidential (FR) Class III FOMC
+June 26, 1991
+RECENT DEVELOPMENTS
+Prepared for the Federal Open Market Committee
+By the staff of the Board of Governors of the Federal Reserve System
+
+CONTENTS
+II DOMESTIC NONFINANCIAL DEVELOPMENTS
+Employment and unemployment....................................... .1
+Industrial production ............. .... ............. ... ............. 7
+Personal income................................................... 9
+Consumer spending ............ .... ................................. 13
+Housing markets............................. ........... ............ 17
+Business fixed investment.......................... ...... ........... 21
+Inventories ........................... .......................... .26
+The federal government............................................ 29
+State and local governments.................................... ...... 31
+Labor costs....................................................... 33
+Food prices and agricultural conditions............................ 35
+Energy prices and supplies....................................... 39
+Prices ............................................................ 39
+Probability of expansion.......................................... 47
+1987-based real GNP.......................................................... 47
+Tables
+Changes in employment............................................ 2
+Unemployment and labor force participation rates.................. 2
+Changes in employment: Household survey............................ 5
+Growth in selected components of industrial production............. 6
+Capacity utilization in manufacturing............................. 6
+Production of domestic autos and trucks............................ 8
+Personal income................................................... 10
+Movements in disposable personal income relative to GNP........... 10
+Retail sales...................................................... 12
+Sales of automobiles and light trucks............................. 15
+Private housing activity................................... ..... 16
+Housing starts by region................ .. .......... .. ...... .. 18
+Business capital spending indicators.............................. 20
+Inventories of domestic autos and light trucks.................... 27
+Changes in manufacturing and trade inventories.................... 28
+Inventories relative to sales..................................... 28
+Federal government outlays and receipts........................... 30
+Cash and in-kind contributions
+for Operation Desert Shield/Storm............................. 30
+Average hourly earnings............................................ 33
+Employer costs for compensation................................... 34
+U.S. agricultural production and inventories....................... 36
+Recent changes in consumer prices................................. 38
+Recent changes in producer prices................................. 38
+CPI excluding food and energy.................................... 40
+Price indexes for commodities and materials....................... 42
+Recent data on coincident indicators.............................. 48
+1990:4 GNP expenditure shares in 1982 and 1987 dollars............ 50
+Recent movements in 1982- and 1987-based real GNP ................. 53
+Charts
+Output per hour.................................................... 4
+Private housing starts............................... .............. 16
+Speculative construction of single-family housing.................. 18
+Recent data on orders and shipments............................... 22
+Nonresidential construction and selected indicators................ 23
+Nonresidential structures excluding drilling and mining............ 24
+States with deficits in their general fund accounts............... 32
+Average hourly earnings........................................ ........ 34
+
+ii
+II DOMESTIC NONFINANCIAL DEVELOPMENTS--Continued
+Index weights......................... ......... ................... 42
+Commodity price measures.......................................... 44
+Spot prices for industrial metals................................ 45
+Composite index of leading indicators........................... 46
+Probability of expansion........................................... 46
+III DOMESTIC FINANCIAL DEVELOPMENTS
+Monetary aggregates and bank credit............................... 3
+Business finance................................. ................. 7
+Treasury and sponsored-agency financing........................... 9
+Municipal securities.............................................. 12
+Mortgage markets................................................. 14
+Consumer credit................................................... 19
+Tables
+Monetary aggregates........................................ ... 2
+Commercial bank credit and short- and intermediate-term
+business credit............................................... 5
+Gross offerings of securities by U.S. corporations................ 6
+Treasury and agency financing.................................... 10
+Gross offerings of municipal securities............................ 13
+Mortgage-backed security issuance................................. 16
+Consumer credit ................................................... 18
+Consumer interest rates........ ....... ...... ....... .............. .18
+Charts
+Retail CD rollover differential and inflows to bond funds.......... 4
+Initial rate spread vs. ARM share of loans closed................. 16
+Home mortgage delinquency rate at all lenders...................... 17
+Consumer loan delinquency rates.................................... 20
+IV INTERNATIONAL DEVELOPMENTS
+U.S. merchandise trade............................................ 1
+Oil imports: Quantities and prices............................... 4
+Prices of non-oil imports and exports............................. 4
+U.S. current account through 1991:1.............................. 6
+U.S. international financial transactions......................... 10
+The U.S. international investment position......................... 14
+Foreign exchange markets........................................... 15
+Developments in foreign industrial countries...................... 19
+Developments in East European economies.......................... 28
+Economic situation in other countries.............................. 30
+Tables
+U.S. merchandise trade: Monthly data.............................. 1
+U.S. merchandise trade: Quarterly data............................. 2
+Major trade categories............................................ 3
+Oil imports....................................................... 4
+Import and export price measures.................................. 5
+U.S. current account: Quarterly data............................... 7
+U.S. current account: Annual data.................... ............. ........... 8
+Summary of U.S. international transactions....................... 11
+International banking data........................................ 13
+Major industrial countries
+Real GNP and industrial production............................. 20
+Consumer and wholesale prices................................... 21
+Trade and current account balances.............................. 22
+Charts
+Weighted average exchange value of the dollar....................... 17
+Selected dollar exchange rates..................................... 17
+
+DOMESTIC NONFINANCIAL
+DEVELOPMENTS
+
+DOMESTIC NONFINANCIAL DEVELOPMENTS
+Incoming data point to a bottoming out of the recession during the
+early spring and a subsequent upturn in economic activity. Domestic final
+demand appears to be rising moderately, led by solid gains in consumer
+spending. Inventory liquidation continued through April, helping to move
+inventory-sales ratios back to more comfortable levels in many sectors.
+With stocks sharply reduced, the production of motor vehicles has moved up
+appreciably from its first-quarter low. Elsewhere in the manufacturing
+sector, output appears to be leveling off or edging up slightly. "Core"
+inflation has eased from its very rapid pace at the beginning of 1991.
+Employment and Unemployment
+Labor demand appears to have firmed. Total payroll employment edged up
+59,000 in May, and the average workweek jumped 0.3 hour. As a result,
+aggregate hours of production or nonsupervisory workers moved up
+0.9 percent--more than offsetting the April decline of 0.7 percent. After
+dipping to 6.6 percent in April, the unemployment rate more than retraced
+that movement in May, rising to 6.9 percent. However, averaging through the
+last two readings, the unemployment rate has been essentially flat since
+March. Filings for initial claims for unemployment insurance reached a
+cyclical high of 535,000 (FRB seasonals) in late March and have fluctuated
+narrowly just below 450,000 since the week ended May 11.
+The May increase in payroll employment was fairly broad-based. The
+diffusion index of monthly employment changes in 356 private industries
+1. The unemployment rate when seasonally adjusted using a concurrent
+method dropped 0.2 percentage point to 6.6 percent in April but returned to
+6.8 percent in May.
+II-1
+
+II-2
+CHANGES IN EMPLOYMENT 1
+(Thousands of employees; based on seasonally adjusted data)
+1990 1991 1991
+1989 1990 Q4 Q1 Feb. Mar. Apr. May
+----------------- Average monthly changes--------------
+Nonfarm payroll employment2  176 36 -164 -240 -258 -258 -180 59
+Private 143 3 -172 -258 -282 -276 -193 49
+Manufacturing -13 -48 -98 -102 -139 -89 -44 12
+Durable -16 -39 -74 -81 -118 -68 -22 4
+Motor vehicles -3 -5 -13 -11 -17 -8 15 22
+Nondurable 3 -9 -24 -21 -21 -21 -22 8
+Construction 2 -23 -59 -64 -5 -72 -37 13
+Transportation, public utilities 15 9 4 -14 -32 -10 -9 7
+Wholesale trade 5 -5 -13 -20 -19 -14 -23 -3
+Retail trade 25 -5 -40 -67 -78 -86 -53 -13
+Finance, insurance, real estate 3 1 -6 1 -4 3 -17 -4
+Services 105 72 37 9 -7 -7 -7 43
+Health services 27 34 34 27 28 25 35 31
+Total government 32 33 8 18 24 18 13 10
+Private nonfarm production workers 119 -9 -169 -223 -288 -206 -199 32
+Manufacturing production workers -14 -41 -83 -83 -116 -64 -20 16
+Total employment3  148 -32 -103 -273 -4 -164 644 -807
+Nonagricultural 148 -38 -123 -222 -63 -40 587 -924
+Private wage and salary workers 125 -45 -193 -265 -227 -178 44 85
+Self-employed 5 20 29 10 138 50 283 -477
+1. Average change from final month of preceding period to final month of period indicated.
+2. Survey of establishments.
+3. Survey of households.
+UNEMPLOYMENT AND LABOR FORCE PARTICIPATION RATES
+(Percent; seasonally adjusted)
+1990 1991 1991
+1989 1990 Q4 Q1 Feb. Mar. Apr. May
+Civilian, 16 years and older
+Teenagers
+20-24 years old
+Men, 25 years and older
+Women, 25 years and older
+Labor force participation rate5.3 5.5 5.9 6.5 6.5 6.8 6.6 6.9
+15.0
+8.6
+3.9
+4.215.5
+8.8
+4.4
+4.316.4
+9.2
+4.8
+4.618.0
+10.1
+5.5-
+5.017.1
+10.5
+5.6
+4.918.7
+10.3
+5.8
+5.318.1
+10.1
+5.6
+5.219.1
+11.2
+5.8
+5.1
+66.4 66.4 66.2 66.1 66.1 66.2 66.4 66.1
+-- --
+
+II-3
+moved up--indicating that, for the first time in a year, the number of
+industries gaining jobs equalled the number losing them. Manufacturing
+employment edged up in May. Recalls of workers in the motor vehicle
+industry more than accounted for the increase, but most manufacturing
+industries registered greatly moderated job losses or small job gains. The
+notable exception was the machinery industry, where employment dropped
+another 10,000. Construction employment turned up in May; that industry had
+shed about half a million jobs since last June.
+In the private service-producing sector, hiring rose in May, the first
+increase since January. Business services gained 14,000 jobs, about equal
+to its loss over the past three months, and employment in health services
+continued its steady increase. Although employment fell further in
+wholesale and retail trade, the pace of job losses slowed markedly.
+Swings in employment as measured by the household survey were unusually
+large over the April-May period, principally because of large swings in the
+counts of individuals reporting themselves to be government workers or self-
+employed (table). However, the household survey estimate of employment
+changes for private wage and salary workers (excluding private household
+workers) has flattened out in the past two months and is not sharply at odds
+with the pattern in the establishment survey.
+
+II-4
+OUTPUT PER HOUR
+Nonfarm Business Sector
+$82/hour, ratio scale
+S26
+P T PT P T P
+I I I I 1 I I
+I 1 I I 1 1 1
+I 1 I I I I I
+* I I I * 24
+I I I I 1 1 l
+I I I I I I I
+I I I I I I I
+I I I I I I I
+M uc I II I I Se' 1. HI I 22
+1 I I I I I I
+1 I I I I I I
+I I I I I I I
+I I I I I I I
+1 I t I I I I
+-; 20I I I
+I I I I I II I I I I II I I I I 1I I I I I I
+I I I I I I I
+I I I l I I I
+I I I I I I I
+I I I I I I II~E 3 r 5I I 1
+I I 1 I I II [ 1 1 1y I 1
+I I I I I..... I I I II~ I IE I II I II I I E
+II I t I L I
+I I I I I I I I I' I I Ii C 1 1 1 i'' ' ' ''''''' 14I I 1 I I II
+I I I I I 1
+I I I I 1 1
+1 I I I II I I
+* I I I I I
+* I I I I I
+I _I I 1 I I . . . Manufacturing Sector $82/hour, ratio scale-26
+P T PT P T P
+I I I I I 1
+I I 1 I I IT
+I I I ~ 24
+1 I I I I I
+I I I l I I I
+I 1 I I I I
+I I I 1 1 I
+1 I II I I I r 1 I -22* I I I I 1 1I I I I I 1 I I 1 1 I I
+I I I f
+I i I I I r
+* r r 1 g I I
+I 1 1 I II
+I I I I I 1 1 * I I 1 I I Ig I 11 r I
+I I I I I I I
+I I I I I I II I 1 1I II g Il I 1I I rI r I I
+I I I I 1 I
+I r 11 I
+I I li I 1
+I flI I I-r
+g li I I r
+I I I I I I I
+I/ I 1 2 I I I 1
+1 1 - I I I
+I I 11 I I I
+1973 1976 1979 1982 1985 1988
+
+II-5
+CHANGES IN EMPLOYMENT -HOUSEHOLD SURVEY 1
+(Thousands of employees; based on seasonally adjusted data)
+1991 1991
+1990 Q1 Mar. Apr. May
+------ Average monthly changes-----
+Nonagricultural employment -38 -222 -40 587 -924
+Wage and salary workers -57 -213 -114 242 -84
+Government -9 63 37 235 -160
+Private wage and salary workers -45 -265 -178 44 85
+Private household workers -4 -11 27 -37 -9
+Self-employed 20 10 50 283 -477
+Unpaid family workers -1 -5 -15 -11 -7
+1. Components may not sum to totals because of independent seasonal
+adjustment of the total and its components.
+Other indicators from the household survey also point to a
+stabilization of labor market conditions. Persons who reentered the
+workforce or who were entering the labor force for the first time accounted
+for almost half of the May increase in unemployment; earlier in the year,
+job losers had dominated the net change in unemployment. The number of
+individuals involuntarily employed part time for economic reasons also
+declined over the past two months.
+Labor productivity in the nonfarm business sector grew at a 0.3 percent
+annual rate in the first quarter of 1991, reflecting large and nearly
+offsetting declines in both output and hours worked. The behavior of
+productivity in this recession has differed somewhat from the typical
+cyclical pattern. The typical pattern is that productivity flattens out or
+declines near the end of an expansion; it subsequently declines sharply
+early in a recession as production first slows and then is cut back while
+labor continues to be hoarded. Productivity usually begins to stabilize in
+
+II-6
+GROWTH IN SELECTED COMPONENTS OF INDUSTRIAL PRODUCTION
+(Percent change from preceding comparable period)
+Proportion
+in
+total
+IP
+1990:Q41990 1991
+199011991
+Q4 , Q1 Mar. Apr. May
+Total index
+Excluding motor vehicles
+and parts and utilities
+Products, total
+Final products
+Consumer goods
+Automotive products
+Other consumer goods
+Durables
+Nondurables
+Energy
+Other
+Business equipment
+Motor vehicles
+Other business equipment
+Information processing
+and related
+Industrial
+Defense and space equip.
+Construction supplies
+Materials
+Durable
+Nondurable
+Energy
+Memorandum:
+Manufacturing
+Excluding motor vehicles
+and parts
+Mining
+Utilities
+1. From the final quarter of
+indicated.100.0
+88.5
+61.4
+46.9
+25.7
+2.2
+23.5
+3.0
+20.5
+2.7
+17.8
+15.8
+1.0
+14.8
+6.6
+4.3
+4.8
+5.7
+38.6
+19.6
+8.8
+10.2
+84.9
+81.0
+7.5
+7.6--Annual rate-
+0.3 -7.0 -9.6 -0.6 0.3 0.5
+1.0 -4.7 -8.7 -0.9 0.0 -0.0
+0.6
+'1.1
+-0.7
+-7.3
+0.0
+-3.9
+0.6
+-2.3
+1.0-5.3
+-5.3
+-3.8
+-37.6
+0.4
+-16.2
+3.2
+-2.4
+4.1-8.7
+-7.3
+-6.9
+-24.6
+-5.1
+-10.9
+-4.2
+-4.9
+-4.1-0.3
+-0.1
+0.1
+0.9
+0.1
+0.7
+-0.0
+0.7
+-0.1
+4.2 -7.6 -7.4 -0.2
+-9.4 -49.8 -42.2 2.3
+5.3 -3.4 -4.5 -0.4
+5.1
+1.3
+-0.2
+-4.6
+-0.1
+-0.5
+0.5
+0.00.4
+-10.2
+-4.7
+-12.0
+-9.7
+-13.9
+-5.5
+-4.57.0
+-14.1
+-8.7
+-21.0
+-11.1
+-16.6
+-6.9
+-3.3-0.3
+0.3
+-0.8
+-2.3
+-1.2
+-2.1
+-0.6
+-0.10.3
+0.4
+0.6
+6.3
+0.1
+1.3
+-0.1
+-0.7
+0.0
+0.6 -0.3
+10.0 4.2
+0.0 -0.6
+-0.2
+-0.4
+-1.4
+1.2
+0.4
+1.0
+0.1
+-0.5-0.5
+-1.0
+-0.7
+0.5
+0.6
+0.5
+-0.1
+1.4
+0.3 -7.4 -10.4 -0.8 0.5 0.2
+0.9 -4.9 -9.2 -0.9 0.2 -0.0
+2.4 -1.4 -3.9 -1.3 -1.5 -0.1
+-2.1 -7.6 -7.6 1.7 0.1 3.9
+the previous period to the final quarter of the period
+CAPACITY UTILIZATION IN MANUFACTURING
+(Percent of capacity; seasonally adjusted)
+1967-89 1988-89 1990 1991
+Avg. High May Mar. Apr. May
+Total industry 82.2 85.0 83.4 78.4 78.5 78.7
+Manufacturing 81.5 85.1 82.9 77.2 77.4 77.3
+Primary processing 82.3 89.0 85.0 77.9 78.1 78.3
+Advanced processing 81.1 83.6 82.1 76.8 77.1 76.9
+
+II-7
+the middle of recessions as firing becomes more aggressive and finally rises
+sharply during the initial phase of a recovery as production snaps back.
+In the current episode, however, productivity fell more than is typical
+in the late expansion period--at a 1.6 percent annual rate between the
+fourth quarter of 1988 and the first quarter of 1990--as output growth
+decelerated sharply and firms continued to hire at a relatively rapid pace.
+Productivity then began to stabilize prior to the cyclical peak, as firms
+attempted to control labor costs and halt the slump in profits. This was
+particularly true in manufacturing industries where competitive pressures
+were greatest. These cost-cutting efforts continued during the recession
+and were reflected in a prompt and aggressive shedding of labor as output
+fell. This has been quite evident in construction and wholesale trade,
+while manufacturers continued the process begun in early 1989.
+Industrial Production
+Industrial production rose in April and May, after declining sharply
+earlier this year (table). The gains resulted, in part, from an increase in
+motor vehicle output and a firming in industries that produce construction
+supplies. In addition, unseasonably warm weather in May provided a
+transitory boost to output at utilities, which raised the total IP index
+more than 1/4 percent in that month.
+From September to February, motor vehicle assemblies plunged 3-3/4
+million units at an annual rate (FRB seasonals) and, when allowance is made
+for both direct and indirect effects, accounted for nearly one-half of the
+decline in total IP during this period. However, motor vehicle assemblies
+have increased 1-1/4 million units since February, which has boosted the
+total index by more than 1/4 percentage point in each month. Currently,
+
+II-8
+domestic makers have scheduled motor vehicle assemblies in June at a
+9.2 million unit annual rate. However, in the first three weeks of June,
+auto production was running about 4 percent short of the scheduled assembly
+rate; truck production was about on schedule. If that pace continues for
+the remainder of the month, domestic motor vehicle production for June would
+likely be up slightly from the May level (table).
+PRODUCTION OF DOMESTIC AUTOS AND TRUCKS
+(Millions of units at an annual rate; FRB seasonal basis)
+1990 1991 1991
+Q3 Q4 Q1 Apr. May June 1
+Domestic production:
+Autos 6.9 5.6 5.1 5.1 5.3 5.3
+Trucks 4.1 3.2 2.6 3.3 3.4 3.6
+1. The estimate of domestic auto and truck production in June is based
+on actual assemblies through the week ended June 21, as seasonally adjusted
+by FRB staff.
+Output of construction supplies, which dropped sharply late last year
+and early this year, turned up in April and May, consistent with the pickup
+in housing starts in recent months. In addition, part of the rebound in
+output of consumer durables excluding motor vehicles (for example,
+appliances, carpeting, and furniture) probably is attributable to a firming
+in the housing sector.
+Output of business equipment has continued to decline in recent months,
+owing in part to weakness in production of office and computing machines and
+industrial equipment. Although output in this sector continued to weaken
+through May, production of capital goods typically continues to decline in
+the initial months following a trough in the total index.
+
+II-9
+Capacity utilization in manufacturing edged down a bit further in May
+and has declined nearly 6 percentage points since July 1990. During this
+period, the operating rate in primary processing has dropped about
+8 percentage points to 78.3 percent; while the current operating rate in
+advanced processing industries, at 76.9 percent, has declined 5 percentage
+points since last July.
+Available physical product data for June are mostly pointing upward.
+The expected increase in motor vehicle assemblies should contribute about
+0.1 percentage point to total IP in June, and electricity generation through
+mid-month is down only slightly from the May average. The most recent
+observations on other physical product data, which include steel, plywood,
+and paper, are up, on net, from their May averages; if these gains hold up
+through the remainder of the month, these series would contribute about
+1/4 percent to total IP in June. Adjusted durable goods orders rose
+1-1/2 percent in May after a 5-1/4 percent increase in April. In recent
+months, increases in new bookings have been fairly widespread--consistent
+with an increase in June IP.
+Personal Income
+Although growth in personal income remained weak early in the second
+quarter, signs of a pickup have begun to emerge. Private wages and salaries
+rose $5.6 billion in April, the largest increase since December, and the
+available labor market data indicate a sizable increase in May.2 Higher
+subsidy payments to farmers boosted income growth substantially in March but
+were partly reversed in April; growth in the remaining components of income
+2. Revised labor market data indicate a sharper decline in employment and
+the workweek in April than originally reported, which likely will cause the
+wages and salaries component of personal income to be lowered for the month.
+
+II-10
+PERSONAL INCOME
+(Average monthly change at an annual rate; billions of dollars)
+1990 1991 1991
+1990 Q4 Q1 Feb. Mar. Apr.
+Total personal income
+Wages and salaries
+Private
+Other labor income
+Proprietors' income
+Farm10.9 2.1 -3.4
+8.2 -.2 -7.3
+Rent
+Dividend
+Interest-.6 -.5
+.6 -.6
+.5 -2.5
+Transfer payments
+Less: Personal contributions
+for social insurance
+Less: Personal tax and nontax
+payments
+Equals: Disposable personal income
+Memo: Real disposable income5.2 6.7 9.7 2.6 6.0 2.7
+.1 2.5 .0 .2 .4
+4.0 1.9 -.4 -.8 1.4 2.5
+16.5 13.2 3.3 10.6 16.0
+-.8 -1.1 -5.7 1.0 9.5 -4.3
+MOVEMENTS IN DISPOSABLE PERSONAL INCOME RELATIVE TO GNP
+(Percentage point change from the peak)
+Current Average of
+recession postwar recessions
+Real disposable personal income2  -.2 .9
+Disposable personal income .3 1.1
+Private wages and salaries -.6 .0
+Government wages and salaries .3 .3
+Nonfarm proprietors' income -.1 -.1
+Personal interest income -.1 .3
+Transfer payments .8 .7
+Unemployment insurance payments .1 .2
+Other transfer payments .7 .5
+Other income .0 -.1
+Minus contributions to social insurance .1 .0
+Minus personal taxes .1 .1
+1. Recessions starting in 1953, 1957, 1960, 1969, 1973, 1980, and
+1981.
+2. Scaled by real GNP.
+S. Sc0A1p h- nnmnnal WNP20.5 15.2 2.8 9.8 17.3 3.3
+.4
+-2.63.1 6.1
+.7 5.6
+1.3 1.0 1.0 1.0 1.0 1.0
+2.1 4.9 1.8 9.2 12.9 -4.3
+.5 4.8 1.9 7.6 11.5 -5.2
+-.4
+.4
+-3.2-.5
+-2.3
+-2.6.1
+-.1
+-2.0
+
+II-11
+has remained lackluster. In particular, interest income is estimated to
+have fallen in every month from December through April. After accounting
+o
+for changes in consumer prices, real disposable personal income (DPI) fell
+$4.3 billion in April. However, the decline follows a $9.5 billion rise in
+March.
+On balance, real DPI fell 1-1/4 percent in the first two quarters of
+this recession--a relatively large decline by historical standards compared
+with the contraction in real GNP. On average, real DPI as a percent of real
+GNP has risen 0.9 percentage point in the first two quarters of a recession,
+while in the recent downturn, it fell 0.2 percentage point (table). Part of
+this difference reflects shifts in relative prices associated with the
+increase in excise taxes and the oil price shock. 3 But the bulk of the
+discrepancy lies in the growth of nominal DPI relative to GNP and can be
+traced principally to two components: private wages and salaries and
+personal interest income.
+Private wages and salaries fell more in this recession than would be
+expected given the movements in GNP. In large part, this is the flip side
+of the better-than-average, peak-to-trough productivity performance: Hours
+fell more rapidly than is typical, as firms moved aggressively to trim
+payrolls and cut costs. In addition, slow growth in average hourly earnings
+in 1990:Q4 and 1991:Q1 contributed to sluggish growth in private wages and
+salaries.
+3. Technically, higher energy prices boosted consumer prices (the PCE
+deflator), which are used to deflate nominal disposable income, more than
+the GNP deflator. Prices of the goods consumed in the United States rose
+more rapidly than the prices of goods produced, in part because of the
+U. S. position as a net importer of petroleum products.
+
+II-12
+RETAIL SALES
+(Seasonally adjusted percentage change)
+1990 1991 1991
+Q3 Q4 Q1 Mar. Apr. May
+Total sales
+Previous estimate
+Retail controll
+Previous estimate
+Total excl. automotive group
+Previous estimate
+GAF2
+Previous estimate
+Durable goods stores
+Previous estimate
+Bldg. material and supply
+Automotive dealers
+Furniture and appliances
+Other durable goods
+Nondurable goods stores
+Previous estimate
+Apparel
+Food
+General merchandise3
+Gasoline stations
+Other nondurables4
+Memo:
+Motor vehicle sales5
+Autos
+Light trucks.1 -1.0
+-.9
+.5 -.3
+-.3
+.3 -.3
+-.3
+.7 -2.0
+.0 -1.3 -2.0
+-1.8
+.4
+.4
+-1.9
+.4
+2.1
+.9
+1.2
+1.7
+8.5
+1.4
+14.2
+9.7
+4.5-3.1
+-.9
+-2.4
+-.5-.6
+-3.4
+-1.2
+1.9.2
+.4
+.1
+.1
+.0
+.0
+-.4
+-.6
+.9
+1.3
+-2.1
+1.3
+.7
+2.8
+.9 -.4 -.1 -.5
+-.4 -.1 -.5
+-3.0
+.5
+-1.4
+9.5
+.4
+12.9
+9.0
+4.0.0
+.3
+1.8
+-9.8
+1.3
+11.8
+8.2
+3.6-1.8
+1.5
+-.2
+-2.1
+-.6
+12.5
+8.7
+3.8
+1. Total retail sales less building material and supply stores and
+automotive dealers, except auto and home supply stores.
+2. General merchandise, apparel, furniture, and appliance stores.
+3. General merchandise excludes mail order nonstores; mail order
+sales are also excluded in the GAF grouping.
+4. Includes sales at eating and drinking places, drug and proprietary
+stores.
+5. Millions of units at an annual rate; BEA seasonals.-.4
+-.1
+-.6
+-.3
+-.3
+-.2
+1.3
+1.4
+-1.3
+1.6
+1.5
+3.7-.1
+.6
+6.2
+-.7
+.3
+-4.0
+2.4
+-.6
+.4
+-2.5
+-1.1
+11.7
+7.9
+3.82.4
+.9
+.7
+1.4
+.2
+12.3
+8.4
+3.9
+
+II-13
+Changes in interest income also have been unusual during this downturn.
+Rather than rising strongly as in previous recessions, the level of interest
+income has fallen slightly. Interest income is affected by both the growth
+in assets and interest rates, and it is the behavior of interest rates that
+appears atypical. Most previous recessions were preceded by periods of
+rising interest rates, resulting in a rise in interest income during the
+first two quarters of the downturn. However, in the current episode, the
+cyclical peak was preceded by falling interest rates, which has generated
+declines in interest income over the course of this recession.
+Tax policy may have been slightly less effective at stabilizing
+disposable income in the recent recession and boosting DPI in the early
+phases of the recovery. Only during the initial phase of the 1973 recession
+did personal federal tax payments fall more slowly. Although this result is
+partially explained by the decline in marginal tax rates legislated in the
+1986 Tax Reform Act, the more important explanation concerns discretionary
+tax policy. Tax cuts occurred in each of the past three recessions,
+although taxes were not reduced until six quarters after the onset of the
+1973 recession. In contrast, discretionary fiscal policy has been
+restrictive in the current recession, and the Omnibus Budget Reconciliation
+Act passed in October 1990 is estimated to have raised revenues $32 billion,
+at a seasonally adjusted annual rate, in the first two quarters of FY1991;
+$13.5 billion of this increase represents higher income and social insurance
+taxes.
+Consumer Spending
+Incoming data suggest that personal consumption expenditures are
+continuing on the upward course that has prevailed since the apparent trough
+
+II-14
+in spending in January. Sales of cars and light trucks picked up in May and
+rose further in the first 20 days of June. Spending on goods other than
+motor vehicles rose sharply in May, while the consumption of services also
+has strengthened noticeably.
+Nominal sales at stores in the retail control category, which provide a
+reading on consumption expenditures for goods other than motor vehicles,
+rose 1.0 percent in May.4 Sales were particularly strong for the second
+consecutive month at general merchandise stores, apparel outlets, and
+furniture and appliance stores, where spending is thought to be largely
+discretionary. With prices for comparable items rising about 0.4 percent in
+last month's CPI, May retail sales likely will translate into a sizable
+increase in real PCE for goods other than motor vehicles. Sales at gasoline
+stations also increased, but the rise appears to reflect higher prices for
+gasoline.
+Although sales of motor vehicles have strengthened in recent weeks,
+they remain quite weak by historical standards. Domestically produced light
+vehicles sold at a 10.4 million unit annual rate in the first twenty days of
+June, up from a 9.6 million unit annual pace in May. The recent pickup was
+particularly notable in the market of light trucks and vans, where sales
+were especially sluggish last winter. Sales of imported autos also have
+recovered from their weak January-February pace.
+4. The retail control category is calculated by subtracting sales at auto
+dealers and building materials and supply stores from total retail sales.
+
+II-15
+SALES OF AUTOMOBILES AND LIGHT TRUCKS 1
+(Millions of units at an annual rate, BEA seasonals)
+1990 1991 1991
+Q3 Q4 Q1 Mar. Apr May June2
+Autos and light trucks 14.18 12.95 11.80 12.49 11.68 12.29 n.a.
+Autos 9.72 8.98 8.22 8.73 7.93 8.43 n.a.
+Light trucks 4.47 3.97 3.57 3.76 3.76 3.86 n.a.
+Domestically produced 3 11.30 10.18 9.25 9.63 8.96 9.63 10.4
+Autos 7.21 6.59 5.99 6.18 5.50 6.09 6.7
+Light trucks 4.09 3.59 3.26 3.45 3.46 3.55 3.7
+Imports 2.89 2.76 2.54 2.87 2.72 2.66 n.a.
+Autos 2.51 2.38 2.23 2.55 2.43 2.34 n.a.
+Light trucks .38 .38 .31 .32 .29 .32 n.a.
+1. Components may not add to totals due to rounding.
+2. First twenty days, FRB seasonals.
+3. Includes vehicles produced in Canada and Mexico for General Motors,
+Ford, and Chrysler.
+Note: Data on sales of trucks and imported autos for the current month
+are preliminary and subject to revision.
+Service outlays were estimated to have increased 0.5 percent in April
+and 0.9 percent in March; spending in both months was boosted by a rebound
+in energy outlays, further strong gains in medical services, and increases
+in net foreign travel. Information on spending on services in May is not
+yet available, but with temperatures unseasonably warm in many parts of the
+country, outlays likely were boosted by higher spending on electricity for
+air conditioning.
+Because the recent increases in personal consumption expenditures have
+come against a backdrop of continued weakness in real disposable personal
+income, the personal saving rate dropped to around 3-1/2 percent in March
+and April. That reading is a touch below the rates that prevailed early in
+the third quarter of last year, when consumers dipped into their saving to
+
+II-16
+PRIVATE HOUSING ACTIVITY
+(Seasonally adjusted annual rates; millions of units)
+1990 1990 1991 1991
+Annual Q3 Q4 Q1r Marr Apr Mayp
+All units
+Permits 1.11 1.04 .90 .86 .89 .91 .98
+Starts 1.19 1.13 1.04 .92 .91 .98 .98
+Single-family units
+Permits .79 .76 .67 .67 .69 .74 .76
+Starts .90 .86 .79 .73 .74 .81 .83
+Sales
+New homes .53 .52 .47 .47 .49 .50 n.a.
+Existing homes 3.30 3.30 3.12 3.09 3.22 3.31 3.51
+Multifamily units
+Permits .32 .29 .23 .19 .20 .17 .22
+Starts .30 .28 .26 .19 .17 .17 .15
+Vacancy rate
+Rental units 9.1 9.5 9.0 9.4 n.a. n.a. n.a.
+Owned units 7.2 6.6 6.6 7.6 n.a. n.a. n.a.
+1. Percent. Owned units consist mainly of condominiums.
+p Preliminary. r Revised estimates. n.a. Not available.
+PRIVATE HOUSING STARTS
+(Seasonally adjusted annual rate)
+Millions of unts
+1982 1983 1984 1985 1986 1987 1988 1989 1990 1991
+
+II-17
+spend through what apparently was perceived as a transitory surge in energy
+prices following the invasion of Kuwait. The rebound in the saving rate
+this winter roughly coincided with the beginning of the downturn in consumer
+energy prices and likely also was supported by households' increased
+uncertainty about future employment prospects because of the deepening
+recession. Some of the recent decline in the saving rate may reflect
+increased consumer optimism about the economy. The unusually large decline
+in personal interest income also may account for a small portion;
+historically, consumption expenditures have not been very sensitive to
+fluctuations in interest income, and as a result, a decline in interest
+income tends to lower the saving rate in the short run.
+Housing Markets
+The housing sector has been on a path of gradual recovery in recent
+months. Single-family housing starts strengthened in April and May, and
+sales of new and existing homes moved higher. However, construction
+activity in the multifamily sector remains quite weak. Starts of
+multifamily units fell further in May. Regionally, data for April and May
+suggest that construction in each of the four Census regions now may have
+bottomed out (table).
+By May, single-family housing starts stood 28 percent above the January
+level when starts hit a recent low. The pickup in production is consistent
+with this year's gradual expansion of demand for single-family homes. The
+volume of new home sales rose for the third consecutive month in April,
+reaching the half-million unit pace for the first time since last September
+5. Construction first began to decline in the South, and the contraction
+has been most severe in the Northeast.
+
+II-18
+Speculative Construction of Single-Family Housing *
+(As a share of all single-family starts)
+Percent
+(seasonally adjusted)
+S64
+P
+60
+56
+1970 1973 1976 1979 1982 1985 1988 1991
+Sunits started before sale
+HOUSING STARTS BY REGION
+Cyclical Date of Change from Change from 91:Q1
+Region Peak Peak peak to 91:Q1 to April/May average
+---------------- Percent----------------
+U.S. Total 1899 86:Q1 -52 7
+Northeast 315 86:QI -70 11
+Midwest 372 87:Q1 -38 -2
+South 984 83:Q3 -62 1
+West 514 86:Q2 -59 26
+1. Thousands of units at a seasonally adjusted annual rate.
+
+II-19
+and rising 21 percent above the eight-year low recorded in January. In the
+market for existing homes, sales rose an additional 6 percent in May to
+their highest monthly volume in a year and a half. Recent sales prices of
+existing homes also suggest some firming in demand. Surveys of housing
+market participants indicate a pickup in activity in the single-family
+sector. Homebuilders surveyed by their national association at the end of
+May reported about the same improved volume of current sales and
+expectations for the year ahead as they had reported in late April.
+Consumer attitudes, meanwhile, remain more favorable toward homebuying than
+at any time since 1988, according to the University of Michigan's surveys in
+May and June.
+In the still-depressed multifamily sector, starts fell to an annual
+pace of 150,000 units in May, the lowest monthly reading since the 1950s.
+However, the average level of permit issuance for multifamily construction
+in recent months suggests that the true level of apartment and condominium
+construction might be somewhat higher than the May estimate of starts would
+indicate. Nevertheless, multifamily construction clearly is quite weak and
+is unlikely to recover in the near term. More than 80 percent of all newly
+built multifamily housing units are rental apartments, and vacancy rates
+remain high at almost 9-1/2 percent. Until these rates come down
+substantially, a sustained increase in developer interest in construction of
+multifamily housing is unlikely. Even then, lenders are likely to remain
+cautious.
+Inventories of unsold new homes have continued to trend down in part
+because of a falloff in speculative construction. While most of the drop-
+off in speculative construction reflects normal cyclical movements, the
+
+II-20
+BUSINESS CAPITAL SPENDING INDICATORS
+(Percentage change from preceding comparable periods;
+based on seasonally adjusted data)
+1990 1991 1991
+Q3 Q4 Q1 Mar. Apr. May
+Producers' durable equipment
+Shipments of nondefense capital goods 1.2 1.4 -2.2 -2.5 1.0 1.0
+Aircraft and parts 11.5 -2.2 2.9 -15.6 9.3 2.1
+Excluding aircraft and parts -0.9 2.2 -3.3 0.9 -0.7 0.8
+Office and computing -1.1 4.2 -3.9 1.5 0.1 -2.3
+All other categories -0.8 1.6 -3.1 0.7 -1.0 1.7
+Shipments of complete aircraft 16.2 -3.2 4.4 -15.7 17.8 8.0
+Weighted PDE shipments (incl. air)1  1.6 1.8 -3.6 -3.3 3.3 1.2
+Sales of heavy-weight trucks 6.4 -10.8 -9.1 -0.4 -7.6 -2.8
+Orders of nondefense capital goods 4.5 5.3 -6.6 -5.4 -10.0 4.2
+Excluding aircraft and parts -0.2 0.8 -4.0 -6.8 3.9 2.9
+Office and computing 6.0 -7.0 3.6 2.3 -5.3 7.4
+All other categories -1.9 3.3 -6.1 -9.4 6.9 1.6
+Nonresidential structures
+Construction put-in-place 1.1 -5.5 -1.9 -4.3 3.4 n.a.
+Office 1.6 -8.4 -3.4 -3.5 1.5 n.a.
+Other commercial -2.5 -9.3 -7.8 -7.3 7.2 n.a.
+Public utilities 0.0 1.4 0.7 -3.5 0.1 n.a.
+Industrial 2.3 -6.0 3.9 -4.4 5.5 n.a.
+All other 4.5 -6.0 -2.3 -3.1 3.9 n.a.
+Rotary drilling rigs in use -2.8 -2.8 0.9 -3.5 -6.0 -3.0
+Footage drilled211.8 6.9 -7.0 3.8 -11.2 n.a.
+1. Computed as the weighted sum of 26 individual equip
+Census M-3 report, with weight for each type of equipmen
+final business spending to shipments.
+2. From Department of Energy. Not seasonally adjusted.
+n.a. Not available.ment series from the
+t equal to the ratio of
+
+II-21
+decline as a share of single-family starts has been somewhat greater than in
+previous cycles and may indicate that lenders have been particularly
+cautious (chart). By the end of April, inventories had dropped
+20 percent from the cyclical peak in 1989.
+Business Fixed Investment
+Real outlays for business fixed investment fell 16-1/4 percent at an
+annual rate in the first quarter. 7 Declines were registered in almost
+every major category, with double-digit drops posted by spending on motor
+vehicles, industrial equipment, and office and other commercial building.
+However, recent indicators suggest some flattening out of the path for both
+equipment and structures.
+For equipment, the most recent orders and shipments data suggest that
+spending may have stabilized somewhat in the current quarter. Indeed, the
+average level of nominal PDE shipments in April and May, including aircraft
+and weighted to reflect only final business purchases, was 1.2 percent above
+the first-quarter level. Much of this rise reflects greater shipments of
+complete aircraft, but spending on other types of equipment edged up as
+well. In addition, although nominal computer shipments have been soft
+6. Speculative construction represents new homes that are built before
+buyers have been secured.
+7. Nominal BFI fell at a 14-3/4 percent annual rate in the first quarter;
+in contrast, the latest Commerce Department survey of nominal plant and
+equipment expenditures (P&E) reported a 5 percent increase at an annual rate
+in the first quarter. Such a discrepancy reflects the fact that the two
+investment series are obtained from very different sources. BFI reflects
+the actual shipment of equipment and the progress made in new construction,
+while P&E is measured from the recorded expenditures of firms. In addition,
+there are differences in coverage that can only be reconciled on an annual
+basis. For example, capital expenditures by the farm sector and outlays for
+new motor vehicles held for less than one year are included in BFI but not
+in P&E. Thus, the P&E estimate for the first quarter provides little
+evidence that BFI was stronger than reported.
+
+II-22
+Recent Data on Orders and Shipments
+(Excluding motor vehicles and parts)
+Office and computing equipment
+Billions of dollars
+Orders
+Shipments
+1985 1986 1987 1988 1989 1990 1991
+Other equipment (excluding aircraft and computers)
+Billions of dollars
+Orders
+-- 16Shipments
+I I
+1985 1986 1987 1988 1989 1990
+1990 1985 19861987 1988 1989
+
+II-23
+Nonresidential Construction and Selected Indicators
+(Dec. 1982 = 100, ratio scale)
+Total building
+1979 1981 1983 1985 1987 1989 1991
+Office
+Construction
+-
+PermitsOther corn mercial
+-160
+-120
+80
+I I I t I I I I
+1983 1985 1987 1989
+industrial1983 1985 1987 1989 1991
+institutional
+New commitments _,' 18C
+" -- ,12C
+CosI -ruto 60
+Construction
+--60
+I I I
+1983 1985 1987 1989 1991 1983 1985 1987 1989 1991
+1. Six-month moving average for all series shown. For contracts, tolal only includes private, while individual sectors include private and public.
+New commitments are the sum of permits and contracts. Contracts and permits extend through May.I I I I I' ''-
+
+6/26/91
+II-24
+NONRESIDENTIAL STRUCTURES EXCLUDING DRILLING AND MINING
+P T PT P T
+I I II I I
+* T II I I
+I t II I I
+* I II I I
+I I II I I
+* I II I I
+I I II I I
+I I II I IBillions of 1982 dollars
+-- 130
+PT
+I I
+I I
+-Ir
+II
+I ,
+I 4
+I IIII '
+I I
+SII
+I Iml
+I I
+SII
+II
+II
+II
+II
+II
+II
+I'1 1.. I
+I I
+I I
+I I
+I I
+I I
+-11
+I bI
+I
+r
+r
+I
+r
+r
+r
+I
+r
+I
+I
+r
+I
+I
+I
+I
+r
+I
+I
+r
+r
+r
+1 II
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+II
+I
+I
+I
+I
+I
+; ,,,,,,
+1960 1965 1970 1975 1980 1985 1990II I
+II I
+I I I
+II I
+II I
+IF F
+II I
+I I
+II I
+I I F
+II I
+II II
+I
+r
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+r
+I
+r
+r
+I
+1 1 I
+1960 19651970 1975 1980 1985 1990" m
+
+II-25
+recently (chart), computer prices have been falling quite rapidly because of
+competitive pressures, and real gains in spending are likely in the current
+quarter. Finally, with total auto and light truck sales rebounding this
+quarter, business purchases of motor vehicles are likely to stabilize as
+well.
+On the nonresidential construction side, excluding drilling and mining,
+outlays fell rapidly between the middle of last year and 1991:Q1. A large
+overhang of commercial space along with recessionary declines in most other
+sectors depressed spending. However, a pause in this decline is suggested
+by the nominal construction put-in-place data for April, which stood almost
+1 percent above the first-quarter average. Although the construction
+estimates are subject to large revisions, it also appears that total
+contracts for new construction flattened out a bit last quarter as well.
+The current-quarter outlook for drilling and mining is decidedly
+negative. Although this sector was supported through the recession by the
+run-up in oil prices, a retrenchment now appears to be in progress. Footage
+drilled dropped sharply in April, and the May level of rigs in use was
+10 percent below that in the first quarter.
+Excess supply remains a problem in the real estate market. Coldwell-
+Banker estimates that national vacancy rates for office buildings stood at
+19.5 percent at the end of the first quarter, close to its record high of
+21.5 percent in early 1987. Similarly, the industrial vacancy rate was
+7 percent--above its average of the past few years. Thus, it is likely that
+8. Recent reports indicate that computer manufacturers have cut prices on
+personal computers in order to maintain or regain market share. As a
+result, the April and May average of the new PPI measure of prices for
+electronic computers fell 12 percent (at an annual rate) relative to
+1991:Q1.
+
+II-26
+nonresidential construction will provide some drag to the economy over the
+next year. Nonresidential building typically lags the business cycle at
+troughs and does not play an important role in spurring the economy during
+the initial phase of a recovery (chart). Indeed, averaging across the last
+six recessions, nonresidential building (excluding drilling and mining) has
+fallen almost 1-1/2 percent in the four quarters following a business cycle
+trough.
+Inventories
+Business inventory liquidation continued through April. Inventories in
+manufacturing and trade were depleted at a $53.5 billion (current-cost)
+annual rate in April, following a $29.3 billion rate of liquidation in the
+first quarter. These sharp inventory corrections have returned inventory-
+sales ratios for most industries to the middle portions of the ranges of
+the past year.
+After a sharp runoff around the turn of the year, factory stocks posted
+a net decline of $2 billion in real terms during the first quarter as a
+whole. Preliminary current-cost data suggest that manufacturers' inventory
+corrections continued in April. Since the recession began last summer,
+manufacturers' inventory imbalances have been concentrated in upstream
+industries--primary metals, chemicals, rubber and plastics--likely
+reflecting the reduced demand for production materials as industrial
+producers trimmed their output. The absence of excess stocks at final goods
+industries at present suggests that production may rise quickly once
+companies are confident that the recovery in final demand is firmly
+established.
+
+II-27
+Real automotive inventories were reduced at an annual pace of
+$18.2 billion in the first quarter, and because of conservative assemblies
+so far this year and recent increases in sales, dealers' inventories have
+been drawn down further. At the May pace of sales, this level of stocks
+amounts to only 46 days of supply--the lowest since September 1986, when
+inventories dropped sharply after automakers put into place massive consumer
+buying incentives. 9 Days' supply of light trucks stood at 72 in May.
+INVENTORIES OF DOMESTIC AUTOS AND LIGHT TRUCKS
+(Millions of units; BEA seasonal basis)
+1990 1991 1991
+Q3 Q4 Q1 Mar. Apr. May
+Inventories:
+Autos 1.40 1.26 1.06 1.06 1.00 .91
+Light trucks 1  1.10 1.07 .83 .83 .85 .83
+Days' supply:
+Autos 60 59 54 53 56 46
+Light trucks 82 92 79 74 75 72
+1. FRB seasonal factors.
+The pace of nonauto retail inventory liquidation appears to have
+slowed early this spring. In response to substantial drawdowns since
+January, inventory-sales ratios for most types of nonauto retail
+establishments have eased. In particular, for the broad range of stores in
+the GAF grouping, a sizable gain in sales in April helped to lower the
+inventory-sales ratio to the lowest level since early 1990. Given the
+further pickup in GAF sales in May, non-auto retailers may need to replenish
+their stocks. Indeed, the recent increases in orders received by domestic
+9. The low reading on days' supply is affected to some extent by
+automakers' recent incentive programs to commercial rental fleets. This
+causes auto dealers to hold fewer new cars in inventory.
+
+II-28
+CHANGES IN MANUFACTURING AND TRADE INVENTORIES
+(Billions of dollars at annual rates;
+based on seasonally adjusted data)
+1990 1991 1991
+Q3 Q4 Q1 Feb. Mar. Apr.
+Current-cost basis:
+Total 58.8 -.8 -29.3 -38.9 -103.0 -53.3
+Total excluding retail auto 39.7 9.1 -14.4 -19.3 -72.0 -50.6
+Manufacturing 26.5 -8.7 -11.3 .9 -29.7 -7.9
+Wholesale 9.2 10.5 4.7 -5.2 -22.0 -38.3
+Retail 23.1 -2.6. -22.7 -34.7 -51.3 -7.1
+Automotive 19.0 -9.9 -14.9 -19.7 -31.0 -2.7
+Excluding auto 4.1 7.3 -7.8 -15.0 -20.3 -4.4
+Constant-dollar basis:
+Total 5.1 -21.8 -16.6 -24.7 -59.0 n.a.
+Total excluding retail auto 1.9 -11.4 1.6 -3.7 -36.2 n.a.
+Manufacturing 3.7 -18.3 -2.0 11.4 -14.9 n.a.
+Wholesale .6 5.0 8.8 -2.2 -9.3 n.a.
+Retail .8 -9,3 -23.4 -33.8 -34.9 n.a.
+Automotive 3.2 -10,4 -18.2 -21.0 -22.8 n.a.
+Excluding auto -2.4 1.1 -5.2 -12.9 -12.0 n.a.
+INVENTORIES RELATIVE TO SALES 1
+(Months supply; based on seasonally adjusted data)
+1990 1991 1991
+Q3 Q4 Q1 Feb. Mar. Apr.
+Range in
+preceding 12 months:2
+Low High
+---"---~-w---
+Current-cost basis:
+Total 1.48 1.58 1,51 1.52 1.56 1.57 1.57 1,54
+Total excluding retail auto 1.45 1..55 1,47 1.49 1.53 1.54 1.55 1.52
+Manufacturing 1.54 1.69 1.58 1.59 1.66 1.67 1.69 1.64
+Wholesale 1.26 1.38 1.28 1.31 1.37 1.38 1.38 1.34
+Retail 1.56 1.65 1.61 1.60 1.58 1.60 1.56 1.57
+Automotive 1.91 2,18 2.07 2.01 1.96 2.01 1.91 1.91
+Excluding auto 1.47 1.52 1.48 1.49 1.48 1.49 1.48 1.48
+Constant-dollar basis:
+Total 1.42 1.51 1.43 1.46 1.49 1.50 1.50 n.a.
+Total excluding retail auto 1.39 1.49 1.41 1.44 1.48 1.49 1-49 n.a.
+Manufacturing 1.44 1.55 1.46 1.48 1.53 1.53 1.55 n.a.
+Wholesale 1.26 1.40 1,28 1.34 1.39 1.40 1.40 n.a.
+Retail 1.51 1.60 1.55 1.55 1.53 1.54 1.51 n.a.
+Automotive 1.63 1.89 1.85 1.77 1.67 1.73 1.63 n.a.
+Excluding auto 1.46 1.53 1.47 1.50 1.49 1.49 1.48 n.a.
+1. Ratio of end of period inventories to average monthly sales for the period.
+2. Highs and
+coincidental.
+which data arelows are specific to each series and are not necessarily
+Range is for the 12-month period preceding the latest month for
+available.
+
+II-29
+producers of home goods, apparel, and household durables suggest that this
+process already may be under way.
+Merchant wholesalers reduced their stocks at a faster pace in April
+than earlier in the year, and wholesale inventories currently appear, on
+balance, to have returned to satisfactory levels. The bulk of the wholesale
+liquidation was in stocks of business and industrial machinery. Over the
+preceding year, wholesale machinery inventories had risen persistently as
+shipments weakened. The sharp liquidation in April reduced the inventory-
+sales ratio for wholesalers in this category to 2.36 months in April,
+markedly lower than the recent high of 2.47 months registered in February.
+The Federal Government
+The federal government posted a $23 billion deficit in April and May
+(table). This was up substantially from the $1 billion deficit recorded
+during the same period of 1990, owing to a combination of increased outlays
+and lower receipts. Relative to a year ago, outlays in April and May
+increased 8 percent despite a $3 billion reduction in deposit insurance
+outlays and $11 billion in offsetting contributions to the Defense
+Cooperation Account (DCA). The growth in outlays is largely attributable to
+strong growth in defense spending (excluding DCA), and health and income
+security related spending. However, much of the increase in defense
+spending reflects shifts in military pay dates. Receipts declined 2 percent
+in April and May relative to a year ago, as weak nominal income growth cut
+into personal tax collections. Nonwithheld income and social insurance
+taxes fell, and refunds rose relative to last year. This reflects, in part,
+reduced final settlements on 1990 liabilities as a result of the recession.
+
+II-30
+FEDERAL GOVERNMENT OUTLAYS AND RECEIPTS
+(Billions of dollars, except where otherwise noted)
+October-May
+April and May Net Percent
+1990 1991 .FY1990 FY1991 change chan-e
+Outlays
+National defense
+Ex DCA1
+Net interest
+Social Security
+Medicare and health
+Deposit insurance
+Agriculture
+Income security
+Other
+Receipts
+Withheld income taxes
+plus FICA
+Nonwithheld income
+taxes plus SECA
+Individual refunds(-)
+Corporate income taxes
+Other
+Deficit209.4
+48.5
+48.5
+30.6
+41.7
+26.5
+11.0
+3.3
+25.8
+22.0227.2
+46.7
+57.7
+32.8
+45.1
+31.5
+8.0
+3.8
+32.3
+27.0
+208.8 203.9
+118.5 125.3
+82.0
+-34.4
+14.9
+27.877.6
+-38.9
+15.3
+24.7
+.7 23.2818.5
+198.6
+198.6
+120.9
+162.0
+100.4
+24.4
+11.2
+101.8
+99.1861.5
+176.8
+214.7
+129.1
+175.2
+113.3
+24.3
+13.4
+119.4
+110.0
+667.0 686.5
+476.8 501.0
+122.2
+-66.6
+54.0
+80.6117.8
+-72.5
+59.9
+80.2
+151.5 175.0
+, About $6 billion of the increase between April and May 1990 and 1991 is due
+o military pay date shifts.
+CASH AND IN-KIND CONTRIBUTIONS FOR OPERATION DESERT SHIELD/STORM
+(Billions of dollars)
+Received1  Future
+Country Commitments Cash In-kind Total receipts
+Saudi Arabia 16.8 8.2 3.6 11.8 5.0
+Kuwait 16.0 11.1 .0 11.1 4.9
+Japan 10.7 8.8 .6 9.3 1.4
+Germany 6.6 5.8 .8 6.6 .0
+United Arab Emirates 4.0 3.9 .2 4.1 .0
+Korea .4 .1 .1 .2 .2
+Total 54.6 37.8 5.3 43.1 11.5
+1. Through May 31. 1991.43.0
+-21.8
+16.1
+8.2
+13.3
+12.9
+-.1
+2.1
+17.6
+10.9
+19.5
+24.2
+-4.4
+-5.9
+6.0
+.4
+23.55.3
+11.0
+8.1
+6.8
+8.2
+12.8
+-.4
+19.0
+17.3
+11.0
+2.9
+5.1
+-3.6
+8.9
+11.1
+.5
+15.5
+
+II-31
+Taxes in 1990 were withheld at rates based on the anticipation of a full-
+year's pay; therefore, employees who were laid off for part of the year
+tended to be overwithheld. For the fiscal year through May, the deficit
+stands at $175 billion, up $23 billion from the year-earlier period.
+On May 22, the House and Senate passed the FY1992 Congressional. Budget
+Resolution. As expected, the resolution adheres closely to last October's
+budget agreement and contains no significant new tax or spending
+initiatives. Real defense expenditures, excluding those attributable to
+Operation Desert Storm, are slated to fall about 4 percent. Other real
+discretionary spending is held approximately constant, and tax revenues and
+mandatory spending are set to their baseline levels.
+State and Local Governments
+Recent data indicate that growth in real purchases of goods and
+services by state and local governments has remained weak in the second
+quarter, reflecting efforts by many governments to check spending in
+response to severe revenue shortfalls. Employment growth was slow again in
+May, and over the first five months of 1991, was only about half the pace of
+last year. Real outlays for construction fell in April to a level 2 percent
+below their first-quarter average.
+During the past six months, almost every state has anticipated
+imbalances between current receipts and expenditures for fiscal 1991, as
+eroding budgets became more widespread (chart). In addition, revenue
+shortfalls remaining from FY1991 will be carried forward into the next
+fiscal year, which begins July 1 for most governments. For the upcoming
+fiscal year, some governments are being forced to make deep cuts in spending
+and to hike taxes substantially to correct structural imbalances that have
+
+II-32
+STATES WITH DEFICITS IN THEIR GENERAL FUND ACCOUNTS*
+Fiscal Year 1989 -Actual
+Fiscal Year 1990 -Actual
+Fiscal Year 1991 -Estimate
+*Shaded states represent those with deficits. Sources: the National Conference of
+State Legislatures and the National Association of State Budget Officers.
+
+II-33
+been building for some time and were exacerbated by the recession. Whereas,
+earlier, some governments had tried to balance budgets by making minor tax
+and spending changes, selling assets, or transferring funds, many states
+(including California, Pennsylvania, New York, and Connecticut) will likely
+see major tax increases in coming months. In some states, like New Jersey,
+which raised taxes substantially last year, sizable spending cuts are in
+train. Among the cities, Philadelphia is planning to both reduce outlays
+and to raise the sales tax; in the meantime, a $130 million payment into the
+pension fund has been postponed, and construction fund balances are being
+drawn down. In Bridgeport, Connecticut, where the choices included another
+round of reductions in services and an 18 percent hike in property taxes,
+the Mayor opted to file for bankruptcy, which would allow the city time to
+restructure its liabilities. (See the financial portion of Part 2 for a
+more detailed discussion of the Bridgeport bankruptcy.)
+Labor Costs
+Average hourly earnings of production or nonsupervisory workers moved
+up 0.4 percent in May (table). Over the twelve months ended in May, average
+hourly earnings increased 3.4 percent, about 1/2 percentage point below the
+pace recorded during the previous twelve months (chart).
+AVERAGE HOURLY EARNINGS
+(Percentage change; based on seasonally adjusted data)
+1990 1991 1991
+1989 1990 Q3 Q4 Q1 Apr. May
+---Annual rate-- Monthly rate
+Total private nonfarm 4.0 3.7 3.2 2.8 2.8 .4 .4
+Manufacturing 2.7 3.6 2.6 3.0 2.2 .5 .4
+1. Changes over periods longer than one month are measured from final
+month of preceding period to final month of period indicated.
+
+II-34
+AVERAGE HOURLY EARNINGS
+Percent-change frorm: 12 months earlier
+-- 12
+I I I I I I I I I I I I 1 I I
+1983 1985
+EMPLOYER COSTS FOR COMPENSATION
+(Private industry workers)
+Dollars per hour Percentage change
+1989 1990 1991 1989 1990 1991
+Total compensation 14.28 14.96 15.40 3.6 4.8 2.9
+Wages 10.38 10.84 11.14 3.6 4.4 2.8
+Total benefits 3.90 4.13 4.27 3.5 5.9 3.4
+Paid leave 1.00 1.03 1.05 3.1 3.0 1.9
+Supplemental pay .34 .37 .36 3.0 8.8 -2.7
+Insurance .85 .92 1.01 9.0 8.2 9.8
+Retirement and savings .42 .45 .44 -6.7 7.1 -2.2
+Legally required 1.27 1.35 1.40 4.1 6.3 3.7
+Social security .84 .89 .92 3.7 ---6.0 3.4
+Workers' compensation .27 .31 .33 12.5 14.8 6.5
+Other benefits .02 .01 * 0.0 -50.0 *
+Memo:
+Employment cost index 4.6 5.2 4.4
+1. Levels in March.
+2. Percent changes are from March of preceding year to March of year
+indicated.
+* Cost per hour worked is $0.01 or less. Percent change cannot be
+calculated.Total Private Nonfarm
+1977 1979May
+3.41
+-1 2
+1987 1989 1991
+
+II-35
+The BLS recently published data on employer costs--including detailed
+data on benefits--from a once-a-year survey conducted in March. 10 Growth
+in both wages and benefits between March 1990 and March 1991 decelerated
+markedly from their pace over the previous twelve months. The deceleration
+was evident in most components of benefit costs, with the notable exception
+of insurance costs, which includes health care premiums. These increased
+nearly 10 percent over the twelve months ended in March. Continuing the
+trend of recent years, benefit costs (constituting 28 percent of total
+compensation) rose more rapidly than wages, driven by higher insurance
+costs.
+Food Prices and Agricultural Conditions
+Swings in prices of fruits and vegetables have continued to dominate
+the monthly pattern of food prices. The CPI for fresh vegetables retreated
+2-1/4 percent in May, after climbing 15-1/2 percent in April. The recent
+run-up in fresh vegetable prices has reflected supply problems--in part
+weather-related--that are expected to be relatively short-lived. In
+contrast, the prices of livestock products were nearly flat in May and have
+registered little change, on balance, so far this year; increases in the
+price of beef were largely offset by declines in the price of pork. Price
+increases for other food categories have maintained an average monthly pace
+of about 0.2 percent since late last year.
+10. In contrast to the procedure used for computing pay changes in the
+Employment Cost Index (ECI), which uses fixed employment weights from the
+1980 Census, this survey uses current employment weights in each year. Over
+the past three years, employer costs increased at a somewhat slower rate
+than the ECI, suggesting a shift toward lower-paid occupations and
+industries.
+
+II-36
+U.S. AGRICULTURAL PRODUCTION AND INVENTORIES 1
+CROP PRODUCTION
+Millions of bushels
+1980 to 1990
+High Low 1988 1989 1990USDA Projection
+for 1991
+as of as of
+May 9 June 11
+Wheat
+Corn
+Soybeans
+Cotton (millions
+of bales)2785 1812 2342
+8875 4174 7153
+2190 1549 1893
+15.6 7.8 12.5
+Memo: World Grain 1766 1466 1598
+ProductionProduction1812 2037
+4929
+1549
+15.4
+156275252739
+7933
+1924 1922
+12.2 15.5
+1682 1766
+CROP INVENTORIES
+Months' supply at end of marketing year
+1980 to 1990
+High Low Avg.
+11.69 2.89 6.24
+7.93 1.80 4.21
+3.42 1.17 2.02
+8.89 2.19 4.46
+Memo: World Grain 3.36 2.12 2.63Marketing year beginning
+USDA Projection
+for 1991
+as of as of
+1988 1989 1990 May 9 June 11
+3.52 2.89 4.19 3.39 3.31
+3.19 1.99 2.13 2.41
+1.31 1.53 2.36 2.23
+6.11 2.19 1.61 2.32
+2.26 2.12 2.25 2.272.41
+2.23
+2.17
+2.25
+LIVESTOCK PRODUCTION
+Percent change from previous year
+USDA Projection
+for 1991
+as of as of
+1985 1986 1987 1988 1989 1990 May 9 June 11
+Red meats and poultry 1.7 1.7 2.0 3.7 1.8 1.3 3.5 3.1
+Beef .6 2.8 -3.3 .1 -.2 -1.5 1.9 1.5
+Pork .1 -5.0 2.3 9.1 .9 -3.0 3.3 3.3
+Poultry 4.9 6.3 9.5 4.2 7.1 7.3 5.1 4.4
+Milk 5.7 .7 -.7 2.1 -.8 3.0 1.2 .8
+.1 Derived from data in USDA's World Agricultural Supply and Demand Estimates, June 11
+'1. Production, consumption, and stocks -are measured on
+fers from crop to crop.
+2. Million metric tons.
+3. The figures for cotton exclude 1985. A pre-announced
+policy at the end of that marketing year caused some consuz
+and raised the stocks-to-use ratio to an artificially higha "marketing year" basis, which
+change in USDA price support
+aption to be delayed into 1986
+level of 13.42 months.2071
+8275
+1875
+16.0
+17312024
+8275
+1875
+16.0
+1725
+Wheat
+Corn
+Soybeans
+Cotton3m --- ---------- 1990-
+f
+
+II-37
+Despite planting problems in some areas of the country, almost all of
+the 1991 crop now is sown. Growing conditions have been excellent for the
+bulk of the acreage planted to corn this year. However, estimates by the
+USDA call for the production of wheat to be down about 25 percent in 1991
+from last year's above-average harvest (table), owing to a combination of
+altered government programs, low prices for wheat, and poor growing
+conditions late in the winter wheat season in some areas. The production of
+soybeans also is projected to fall this year.
+The recent flooding in some parts of northern Iowa and southern
+Minnesota adds uncertainty to projections about the mix of crops that will
+be grown in 1991. Although corn is traditionally the major crop in these
+areas, crop specialists claim that corn yields fall precipitously if planted
+after mid-June. As a result, some acreage that would have been planted to
+corn may be switched to soybeans. Flooding along the Gulf Coast also is
+reported to be causing problems with the cotton crop. However, famers in
+these areas had planned to expand acreage sharply in response to higher
+prices and less restrictive government programs on cotton. As a result,
+even with some flood damage, production at this point appears likely to
+surpass the bumper crop of last year.
+Recently, the United States extended an additional $1.5 billion in
+export credits to the Soviet Union, which are likely to keep grain
+inventories lean by historical standards. Nonetheless, this year's
+anticipated harvest for total grains in the U.S. appears to be large enough
+to meet consumption demand and to keep domestic inventories fairly stable.
+This was reflected in futures prices for grain, which did not react to the
+announcement of the export credits.
+
+II-38
+RECENT CHANGES IN CONSUMER PRICES
+(Percentage change; based on seasonally adjusted data) 1
+Relative
+importance-
+Dec. 19901990
+1989 1990 Q3 Q41991
+011991
+Apr. May
+-----Annual rate----- -Monthly rate-
+All items2
+Food
+Energy
+All items less food
+and energy
+Commodities
+Services100.0
+162 -: I
+8.2
+75.6
+24.5-.51 .--
+Memorandum:x
+CPI-w3.100.0 4.5 6.1 .8.4 5.0 1.5
+1. Changes are.from final month of preceding period to final month of period indicated.
+2. Official index for alI urban consumers.
+3. Index for urban wage earners and clerical workers.
+RECENT CHANGES IN PRODUCER PRICES
+Percentage change; based on seasonally adjusted data)1
+Relative 1990 1991 1991
+limportance ---
+Dec. 1990 1989 1990 Q3 Q4 Q1 Apr. May
+-----Annual rate----- -Monthly rater
+Finished goods 100.0 4.9 5.7 11.3 5.1 -4.5 .2 .6
+Consumer foods' 23.7 5.2 2.6 2.3 1.3 .6 .4 .2
+Consumer energy 16.8 9.5 30.7 118.7 21.1 -37.2 -.3 2.4
+Other finished goods 59.5 4.2 3.5 3.5 3.5 4.4 .2. .4
+Consumer goods 36.4 4.4 3.7 3.5 3.4 5.3 .4 .2
+Capital equipment . 23.1. 3.8 3.4 3.6 3.3 3.2 -.2 .6
+Intermediate materials2  95.2 2.5 4.6 13.4 4.2 -9.5 -.4 .1
+Excluding food and energy 78 .5 .9 1 .9 4.0 2.3 -1.9 -.2 -.1
+Crude food materials i: 34.4 2.8 -4.2- -7.8 -7.3: 1.1 -1.0 .-3.2
+Crude energy 50.7 17-9 19.1 305.8 -18.8 -53.5 .0 3.0
+Other crude materials 14.9 -3-6 .6 5.9 -18.1 -3.0 -.5 -.8
+1. Changes are from final month of preceding period to final month of period
+2. Excludes materials for food manufacturing and animal feeds.indicated.4.6
+'5-6
+5.1
+4.4
+2.7
+5.36.1
+5.3
+18.1
+5.2
+3.4
+6.08.2
+4.6
+44.2
+6.0
+3.3
+.7.2-4.9
+3.9
+18.0
+3.8
+2.3
+4.82.4
+2.4
+-30.7
+6.8
+7.9
+6.4.3
+.0
+1.4
+.2
+.3
+.2
+.3 .3
+
+II-39
+In livestock markets, the USDA projects that the production of meats
+and poultry will rise about 3 percent in 1991. Growth in the output of
+poultry is expected to slow, although production still is expected to be up
+about 4-1/2 percent. Production of both beef and pork are expected to
+rebound in 1991 as producers respond to the high prices seen during the past
+several years.
+Energy Prices and Supplies
+Energy prices were up 1.4 percent in the May CPI, after five months of
+declines. Prices of motor fuel rose 2.5 percent, reflecting higher refinery
+prices associated with critically low levels of gasoline inventories.
+According to private survey data for early June, gasoline prices at retail
+have moved up further. However, inventories of gasoline have rebounded to
+the low end of the normal seasonal range, and prices of crude oil have
+receded. These developments point to a near-term easing of the recent
+upward pressures on gasoline prices.
+Prices
+The CPI excluding food and energy rose 0.1 percent in March and
+0.2 percent per month in April and May, down significantly from the
+3/4 percent increases in the first two months of this year. This dropoff
+has reflected, in part, reversals of some of the large increases that
+boosted this measure early in the year. In the services component, airfares
+have fallen in the last three months, particularly in April, and have
+largely retraced their preceding climb. The index for lodging while out of
+town also has retreated since February, but remained about 16 percent above
+its level of a year earlier. Among goods, apparel prices moved down in
+March and April but were up in May. The prices of new vehicles decelerated
+
+II-40
+CPI EXCLUDING FOOD AND ENERGY
+(Percent change from 12 months earlier)
+May May May
+1989 1990 1991
+CPI excluding food and energy 4.6 4.8 5.1
+Goods excluding food and energy 3.6 3.3 4.1
+Alcoholic beverages 4.1 4.7 10.7
+Housefurnishings -.2 1.9 1.3
+Housekeeping supplies 6.0 3.4 3.2
+Apparel 3.1 4.4 3.1
+Footwear 4.7 3.1 2.7
+New vehicles 2.8 1.5 4.0
+Used cars 3.4 -3.4 .1
+Medical care commodities 7.9 8.1 8.1
+Entertainment commodities 4.2 3.7 3.6
+Tobacco 12.5 9.7 13.0
+Personal care commodities 4.7 4.6 3.7
+Services excluding energy 5.1 5.5 5.5
+Tenants' rent 3.8 4.3 4.0
+Other renters' costs 2.9 6.3 14.9
+Owners' equivalent rent 4.8 5.1 4.3
+Other utilities and public services 3.6 3.3 4.6
+Housekeeping services 2.2 1.9 6.4
+Apparel services 5.8 4.8 4.4
+Auto finance charges 15.3 -3.5 .8
+Airline fares 6.0 11.9 3.3
+Medical services 7.1 9.3 9.1
+Entertainment services 5.5 6.0 5.6
+Personal care services 5.6 4.2 3.5
+Personal and educational services 6.7 7.9 7.7
+Factors Affecting Price Inflation
+ECI hourly compensation1  4.6 5.2 4.4
+Civilian unemployment rate2  5.2 5.3 6.9
+Inflation expectations 5.8 4.6 4.33
+Non-oil import prices 4.7 .2 2.84
+1. 12-month period ending in March.
+2. End-of-period value.
+3. Preliminary June reading of the University of Michigan Survey,
+12-month horizon.
+4. BLS import price index, 12-month period ending in March.
+
+II-41
+in recent months but have not reversed the large increases registered in
+January and February. In addition, the CPI for nonenergy services was held
+down in May by a relatively small increase in the index for owners'
+equivalent rent.
+Despite this recent slowing, significant progress in reducing the
+trend of inflation has been rather difficult to discern in the data over
+longer time spans: For example, in the twelve months ended in May, the CPI
+excluding food and energy rose 5.1 percent, up from 4.8 percent during the
+comparable period ending in May 1990 and 4.6 percent in May 1989 (table).
+Part of this pickup reflects higher federal excise taxes on alcoholic
+beverages and tobacco, and the increase in postal rates in February; the
+January-February increases in these components added about 0.3 percent to
+the level of prices. But the pace of price increases is up as well for a
+number of other goods and services. Prices of both new vehicles and used
+cars have accelerated over the past year. In addition, the cost of medical
+care and the prices of educational services continue to rise rapidly.
+Although, when looked at this way, the core inflation rate has changed
+little over the past year, recent trends in the factors thought to influence
+prices bode well for the outlook. Considerable slack now exists in labor
+markets, which has begun to put downward pressure on the growth in
+compensation costs. In addition, inflation expectations appear to have
+moved down to about 4-1/4 percent--1/4 percentage point lower than a year
+earlier--and the appreciation of the foreign exchange value of the dollar in
+1991 likely is restraining price increases on imported goods and their
+domestic substitutes.
+
+II-42
+PRICE INDEXES FOR COMMODITIES AND MATERIALS 1
+Last
+obser-
+vationPercent change2_Memo:
+Year
+earlier
+to date1991
+To May 73
+May to
+1989 1990 73 date
+1. PPI for crude materials4
+la. Foods and feeds
+lb. Energy
+Ic. Excluding food and energy
+ld. Excluding food and energy,
+seasonally adjusted
+2. Commodity Research Bureau
+2a. Futures prices
+2b. Industrial spot prices
+3. Journal of Commerce industrials
+3a. Metals
+4. Dow-Jones Spot
+5. IMF commodity index4
+5a. Metals
+5b. Nonfood agric.
+6. Economist (U.S. dollar index)
+6a. IndustrialsMay 6.0 -7.5 n.a.
+June 25
+June 24
+June 25
+June 252.8
+17.9
+-3.6
+-3.6
+-9.0
+-5.9-3.6
+18.6
+.4.8
+-15.0
+-1.4
+.4 -2.0n.a.
+n.a.
+n.a.
+na.
+-2.7 -3.1 -2.3
+.6 -3.3 -2.8
+1.3 -2.4 -2.4
+-7.2 -3.9 -3.6
+June 25 -10.1 -1.7 2.6
+May
+May
+May-12.9
+-23.4
+-4.6-5.6
+-3.0
+-3.5-1.6
+-5.1
+-1.3
+June 18 -22.8 -4.4 -4.5
+June 18 -23.8 -3.2 -5.0.8
+-.3
+.9
+n.a.
+n.a.
+n.a.
+.3
+-.1
+Not seasonally adjusted.
+Change is measured to end of period,
+Week of the May Greenbook.
+4. Monthly observations.
+n.a. Not available.from last observation of previous period.
+IMF index includes items not shown separately.
+Index Weights
+Energy
+D
+PPI for crude materials
+CRB futures
+CRB industrials
+Journal of Commerce index
+Dow-Jones
+IMF index
+EconomistFood Commodities
+1Precious Metals
+M".
+1. Forest products, industrial metals, and other industrial materials.-2.4
+-7.0
+6.7
+-5.6
+-5.6
+-10.1
+-10.8
+-4.1
+-9.4
+-1.3
+-8.4
+-13.0
+-4.8
+-11.8
+-12.2
+Others1
+E
+41 42 17
+10 82 14 14
+100
+12 88
+58 17 25
+55 45
+50 50so
+
+II-43
+At the producer level, prices of intermediate materials less food and
+energy edged down 0.1 percent further in May. Widespread declines--notably
+for petrochemicals, plastics, and metals--more than offset increases for
+softwood lumber, plywood, and some more processed materials. The PPI for
+crude nonfood materials less energy fell 0.8 percent, mainly reflecting
+lower prices for scrap metals. This index has declined in seven of the last
+ten months and is about 5-1/2 percent below its level of a year earlier.
+Measures of commodity prices, although erratic, have tended to bottom
+out around or soon after recession troughs. 11 The Journal of Commerce
+index for industrial metals has edged down 1/4 percent, on balance, since
+the week of the last Greenbook, and the CRB spot index for industrials has
+declined about 2-3/4 percent (chart). Among the major industrial metals,
+spot prices are down, on net, for steel scrap and copper, but may have
+bottomed out for aluminum, which had registered steep declines from its 1988
+peak. In contrast to metals, prices of lumber and plywood have soared over
+the past two months, accounting for the increase in the Journal of Commerce
+index total. 12 Although there has been some pickup in demand, market
+observers attribute most of the upward pressures to problems with timber
+supplies--logging restrictions in the Pacific Northwest and heavy rains in
+the South.
+11. However, in 1975, several commodity price measures declined for four
+months after the March trough designated by the NBER. The index of leading
+economic indicators includes a measure for "sensitive materials prices"
+based on smoothed commodity price changes; it appears to have leveled off in
+the past few months.
+12. Plywood has a substantial weight in the Journal of Commerce index but
+is not included in the CRB spot industrials measure.
+
+II-44
+COMMODITY PRICE MEASURES *
+-Journal of Commerce Index, total
+--Journal of Commerce Index, metals
+Ratio scale, Index
+(1980=100)Total
+Metals
+CRB Spot Industrials
+Ratio scale, Index
+(1967=100)
+1983 .1984 1985 1986 1987 1988 1989 1990 1991260
+240
+220
+CRB Futures
+Ratio scale, index
+(1967=100)
+*Weekly data, Tuesdays; Journal of Commerce data monthly before 1985 Dotted lines Indicate week of
+last Greenbook.Jun 24
+
+II-45
+Spot Prices for Industrial Metals
+STEEL SCRAP
+Ratio scale, $/ton
+.:. !June 25
+1988 1989
+ALUMINUM (LONDON SPOT)*1990
+Ratio scale, $/Ib
+1988 1989 1990 1991
+COPPERRatio scale, $/Ib
+1988 1989 1990 1991
+SSeres redefined In 1989.
+
+II-46
+COMPOSITE INDEX OF LEADING INDICATORSPercent change
+-- 6
+I III I II
+II I I
+II I II
+II I II
+I I
+.L I
+S I I I II I I I _
+i I I I i I I I I
+1970 1973 1976 1979 1982 1985 1988 1991
+PROBABILITY OF EXPANSION *
+1990Apr.- 1
+-0.8
+0.6
+0.4
+0.2
+0
+1991
+1970 1973 1976 1979 1982 1985 1988 1991
+'Each probability represents the likelihood that an expansion will begin during the next three months.
+
+II-47
+Probability of Expansion
+The Commerce Department's composite index of leading economic
+indicators rose 0.6 percent in April--its third consecutive monthly
+increase. Movements in the composite index can be translated into
+probability forecasts of the start of an expansion. The April reading
+implies an 86 percent probability that a cyclical trough already has
+occurred or will occur by July (chart).
+Indeed, recent data suggest that the economy already may have bottomed
+out. Identifying an exact month of the most recent cyclical trough remains
+somewhat tenuous given the preliminary nature of much of the data in hand;
+however, a variety of coincident indicators can be used to narrow the range
+of likely dates. The coincident indicators include real income and
+consumption, which bottomed out in the first two months of 1991 (table).
+Industrial production and manufacturing and trade sales troughed in March,
+and the employment series reached low points in April and May. If the low
+values reached by these individual series are confirmed in later data
+releases, March and April are likely candidates for the latest cyclical
+trough.
+1987-Based Real GNP
+At the end of November 1991, the Bureau of Economic Analysis will
+release its quinquennial revision to the National Income and Product
+Accounts. In addition to incorporating data from the 1987 Economic Censuses
+and the 1982 input-output table, the BEA will shift the base year of the
+accounts from 1982 to 1987. This section briefly reviews the likely effects
+
+II-48
+RECENT DATA ON COINCIDENT INDICATORS
+Industrial production
+Capacity utilization
+Total civilian employment
+Nonfarm civilian employment
+Nonfarm payroll employment
+Nonfarm payroll hours
+Personal income
+Disposable income
+Personal income less
+transfer payments
+Retail sales
+:ail sales
+PCE
+Manufacturing and trade
+sales
+Manufacturing and trade
+sales
+Composite coincident index1
+(index)
+(percent)
+(millions)
+(millions)
+(millions)
+(billions)
+(billions $82)
+(billions $82)
+(billions $82)1
+(billions)
+(billions $82)
+(billions $82)
+(billions)
+(billion $82)1990 19911990
+Dec.
+107.2
+80.6
+117.6
+114.3
+109.6
+203.3
+3400.2
+2883.5
+2883.2
+149.8
+118.8
+2672.8Jan.
+106.6
+80.0
+116.9
+113.8
+109.4
+200.8
+3367.6
+2855.8
+2839.6
+147.8
+117.2
+2645.4Feb.
+105.7
+79.1
+116.9
+113.7
+109.2
+201.2
+3367.4
+2856.8
+2838.1
+151.1
+119.7
+2660.71991
+Mar.
+105.0
+78.4
+116.8
+113.7
+108.9
+200.4
+3377.3
+2866.3
+2844.1
+151.5
+120.3
+2688.4Apr.
+105.3
+78.5
+117.4
+114.2
+108.7
+199.5
+3374.8
+2862.0
+2840.5
+150.9
+119.8
+2680.9
+534.4 527.1 527.9 523.1 529.6
+461.2
+129.3457.1
+127.3459.0
+126.6456.5
+125.9 125.5
+1. Components of composite coincident index.
+Note: Low values reached by indicators since July 1990May
+105.8
+78.7
+116.6
+113.3
+108.8
+200.4
+152.5
+are in bold.L
+
+II-49
+of rebasing on the record of economic growth and inflation. 13 The analysis
+uses the BEA estimate of 1987-based real GNP through the preliminary figure
+for 1991:Q1 and extends the series over the Greenbook projection horizon
+using a staff estimate derived from our projections of twenty key components
+14of GNP. The focus is on how the depth and duration of the 1990-1991
+recession and the dimensions of the ensuing recovery are expected to be
+influenced by the shift to the 1987 base year. -
+Real GNP. In moving to a 1987 base year, the BEA will deflate all
+nominal expenditure components by price indexes that are normalized to
+reflect the structure of relative prices prevailing in 1987 rather than
+1982. Such a renormalization has the effect of eliminating the changes in
+relative prices that have occurred between the 1982 and 1987 base years.
+For example, computer prices fell 60 percent between 1982 and 1987, reducing
+the level of the 1982-based computer deflator to 0.4, while the deflator for
+the remainder of GNP rose 19 percent to 1.19. The shift in base years will
+reset all deflators to 1.0 in 1987. As a result, given unchanged current-
+dollar (nominal) computer expenditures, the deflation process (i.e.,
+dividing by 1.0 rather than 0.4) will yield less "real" computer
+expenditures relative to other goods and services on the 1987 basis than on
+the 1982 basis.
+As a general rule, a measure of real GNP based on the prices of a more
+recent year increases less rapidly than a measure based on prices of an
+earlier year. This reflects both the arithmetic of the deflation process as
+13. For a detailed discussion of these issues, see Allan H. Young,
+"Alternative Measures of Real GNP," Survey of Current Business, April 1989,
+pp. 27-34.
+14. BEA's measure of real GNP is calculated at significantly greater levels
+of disaggregation than the FRB staff estimate.
+
+II-50
+1990:Q4 GNP EXPENDITURE SHARES IN 1982 AND 1987 DOLLARS
+(Percent)
+S1  ; * .--:::.,. ..-. .. . 1982 1987
+Gross national product 100.0 100.0
+Personal consumption expenditures 64.4 66.3
+Durables 10.0 9.3
+Nondurables 21.7 20.9
+Gasoline and fuel oil1  2.7 2.1
+Services 32.7 36.1
+Business fixed investment 12.5 10.0
+Producers' durable equipment 9.7 7.4
+Computers1  3.3 1.1
+Nonresidential structures 2.8 2.6
+Residential investment 3.9 3.9
+Change in business inventories -.6 -.6
+Government purchases 20.0 20.3
+Federal 8.4 8.1
+State and local 11.6 12.2
+Net Exports -.2 .1
+Exports 15.6 13.0
+Computers 2.3 .7
+Imports 15.8 12.9
+Oil1  2.0 .9
+Computers 2.1 .7
+1. FRB staff estimate.
+
+II-51
+well as the tendency, over time, for categories of expenditure that have the
+smallest price increases (or the largest price declines) to experience the
+fastest growth in volume. Thus, as the computer example above suggests,
+when real GNP is recalculated on the more-recent base, the share in real GNP
+of those goods declines. In effect, a smaller weight is given to the
+fastest-growing items; because the growth rate of real GNP is a weighted
+average of its components, the shift to the more-recent base year reduces
+the historical rate of growth in real GNP.
+The table presents the expenditure shares of key components of real GNP
+in the fourth quarter of 1990 when measured in both 1982 and 1987 dollars.
+The critical differences (shown in bold type) occur in two areas, computers
+and energy. The share in real GNP of business purchases of computers falls
+2.2 percentage points, while the shares of computer exports and imports
+decline 1.6 percentage points and 1.4 percentage points, respectively. In
+the energy sector, the price of imported crude oil and refined products fell
+from $31.50 per barrel in 1982 to $17.30 per barrel in 1987. As a result of
+this significant shift in relative prices, rebasing to 1987 reduces
+the share in real GNP of imported crude oil and petroleum products
+1.1 percentage points and the share of consumer purchases of gas and fuel
+oil 0.6 percentage point.
+GNP prices. Inflation, as measured by the GNP fixed-weight price
+index, is lower with the 1987 base year. The reason for this is the same as
+for real GNP: Over the 1982-87 period, substitution took place that lowered
+the weight of those items in the fixed-weight price index whose prices were
+rising rapidly. In contrast, the shift in the base year to 1987 raises the
+rate of increase in the GNP deflator; this is just the counterpart of the
+
+II-52
+slower real GNP growth. Assuming no change in the growth of nominal GNP,
+the slower real GNP growth implies larger increases in the GNP deflator. 15
+The 1990-91 recession on a 1987 base. The depth and duration of the
+current recession are not likely to be significantly different on a 1987
+basis than measured currently. As shown in the table below, the decline in
+real GNP in the fourth quarter of 1990 is larger in 1987 dollars, and the
+drop in the first quarter of 1991 is about the same. On balance, assuming
+the second quarter shows a zero or small positive real GNP change on both
+measures, the peak-to-trough decline in real GNP is 1 percent in 1982
+dollars and 1.4 percent in 1987 dollars. Inflation over the most recent two
+quarters, as measured by the GNP fixed-weight price index, is about
+1/4 percentage point lower than on the 1982 basis. Increases in the GNP
+deflator average about 3/4 percentage point higher over this period, but
+given the lower weight assigned to oil imports, the gyrations associated
+with the swings in oil prices during the fourth and first quarters are
+smoothed considerably in the 1987-based measure.
+15. The mathematics of index numbers ensures that movements in the 1987-
+based GNP deflator over the 198.2-87 period are the same as those of the
+1982-based GNP fixed-weight price index. In effect, computing the percent
+change in the 1987-based GNP deflator between 1982 and 1987 uses the
+expenditure shares prevailing in 1982; this raises the weight in the GNP
+deflator of those items whose prices rose rapidly over this period.
+
+II-53
+RECENT MOVEMENTS IN 1982- AND 1987-BASED REAL GNP
+(Percent change, annual rate)
+1990 199121 11989 1990 Q1 Q2 Q3 Q4 Q1
+Real GNP
+1982 base 1.8 .5 1.7 .4 1.4 -1.6 -2.6
+1987 base 1.4 .2 1.0 1.1 1.7 -3.1 -2.4
+GNP fixed-weight
+price index
+1982 base 4.0 4.8 6.6 3.9 4.2 4.7 5.1
+1987 base 4.2 4.5 6.2 3.7 3.9 4.1 4.9
+Nominal GNP 5.6 4.5 6.7 5.1 5.3 .9 2.5
+GNP deflator
+1982 base 3.7 4.0 4.8 4.7 3.7 2.8 5.2
+1987 base 4.1 4.3 5.6 4.0 3.6 4.2 5.1
+1. Percent change, fourth quarter to fourth quarter.
+2. Preliminary estimate for 1991:Q1.
+GNP growth in the recovery. Looking ahead, the rebasing of real GNP is
+not expected to have a significant effect on the projected dimensions of the
+economic recovery. The lower weight given to computer purchases likely will
+hold down real GNP growth when measured in 1987 rather than 1982 dollars,
+but this may be partially offset by the larger weight given to PCE services.
+In general, growth in this recovery is expected to be relatively well
+balanced across sectors, and as a result, the shifting of weights associated
+with rebasing is not expected to have a significant effect on real GNP
+growth over the Greenbook projection horizon.
+Rebasing also will affect the staff's estimates of potential output.
+The slower growth between 1982 and 1990 in real GNP in 1987 dollars likely
+will result in a small downward adjustment to the estimated trend in the
+growth of labor productivity over this period and, hence, to the historical
+
+II-54
+growth rate of potential output. Judging by prior experience with the
+rebasing of real GNP, the levels of actual and potential GNP tend to be
+revised downward proportionally, leaving the estimated margin of slack in
+the economy little changed by the shift in base years. Looking ahead,
+revisions to the projected growth in potential output will depend on the
+extent to which historical downward revisions to trend growth in labor
+productivity are carried forward. Given that the other determinants of
+potential output (e.g., growth in potential labor input) are unaffected by
+the rebasing, downward revisions to projections of trend productivity growth
+would have a one-to-one effect on potential output growth.
+
+DOMESTIC FINANCIAL
+DEVELOPMENTS
+
+III-T-1 1
+SELECTED FINANCIAL MARKET QUOTATIONS
+(percent)------------------------------------------------- ---- ----- --- -------
+1989 1990 1991
+March Dec Aug POMC
+highs lows highs May 14 Jun 25Change from:
+-------~------------------------
+Aug 90 FOMC
+highs May 14
+-----------------------------------
+Short-term rates
+Federal funds2
+Treasury bills3
+3-month
+6-month
+1-year
+Commercial paper
+1-month
+3-month
+Large negotiable CDs3
+1-month
+3-month
+6-month
+Eurodollar deposits4
+1-month
+3-month9.85
+9.09
+9.11
+9.05
+10.05
+10.15
+10.07
+10.32
+10.08
+10.19
+10.508.45 8.21 5.77 5.79
+7.53
+7.29
+7.117.59
+7.51
+7.455.49
+5.62
+5.75-2.42
+-2.01
+-1.75
+-1.475.58
+5.76
+5.98
+8.51 8.10 5.92 6.07
+8.22 8.05 5.93 6.11
+8.52
+8.22
+8.018.14
+8.18
+8.255.90
+5.93
+6.075.98
+6.04
+6.26
+8.38 8.13 5.81 6.00
+8.25 8.19 5.94 6.06
+Bank prime rate11.50 10.50 10.00 8.50 8.50
+Intermediate- and long-term rates
+U.S. Treasury (constant maturity)
+3-year 9.88
+10-year 9.53
+30-year 9.31
+Municipal revenue
+(Bond Buyer) 7.95
+Corporate--A utility
+recently offered 10.47
+Home mortgage rates
+S&L fixed-rate
+S&L ARM, 1-yr.11.22
+9.317.69
+7.77
+7.838.50 7.13
+9.05 8.14
+9.17 8.367.45
+8.33
+8.51
+7.28 7.80 7.09 7.31
+9.29 10.50 9.53 9.58
+9.69 10.29 9.47 9.65
+8.34 8.39 7.23 7.24-1.05
+-.72
+-.66
+-.49
+-.92
+-.64 .18
+-1.15 .01
+1989 1991 Percent change from:
+Record Lows FOMC Record 1989 FOMC
+highs Date Jan 3 May 14 Jun 25 highs lows May 14
+Stock prices
+Dow-Jones Industrial 3035.33 6/3/91 2144.64 2886.85 2910.11 -4.13 35.69 .81
+NYSE Composite 213.21 4/17/91 154.00 203.67 203.21 -4.69 31.95 -.23
+AMEX Composite 397.03 10/10/89 305.24 360.25 358.59 -9.68 17.48 -.46
+NASDAQ (OTC) 511.31 4/17/91 378.56 488.79 473.30 -7.43 25.03 -3.17
+Wilshire 3731.48 4/17/91 2718.59 3562.98 3538.88 -5.16 30.17 -.68
+One-day quotes except as noted.
+Average for two-week reserve maintenance period closest to
+date shown. Last observation is average to date for the
+maintenance period ending June 26, 1991.3/ Secondary market.
+4/ Bid rates for Eurodollar
+deposits at 11 a.m. London time.
+5/ Based on one-day Thursday quotes
+and futures market index changes.
+6/ Quotes for week ending
+Friday closest to date shown.-2.03 .15
+-1.94 .18
+-2.16
+-2.14
+-1.99
+-2.13 .19
+-2.13 .12
+-1.50
+
+Selected Interest Rates *
+(percent)
+Short-Term Daily12-
+-11
+10
+9.
+8
+7
+6
+5S
+L 4
+1991 1989 1990Prime Rate
+Federal Funds
+-., -* / -- -- --10
+9
+8
+7
+6
+-3-month Treasury Bill
+I ! I 1 I I 4
+5/14 6/25
+11 H- -- 11
+Primary Fixed -
+Rate Mortgage
+10 (weekly)--
+1_
+Corporate Bond
+9 - (weekly)
+30-year Treasury Bond
+(daily)
+IlII I I
+5/14-4 8
+6/25 1989 1990
+---Fdday weeks through June 14, Wednesday weeks through June 19.-8
+I 7
+1991
+
+DOMESTIC FINANCIAL DEVELOPMENTS
+Since the May FOMC meeting, federal funds have traded in a narrow range
+around 5-3/4 percent. Most other market interest rates have risen somewhat
+over the period, however, in response to accumulating evidence that the
+economic recovery has begun and therefore that no further monetary easings
+are in the offing. On balance, most yields are up 5 to 25 basis points.
+Despite the apparent firming in income and spending, growth in the
+broader monetary aggregates has been sluggish in May and June. M2 has
+expanded at about a 3-1/2 percent pace over the two months, placing this
+aggregate a little below the midpoint of its annual range. M3 has grown
+little since March, leaving this aggregate also in the middle portion of its
+1991 target range. Damped monetary expansion, especially in M3, probably
+reflects continued weakness in asset expansion at banks and thrifts.
+Borrowing at banks and in the commercial paper market by nonfinancial
+businesses remains weak, partially offsetting continued strong issuance of
+bonds. Many corporations have apparently sought to take advantage of
+relatively favorable capital market conditions to strengthen their balance
+sheets. In the federal sector, Treasury net borrowing from the public has
+been restrained by the reduced activity of the RTC in the current quarter.
+Issuance of tax-exempt securities has been strong in recent months; June's
+volume was bolstered by unusually large short-term issues of New York State
+and Los Angeles. Limited data in the second quarter suggest a slight pickup
+in net borrowing by the household sector.
+III-1
+
+III-2
+MONETARY AGGREGATES
+(based on seasonally adjusted data unless otherwise noted)
+Growth
+1991 1991 1991 1991 1991 Q4 90-
+19901 Ql QZpe Apr May Jun pe Jun 91pe
+---------- Percent change at annual
+4.2 5.9
+3.8 3.4
+1.7 4.0rates--------------------
+7 -1.1 13.8
+44 2.8 4.7
+2 0.4 0.97 7
+2 4
+0 2\
+Levels---------- Percent change at annual rates------------ bil. $
+May 91
+Selected components
+4. MI-A
+5. Currency
+6. Demand deposits
+7. Other checkable deposits
+8. M2 minus M12
+9. Overnight RPs and Eurodollars, NSA
+10. General purpose and broker/dealer money
+market mutual fund shares
+Commercial banks
+Savings deposits plus MMDAs3
+Small time deposits
+it. Thrift institutions
+15. Savings deposits plus MMDAs3
+16. Small time deposits
+17. M3 minus M24
+Large time deposits
+At commercial banks, net5
+At thrift institutions
+Institution-only money market
+mutual fund shares
+Term RPs, NSA
+Term Eurodollars, NSA5.7 4 -4.0
+11.0 15.3 4
+-0.6 -2.5 47.3 7 543.5
+-0.5 0.9
+-5.6 12.6
+3.5 6.1 13 4.0 25.4
+3.7 2.6 4 4.2 1.7
+3.0 -42.3 -134
+11.0
+9.9
+7.5
+12.4
+-5.5
+-2.2
+-7.318.2
+8.2
+7.5
+8.9
+-6.3
+-0.7
+-9.70.0 -26.0
+2.0
+4.2
+15.9
+-7.3
+2.5
+22.3
+-9.43.0
+6.5
+17.5
+-4.6
+-0.1
+22.9
+-15.2
+-6.4 6.6 -10 -10.1 -15.6
+-9.5
+-3.5
+-23.9
+20.2
+-12.0
+-12.11.2
+11.9
+-32.1
+49.9
+-32.8
+7.4-8 -11.3
+0 -5.7
+-343 -31.2
+243 30.4
+-24¼ -15.9
+-31% -50.8-9.7
+0.3
+-46.4
+4.9
+-14.6
+-38.94 256.8
+10 278.7
+7 308.4
+1 2544.2
+-20 67.6
+2 365.1
+10 1213.2
+19 611.4
+1 601.8
+-9 897.3
+13 358.0
+-24 539.3
+-12 776.9
+-7 502.6
+1 398.1
+-39 104.5
+-11 146.2
+-22 81.1
+-20 65.7
+MEMORANDA:6
+24. Managed liabilities at commercial
+banks (25+26)
+25. Large time deposits, gross
+26. Nondeposit funds
+27. Net due to related foreign
+institutions
+28. Other'
+29. U.S. government deposits at commercial
+bankss-----Average monthly change in billions of dollars----
+-0.1 -1-6 -3
+-2.6 6.4 4
+2.4 -8.0 -3½
+2.2 -1.5 -434
+0.2 -6.5 &-1.4 -3.5
+0.0 1.1
+-1.4 -4.6
+0.6 -4.7
+-1.9 0.1
+0.3 3.1 -34 -12.1 -6.5
+1. Amounts shown are from fourth quarter to fourth quarter.
+2. Nontransactions M2 is seasonally adjusted as a whole.
+3. Commercial bank savings deposits excluding MMDAs grew during May and June at rates of 14.9
+-jnercent and 21 percent, respectively. At thrift institutions, savings deposits excluding MMDAs grew
+-ing May and June at rates of 18.1 percent and 13 percent, respectively.
+.non-M2 component of M3 is seasonally adjusted as a whole.
+S. At of large denomination time deposits held by money market mutual funds and thrift institutions.
+6. Dollar amounts shown under memoranda are calculated on an end-month-of-quarter basis.
+7. Consists of borrowing from other than commercial banks in the form of federal funds purchased, securities
+sold under agreements to repurchase, and other liabilities for borrowed money (including borrowing from the
+Federal Reserve and unaffiliated foreign banks, loan RPs and other minor items). Data are partially estimated.
+8. Consists of Treasury demand deposits and note balances at commercial banks.
+pe -preliminary estimate1. M1
+2. M2
+3. H3
+710.0
+452.0
+258.0
+-8 26.0
+4 232.0
+8 15.2
+
+III-3
+Monetary Aggregates and Bank Credit
+In May, M2 expanded at a 4-3/4 percent annual rate, which was slightly
+faster than its pace from the fourth quarter of last year through April.
+Preliminary data, however, point to a slower pace in June. One factor
+holding down the growth of M2 may be shifts by households to higher yielding
+non-M2 assets.
+Liquid retail deposits--OCDs, savings, and MMDAs--have remained the
+strongest component of M2; they have benefitted from the sluggish response
+of their offering rates to the cumulative declines in short-term market
+rates over the past several months. But small time deposits, whose yields
+have largely tracked the downward trajectory of money market rates, have
+continued to contract. With rates on most maturing small time deposits
+substantially above those currently available, households with maturing CDs
+may be looking outside M2 for better returns. Indeed, flows into both bond
+and equity mutual funds have been robust of late. Previous episodes of
+sharp declines in rates on small time deposits have been followed by strong
+inflows to long-term mutual funds (chart). Sluggish inflows to money market
+mutual funds may also be symptomatic of investors' reaching for the higher
+yields available at the longer end of the maturity spectrum.
+M3 barely increased in April and in May, and partial data suggest no
+significant change in June. With institutional MMMFs no longer benefiting
+from the lagged response of their yields to declining market interest rates,
+the only component of non-M2 M3 that has shown any strength lately has been
+large time deposits at branches and agencies of foreign banks. Evidence
+continues to suggest that the surge in large time deposits at foreign
+
+III-4
+Retail CD Rollover Differential and Inflows to Bond Funds
+Billions of Dollars
+F Bond Fund InflowsPercentage Points
+-U 4
+1991 1985 1986 1987 1988 1989 1990
+1. Current yield less year-ago yield on 1-year CD.
+branches since the change in reserve requirements reflects substitution away
+from other liabilities, the rebooking of assets formerly held offshore, and
+lending to overseas affiliates.
+By contrast, large time deposits continued to decline at a brisk pace
+at thrifts in May and June, and were relatively flat at domestically
+chartered banks. Domestic depositories ran down other managed liabilities
+as well, as inflows of retail deposits were adequate to support lackluster
+credit growth. Indeed, overall bank credit decreased slightly in May, after
+
+III-5
+COMMERCIAL BANK CREDIT AND SHORT- AND INTERMEDIATE-TERM BUSINESS CREDIT
+(Percentage changes at annual rates, based on seasonally adjusted data)
+1. Total loans and securities
+at banks
+2. Securities
+3. U.S. government securities
+4. Other securities
+5. Total loans
+6. Business loans
+7. Real estate loans
+8. Consumer loans
+9. Security loans
+10. Other loans
+Business loans net of bankers
+acceptances
+12. Loans at foreign branches2
+13. Sum of lines 11 & 12
+14. Commercial paper issued by
+nonfinancial firms
+15. Sum of lines 13 & 14
+16. Bankers acceptances: U.S. trade
+related
+17. Line 15 plus bankers acceptances:
+U.S. trade related
+18. Finance company loans to business
+19. Total short- and intermediate-
+term business credit (sum of
+lines 17 & 18)1989:Dec.
+to
+1990:Dec.
+-----------
+5.3
+8.6
+13.9
+-3.1
+4.3
+1.9
+9.5
+1.2
+4.4
+-1.8
+1.9
+19.3
+2.5
+12.2
+4.2
+-9.6
+3.6
+13.1
+5.8Levels
+1990 1991 bil.$
+Q4 Q1 Mar. Apr. May May
+------------ Commercial Bank Credit --------------------
+2.3 4.0 6.7 .0 -.7 2749.9
+.6 12.5 25.7 10.9 7.3 658.9
+3.7 15.0 34.8 19.3 13.8 484.9
+-7.2 5.7 2.0 -11.5 -10.3 174.0
+2.9 1.5 1.0 -3.3 -3.2 2091.1
+3.0 -.4 3.8 -7.9 -7.5 633.2
+6.1 3.4 3.5 4.5 4.8 854.7
+.6 -2.6 -5.1 -3.5 -1.3 373.5
+-6.8 -17.7 -117.2 30.9 .0 39.8
+-4.8 11.8 20.0 -19.7 -13.7 190.0
+Short- and Intermediate-Term Business Credit ----------
+3.0
+37.0
+4.3
+-3.2
+2.8.4
+-3.1
+.2
+-5.0
+-.74.0
+-9.2
+3.5
+-3.2
+2.2-7.7
+-46.5
+-9.3
+12.9
+-5.2-8.0
+-58.1
+-9.9
+-34.4
+-14.4
+17.8 -24.3 -69.5 -58.3 n.a.
+3.4
+12.0-1.6 -.6
+4.5 2.0-7.3 n.a.
+.4 n.a.
+5.6 -.1 .0 -5.2 n.a.627.1
+23.6
+650.6
+145.9
+796.6
+29.45
+S
+838.5
+294.45
+1132.95
+1. Average of Wednesdays.
+2. Loans at foreign branches are loans made to U.S firms by foreign branches of domestically chartered banks.
+3. Based on average of data for current and preceding ends of month.
+4. Consists of acceptances that finance U.S. imports, U.S. exports, and domestic
+shipment and storage of goods.
+5. April data.
+--preliminary.
+a.--not available
+
+III-6
+GROSS OFFERINGS OF SECURITIES BY U.S. CORPORATIONS
+(Monthly rates, not seasonally adjusted, billions of dollars)
+-1990- ------------- 1991-------------
+1988 1989 1990 Q4 Q1P Apr? May Junee
+Corporate securities -total-
+Public offerings in U.S.
+Stocks--total
+Nonfinancial
+Utility
+Industrial
+Financial
+Bonds
+Nonfinancial
+Utility
+Industrial
+Financial
+By quality
+Aaa and Aa
+A and Baa
+Less than Baa
+No rating (or unknown)
+Memo items:
+Equity-based bonds
+Mortgage-backed bonds
+Other asset-backed
+Variable-rate notes
+Bonds sold abroad -total
+Nonfinancial
+Financial
+Stocks sold abroad -total
+Nonfinancial
+Financial22.41
+20.39
+3.54
+1.15
+.24
+.91
+2.39
+16.85
+6.19
+1.79
+4.41
+10.66
+2.77
+5.50
+2.56
+.05
+.28
+4.72
+1.26
+1.19
+1.93
+.73
+1.20
+.09
+.08
+.0219.87
+17.80
+2.69
+1.08
+.29
+.79
+1.60
+15.12
+6.30
+1.78
+4.52
+8.81
+3.17
+5.83
+2.39
+.05
+.52
+1.68
+2.02
+1.03
+1.90
+.48
+1.43
+.16
+.12
+.0419.84
+17.70
+1.95
+1.03
+.35
+.68
+.92
+15.75
+5.63
+1.95
+3.67
+10.12
+3.42
+6.39
+.15
+.04
+.38
+2.41
+3.35
+.82
+1.92
+.46
+1.46
+.22
+.10
+.1222.23
+20.79
+1.33
+.56
+.36
+.20
+.77
+19.46
+7.79
+2.84
+4.95
+11.67
+4.85
+7.62
+.11
+.01
+.26
+2.27
+4.62
+1.13
+1.42
+.17
+1.25
+.02
+.02
+.0127.65
+25.48
+2.22
+1.29
+.47
+.82
+.93
+23.26
+8.81
+2.21
+6.60
+14.45
+4.74
+12.22
+.41
+.03
+.77
+2.06
+3.84
+.76
+2.01
+1.04
+.97
+.17
+.05
+.1131.45
+27.91
+5.31
+3.80
+.49
+3.32
+1.51
+22.60
+11.40
+3.40
+8.00
+11.20
+4.15
+11.71
+2.36
+.01
+.61
+3.33
+1.05
+.18
+2.50
+.80
+1.70
+1.03
+.93
+.1033.54
+30.22
+7.22
+4.50
+.65
+3.85
+2.71
+23.00
+9.50
+3.50
+6.00
+13.50
+3.30
+10.71
+.83
+.00
+.71
+1.50
+6.65
+.61
+2.50
+1.60
+.90
+.83
+.77
+.0627.00
+25.00
+4.50
+2.90
+.70
+2.20
+1.60
+20.50
+8.00
+3.30
+4.70
+12.50
+4.00
+9.50
+1.00
+.00
+2
+4.uv
+.50
+2.00
+1.20
+.80
+.00
+.00
+.00
+1. Securities issued in the private placement market are not included. Total reflects gross
+nroceeds rather than par value of original discount bonds.
+2. Excludes equity issues associated with equity-for-equity swaps that
+restructurings. Such swaps totaled $9.4 billion in 1990.
+3. Bonds categorized according to Moody's bond ratings, or to Standard
+Dy Moody's. Excludes mortgage-backed and asset-backed bonds.
+4. Includes bonds convertible into equity and bonds with warrants that
+to purchase equity in the future.
+p--preliminary. e--staff estimate.have occurred in
+and Poor's if unrated
+entitle the holder
+
+III-7
+remaining unchanged in April, as a contraction in loans for the second
+straight month offset a buildup of U.S. government securities. The shifting
+composition of bank asset flows is reminiscent of behavior around previous
+business cycle troughs, when loan demand tended to lag the incipient revival
+in economic activity, and banks were induced temporarily to invest retail
+deposit inflows in securities. This cyclical swing from loans to securities
+may have been augmented during the current business cycle by the increased
+rate of asset securitizations, which has partly been prompted by pressures
+on depositories' capital positions. Consumer loans, for example, which
+contracted again in May, actually posted a modest increase when adjusted for
+securitizations. Increased securitizations have also weakened growth of
+real estate loans at banks, which expanded at a 4-3/4 percent in May.
+Overall, real estate lending, though down sharply from the pace prevailing
+through the middle of 1990, was the only component of bank loans to show
+continual growth through the recession.
+Business Finance
+Aggregate borrowing by nonfinancial corporations appears to have slowed
+somewhat from its reduced first-quarter pace, at least partly reflecting a
+pickup in equity issuance and probably declining needs to finance inventory.
+Borrowing has been concentrated in long-term markets. While new bond
+offerings by nonfinancial firms in May and June were off somewhat from
+April's extraordinary level--the highest in four years--issuance this
+quarter still should exceed the first-quarter pace. Corporate treasurers
+appear to have moved aggressively to lock in relatively favorable longer-
+term rates and, in many instances, have used the proceeds to pay down
+
+III-8
+commercial paper. Outstanding commercial paper declined at nearly a 35
+percent annual rate in May and dropped further in early June.
+While most recent corporate offerings have been by investment-grade
+firms, issuance in the junk bond market has reopened to some extent in the
+past few months. Most recent junk issues have been near investment-grade
+and have been concentrated in noncyclical industries such as food products.
+Financial institutions also have been tapping capital markets heavily of
+late, with a number of issues backed by credit cards and other receivables.
+Issuance of asset-backed securities reached a record high in May and
+remained strong in June.
+Corporate bond spreads have narrowed further during the intermeeting
+period, particularly over the past few weeks. As is typical of early
+recovery periods, diminished concerns about credit quality have led to
+tighter spreads over comparable Treasuries. Spreads on investment-grade
+industrial and A-rated utility bonds have narrowed more than 50 basis points
+since December and are now close to their levels in June 1990. The average
+spread on financial issues also has narrowed considerably since year-end
+but, at 104 basis points, is still high relative to a year ago when it was
+73 basis points. Spreads on credit-card backed securities, which
+experienced a runup of 65 basis points between October and February to over
+120 basis points, are currently only about 75 basis points above Treasuries,
+nearly as narrow as they were a year ago.
+Most major stock market indexes are little changed over the
+intermeeting period. The Dow Jones Industrials reached a record high of
+3035 on June 3, but along with other major indexes, retreated with the
+increase in Treasury bond yields the first week of June. The stock market
+
+III-9
+has been particularly receptive to initial public offerings, having absorbed
+$2 billion of them in May, the strongest issuance since September 1987.
+May's volume included $1.3 billion issued by nonfinancial corporations and
+several issues by former LBOs.
+Treasury and Sponsored-Agency Financing
+The staff estimates a relatively small federal deficit of about
+$17 billion in the second quarter, owing largely to seasonal tax inflows,
+but also reflecting the slow pace of RTC activity. 1 The decline in the
+deficit has not been matched by a commensurate reduction in marketable
+borrowing, however, because the Treasury has continued building its cash
+balance in anticipation of very large deficits over the next few quarters.
+Marketable borrowing in the second quarter will raise about $38 billion
+in new cash, with bills paying down $12 billion and coupons raising
+$50 billion. Much of the pressure to increase the gross sizes of the
+regular auctions was diminished by a 335-day, $16 billion cash management
+bill auctioned in mid-May. Nevertheless, over the quarter, weekly bill
+auctions have been increased on balance from $15.2 billion to $20.8 billion,
+while coupon auctions have been raised as much as $750 million.
+Available data indicate that outstanding debt of the government-
+sponsored enterprises continued to shrink in April and May, keeping rate
+spreads on new GSE debt over Treasury issues tight during the intermeeting
+period. In late May, the Treasury sent the Congress a package of proposed
+reforms intended to improve the safety and soundness of the GSEs. The
+1. The RTC initially had planned to resolve ninety-nine thrifts in the
+period, but because of a delay in funding, only sixty-three thrifts, with
+combined assets of $14 billion, now are scheduled to be closed. Through
+June 26, fifty institutions have been resolved.
+
+III-10
+TREASURY AND AGENCY FINANCING 1
+(Total for period; billions of dollars)
+1991
+Q1 Q2p  Apr. May June
+Treasury financing
+Total surplus/deficit (-) -65.6 -16.7 30.1 -53.3 6.5
+Means of financing deficit:
+Net cash borrowing
+from the public 56.5 42.5 -9.4 41.8 10.2
+Marketable borrowings/
+repayments (-) 52.9 38.5 -11.0 40.9 8.5
+Bills 5.9 -11.8 -28.9 8.5 8.5
+Coupons 47.0 50.3 17.9 32.4 0.0
+Nonmarketable2  3.5 4.0 1.5 0.9 1.6
+Decrease in the cash
+balance .2 -13.4 -16.2 20.4 -17.6
+Memo: Cash balance
+at end of period 32.0 45.4 48.2 27.9 45.4
+3
+Other 8.9 -12.3 -4.5 -8.8 0.9
+Federally sponsored credit
+agencies, net cash
+borrowing 3.2
+FHLBs -5.6 - -1.6 -
+FHLMC .5 -- -1.7 --
+FNMA 1.5 -- -.7
+Farm Credit Banks -1.7 -- .2 -.6
+SLMA 1.6
+REFCORP 6.9 -- .0 .0 .0
+1. Data reported on a not seasonally adjusted, payment basis.
+2. Includes proceeds from securities issued by federal agencies under special
+financing authorities and the face value of zero-coupon bonds issued to REFCORP
+(the discount from face value is offset in other means of finance).
+3. Includes checks issued less checks paid, accrued items and other
+transactions.
+4. Excludes mortgage pass-through securities issued by FNMA and FHLMC.
+p--projected.
+e--estimated.
+Note: Details may not add to totals due to rounding.
+
+III-11
+package, comprising three separate bills, would increase regulation of the
+Federal National Mortgage Association, the Federal Home Loan Mortgage
+Corporation, the Student Loan Marketing Association, and the Farm Credit
+System. Treasury, however, did not propose any changes in the regulatory
+structure for the Federal Home Loan Bank System.
+To regulate FNMA and FHLMC, Treasury proposed establishing a separate,
+arms-length bureau within the Department of Housing and Urban Development,
+effective January 1, 1992. The two GSEs would be assessed fees to fund the
+oversight office. In addition to legislatively mandated minimum leverage
+ratios, minimum risk-based capital ratios would be established by the
+director of the oversight office. Failure to meet the capital standards
+would require a GSE to develop and implement a capital restoration plan, and
+would allow the oversight office to limit a GSE's activities, assets and
+liabilities, capital distributions, and executive compensation. However, a
+GSE that received the highest investment grade rating from two private
+credit-rating agencies would be exempt from the minimum risk-based capital
+ratios.
+The proposal would make Treasury itself the regulator of SLMA, with
+authority and responsibility similar to that proposed for the oversight
+office in HUD. For the FCS, Treasury's proposal would create an independent
+Farm Credit System Insurance Corporation that would charge FCS banks risk-
+based insurance premiums, which would replace the current statutory premium
+formula. The proposal would also give explicit authority to the Farm Credit
+Administration to regulate the Federal Agricultural Mortgage Corporation.
+
+III-12
+Municipal Securities
+Issuance of tax-exempt securities picked up in May and looks to be
+strong in June. The increase in June owes to a sharp rise in short-term
+volume, as both New York State and Los Angeles have come to market with
+large issues of revenue anticipation notes. Long-term issuance in June,
+although slightly below its pace in May, remains robust.
+Over the intermeeting period, the rise in yields on municipal
+securities of nearly 25 basis points reflected the heavy volume and the
+general rise in long-term yields. Quality spreads widened only slightly in
+the wake of the bankruptcy filing by Bridgeport, Connecticut, the largest
+city ever to file for protection under Chapter 9 of the bankruptcy code.
+Yields on uninsured Bridgeport bonds reportedly jumped 200 to 400 basis
+points the day after the city filed, but the filing, which had been widely
+discussed ahead of time, is expected to have only a limited effect on the
+market as a whole.
+Bridgeport's petition for relief followed three years of fiscal crisis.
+The city chose bankruptcy rather than allowing its state-appointed financial
+control board to force through an 18 percent increase in property taxes to
+close the $12 million deficit projected for fiscal year 1992. Reportedly,
+the primary purpose of the filing is to lower the city's high labor costs,
+by drawing upon the bankruptcy court's power to reject collective bargaining
+3agreements. In response to the filing, Standard & Poor's lowered ratings
+2. The state of Connecticut opposes Bridgeport's filing, and a court date
+has been set for mid-July to determine whether or not the petition will be
+accepted.
+3. Whereas Congress amended Chapter 11 to make such tactics more difficult
+after Continental Air Lines employed bankruptcy to break its union contract
+in 1983, it did not change Chapter 9.
+
+III-13
+GROSS OFFERINGS OF MUNICIPAL SECURITIES
+(Monthly rates, not seasonally adjusted, billions of dollars)
+1989 1990 1990 1991
+Year Year Q4 Q1 Apr. May Junep
+Total offerings1  11.90 13.10 12.33 11.39 13.08 15.15
+Total tax-exempt 11.65 12.85 11.96 11.25 12.91 14.54 19.00
+Long-term 2 9.47 10.03 10.24 9.81 10.92 13.38 12.00
+Refundings 2.47 1.45 1.01 .79 .76 .54
+New capital 7.01 8.60 9.23 9.02 10.16 12.84
+Short-term 2.17 2.82 1.72 1.44 1.99 1.16 7.00
+Total taxable .25 .25 .37 .14 .17 .61
+1. Includes issues for public and private purposes; also includes
+taxable issues.
+2. Includes all refunding bonds, not just advance refundings.
+p--preliminary.
+on Bridgeport's $77.7 million of outstanding uninsured debt to CCC from BBB,
+and Moody's dropped the city's ratings to B from Baa. Both agencies
+retained triple-A ratings on the city's $100 million of insured debt. In
+any event, none of Bridgeport's bonds are likely to default soon, if ever,
+because the city's financial control board makes debt service payments
+before turning over tax receipts to the city. Funds for the next debt
+service, due in August, already have been placed in escrow.
+Budget problems continue to plague states, as well as municipalities.
+Over the intermeeting period, one state rated AAA by S&P, Maine, was
+downgraded, and four of the remaining eight were listed as troubled, owing
+to declines in key financial indicators and continued softness in local
+economies.
+After a considerable delay, the New York State budget finally was
+passed by the legislature and signed by Governor Cuomo, incorporating nearly
+
+III-14
+$1 billion in line-item veto spending cuts. Among the items cut was about
+$300 million in aid to New York City. These funds were included in the
+city's plan to close its own fiscal 1992 gap. The impasse over the state's
+budget had already delayed sufficiently the city's receipt of some proceeds
+to force it to sell $1.2 billion in short-term notes; the sale prompted
+S&P's downgrading of the city's short-term debt. Now, with the deadline for
+the 1992 fiscal year rapidly approaching, a $3.5 billion budget deficit
+remains. The city plans to raise property taxes, and is laying off more
+than 5,000 city workers and is contemplating major cuts in city services.
+New York City's fiscal problems have led investors to demand a large risk
+premium to hold its securities. When the city came to market recently with
+$600 million in long-term debt, yields on the bonds, although lower than
+expected, were still nearly 150 basis points higher than similarly rated
+tax-exempt instruments.
+In June, legislation was passed in Pennsylvania creating an "inter-
+governmental cooperation authority" empowered to approve Philadelphia's
+financial plan and to issue long-term bonds to erase the city's fiscal 1991
+and 1992 budget deficits, which currently total more than $250 million. The
+legislation also allows Philadelphia to defer a payment to its municipal
+pension fund due on June 30. That payment, as well as large debt service
+payments coming due in July, had threatened to send the city into default.
+In response to the legislation, S&P has suggested that an upgrade from the
+current CCC rating may be forthcoming for the city's obligations.
+Mortgage Markets
+Available data suggest that mortgage debt growth may have edged up a
+bit in the second quarter, consistent with the pickup in sales of new and
+
+III-15
+existing homes. In the first quarter, mortgage credit for all property
+types grew at an estimated 4-1/2 percent seasonally adjusted annual rate.
+Credit expansion was concentrated in loans on single-family properties,
+which grew at about a 6-3/4 percent rate. Growth in multifamily mortgage
+lending came to a halt, while commercial mortgage debt outstanding fell for
+the second consecutive quarter. Limited data for the second quarter show
+growth of real estate loans at commercial banks moving up slightly to about
+a 4-1/2 percent annual rate in May, boosted in part by borrowing against
+home equity lines of credit.
+Issuance of federally related mortgage-backed pass-through securities
+increased for the third consecutive month in April to a seasonally adjusted
+$19.3 billion. Issuance of multiclass securities also has been running well
+ahead of the first-quarter pace, as the steepness in the yield curve has led
+to an increase in CMO arbitrage transactions. Most of the growth in pass-
+through issuance is accounted for by fixed-rate securities, while ARM
+issuance remains light. With initial rates on FRMs close to their lowest
+levels of the past five years, the ARM share of loans closed remained low in
+the first quarter, averaging about 20 percent, based on the Federal Housing
+Finance Board's monthly interest rate survey. More recently, the initial
+rate advantage of ARMs has widened to over 2 percentage points, which may
+enhance ARM demand. In late 1988, the last time the FRM-ARM initial rate
+spread was at its current level, ARMs accounted for 55 percent of
+conventional loan originations (chart).
+In other developments, recent reports indicate that delinquency rates
+for home mortgages increased a bit in the first quarter for most property
+types. According to seasonally adjusted data from the Mortgage Bankers
+
+III-16
+MORTGAGE-BACKED
+(Monthly averages, billions
+Federally related
+pass-through securities
+-T::otal .Fixed-
+(SA) RateARM-
+backedSECURITY ISSUANCE
+of dollars, NSA unless noted)
+Multiclass securities
+Private FNMA
+Total issues1REMICs-FHLMC
+REMICS
+1989 16.5
+1990 19.7
+1990-Q1
+Q2
+.Q3,
+Q4
+1991-Q1 r
+1990-Oct.
+Nov..
+Dec.
+1991-Jan.
+Feb.
+Mar. r
+Apr. r
+May p21.5
+19.9
+18.2
+19.114.1
+17.3
+18.4
+16.3
+.17.5
+16.82.6
+2.3
+1.4
+2.2
+1.6
+4.1
+16.8 14.1 1.5
+18.4
+18.7
+20.2
+15.7
+16.2
+18.5
+19.3
+26.616.7
+17.8
+15.8
+13.0
+14.1
+15.2
+16.8
+21.68.1 1.4
+11.3 2.4
+11.3
+11.1
+12.1
+10.9
+9.0 2.1
+14.2
+8,4
+10.2
+5.3
+8.3
+13.3
+15.2
+n.a.2.2
+2.3
+2.3
+1.5
+1.4
+3.3
+3.3
+1.3
+1. Excludes
+r--revisedpass-through securities with senior/subordinated structures.
+p--preliminary n.a.--not available.
+Revised June 25, 1991
+Initial Rate Spread vs. ARM Share of Loans Closed
+Basis Points
+-Monthly.
+Initial Rate Spread*
+NI. / ..--
+I IARM Share of Loans Closed
+1991 1985 1986 1987 1988 1989 1990
+*Cont ract te on FRME ns ssIntal rate on ARMs.Agency
+strios
+3.1
+5.0
+5.0
+4.7
+6.6
+3.9
+4.0
+5.6
+3.8
+2.4
+2.4
+3.2
+6.3
+5.9
+n.a.5.7
+2.1
+5.5
+1.2
+3.6
+3.7
+6.0
+6.9
+/ \ / .\
+
+III-17
+Association, the 30-day "all loan" delinquency rate rose .25 percentage
+point in the first quarter to 4.95 percent, generally retracing the previous
+quarter's decline. The proportion of single-family loans 60 days or more
+past due, a measure of more serious payment problems, edged up .06
+percentage point to 1.54 percent in the first quarter (chart). Despite
+their recent upticks, both measures of payment difficulties remain well
+below the averages of the past decade. At life insurance companies, the
+delinquency rate on all types of mortgages rose to a series high of 4.68
+percent in the first quarter; as in other recent quarters, loans on
+commercial properties accounted for much of the increase.
+Home Mortgage Delinquency Rate At All Lenders
+(Loans 60 days or more past due)
+Quarterly PerentPercent
+2.5
+I I I I I I I 1 I
+I I I I I I I 1 I
+I I I I I I I 1 I
+I I I I I I I II I I I I I I I I
+I I I I I i I
+I I I I I i I I.. _ "I I I I I I I II I I I I
+I I I I l I -/ 1.5
+II I I
+I I I I I I
+1971 1975 1979 1983 1987 1991
+Source: Mortgage Bankers Association.
+
+III-18
+CONSUMER CREDIT
+(Seasonally adjusted)
+Percent change
+(at annual rate)
+1988 19891 1990
+Installment
+Auto
+Excluding auto
+Revolving
+All other
+Noninstallment1990
+Q3 Q41991
+Q1t
+8.8 5.9 2.3 2.8 -.2 -1.4
+6.9
+10.2
+13.7
+7.41.3
+9.2
+15.2
+4.5-2.1
+5.2
+10.6
+.6-4.4
+7.6
+13.3
+2.3-1.5
+.5
+1.9
+-.7-5.5
+1.1
+8.6
+-6.01991
+Mar. Apr.
+-.5 2.8
+-8.2
+4.3
+17.7
+-8.6
+6.0 2.6 -4.9 -12.6 -6.0 -14.2 -41.8 5.4
+7.2 5.8 1.7.8 -.7 -2.4 -3.6 3.0Memo:
+Outstandings
+(billions of
+dollars)
+1991
+Apr.P
+734.1
+280.5
+453.6
+226.1
+227.5
+57.4
+791.6
+1. Growth rates are adjusted for discontinuity in data between December 1988 and
+January 1989.
+r--revised. p--preliminary.
+Note: Details may not add to totals due to rounding.
+CONSUMER INTEREST RATES
+(Annual percentage rate)
+1991
+1989 1990 Jan. Feb. Mar. Apr. May
+At commercial banks
+New cars (48 mo.)
+Personal (24 mo.)
+Credit cards
+At auto finance cos.
+New cars
+Used cars12.07
+15.44
+18.0211.81
+15.46
+18.17
+12.62 12.54
+16.18 15.99.11.60
+15.42
+... 18.28
+12.99 13.16 13.14 13.14
+15.70 15.90 15.82 15.82
+1. Average of "most common" rate charged for specified type
+first week of the mid-month of each quarter.and maturity during the
+2. Average rate for all loans of each type made during the month regardless of
+maturity.Total
+11.28
+15.16
+18.22
+
+III-19
+The number of problem real estate loans also has been rising sharply at
+commercial banks, where the average delinquency rate on all property types
+in the first quarter was the highest rate in eight years. Delinquency rates
+on construction and development loans in the first quarter far exceeded
+those of other loan categories.
+Consumer Credit
+Consumer installment credit outstanding registered a small increase in
+April after four months of small declines (table). The revolving credit
+component grew less rapidly than in March, but has apparently recovered from
+the unusual weakness it displayed in the fourth quarter and early this year.
+Turnarounds in the nonrevolving components from sharp declines in March to a
+slight decline (auto credit) or a moderate increase ("all other" loans)
+contributed to the modest rebound in the installment credit total in April.
+The behavior of consumer credit in recent months, both before and
+during the economic downswing, has been quite consistent with previous
+cyclical experience. Typically, consumer credit growth has slowed
+progressively in advance of a cyclical peak, before sliding to a negative
+rate sometime during the ensuing recession. Past upturns in consumer credit
+usually have begun at or shortly before the onset of economic expansion.
+Interest rates on consumer loans (other than credit cards) at
+commercial banks declined about 1/4 percentage point in early May from
+levels recorded in the February survey. Up to that time, declines in
+consumer rates had been shallow relative to yields on other instruments of
+comparable maturity. Early this year, the spreads between rates on consumer
+loans and the yield on 2-year Treasury securities were around their widest
+levels in the 15-year period they have been calculated. The widening in the
+
+III-20
+CONSUMER LOAN DELINQUENCY RATES
+Commercial BanksPercent
+1971 1975 1979 1983 1987 1991
+SBreak In series between 1986 and 1987.4
+3.5
+3
+2.5
+2
+1.5
+1
+Auto Loans
+Percent
+1975 1979 19831L9i 0.5
+1991 1987
+
+III-21
+spreads mainly reflected typical lags in adjustment of consumer rates to
+movements in market rates, but also efforts by banks to protect against loan
+losses during a period of economic slowdown.
+Increases in delinquency rates on consumer loans in the first quarter,
+though moderate in some cases (chart), likely fueled such concerns.
+According to the American Bankers Association, the average delinquency rate
+on closed-end consumer loans at banks reached a level close to, but still
+somewhat below, the highs of the 1973-75 and 1980-82 recession periods.
+Delinquencies on automobile loans at the "captive" auto finance companies
+also were near previous highs in the first quarter, although they increased
+only slightly during the quarter. Previous patterns suggest that both
+series may register sharp declines as the turnaround in economic activity
+continues.
+Delinquencies on bank credit cards have climbed much more steeply over
+the past year than have these other series. As measured by the ABA, the
+credit card delinquency rate jumped .40 percentage points to 3.19 percent,
+more than one percentage point above its recent low in 1989-Q4. To some
+extent, the upsurge reflects an earlier relaxation of credit standards by
+card-issuing banks intent on expanding card programs that had become highly
+profitable by the mid-1980s. In particular, large issuers with nationwide
+distribution have been following a strategy of making cards available to
+higher-risk individuals and charging higher than average interest rates.
+Many of these large issuers also have been active in securitizing parts
+of their credit card portfolios. The higher delinquency rates at these
+issuers are evident in a series prepared by Moody's, showing the average
+rate for credit card accounts that have been pooled as backing for
+
+III-22
+securities. At an average of 6.2 percent in the first quarter, it was about
+double the rate estimated by the ABA for banks in general. 4Like the ABA
+series, Moody's index has experienced a sharp rise recently, climbing from
+4.0 percent in the spring of 1989.
+4. The gap between the two series is also partly explained by differing
+methods of calculation: the Moody's series is based on dollar amounts of
+delinquent and total loans, and the ABA series is based on numbers of loans.
+Because delinquent balances are typically larger than the average balance
+for a given portfolio, a dollar-based delinquency rate would be higher than
+a number-based rate for the same set of accounts.
+
+INTERNATIONAL DEVELOPMENTS
+
+INTERNATIONAL DEVELOPMENTS
+U.S. Merchandise Trade
+In April, the U.S. merchandise trade deficit was $4.8 billion
+(seasonally adjusted, Census basis), slightly larger than the revised March
+deficit of $4.1 billion, but smaller than the average for the first quarter.
+The value of both exports and imports rose in April; exports were 5 percent,
+and imports 2 percent, above the first-quarter average.
+For exports, the increase in April was primarily in capital goods and
+automotive products (in both categories it was the second consecutive month
+of expansion from low levels recorded earlier in the year). There was also
+a pick up in a broad range of exported industrial supplies. Agricultural
+exports were little changed from the average levels of the past year.
+U.S. MERCHANDISE TRADE: MONTHLY DATA
+(Billions of dollars, seasonally adjusted, Customs basis)
+Exports
+Total Ag. NonAg.
+1990-Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+1991-Jan
+Feb
+Mar-r
+Apr
+Source:32.2 3.2
+32.5 3.3
+32.2 3.2
+34.6 3.1
+33.6 3.1
+33.6 3.0
+34.1 3.1
+33.6 3.4
+34.0 3.3
+35.6 3.2
+U.S. Department29.0
+29.2
+29.0
+31.5
+30.5
+30.5
+31.0
+30.2
+30.7
+32.4
+of Commerce,Imports
+Total Oil Non-oil
+(nsa)
+41.4 4.2 37.2
+41.9 5.3 36.5
+41.3 5.9 35.4
+44.5 6.3 38.3
+43.1 6.5 36.6
+39.9 5.3 34.6
+41.5 5.2 36.3
+39.1 4.1 35.0
+38.1 3.8 34.2
+40.3 4.2 36.2
+Bureau of the Census
+Increases in imports in April were spread primarily among capital
+goods, non-oil industrial supplies, and consumer goods; all three categories
+turned up in April after two months of declines. Imports of automotive
+IV-1-9.2
+-9.4
+-9.1
+-9.9
+-9.5
+-6.3
+-7.4
+-5.5
+-4.1
+-4.8usar~ Total Ap- Non, .
+~
+
+IV-2
+products increased slightly as rising deliveries from Canada (from low
+levels recorded in January-February) were about offset by a drop in
+shipments from Japan. Oil imports also rose slightly in value, as a 13
+percent rise in volume was largely offset by a 50 cent per barrel decline in
+the price of imported oil.
+In 1991-Q1 the merchandise trade deficit was substantially smaller
+than in previous quarters, resulting almost entirely from a $36 billion (7
+percent) drop in the value of imports, split about equally between oil and
+U.S MERCHANDISE TRADE: QUARTERLY DATA
+Billions of dollars, BOP-basis
+Memo: Percent Change
+Years 1990 1991 1991-Q1 from
+1989 1990 Q2 Q3 Q4 Q1 Prev. Qtr. Year Ago
+------- saar ----------
+Exports 361 390 388 387 402 403 0.3 5.9
+Imports 477 498 485 502 513 477 -7.1 -2.9
+Oil 51 62 51 62 72 53 -27.0 -16.8
+Non-oil 426 436 433 440 441 424 -3.8 -0.8
+Balance -116 -108 -96 -115 -111 -73
+Ex Oil -65 -46 -45 -53 -39 -21
+Source: U.S. Department of Commerce, Bureau of Economic Analysis,
+Balance-of-Payments Accounts.
+non-oil items. Nearly all major trade categories showed declines in
+quantity reflecting weakening U.S. demand; one exception was imports of
+computers and parts, which continued to move up. While there was little
+change in value of exports between the fourth and first quarters, quantity
+expanded at a 7 percent annual rate (primarily computers, industrial
+supplies, and agricultural products). Both exports and imports of
+automotive products fell in the first quarter, reflecting primarily sagging
+sales in the United States.
+
+IV-3
+MAJOR TRADE CATEGORIES
+(Billions of dollars, BOP basis, SAAR)
+Year
+19901990 1991 $ Change
+01 02 03 04 01 01-01 01-04
+Total U.S. Exports
+Agricultural Export
+Nonagric. Exports
+Industrial Supplies
+Gold
+Fuels
+Other Ind. Supp.
+Capital Goods
+Aircraft & Parts
+Computers & Parts
+Other Machinery
+Automotive Products
+To Canada
+To Other389.6 381.0 388.4 386.6 402.3 403.4 22.5 1.1
+40.2 43.0 40.8 39.3 37.8 39.7 -3.2 1.9
+349.3 338.0 347.5 347.3 364.5 363.7 25.7 -0.8
+96.7
+3.0
+14.0
+79.6
+153.8
+32.3
+25.9
+95.6
+37.4
+22.6
+14.892.5
+1.9
+12.4
+78.1
+151.0
+32.1
+25.7
+93.3
+35.4
+21.6
+13.892.8
+2.8
+11.7
+78.3
+155.3
+34.6
+25.1
+95.5
+38.7
+23.8
+14.895.4
+3.0
+13.9
+78.6
+153.1
+31.6
+26.5
+95.0
+38.4
+23.5
+14.9106.0
+4.4
+18.1
+83.5
+156.0
+30.9
+26.4
+98.7
+37.1
+21.5
+15.6105.2
+4.1
+16.8
+84.3
+155.9
+30.8
+27.3
+97.7
+34.1
+19.5
+14.712.7
+2.2
+4.3
+6.2
+4.8
+-1.2
+1.6
+4.5
+-1.3
+-2.1
+0.8-0.8
+-0.3
+-1.4
+0.8
+-0.1
+0.0
+0.9
+-1.0
+-3.0
+-2.1
+-0.9
+Consumer Goods
+Other Nonagric.43.3 40.7 43.8 42.8 45.8 45.9
+18.2 18.4 17.0 17.6 19.6 22.65.3 0.1
+4.2 3.0
+Total U.S. Imports 497.7 491.1 484.7 501.6 513.2 476.9 -14.2 -36.3
+Oil Imports
+Non-oil Imports
+Industrial Supplies
+Gold
+Other Fuels
+Other Ind. Supp.
+Capital Goods
+Aircraft & Parts
+Computers & Parts
+Other Machinery
+Automotive Products
+From Canada
+From Other
+Consumer Goods
+Foods
+All Other62.1 63.2 51.3 61.8 72.1 52.6 -10.6 -19.5
+435.6 427.9 433.4 439.8 441.1 424.3 -3.6 -16.9
+82.5
+2.5
+3.6
+76.4
+116.4
+10.6
+23.0
+82.8
+87.3
+29.7
+56.5
+106.2
+26.6
+16.480.9
+1.7
+3.6
+75.7
+113.6
+9.3
+22.8
+81.5
+85.5
+28.4
+57.2
+104.5
+27.7
+15.882.0
+2.1
+3.2
+76.7
+115.6
+10.7
+22.9
+S82.0
+87.3
+31.0
+56.4
+104.7
+27.1
+16.783.3
+2.8
+3.5
+77.0
+116.2
+9.9
+23.0
+83.3
+90.3
+32.2
+58.1
+106.6
+25.8
+17.583.9
+3.3
+4.3
+76.4
+120.2
+12.8
+23.3
+84.1
+86.1
+27.3
+58.8
+106.9
+26.0
+18.180.2
+3.3
+3.9
+73.0
+119.0
+11.1
+24.2
+83.7
+82.5
+23.5
+58.9
+100.5
+25.6
+16.5-0.6
+1.6
+0.4
+-2.6
+5.5
+1.9
+1.4
+2.2
+-3.1
+-4.9
+1.8
+-4.0
+-2.1
+0.8-3.7
+0.0
+-0.3
+-3.3
+-1.2
+-1.7
+0.9
+-0.4
+-3.6
+-3.8
+0.2
+-6.4
+-0.5
+-1.6
+Source: U.S. Department of Commerce, Bureau of Economic Analysis.
+
+IV-4
+Oil Imports: Quantities and Prices.
+The pace of oil imports (mb/d) picked up slightly in the first
+quarter, but remained well below rates recorded in the first three quarters
+of 1990. Continued stock drawdowns (especially in January) and weak
+economic activity restrained imports. In April, oil imports increased to
+7.9 mb/d, largely the result of stockbuilding; this was the first increase
+in stocks since September of last year. Weekly indicators suggest that oil
+imports increased again in May as stocks continued to be rebuilt at a rapid
+pace.
+From a peak in November 1990, the price of oil dropped nearly $12 per
+barrel to average about $17.90 per barrel in both March and April. Spot
+OIL IMPORTS
+(BOP basis, seasonally adjusted, value at annual rates)
+1990 1991 Months
+Q3 Q4 Q1 Dec Jan Feb Mar Apr
+Value (Bil. $) 61.82 72.08 52.62 63.02 62.84 49.72 45.32 49.86
+Price ($/BBL) 19.96 28.77 20.29 26.32 23.54 19.35 17.85 17.90
+Quantity (mb/d) 8.48 6.86 7.10 6.55 7.31 7.04 6.95 7.85
+Source: U.S. Department of Commerce, Bureau of Economic Analysis.
+prices point to a modest increase (about $0.60 per barrel) in import prices
+in May. In June, spot prices of West Texas Intermediate crude oil have
+fallen about $1.00 per barrel. The decline occurred as stocks continued to
+rise in late May and early June, and in the absence of a cut in production
+quotas at the June 4th OPEC meeting.
+Prices of Non-oil Imports and Exports
+The fixed-weight price index for non-oil imports, reported in the GNP
+accounts, rose 4.0 percent at an annual rate during the first quarter, a
+slightly slower rate of increase than recorded during the fourth quarter.
+The deceleration in prices was evident in most major end-use groupings, and
+
+IV-5
+IMPORT AND EXPORT PRICE MEASURES
+(percent change from previous period, annual rate)
+Year Quarters Months
+1991-01 1990 1991 1991
+1990-01 Q3 04 01 Mar Apr
+(Quarterly Average, AR) (Monthly Rates)
+--------------------. BLS Prices------
+Imports. Total
+Foods, Feeds, Bev.
+Industrial Supplies
+Ind Supp Ex Oil*
+Capital Goods
+Automotive Products
+Consumer Goods
+Memo:
+Oil
+Non-oil
+Exports. Total
+Foods, Feeds, Bev.
+Industrial Supplies
+Capital Goods
+Automotive Products
+Consumer Goods
+Memo:
+Agricultural
+Nonagricultural3.3
+3.7
+2.8
+0.4
+4.8
+3.6
+2.7
+7.0
+3.0
+2.0
+-3.9
+1.8
+3.1
+2.7
+3.6
+-3.3
+2.710.2
+7.4
+31.7
+-1.5
+3.8
+3.3
+-0.3
+134.1
+1.8
+1.7
+-13.1
+5.2
+3.3
+1.9
+1.6
+-11.9
+3.924.9
+5.2
+77.1
+2.7
+8.2
+10.3
+4.5
+307.2
+6.3
+4.4
+-16.5
+15.9
+2.1
+3.5
+3.7
+-14.2
+7.9-12.3
+7.6
+-41.0
+-0.3
+4.8
+6.5
+2.3
+-73.9
+3.6
+0.6
+8.5
+-9.8
+5.6
+3.5
+6.0
+6.9
+-0.7-0.4
+1.0
+-2.2
+0.0
+0.7
+0.6
+-0.5
+-6.6
+0.2
+-0.1
+1.0
+-1.2
+0.4
+0.4
+0.1
+0.4
+-0.3
+Fixed-Weight
+Imports, Total
+Oil
+Non-oil
+Exports, Total
+Deflators
+Imports,Ag
+Nonag
+Total
+Oil
+Non-oil
+Exports, Total
+Ag
+Nonag------------- Prices in the GNP Accounts-------------
+2.8
+3.2
+2.7
+2.1
+-1.4
+2.8
+0.6
+3.1
+-0.7
+-0.3
+-1.4
+-0.115.8
+135.7
+3.9
+S0.8
+-10.1
+3.1
+11.3
+135.2
+2.134.4
+346.2
+5.3
+5.7
+-11.8
+9.5-18.3
+-75.0
+4.0
+0.4
+7.8
+-1.0
+27.1 -20.7
+345.0 -75.1
+0.6 -4.5
+-3.9 3.6 -5.3
+-10.1 -11.8 7.8
+-3.1 5.6 -6.6
+*/ Months not for publication.-0.7
+0.8
+-0.5
+-0.6
+-1.4
+-0.7
+-0.7
+0.0
+-0.7
+0.0
+0.9
+-1.1
+0.3
+-0.1
+1.8
+1.0
+-0.2
+*/ Months not for publication.
+
+IV-6
+likely reflects, in part, the shift in the dollar from depreciation during
+the fourth quarter to a moderate appreciation on balance during the first
+quarter. With the continued rise in the dollar, prices of most major trade
+categories of non-oil imports declined in April, especially prices of
+imported capital goods.
+Prices of agricultural exports moved up 7.8 percent at an annual rate
+in the first quarter, led by increases in the prices of exported fruits,
+feedgrains, and rice. In contrast, the average price of nonagricultural
+exports declined, as price increases for exported capital goods, consumer
+goods, and automotive products were more than offset by declines in the
+prices of exported industrial supplies. In April, the price index for
+nonagricultural exports fell 0.2 percent (not at an annual rate), its third
+consecutive monthly decrease, led by a continuing fall in the index for
+industrial supplies (especially fuels, chemicals, and paper). This decline
+was offset, however, by a 1.0 increase in prices for agricultural exports
+(especially wheat).
+BLS import and export prices for May will be released on June 27 and
+will be discussed in the Greenbook supplement.
+U.S. Current Account through 1991-Q1
+The U.S. current account shifted to a surplus of $40.9 billion SAAR in
+the first quarter of 1991 from a revised deficit of $93.6 billion SAAR in
+the fourth quarter of 1990. (See the tables below.) The change resulted
+from two factors: a $104 billion shift in unilateral transfers from net
+payments to net receipts (largely reflecting cash contributions from
+coalition partners in Operation Desert Storm), and a $29 billion decrease in
+the deficit on goods, services, and investment income (primarily a drop in
+merchandise imports).
+
+IV-7
+U.S. CURRENT ACCOUNT: QUARTERLY DATA
+Billions of dollars, seasonally adjusted annual rates) nnual rates)
+I Dollar Changes
+------- 1990-r ------ 1991 | 90Q4- 91Q1-
+Qtr 2 Qtr 3 Qtr 4 Qtr 1 | 90Q3 90Q4
+Current Account Balance
+(Ex Cap Gains/Loss,Spec Grants
+Trade Balance
+Exports
+Imports
+Other Current Account, net
+Investment Income, net
+Direct Investment, net
+Capital Gains/Loss, net
+Other, net
+Receipts
+Capital Gains/Loss
+Other DI Receipts
+Payments
+Capital Gains/Loss
+Other DI Payments
+Portfolio Income, net
+Receipts
+Private
+Government
+Payments
+Private
+Government
+Military, net
+Sales
+Payments
+Other Services, net
+Receipts
+Payments
+Unilateral Transfers, net
+Cash Grants, Desert Storm
+Grant to Egypt (debt repay)
+Other transfers, net1.9 134.5
+18.7 35.0
+4.1
+15.8
+11.637.4
+1.1
+-36.3
+-2.2 97.0
+13.3 -5.9-88.7 -95.5 -93.6 40.9
+-89.9 -102.2 -83.5 -48.5
+-96.4 -115.0 -110.9 -73.5
+388.4 386.6 402.3 403.4 [
+484.7 501.6 513.2 476.9
+7.6 19.5 17.3 114.3
+0.0 11.2 24.5 18.6
+43.6 53.5 61.7 60.6
+1.2 6.6 0.7 -1.5
+42.4 46.8 61.1 62.0
+52.8 54.7 56.3 63.3
+1.5 1.4 0.7 1.3
+51.3 53.3 55.6 62.0
+9.2 1.2 -5.5 2.8
+0.3 -5.3 0.0 2.7
+8.9 6.5 -5.5 0.0
+-43.6 -42.3 -37.2 -42.0
+72.5 73.4 83.0 68.6
+65.0 65.4 66.8 60.9
+7.4 7.9 16.2 7.7
+116.0 115.6 120.2 110.6
+78.6 77.5 81.1 72.1
+37.4 38.1 39.1 38.5
+-6.2 -6.7 -9.0 -8.7
+9.0 10.8 10.7 9.7
+15.3 17.6 19.7 18.4
+32.6 32.3 38.9 36.7
+120.4 123.7 132.1 125.4
+87.8 91.4 93.3 88.7
+-18.8 -17.3 -37.1 67.8
+0.0 0.0 17.2 90.8
+0.0 0.0 -28.0 0.0
+-18.8 -17.3 -26.3 -23.0-1.1
+-2.1
+1.0
+7.1
+0.6
+6.5
+8.2
+2.7
+5.5
+-4.8
+-14.3
+-5.9
+-8.4
+-9.6
+-9.0
+-0.6
+0.2
+-1.1
+-1.3
+6.5 -2.2
+8.4 -6.8
+1.9 -4.6
+-19.8
+17.2
+-28.0
+-9.0104.9
+73.6
+28.0
+3.3(Billic
+8.3
+-6.0
+14.3
+1.6
+-0.7
+2.3
+-6.7
+5.3
+-12.0
+5.1
+9.6
+1.3
+8.3
+4.5
+3.5
+1.0
+-2.2
+-0.1.
+2.1
+
+IV-8
+U.S. CURRENT ACCOUNT: ANNUAL DATA
+Billions of dollars
+I -- Dollar Changes --
+1988 1989 1990 I 1988- 1989- 1990-
+Year-r Year- Year-ri 1987 1988 1989
+Current Account Balance -126.2
+(Ex Cap Gains/Loss,Spec Grants) -125.4
+Trade Balance
+Exports
+Imports
+Other Current Account, net
+Investment Income, net
+Direct Investment, net
+Capital Gains/Loss, net
+Other, net
+Receipts
+Capital Gains/Loss
+Other DI Receipts
+Payments
+Capital Gains/Loss
+Other DI Payments
+Portfolio Income, net
+Receipts
+Private
+Government
+Payments
+Private
+Government
+Military, net
+Sales
+Payments
+Other Services, net
+Receipts
+Payments
+Unilateral Transfers, net
+Cash Grants, Desert Storm
+Grant to Egypt (debt repay)
+Other transfers, net-127.0
+320.3
+447.3
+0.7
+5.4
+36.8
+-0.8
+37.7
+50.4
+0.0
+50.4
+13.6
+0.9
+12.8
+-31.5
+60.2
+53.5
+6.7
+91.7
+61.5
+30.2
+-5.7
+9.4
+15.1
+16.1
+93.1
+77.0
+-14.9
+0.0
+0.0
+-14.9-106.3 -92.1
+-106.2 -92.4
+-115.9 -108.1
+361.5 389.6
+477.4 497.7
+9.6 16.0
+2.7 11.9
+42.5 52.7
+-0.1 3.0
+42.5 49.7
+54.0 54.4
+1.6 1.1
+52.4 53.3
+11.5 1.8
+1.6 -1.9
+9.9 3.6
+-39.8 -40.7
+74.7 75.6
+69.0 65.7
+5.6 9.9
+114.5 116.4 ]
+78.6 78.5
+35.9 37.9
+-6.2 -7.2
+8.4 9.9
+14.6 17.1
+28.6 33.6
+108.1 123.4
+79.5 89.8
+-15.5 -22.3
+0.0 4.3
+0.0 -7.0
+-15.5 -19.634.0 19.9 14.2
+37.2 19.1 13.9
+32.5 11.1
+70.1 41.1
+37.6 30.0
+1.5 8.9
+-2.3
+3.4
+-3.3
+6.7
+9.8
+-2.1
+11.9
+6.4
+1.2
+5.2
+-5.7
+10.3
+8.9
+1.4
+16.0
+11.1
+4.9
+-2.1
+-1.8
+0.3
+6.1
+13.1
+7.0
+-0.3
+0.0
+0.0
+-0.3-2.77.8
+28.1
+20.3
+6.4
+9.3
+5.7 10.2
+0.8 3.0
+4.9 7.2
+3.6
+1,6
+2.0
+-2.1
+0.8
+-2.9
+-8.3
+14.4
+15.5
+-1.1
+22.8
+17.1
+5.7
+-0.5
+-1.0
+-0.5
+12.5
+15.1
+2.5
+-0.5
+0.0
+0.0
+-0.50.4
+-0.5
+0.9
+-9.7
+-3.5
+-6.2
+-0.9
+1.0
+-3.3
+4.3
+1.9
+-0.1
+2.0
+-1.0
+1.5
+2.5
+5.0
+15.3
+10.3
+-6.8
+4.3
+-7.0
+-4.1
+
+IV-9
+Cash contributions from coalition partners in Operation Desert Storm
+amounted to $22.7 billion (not an annual rate) in the first quarter,
+compared with $4.3 billion (not an annual rate) in the fourth quarter. In
+addition, data for the fourth quarter included a $7 billion U.S. government
+grant to Egypt to repay debt to the United States ($2.1 billion for interest
+payments and $4.9 billion for repayment of principal). Excluding the cash
+contributions and the special grant to Egypt, the current account moved from
+a deficit of $82.8 billion in the fourth quarter to a deficit of $49.9
+billion in the first quarter.
+The merchandise trade deficit narrowed $37.4 billion SAAR in the first
+quarter. The level of exports was about the same as in the fourth quarter;
+about half of the drop in imports was in the value of oil.
+Net service receipts declined slightly in the first quarter from a
+high fourth-quarter level. Most of the change was in travel and passenger
+fares; U.S. receipts from foreigners fell more than U.S. payments to
+foreigners during the war in the Middle East. Both exports and imports of
+military goods and services declined a bit from strong fourth-quarter
+levels, leaving the balance little changed.
+Net portfolio income (excluding transactions related to the
+forgiveness of Egyptian debt) strengthened $3.5 billion SAAR in the first
+quarter; the general decline in interest rates reduced payments on our net
+liability position.
+Net direct investment income declined in the first quarter. This
+small decline was the net of the elimination of large fourth-quarter losses
+reported by foreign direct investors in the United States (which raised U.S.
+payments) and a substantial increase in income receipts from U.S. direct
+investments abroad. The losses reported by foreign investors in the fourth
+quarter were largely by banking and finance companies. Although U.S. direct
+
+IV-10
+investment payments to foreigners shifted from losses to profits in the
+first quarter, they remained at a depressed level (near zero) as the U.S.
+recession held down profits. U.S. income receipts on direct investments
+abroad were strong in the fourth quarter and increased further in the first
+quarter, partly reflecting transitory positive effects of the Persian Gulf
+crisis on the earnings of U.S. oil companies abroad.
+U.S. International Financial Transactions
+In the first quarter of 1991, recorded net capital inflows and a
+current account surplus (line 9 of the Summary of U.S. International
+Transactions table) combined to produce a large negative statistical
+discrepancy (line 10) in the U.S. international transactions accounts.
+Foreign official holdings of reserve assets in the United States (line
+4) increased by about $6 billion in the first quarter, despite large
+payments by a number of countries to cover the costs of Desert Storm. While
+payments by Germany and Japan reduced their assets held in the United
+States, holdings of the OPEC countries in the United States did not decline.
+Official assets in the United States of "other" countries increased sharply;
+about one-third was accounted for by Spain, and most of the rest was
+contributed by Singapore, Taiwan, and Mexico. In April, foreign official
+reserves in the United States declined about $6 billion, but preliminary
+information from the FRBNY indicates that the decline was reversed in May.
+Private foreign net purchases of U.S. securities (lines 2a, 2b, and 3)
+were about matched by U.S. net purchases of foreign securities (line 2c) in
+the first quarter. In April, however, there was a small net capital inflow
+as the result of private securities transactions. In both March and April,
+foreigners added to their holdings of U.S. stocks (line 2b), the first
+substantial increases since October 1989.
+
+IV-11
+SUMMARY OF U.S. INTERNATIONAL TRANSACTIONS
+(Billions of dollars)
+1989 1990 1990
+Year Year Q2 Q3 Q4
+Private- Capital
+Banks
+1. Change in net foreign
+positions of banking offices
+in the.. U.S (*- inflow),
+Securities.
+2. Private securities
+'transactions', .net
+a) foreign net purchases2-(+) of U.S. corporate bonds
+b) foreign net purchases
+(+) of U.S. corporate stocks
+c) U.S. net purchases (-) of
+foreign securities
+3. Foreign net purchases (+) of U.S.
+Treasury obligations
+Official Capital
+4. Changes in foreign official
+reserves, assets in U.S.
+(+ = increase)
+a) By area
+G-10 countries
+OPEC
+All other countries
+b) By type
+U.S. Treasury securities3Other
+5. Changes in U.S. official reserve
+assets (+ = decrease)
+4Other transactions (Quarterly data)
+6. U.S. direct investment (-) abroad
+7. Foreign direct investment (+) in U.S.5
+8. Other capital flows (+ = inflow)
+9. U.S. current account balance
+10. Statistical discrepancy27.2 30.7 2.3
+15.4 -28.421.4 -1.01991 1991
+Q1 Feb. Mar. Apr.
+1.9 -9.46.3 -16.2
+-9.4 -3.9 -7.5 -4.4 -5.3 1.6 1.5
+32.0 16.4 5.8 -0.1 6.0 3.8 -0.5 4.0 1.4
+7.9 -13.7 -3.4 -2.3 -5.01.8 0.4 2.0 3.1
+-24.5 -31.0 -11.7 -1.6 -8.5 -10.0 -5.1 -4.3 -3.1
+30.1 1.6 4.4 0.1 -1.9 4.1 5.3 -5.3 0.5
+8.3 31.4 4.7 13.6 19.9 5.6 9.5 -12.1 -6.1
+-5.2 9.8
+10.1 1.6
+3.4 19.8-0.9 8.6 8.4 -11.6
+* -1.4 0.1 0.6
+5.6 6.4 11.4 16.7
+0.1 29.3 2.5 11.8 20.8
+8.2 2.1 2.2 1.8 -0.9-11.8
+-0.5
+0.3
+2.2 7.4 -11.8 -2.0
+3,4 2.1 -0.3 -4.1
+-25.3 -2.2 0.4 1.7 -1.1 -0.4 0.7 -0.6 -0.2
+-33.4
+70.6
+-5.0
+-106.3
+18.4-33.4
+37.2
+8.3
+-92.1
+63.5-2.9
+9.3
+-11.0
+-22.2
+24.4-17.8
+7.1
+0.2
+-23.9
+1.5-3.8
+4.5
+-4.8
+-23.4
+19.1-8.5
+2.0
+5.0
+10.2
+-15.5n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+MEMO:
+U.S. merchandise trade balance -- part
+of line 9 (Balance of payments basis,
+seasonally adjusted) -115.9 -108.1 -24.1 -28.8 -27.7 -18.4 n.a. n.a. n.a.
+1. These data have not been adjusted to exclude commissions on securities transactions and, therefore, do not match
+exactly the data on U.S. international transactions as published by the Department of Commerce.
+2. Includes all U.S. bonds other than Treasury obligations.
+3. Includes deposits in banks, conmercial paper, acceptances, borrowing under repurchase agreements, and other securities.
+4. Seasonally adjusted.
+5. Includes U.S. government assets other than official reserves, transactions by nonbanking concerns, and other banking and
+ifficial transactions not shown elsewhere. In addition, it includes amounts resulting from adjustments to the data made by
+'-e Department of Commerce and revisions to the data in lines 1 through 5 since publication of the quarterly data in the
+'urvey of Current Business.
+*--Less than $50 million.
+NOTE: Details may not add to total because of rounding.
+
+IV-12
+Capital outflows associated with U.S. direct investment abroad (line
+6) were very strong in the first quarter of 1991. The bulk of the
+investments were in the countries of the European Community. The capital
+inflows associated with foreign direct investment in the United States (line
+7) fell further in the first quarter from the depressed 1990-fourth quarter
+level. BEA revised the inflow for the year 1990 up to $37 billion (compared
+with the earlier estimate of $26 billion), but it remained far below the $71
+billion reached in 1989. A shift in financing patterns appears to be the
+major explanation for this dramatic decline; according to data recently
+released by BEA, outlays by foreign direct investors to acquire U.S.
+businesses declined by only $3 billion, from $60 billion in 1989 to $57
+billion in 1990. Apparently, a far smaller fraction of the financing was
+provided by foreign parent companies in 1990, and a larger fraction by
+borrowing by U.S. affiliates of foreign direct investors. Data on foreign
+acquisitions of U.S. businesses in 1991 are not yet available, so it is not
+possible to judge whether the depressed level of capital inflows in the
+first quarter of 1991 reflects a continuation of 1990 financing patterns or
+whether it indicates a significant decline in the rate at which foreigners
+are acquiring U.S. businesses.
+Banks reported small net inflows in the first quarter, but large net
+outflows in April (line 1). In contrast, monthly average data on banks' net
+claims on their own foreign offices and IBFs are far less volatile (line 1
+of the International Banking Data table). The volatility of reported bank
+flows on a last-day-of-the-month basis, and the large swings in the
+statistical discrepancy in the international transactions accounts, suggest
+that there may be problems in the reporting of transactions that occur at
+the end of quarters; either the counterpart to window dressing that occurs
+at the end of some quarters is not reported in the balance of payments
+
+INTERNATIONAL BANKING DATA
+(Billions of dollars)
+1989 1990 1991
+Mar. June Sept. Dec. Mar, June Sept. Dec. Mar. Apr. May
+1. Net Claims of U.S. Banking
+Offices (excluding IBFS) on Own
+Foreign Offices and IBFS -2.9 -3.9 -6.4 -5.5 -11.7 -11.0 -15.6 -31.3 -23.8 -23.0 -22.6
+(a) U.S.-chartered banks 20.4 19.2 14.9 19,2 12.2 7.2 5.7 5.5 7.6 5.1 2.3
+(b) Foreign-chartered banks -23.3 -23.1 -21.3 -24.7 -23.9 -18.2 -21.3 -36,9 -31.3 -28.1 -24.9
+2. Credit Extended to U.S.
+Nonbank Residents by Foreign
+Branches of U.S. Banks 24.0 26.0 21.6 20.7 21.8 22.2 24.0 24.7 26.0 25.1 24.5
+3. Eurodollar Holdings of
+U.S. Nonbank Residents 1/ 144.8 131.5 130.3 123.5 110.6 106.5 109.1 115.9 114.8 110.8 106.1
+1. Includes term and overnight Eurodollars held by money market mutual funds. Note: These data differ in
+timing from the overall banking data incorporated in the international transactions accounts,' Line 1 is ancoverage and
+average of -
+daily data reported to the Federal Reserve by U.S. banking offices. Line 2 is an average of daily' data. Line 3 is'an
+average of daily data for the overnight component and an average of Wednesday data for the term cdiponent.
+
+IV-14
+accounts or the two sides of the transaction are reported in different
+quarters. While these reporting problems may be a source of swings in the
+discrepancy, as in the first quarter, they would not explain the cumulative
+positive statistical discrepancy in recent decades.
+The U.S. International Investment Position
+BEA recently released revised estimates of the U.S. net international
+investment position for 1982 to 1989. Data for 1990 are scheduled to be
+released at the end of June. Last year BEA ceased publishing gross totals
+for U.S. assets abroad and foreign assets in the United States; they argued
+that, because some components of the investment position were measured at
+historical cost (particularly direct investment) while others were measured
+at current market value, adding components based upon such a mix of
+valuations would not provide a useful indicator of the level of the
+investment position.
+Over the past year, BEA has developed alternative estimates of the
+value of direct investment assets. In addition to book value (the old
+measure, based largely on historical cost), BEA has made two new estimates.
+One is based on the current replacement cost of U.S. and foreign direct
+investors' share in their affiliates' investments in tangible assets --
+property, plant, equipment, and inventories. The other is based on the
+stock market value of U.S. and foreign parents' share of equity in their
+direct investment affiliates. In addition, BEA has revalued gold held in
+U.S. reserves to the market price.
+BEA now estimates that the U.S. net international investment position
+was between -$281 billion and -$464 billion at the end of 1989 and that the
+position deteriorated by anywhere from $540 billion to $828 billion between
+the end of 1982 and the end of 1989. These estimates are based on recorded
+capital flows and valuation changes only and take no account of the
+
+IV-15
+statistical discrepancy in the U.S. international transactions accounts,
+which cumulated to about $175 billion in the years 1960 to 1989. The
+negative U.S. net investment position is understated to the extent that part
+of the cumulative statistical discrepancy is explained by unrecorded net
+capital inflows.
+Movements in the net international investment position are of interest
+largely as a crude indicator of future servicing burden and as a component
+of national wealth. However, because rates of return on various components
+differ, the composition and gross level of U.S. assets abroad and foreign
+assets in the United States influence investment income as well; movements
+in the net investment position are likely to indicate the direction of
+change in net investment income, but not the level. U.S. net investment
+income is currently around zero despite the large negative net investment
+position.
+Foreign Exchange Markets
+The weighted average value of the dollar moved up about 4-1/4 percent
+since the May 14 FOMC meeting. Early in the intermeeting period, the dollar
+rose sharply but briefly against the mark as market participants readjusted
+their portfolios following Sweden's announcement on May 17 that it would peg
+the krona to the ECU. Subsequent data releases suggesting that U.S.
+economic activity may have begun to turn around pushed the dollar higher.
+The dollar rose more than 5-1/4 percent on balance against the mark,
+reaching a high of DM 1.8190 on June 24 in early Far Eastern trading. In
+contrast, the dollar edged up about 1/4 percent against the yen on balance
+during the period, although it had been higher--around ¥ 142--in early June.
+Near the end of the intermeeting period, the dollar declined a bit amid
+uncertainty about the implications for exchange rate policy of the June 23
+G-7 meeting in London.
+
+IV-16
+Changes in interest rate differentials reflected the bilateral
+currency movements. While short-term and long-term interest rates in the
+United States moved higher during the period, comparable interest rates in
+Germany moved slightly lower, even though the Bundesbank shifted to
+variable-rate repurchase operations at the beginning of June and nudged up
+the minimum rate in these operations. The three-month interbank rate in
+Germany declined 10 basis points since the May 14 meeting, and the
+bellwether bond yield edged down about 5 basis points. In contrast, the
+yield on the bellwether bond in Japan rose more than 15 basis points, nearly
+matching the increase in the comparable U.S. yield, and the three-month CD
+rate in Japan moved up 12 basis points. First-quarter GNP growth was strong
+in Japan, and that, combined with expressed concerns over the weakness of
+the yen against the dollar, led market participants to expect that the Bank
+of Japan may delay easing a while longer.
+The dollar's rise prompted intervention sales of dollars on two days
+by the Bank of Japan
+The Desk did
+not intervene during the period.
+During most of the period, the Spanish peseta remained near its
+6-percent intervention limit with respect to the French franc in the
+exchange rate mechanism of the EMS. Even after Spanish short-term interest
+rates declined, as authorities reduced the official repurchase rate 3/4
+percentage point, the French franc failed to gain ground against the peseta.
+Weighing on the franc were concerns about the direction of policy in France
+under the new Prime Minister.
+France allowed short-term
+
+IV-17
+WEIGHTED AVERAGE EXCHANGE VALUE OF THE DOLLAR
+March 1973 = 100
+March April May June
+SELECTED DOLLAR EXCHANGE RATESMarch 1 =100
+April May March June
+
+IV-18
+interest rates to move up. While the three-month rate in Spain declined
+nearly 60 basis points during the period to about 12-1/2 percent, the
+comparable rate in France rose 80 basis points to 9-7/8. Later in the
+period, pressure on the peseta-franc spread eased amid expectations that a
+proposed Spanish government wage pact, if enacted, might produce a sharp
+reduction in inflation and interest rates, and speed the peseta's entry into
+the group of narrow-band currencies. Prospects for the wage pact now appear
+to be bleak, and the peseta-franc spread rebounded somewhat, though it is
+still below the 6-percent limit.
+Sterling declined 6-1/2 percent against the dollar and more than 1
+percent against the mark since the May FOMC meeting. Contributing to the
+decline were increasing uncertainties about the political future of the
+Conservative Party as the recession persists and progress on inflation
+remains slow. Several reports during the period showed the Labour Party
+with a significant lead in the polls. Perhaps partly in response to these
+political pressures, U.K. authorities reduced money-market dealing rates
+another 1/2 percentage point in May, and the U.K. three-month interbank
+interest rate declined nearly as much during the period to end at about 11-
+1/4 percent. The yield on the bellwether bond in the United Kingdom rose
+almost 40 basis points to more than 10-1/2 percent, possibly reflecting an
+increase in inflation expectations.
+
+IV-19
+Developments in Foreign Industrial Countries
+Signs of a strengthening in economic activity in the major industrial
+countries have been mixed. Large increases in German and Japanese GDP
+occurred in the first quarter. They were partly due to special factors, and
+there have been signs of weakness in some second quarter monthly indicators.
+First-quarter GDP declined in Canada and United Kingdom, although Canada is
+showing some signs of a second-quarter recovery. First-quarter activity in
+France and Italy is likely to have been flat, but there have been some
+tentative signs of recovery in the second quarter.
+Inflation was stable or declined in most industrial countries except
+Germany. In the United Kingdom, measured inflation continued to decline,
+reflecting the effect of lower mortgage interest rates on the retail price
+index. In Italy and Canada, inflation appears to be slowing following
+recent increases in indirect taxes.
+German unification has continued to influence the pattern of external
+imbalances within Europe. Germany's trade and current account balances
+deteriorated sharply in the first quarter, with payments related to the Gulf
+war contributing to a current account deficit. First-quarter improvements
+in trade balances in France, Italy, and the United Kingdom were partly due
+to substantial increases in exports to Germany. Japan's trade surplus in
+May declined slightly, but remained well above its level last year.
+Individual Country Notes. Recent evidence on the pace of economic
+activity in Japan has been mixed. Real GNP (s.a.a.r.) increased 11.2
+percent in the first quarter. Domestic demand increased 5.1 percent, while
+consumption registered a more moderate 3.1 percent increase. Plant and
+equipment investment registered a strong 11 percent increase, while housing
+investment declined a further 10.9 percent. Inventory investment made a
+positive 1.3 percent contribution to growth, following a 2.1 percent
+
+REAL GNP AND INDUSTRIAL PRODUCTION IN MAJOR INDUSTRIAL COUNTRIES
+(Percentage change from previous period, seasonally adjusted) 1
+Q4/Q4 Q4/Q4
+1989 19901990
+Q2 03 Q4Q2 Q3 Q41991
+Q11991
+Jan. Feb. Mar. Apr. MayJan. Feb. Mar. Apr. MayLatest 3 months
+from year ago 2
+Canada
+GDP
+IP
+West Germany
+GNP
+IP
+Italy
+GDP
+IP
+United Kingdom
+GDP
+IP
+United States
+GNP
+IP2.9 -1.6
+-.4 -5.5
+3.9 2.1
+2.8 -.3
+3.2 5.3
+4.8 5.4
+2.9 1.1
+3.3 -3.8
+4.8 4.8
+4.2 6.9
+1.3 -1.3
+.2 -3.4
+1.8 .5
+1.1 .3-.2 -.3 -1.2 -1.2
+-.0 -.8 -3.1 -2.5
+.1 1.1 -.1 n.a.
+1.5 1.4 -2.7 .3
+.3 1.8 .6 2.3
+.-.9 3.0 .4 2.0
+-.1 .6 -.2 n.a.
+-1.5 1.4 -1.9 .3
+1.4 1.1 .6 2.7
+2.2 2.2 1.7 -.1
+.4 -1.5 -.8 -.6
+1.8 -3.2 -1.7 -.3
+.1 .4 -.4 -.6
+1.0 1.0 -1.8 -2.5X K X K
+.1 -1.3 -1.1 .1 n.a.
+3.8 -.8 -2.8 3.2 n.a.
+3.6 -2.0 1.4 -1.8 n.a.
+-1.0 -.2 -.2 -2.1 n.a.
+K X X
+1 .4 -.4 -2.1X X
+.5 1.7
+X K K X X
+-.6 1.8 .1 -2.7 n.a.
+-.5 -.9 -.6 .3 .5-2.8
+-6.9
+2.1
+.0
+5.2 o
+4.6
+1.1
+-3.3
+5.9
+3.8
+-2.4
+-4.2
+-.6
+-3.4
+1. Asterisk indicates that monthly data are not available.
+2. For quarterly data, latest quarter from year ago.
+
+CONSUMER AND WHOLESALE PRICES IN MAJOR INDUSTRIAL COUNTRIES
+(Percentage change from previous period)
+1989
+Q4/Q4 Q4/Q4 ----
+1989 1990 Q41990 1991
+Q1 Q2 03 04 Q1Q1 Q2 Q3 Q4 Q11991---------- -------------- Latest 3 months
+Feb. Mar. Apr. May from year ago,
+5.2 4.9
+.2 1.6
+3.6 3.6
+.9 .7
+West Germany
+CPI
+WPI
+Japan
+CPI
+WPI
+United Kingdom
+CPI
+WPI
+United States
+CPI (SA)
+WPI (SA)3.1
+4.33.0
+.9
+6.6 6.3
+n.a. 9.9
+2.9 3.5
+3.7 1.9
+7.6 10.05.2 5.9
+4.6 6.3
+4.9 6.5.7 1.4
+-.6 .4
+.8
+-1.0.9 1.1 1.4 2.9
+.3 -.1 1.0 .1
+1.0 1.0
+.2 1.1
+.6 1.1
+.3 -.3.5 .4 .9 .8
+.6 .2 .4 .5
+1.8 1.6 1.2 1.4 2.0
+3.2 1.4 -.0 3.9 4.3
+.4 1.2
+.4 .8
+2.0 1.8 4.7
+1.2 1.6 2.1.2 1.6
+.0 .7
+1.6 1.6
+.9 1.1
+1.0 1.8 1.0 1.7 1.7
+1.1 2.1 .1 1.6 2.6.0 ..4
+-.3 -.7.0
+-.7
+.2 .1 .3 .2
+M X 3 M
+.3 -.1
+.3 -.8
+.9 .3
+.7 -1.4
+.8 -.3
+.1 -.4.5 .3
+.2 .6
+.4
+n.a.
+.3 .4
+.1 -.3
+.5 .5 1.1
+.4 .6 1 .1
+.2 -.1
+-.9 -.3
+indicates that monthly data are not available.Canada
+CPI
+WPI.5
+-.3
+3.2
+.7
+2.8
+1.1
+6.7
+8.4
+3.4
+.6
+6.8
+6.2
+4.9
+3.3
+1. Asterisk
+
+TRADE AND CURRENT ACCOUNT BALANCES OF MAJOR INDUSTRIAL COUNTRIES 1
+(Billions of U.S. dollars, seasonally adjusted except where otherwise noted)
+1989 19901989
+041990---------------------------1991
+Q1 02 Q3 Q4 Q11991
+Feb. Mar. Apr. MayFeb. Mar. Apr. May
+Canada
+Trade
+Current account
+France
+Trade
+Current account
+Germany 2
+Trade (NSA)
+Current account
+Italy
+Trade
+Current account (NSA)
+Japan
+Trade
+Current account
+United Kingdom
+Trade
+Current account
+United States
+Trade
+Current account5.8 9.3
+-14.1 -14.0
+-6.9 -9.5
+-3.8 -7.8
+71.6 65.2
+55.5 47.3
+-12.6 -12.0-10.9 -15.0
+64.5 52.2
+57.6 36.2
+-39.2 -31.4
+-32.1 -28.2
+-115.9 -108.1
+-106.3 -92.11.0 1.4 2.6 2.8 2.4 1.8
+-4.0 -4.4 -3.6 -2.9 -3.1 -4.6
+-2.1 -.6 -2.0 -3.6 -3.3 -2.6
+-2.3 -.6 -2.3 -3.4 -1.6 -2.6
+16.6 22.4 16.7 16.0 10.1 4.4
+13.5 18.5 10.9 9.4 8.5 -5.7
+-2.4 -3.5 -2.2 -2.3 -4.0 -1.3
+-1.5 -9,1 -2.6 -1.6 -1.7. n.a.
+12.2 15.6 13.5 14.7 8.5 17.4
+9.2 15.3 8.0 7.0 5.9 17.8
+-6.9 -9.8 -8.8 -7,2 -5.7 -5.6
+-6.1 -7.6 -8.3 -6,6 -5.7 -2.5
+-28.6 -27.5 -24.1 -28.8 -27.7 -18.4
+-24.7 -22.7 -22.2 -23.9 -23.4 10'.2.6
+-.7
+N.7 n.a.
+N M
+-.8 -.3 -.3
+M M X
+1.8 1.8 -.8 n.a.
+-1.0 -3.3 -1.6 n.a.
+-.2 1.4 -1.8 n.a.
+5.1 7.3 6.0 5.8
+5.9 8.1 7.8 n.a.
+-1.4
+-.4-1.7
+-.6n.a.
+-2.5n.a.
+-.9
+N K N
+N Nt N
+1. The current account includes goods,
+that monthly data are not available.
+2. Before July 1990, West Germany only.services, and private and official transfers. Asterisk indicates---- -
+
+IV-23
+negative contribution in the previous quarter. Net exports made a strong
+5.9 percent positive contribution to growth, boosted by several temporary
+factors, in particularly a surge in income from foreign assets, a drop in
+the travel deficit, and a 25 percent increase in exports that is partly due
+to a change in the seasonal pattern of auto exports. A decline in imports
+of 9 percent also contributed.
+Monthly indicators of economic activity suggest less underlying
+strength. The index of leading indicators (s.a.) signaled a weakening
+economy for the eighth consecutive month in April. Housing starts (s.a.)
+dropped sharply for the third consecutive month in April and were 16.2
+percent lower than in December last year. The number of corporate
+bankruptcies (s.a.) rose for the fourth consecutive month in May, and were
+25.2 percent above their level of last December. Retail sales (s.a.)
+declined 0.3 percent in April. The capacity utilization rate (s.a.) rose
+1.8 percent in April, but remains 2.9 percent below its peak level last
+October. Industrial production (s.a.) increased by 1.7 percent in May, but
+was still only 1.1 percent above its level of last December. Labor market
+conditions remain tight; the unemployment rate (s.a.) eased to 2.1 percent
+in April, only slightly above the 10-year low of 2 percent reached in
+February.
+Inflationary pressures appear to have eased somewhat in recent months.
+The consumer price index for the Tokyo area (n.s.a.) was 3 percent above its
+level a year earlier, down from the previous month. Wholesale prices
+(n.s.a.) in May were only 0.6 percent above their level a year earlier.
+Wholesale prices have been held down until recently by falling import prices
+(n.s.a.), which fell 12 percent since December, reflecting, in large part,
+lower oil prices. The recently completed "shunto" spring wage round
+
+IV-24
+resulted in average wage agreements of 5.6 percent, down slightly from 5.9
+percent last year.
+The trade surplus (s.a.) declined in May to $5.8 billion from $6
+billion in the previous month. Through the first five months of this year,
+the cumulative trade surplus was $70.1 billion (a.r.), well above the $53.1
+billion surplus rate in the same period last year.
+Real GNP in western Germany (s.a.a.r.) increased 9.7 percent in the
+first quarter. Another mild winter caused seasonally adjusted construction
+investment to increase 87.5 percent in the first quarter. The strong first
+quarter also reflects a continuation of the factors that accelerated growth
+in the second half of 1990, as virtually all elements of final domestic
+demand increased strongly. Private consumption increased 9.5 percent, and
+equipment investment increased 31.5 percent. Public consumption fell 10.5
+percent in the first quarter due to a change in reporting concepts in the
+west German national accounts. Government expenditure for eastern Germany
+was shifted from the category of government consumption to exports (no
+corrections were made to previous data). West German net exports were up
+sharply in the first quarter, due only in part to the reporting change,
+increasing the growth of total GNP in the first quarter by 4.2 percentage
+points. A sharp decline in inventory accumulation reduced the growth of
+total GNP by 8.3 percentage points.
+Industrial production (s.a.) in western Germany fell 1.8 percent in
+April to a level 1.5 percent below the average for the first quarter. The
+largest component of the April decline was a 7.9 percent decline in
+seasonally adjusted construction activity.
+The volume of new orders for west German manufactured goods (s.a.)
+fell 3.6 percent in April. Total orders have now declined 3.5 percent since
+the beginning of the year. Foreign orders have marginally out performed
+
+IV-25
+domestic orders in both March and April, reversing earlier trends. In April
+the volume of retail sales (s.a.) in western Germany increased 0.2 percent,
+after increasing 1.7 percent in March. The west German unemployment rate
+(s.a.) increased 0.1 percent in May to 6.3 percent, the first increase since
+1989.
+Industrial production in eastern Germany (n.s.a.) fell 24 percent in
+January and 1 percent in February, to a level 38 percent of the average
+level in 1989. Official east German unemployment (n.s.a.) was unchanged in
+May at 9.5 percent. The number of workers engaged in government subsidized
+"short-time" work (n.s.a.) fell 0.6 percent in May to 22.1 percent of the
+labor force.
+West German consumer prices (n.s.a.) increased 2.9 percent in May from
+their level a year earlier, up from 2.8 percent in April. West German
+wholesale prices (n.s.a.) increased 1.3 percent in May from their level a
+year earlier, up from 1 percent in April. West German import prices were
+unchanged in May, after increasing 1.1 percent in April. On a year/year
+basis import prices were unchanged in March, but in May they were up 2.7
+percent.
+The combined German current account (n.s.a.a.r.) improved in April due
+largely to a decline in payments related to the Gulf War. The current
+account deficit was $19 billion in April, compared with $23 billion for the
+first quarter. Excluding payments related to the Gulf War the German current
+account showed a surplus of $5 billion in the first quarter, compared with a
+surplus of $47 billion for 1990 as a whole. The combined German trade
+balance (n.s.a.a.r.) ran a deficit in April of $9.8 billion. (The last time
+western Germany had a monthly trade deficit was in the early 1980s.) This
+
+IV-26
+compares with a first-quarter surplus of $17.6 billion and a surplus of $65
+billion for all of 1990. In April exports (n.s.a.) were down 12 percent
+relative to the first quarter, while imports (n.s.a.) fell only 5.9 percent.
+The Bundesbank announced that M3 (s.a.) in western and eastern Germany
+had increased 3.5 percent through May relative to the fourth quarter, up
+from 3.4 percent for April. Although the May figure is below the 1991
+target of 4 to 6 percent M3 growth, it appears that the low level of
+economic activity in eastern Germany, and the gradual portfolio shifts into
+previously unavailable long-term assets are depressing monetary growth in
+eastern Germany, and, consequently, the overall measure.
+Recent data confirm that activity in France stagnated in the first
+quarter. Marketable GDP (s.a.), an early indicator of total GDP that
+excludes most government services, was unchanged. Consumption and inventory
+accumulation expanded, while exports and fixed investment contracted.
+Early indicators for the second quarter are mixed. Industrial
+production (s.a.) grew 3.2 percent in April, after declining in March, but
+household consumption (s.a.) of manufactured products fell 0.9 percent.
+Business confidence, measured by near-term industrial production plans
+(s.a.), rose for the third consecutive month in May.
+French consumer inflation remains moderate. The CPI was up 3.2
+percent on a twelve-month basis in May, the same as in April. The
+differential with German inflation narrowed to 0.3 percentage points in May.
+Prime Minister Rocard resigned in May and was replaced by Edith
+Cresson, who assumes leadership of the minority Socialist government. The
+government remains intent on hitting its 1991 budget deficit target of FF80
+billion ($13 billion equivalent). In the face of slow revenue growth and
+unexpected expansion in expenditures, it announced plans at the end of May
+for spending cuts, tax increases, and one-time levies totaling FF16 billion.
+
+IV-27
+In Italy, signs of a recovery in economic activity, following a
+stagnant first quarter, are mixed. Industrial production (s.a.) declined
+2.1 percent in April, after a slight increase of 0.3 percent in the first
+quarter. However, unemployment (n.s.a.) declined in April to 10.9 percent
+from 11.3 percent in January and was below its level of a year earlier.
+Consumer prices (n.s.a.) increased 6.8 percent in May from:their level
+a year earlier, roughly the same as the increase in the previous month.
+This high level of inflation, up from 5.6 percent a year ago, reflect the
+effect of recent increases in indirect taxes and administered prices. In
+contrast, wholesale and producer price inflation declined in April, with
+wholesale prices (n.s.a.) rising 7.2 percent, down from 8.6 percent in
+March. Producer prices (n.s.a.) rose only 4 percent in April from their
+level a year earlier, down from 4.1 percent in March.
+The trade deficit (s.a.) increased sharply in April, to $1.8 billion,
+exceeding the $1.3 billion deficit for the entire first quarter. This
+deterioration should prove temporary, as it results from a surge in imports
+following a customs strike in March.
+In the United Kingdom, the average measure of real GDP (s.a.) declined
+by 2.5 percent (a.r.) in the first quarter. Consumption increased at a 1.6
+percent rate, following two consecutive quarters of decline. However, fixed
+private investment remained very weak, falling a further 11.7 percent. Net
+exports made a small negative contribution to growth. Preliminary
+indications are that the recession continued into the second quarter.
+Industrial production declined 2.7 percent in April. The volume of retail
+sales (s.a.) declined by 0.3 percent in May. The unemployment rate (s.a.)
+increased to 7.9 percent in May, the tenth consecutive monthly rise.
+Recent data show some easing of inflation. The retail price index
+(n.s.a.) rose only 0.2 percent in May, and on a 12-month basis the increase
+
+IV-28
+was 5.6 percent, down sharply from 9.3 percent at the end of last year.
+Excluding mortgage interest payments, the 12-month increase in the index was
+6.6 percent. Output prices for manufactured goods (n.s.a.) rose 6 percent
+in May from their year-earlier level.
+The current account deficit (s.a.) decreased in May to $0.9 billion.
+Through the first five months of this year, this deficit was $10.1 billion,
+down sharply from the $31.9 billion deficit over the corresponding period
+last year.
+First-quarter GDP (s.a.a.r.) fell 4.8 percent in Canada, extending the
+recession to a full calender year. All components except government
+expenditures fell. However, several recent indicators suggest a recovery is
+beginning. Retail sales (s.a.) rose 0.4 percent in April. Housing starts
+(s.a.), which have been at very low levels, increased for the third
+consecutive month in May, rising 16.4 percent from the previous month.
+Motor vehicle sales (s.a.) rose 6.8 percent in April. Manufacturers'
+shipments (s.a.) increased 2.2 percent in April following a 0.5 percent rise
+in March. New orders (s.a.) jumped 5 percent in April, and unfilled orders
+(s.a.) rose for the first time since August 1990. Unemployment (s.a.)
+dropped to 10.3 percent in April from a recent peak of 10.5 percent in
+February.
+Consumer prices (n.s.a.) increased 0.5 percent in May to a year-over-
+year rate of 6.2 percent, the same as the core rate that excludes food and
+energy. Canada's current account deficit (s.a.) stood at $4.7 billion in
+the first quarter.
+Developments in East European Economies.
+High and rising unemployment shows signs of interfering with economic
+reform programs in Eastern Europe. In Poland, members of the Solidarity
+labor union are becoming increasingly restive. The CSFR, where unemployment
+
+IV-29
+in certain regions of Slovakia is more than double the national average,
+witnessed the downfall of Slovakian Prime Minister Vladimir Meciar who had
+threatened to march on Bratislava with the unemployed. Hungary faces
+different concerns, as problems with Soviet payments detract from an
+otherwise positive trade picture.
+In Poland, industrial output continued to contract 4.8 percent in May
+and 8.6 percent since the beginning of the year. Inflation may be
+responding to tight policies, as the monthly rate fell to 2.7 percent in
+April (almost half the March figure and one of the lowest monthly inflation
+rates since the beginning of the stabilization program in January 1990).
+The Polish National Bank announced a cut in interest rates from 72 percent
+to 59 percent, which yields a positive real rate of around 10 percent.
+Government spending has expanded in an effort to revive economic activity,
+and the budget deficit through April exceeds IMF targets.
+Poland devalued the zloty by 14.4 percent in May, the first change in
+the exchange rate since it was pegged, on January 1, 1990, at the beginning
+of the stabilization program. Exports increased 30 percent in May from
+April, yielding the first monthly trade surplus in 1991 of $159 million.
+For the year through May, the trade deficit stands at $367 million.
+April inflation in the Czech and Slovak Federal Republic decreased to
+2 percent, down from 4 percent in March. The monthly inflation rate has
+fallen each month since the initial 25 percent increase in the price level
+at the start of the reform program in January 1991.
+Industrial production declined 13 percent over the first four months
+of 1991 compared with the same period in 1990. In an effort to restart
+production, the State Bank reduced the maximum surcharge that commercial
+banks may charge over the 10 percent discount rate.
+
+IV-30
+The balance of payments deficit for the first quarter totaled $300
+million. While total trade has contracted since the first quarter of 1990
+(exports and imports fell 22 and 17 percent, respectively), trade with
+market economies increased 7.7 percent to 57 percent of total trade. The
+CSFR reforms are being supported by an ECU 375 million loan from the
+European Community to strengthen foreign currency reserves. The loan is the
+EC's share of a $1 billion G-24 package.
+Unemployment in Hungary, although still expected to rise, decreased
+slightly in May to a rate of 3.4 percent. Industrial production for firms
+employing more than 50 workers dropped 19.9 percent in April from its level
+a year earlier. The seeming inconsistency between the unemployment figures
+and the industrial production figures could indicate either that firms are
+hoarding labor or that workers are moving into small enterprises in the
+private sector.
+Hungary's convertible currency current account surplus totaled $159
+million in the first quarter, fueled by strong exports and tourism. Exports
+to traditional Western markets nearly doubled, offsetting a 50 percent
+decline in exports to CMEA countries. Lagging trade payments from the
+Soviet Union are a developing concern; of $500 million in exports delivered,
+only $100 million have been paid for. In contrast, Hungary has paid $400
+million to the U.S.S.R. for imports though the end of May.
+Monthly inflation decreased slightly in April to 2.4 percent although
+the annual rate is still over 35 percent. Given the strong export
+performance, Central Bank President Gyorgy Suranyi has suggested a possible
+revaluation of the forint to ease inflationary pressures.
+Economic situation in other countries
+The Brazilian Senate approved on June 19 the agreement with bank
+creditors reached in April to restructure $8 billion in interest arrears.
+
+IV-31
+Brazil now seeks a Brady-style debt-reduction plan for its remaining $60
+billion commercial bank debt. Mexican interest rates declined further as
+U.S. Congressional approval of fast-track procedures for the proposed North
+American Free Trade Agreement spurred investor confidence. In Argentina,
+inflation has continued to decline in response to the stabilization measures
+announced in March, but additional fiscal adjustment is needed. In
+Venezuela, a loosening of fiscal policy has led to increased inflation and
+failure to qualify for the 1991-Q1 drawing on its IMF Extended Fund
+Facility. In Korea, real GDP in the first quarter of 1991 was 9.1 percent
+above its year-earlier level, accompanied by a sharp rise in the current
+account deficit. Taiwan's economic growth also appears to be recovering
+from its 1990 slowdown.
+Individual Country Notes. On June 19, Brazil's $8 billion interest
+arrears agreement, reached with creditor banks in April, was approved by the
+Brazilian Senate, as required by the Constitution. The new economic team
+headed by former Brazilian Ambassador to Washington Marques Moreira
+announced intentions to speed progress on negotiations on Brazil's remaining
+estimated $60 billion debt owed to foreign commercial banks. Minister
+Moreira also wants a Brady-style debt-reduction plan, which will require IMF
+support. It is anticipated that negotiations on an IMF program will begin
+shortly. However, the government has not yet introduced proposals necessary
+for fiscal reform, which should be an integral component of an IMF program.
+The government reported a 1990 operational surplus equal to 1.2 percent of
+GDP, compared with an operational deficit as high as 7.8 percent of GDP in
+1989, but most of that improvement was due to one-time government revenue
+gains from a freeze of bank assets in March 1990.
+There are indications that economic activity is recovering from the
+steep recession over the past year. Industrial output rose 13 percent
+
+IV-32
+between March and April, but remains at a low level. Despite the imposition
+of price controls in January, inflation was over 5 percent in April and
+almost 7 percent in May. It is expected to be 9 percent in June. The
+government announced that it will phase out the controls over the next
+month.
+Brazil's trade surplus for the first five months of 1991 was $6.2
+billion, compared with $4.7 billion over the same period in 1990. The
+spread between the official and parallel market exchange rates has been
+steady at about 11 percent in recent weeks.
+Mexican interest rates fell sharply in May, as the U.S. Congress moved
+toward approval of fast-track procedures for the proposed North American
+Free Trade Agreement, and fell further in early June after approval was
+secured. At the June 18 auction of Mexican Treasury securities, the rate
+for 28-day bills was 17.51 percent, down 373 basis points from April 23.
+The decline reflected not only the growing capital inflows that are being
+stimulated, in part, by the prospects of successful free trade negotiations
+but also the slowing of inflation. The CPI rose by only 1 percent in both
+April and May, down from 1.7 percent in February and 1.4 percent in March,
+and the June increase is widely expected to be 1 percent as well. The
+Mexican authorities are sterilizing only a part of the reserve gains derived
+from the capital inflows, being concerned that sterilizing most or all of
+them would raise interest rates, increase the government's indebtedness, and
+therefore increase the cost of servicing the internal public debt.
+The first quarter trade results show that, in comparison with a year
+earlier, imports were up by 37 percent, with increases spread across all
+categories of goods. In part, this growth reflects the relatively low level
+of imports in the first quarter of 1990, which were followed by relatively
+high imports and inventory accumulation in the third and fourth quarters.
+
+IV-33
+Therefore, the year-over-year growth of imports is likely to decline during
+the balance of 1991 as inventories are reduced. First quarter exports grew
+only 6 percent above their year-earlier level, but manufactured exports were
+up by 14 percent.
+In May and early June, the government sold more than 1.7 billion
+shares of TELMEX, the telephone system, in the U.S., Japanese, and European
+stock markets for a total $2.27 billion. This amount was added to the
+contingency fund held by the Mexican authorities as a cushion against future
+balance-of-payments problems, bringing its total to more than $4 billion.
+The contingency fund is not included in the officially reported reserves of
+Mexico.
+On June 10, the Finance Secretariat accepted the bid of Grupo
+Financiero Probursa, a brokerage house, to purchase 77.2 percent of the
+shares of Multibanco Mercantil de Mexico for the peso equivalent of about
+$200 million, 2.66 times book value. This was the first of the nationalized
+commercial banks to be privatized. The sale of 100 percent of the shares of
+a second bank for the equivalent of about $182 million, more than 3 times
+book value, was announced on June 17.
+In Argentina, financial markets continue to be stable following the
+legal fixing of the exchange rate to the dollar in late March. The
+expectation that the authorities will be able to maintain the fixed exchange
+rate, if only for the next few months, has boosted the demand for austral-
+denominated assets. To keep the austral from appreciating, the authorities
+purchased $544 million in the foreign exchange market in May and have
+purchased over $200 million thus far in June. Short-term call money rates
+of interest have registered roughly 2 percent (monthly basis) in recent
+weeks, extremely low by the standards of the past few decades. Consumer
+
+IV-34
+inflation has continued to decline, falling to 2.8 percent (monthly basis)
+in May from 5.5 percent in April.
+After running fiscal deficits, excluding interest payments, for the
+first quarter of 1991, the government has achieved estimated surpluses
+equivalent to between $100 million and $150 million in April and May.
+However, these fall short of the roughly $300 million surplus required
+monthly to finance its debt-service obligations. As a stop-gap measure, the
+government sought Congressional approval to spread the twice-yearly bonus
+for public sector workers, equal to a half-month's salary and scheduled for
+June, across the second half of 1991. However, heavy political opposition
+forced the government to withdraw the proposed legislation. The government
+also has initiated tax reform legislation that will strengthen the powers of
+the tax collection agency, as well as encourage the return of flight
+capital.
+Talks with the IMF are continuing on a new program to replace the
+stand-by arrangement that became inoperative at the beginning of the year.
+However, IMF concerns that the adjustment measures proposed by Argentina are
+insufficient to close its fiscal gap have slowed negotiations. Executive
+Board approval of a stand-by will not be forthcoming until late July at the
+earliest.
+Monthly consumer price inflation in Venezuela averaged 2.6 percent in
+April and May, up from an average of 1.9 percent in the first three months
+of 1991. This increase is mainly due to robust economic growth spurred by a
+fiscal expansion and led by public sector investment. In an attempt to
+contain the rise in prices, the Venezuelan central bank has maintained a
+relatively tight monetary policy in recent months. The level of M2
+increased an average of 1.8 percent per month in the first third of 1991,
+compared with 5.4 percent per month in the last half of 1990. This slower
+
+IV-35
+growth in liquidity helped to push the average bank lending interest rate
+from 29.8 percent in December 1990 to 36.8 percent in April.
+Having failed to implement a promised value-added tax, Venezuela was
+not permitted to make the 1991-Q1 drawing under its IMF Extended Fund
+Facility. As a consequence, Venezuela had to seek waivers from the
+commercial banks supplying new money under last year's financing package in
+order for the second new money tranche to be released. The necessary two-
+thirds majority of the banks agreed to provide the waivers, allowing the
+$300 million in new money to be disbursed.
+In Korea, real GDP increased 9.1 percent in the first quarter of 1991
+over the first quarter in 1990. First-quarter growth continued to be led by
+the construction sector. Chemicals and heavy industry output expanded over
+10 percent as exports from those industries picked up relative to the first
+quarter of 1990. Korea's current account deficit rose to $4.8 billion in
+the first four months of 1991 from $1.2 billion in the same period last
+year, as a steep rise in imports of oil and capital goods more than offset a
+recovery in exports.
+In Taiwan, economic growth appears to be recovering somewhat from the
+slowdown in 1990. Industrial production was 5.5 percent higher in the first
+five months of 1991 than a year earlier. In the first five months of 1991,
+the cumulative trade surplus (on a customs basis) fell slightly to $3.6
+billion from $3.8 billion in the same period last year despite a large
+increase in exports. Imports of industrial raw materials, including crude
+oil, grew rapidly in the first five months of 1991.

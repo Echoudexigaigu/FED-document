@@ -1,0 +1,3175 @@
+ 
+Prefatory Note  
+ 
+ 
+The attached document represents the most complete and accurate version 
+available based on original copies culled from  the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserv e System.  This electronic document was 
+created through a comprehensiv e digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain.  
+Please note that this document may contain occasional gaps in the text.  These 
+gaps are the result of a re daction process that removed information obtained on a 
+confidential basis.  All redact ed passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+ 
+                                                
+ 
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and we re not checked or corrected by staff. 
+Confidential (FR) Class II FOMC
+August 17, 1983
+RECENT DEVELOPMENTS
+Prepared for the Federal Open Market Committee
+By the staff of the Board of Governors of the Federal Reserve System
+
+TABLE OF CONTENTS
+Section Page
+DOMESTIC NONFINANCIAL DEVELOPMENTS II
+Industrial production ....................................... 1
+Employment and unemployment.................................... 3
+Personal income and consumption............................... 5
+Housing markets................................................ 9
+Business fixed investment...................................... 11
+Inventories................................................... 13
+Government sectors: federal, state and local................... 15
+Wages and labor costs..................................... .... 16
+Prices ...................................................... 20
+Tables
+Industrial production........................................... 2
+Capacity utilization: manufacturing and materials.............. 2
+Changes in employment ....................................... 4
+Selected unemployment rates................................... 4
+Personal income................................................ 6
+Retail sales................................................... 7
+Auto sales ...................................................... 7
+Private housing activity........................................ 10
+Business capital spending indicators............................ 12
+Changes in manufacturing and trade inventories.................. 14
+Inventories relative to sales.................................. 14
+Reconciliation of mid-session review
+and January budget deficit estimates........................ 16
+Hourly earnings index.......................................... 17
+Employment cost index........................................... 17
+Negotiated wage-rate changes
+under major collective bargaining agreements................ 18
+Labor productivity and costs: nonfarm business sector........... 20
+Recent changes in producer prices............................... 22
+Recent changes in consumer prices............................... 22
+Charts
+Factors associated with the rise in consumer spending.......... 8
+Private housing starts......................................... 10
+Effective wage changes in major union contracts................. 18
+Commodity Research Bureau spot market index..................... 24
+Appendix
+Annual revision of the national income and product accounts..... Al
+
+DOMESTIC FINANCIAL DEVELOPMENTS III
+Monetary aggregates and bank credit............................ 3
+Business finance................................................ 7
+Government finance
+Federal sector.............................................. 9
+State and local sector...................................... 11
+Mortgage markets............................................... 14
+Consumer credit................................................ 17
+Tables
+Monetary aggregates............................................ 2
+Net flows into selected accounts at banks and thrifts........... 5
+Commercial bank credit and short- and intermediate-term
+business credit............................................. 6
+Gross offerings of securities by U.S. corporations............. 8
+Treasury and agency financing................................ 10
+Gross offerings of securities by state and local governments.... 13
+Mortgage debt........................ ................ 16
+Consumer installment credit.................... .............. 18
+Charts
+Ratio of tax-exempt to taxable yields........................... 13
+Interest rates on conventional home mortgages................. 15
+Rates on commercial bank new-auto loans
+and 3-year Treasury securities.............................. 20
+INTERNATIONAL DEVELOPMENTS IV
+Foreign exchange markets......................................... 1
+U.S. international financial transactions....................... 4
+U.S. merchandise trade......................................... .. 9
+Foreign economic developments .................... ...... ..... 13
+Major debt problem situations in developing countries............ 19
+Tables
+International banking data....................................... 4
+U.S. official reserve assets..................................... 7
+Summary of U.S. international transactions..................... 8
+U.S. merchandise trade........................................... 9
+Oil imports..................................................... 11
+Major industrial countries
+Unemployment rates........................................... 20
+Real GNP and IP.............................................. 21
+Consumer and wholesale prices................................ 22
+Trade and current account balances............................ 23
+Charts
+Weighted-average exchange value of the U.S. dollar............... 2
+Three-month interest rates....................................... 2
+
+August 17, 1983
+SELECTED DOMESTIC NONFINANCIAL DATA
+(Seasonally adjusted)
+Latest data Percent change from
+Three
+Period Release Data Preceding periods Year
+date period earlier earlier
+(At annual rate)
+Civilian labor force
+Unemployment rate (%) 1/
+Insured unemployment rate (%) 1/
+Nonfarm employment, payroll (mil.)
+Manufacturing
+Nonmanufacturing
+Private nonfarm:
+Average weekly hours (hr.) 1/
+Hourly earnings ($) 1/
+Manufacturing:
+Average weekly hours (hr.) 1/
+Unit labor cost (1967=100)
+Industrial production (1967=100)
+Consumer goods
+Business equipment
+Defense & space equipment
+MaterialsJuly
+July
+June
+July
+July
+July8-05-83
+8-05-83
+7-26-83
+8-05-83
+8-05-83
+8-05-83
+July 8-05-83
+July 8-05-83
+July 8-05-83
+June 7-29-83
+July
+July
+July
+July
+July
+Consumer prices all items (1967-100) June
+All items, excluding food & energy June
+Food June
+Producer prices: (1967=100)
+Finished goods
+Intermediate materials, nonfood
+Crude foodstuffs & feedstuffs
+Personal income ($ bil.) 2/8-16-83
+8-16-83
+8-16-83
+8-16-83
+8-16-83
+7-22-83
+7-22-83
+7-22-83
+July 8-12-83
+July 8-12-83
+July 8-12-83111.9
+9.5
+3.8
+90.3
+18.7
+71.6
+35.1
+8.02
+40.3
+93.3
+148.6
+154.0
+151.3
+120.5
+146.8
+297.5
+285.6
+291.3
+285.3
+317.4
+244.6-.6
+10.0
+4.1
+6.5
+10.5
+5.5
+35.1
+8.00
+40.2
+-11.5
+21.4
+20.6
+12.0
+10.0
+26.7
+2.4
+3.8
+-3.7
+1.3
+3.4
+-30.6
+June 7-20-83 2,734.13.9
+10.2
+4.5
+5.5
+8.1
+4.8
+34.9 34.9
+7.95 7.70
+40.1 39.1
+-12.5 -8.5
+16.8
+17.1
+12.0
+7.8
+20.37.1
+5.6
+-2.3
+10.0
+10.4
+5.3 2.6
+3.8 3.1
+1.7 1.5
+3.5
+6.5
+-20.81.5
+.7
+-2.5
+9.6 6.3
+Mfgrs. new orders dur. goods ($
+Capital goods industries
+Nondefense
+Defense
+Inventories to sales ratio: 1/
+Manufacturing and trade, total
+Manufacturing
+Tradebil.)June
+June
+June
+June8-02-83
+8-02-83
+8-02-83
+8-02-83
+June 8-11-83
+June 8-02-83
+June 8-11-8389.9 6.0
+31.6 16.6
+8.3 74.0
+23.3 4.3
+1.36 1.39
+1.49 1.54
+1.24 1.26(Not at annual rates)
+12.4 18.0
+18.7 21.8
+26.7 38.9
+16.1 16.7
+1.45 1.49
+1.59 1.69
+1.32 1.32
+Ratio: Mfgrs.' durable goods inven-
+tories to unfilled orders 1/ June8-02-83 .556 .567
+Retail sales, total ($ bil.)
+GAF 3/
+Auto sales, total (mil. units.) 2/
+Domestic models
+Foreign models
+Housing starts, private (thous.) 2/ July
+Leading indicators (1967-100) JuneJuly 8-10-83 98.7
+July 8-10-83 20.6
+July 8-03-83
+July 8-03-83
+July 8-03-839.8 1.3
+7.3 1.4
+2.5 1.0
+8-16-83 1,741 -.6
+7-29-83 155.9 1.03.4 10.3
+3.0 7.2
+16.0 33.2
+13.3 41.7
+24.2 13.6
+15.6 46.9
+3.6 15.1
+1/ Actual data used in lieu of percent changes for earlier periods.
+2/ At annual rate.
+3/ Excludes mail order houses.II -T -1
+
+DOMESTIC NONFINANCIAL DEVELOPMENTS
+The rapid pace of recovery seen during the second quarter extended
+into July. Industrial production and employment posted strong gains,
+and housing starts remained at their advanced level. Consumer spending,
+however, flattened out in June and July, but consumers reportedly remain
+optimistic. In addition near-term indicators of business spending are
+quite favorable. Inflation has moderated as petroleum prices subsided
+after a spring rebound.
+Industrial Production
+Industrial production advanced 1.8 percent in July with sizable
+gains occurring in all major sectors. Since the trough of the recession
+in November 1982, the index of industrial production has increased
+10.2 percent, nearly the same as the average change after 8 months for
+postwar business cycles. The July increase in production raised the
+total industrial capacity utilization rate (manufacturing, mining, and
+utilities) 1.2 percentage points to 75.8 percent--up nearly 6-1/2 percentage
+points from the depressed level at the end of last year.
+Output of consumer goods rose 1.7 percent in July, spurred by a
+9 percent increase in auto assemblies to an annual rate of 7.4 million
+units. With stocks very lean, current production schedules call for
+still further increases in August and September. Output of business
+equipment expanded further, and there was a large increase in the
+production of construction supplies. Materials output rose more than
+2 percent in July with especially sharp gains in metals, paper, coal, and
+parts for consumer durables.
+II-1
+
+II-2
+INDUSTRIAL PRODUCTION
+(Percent change from preceding period;
+based on seasonally adjusted data)
+1982 1983 1983
+Q4 Q1 Q2 May June July
+---Annual rate----- ----Monthly rate---
+Total -8.2 10.1 18.0 1.3 1.1 1.8
+Final products -6.5 2.2 14.5 1.2 1.0 1.4
+Consumer goods -6.9 5.5 17.5 1.5 1.0 1.7
+Durable -22.2 29.7 36.4 3.2 2.9 3.4
+Nondurable -.9 -1.8 11.2 .9 .3 1.1
+Business equipment -14.5 -7.6 11.2 .7 1.2 1.0
+Defense and space equipment 16.5 9.8 8.1 .3 .8 .8
+Construction supplies -8.0 24.6 28.7 1.6 1.2 2.3
+Materials -11.3 20.4 22.1 1.5 1.3 2.2
+Durable goods -22.2 30.5 34.5 1.8 1.9 2.5
+Nondurable goods 5.1 18.3 19.9 2.0 .7 1.6
+Energy materials -7.3 2.4 -1.9 -.2 .4 2.6
+CAPACITY UTILIZATION: MANUFACTURING AND MATERIALS
+(Percent, seasonally adjusted)
+1982 1983
+low Q1 Q2 June July1
+Total industry 69.6 71.2 73.8 74.6 75.8
+Manufacturing, total 68.8 70.7 73.7 74.6 75.8
+Advanced processing 70.0 71.1 73.3 74.1 75.2
+Motor vehicles 46.1 62.0 67.8 70.8 74.1
+Primary processing 66.2 70.5 74.4 75.4 76.8
+Materials, total 66.6 70.1 73.5 74.4 76.0
+Durable goods materials 59.8 64.2 68.9 70.1 71.9
+Metal materials 46.2 56.1 61.0 62.4 64.6
+Nondurable goods materials 70.7 75.2 78.3 79.1 80.3
+Energy materials 78.5 79.5 78.8 78.9 80.9
+1. Estimated.
+
+II-3
+Employment and Unemployment
+The demand for labor continued to strengthen in July as employment
+rose about one-half million and the civilian unemployment rate moved down
+0.5 percentage point to 9.5 percent. The rise in nonfarm payroll
+employment in July was again widespread by industry. Manufacturing
+employment rose 160,000, the fourth consecutive large monthly increase.
+In addition, the factory workweek edged up 0.1 hour. Employment in
+services grew 140,000, its largest rise, since 1975, and trade employment
+edged up further after showing a 130,000 increase a month earlier. The
+cumulative cyclical rebound in payroll employment is now greater than in
+any upturn since 1960, but not unprecedented compared with the 1950s.
+The drop in unemployment during July reflected reductions in
+joblessness for most demographic groups, with especially large declines
+occurring for women. The unemployment rate for black workers registered
+its first significant decline of the recovery. Persons unemployed for
+longer than 26 weeks, typically a lagging indicator at cyclical troughs,
+posted the first sizable decline since the end of last year. The drop of
+1.4 million in unemployment since the end of last year largely represents
+a reduction in the number of unemployed who lost their most recent job,
+while the number of jobless entrants and reentrants to the workforce
+has been little changed. The labor force participation rate edged
+down in July after a rise of 0.6 percentage point a month earlier. The
+participation rate, although fluctuating on a monthly basis, has been
+essentially unchanged since the first quarter of 1980.
+
+II-4
+CHANGES IN EMPLOYMENT1
+(Thousands of employees; based on seasonally adjusted data)
+1983
+1981 1982 01 02 May June July
+---Average monthly changes ---
+Nonfarm payroll employment2  -6 -172 50 339 331 411 487
+Strike adjusted -7 -170 52 336 309 411 521
+Manufacturing -40 -127 25 107 117 94 162
+Durable -33 -99 19 75 99 55 128
+Nondurable -8 -28 5 31 18 39 34
+Construction -21 -20 -19 61 74 81 43
+Trade 8 -18 31 45 27 129 13
+Finance and services 59 31 55 121 80 130 162
+Total government -25 -13 -11 -4 31 -33 111
+Private nonfarm production
+workers -7 -146 42 328 312 412 333
+Manufacturing production
+workers -47 -108 27 100 96 92 170
+Total employment3  2 -49 3 561 99 1229 499
+Nonagricultural 25 -65 16 512 102 1074 494
+1. Average change from final month of preceding period to final month of
+period indicated.
+2. Survey of establishments. Strike-adjusted data noted.
+3. Survey of households.
+SELECTED UNEMPLOYMENT RATES
+(Percent; based on seasonally adjusted data)
+1983
+1981 1982 Q1 Q2 May June July
+Civilian, 16 years and older 7.6 9.7 10.4 10.1 10.1 10.0 9.5
+Teenagers 19.6 23.2 22.8 23.3 23.0 23.6 22.8
+20-24 years old 12.2 14.8 15.8 15.0 15.5 14.3 13.6
+Men, 25 years and older 5.1 7.5 8.4 8.2 8.2 7.8 7.6
+Women, 25 years and older 5.9 7.3 7.8 7.6 7.6 7.9 7.2
+White 6.7 8.6 9.1 8.8 8.9 8.6 8.2
+Black and other 14.2 17.3 18.5 18.8 18.6 18.9 17.9
+Fulltime workers 7.3 9.6 10.3 9.9 9.9 9.7 9.4
+Memo:
+Total nationall 7.5 9.5 10.2 9.9 10.0 9.8 9.3
+1. Includes resident Armed Forces as employed.
+
+II-5
+Personal Income and Consumption
+The strong gains in employment recently have generated sizable
+increases in wage and salary disbursements, and labor income probably
+showed another hefty advance in July. For the second quarter as a
+whole, however, real disposable income rose moderately at a 3 percent
+annual rate, about the same as in the previous quarter.
+Personal outlays in the second quarter climbed much faster than
+income and the saving rate fell from a downward-revised 5.4 percent in
+the first quarter to 3.9 percent. Real personal consumption expenditures
+rose at a 10 percent annual rate in the second quarter with sharp increases
+for all major spending categories. A number of factors appear to have
+combined to produce this strong performance. Declining interest rates
+stimulated expenditures on consumer durables--particularly for big
+ticket items such as autos--and with the return of house sales to pre-
+recession levels came a pickup in purchases of furnishings and appliances.
+In addition, the rapid rise in the stock market over the past year has
+added substantially to personal wealth and probably contributed to a
+greater willingness to spend out of accumulated savings.
+The pace of the expansion in consumer spending on goods leveled
+off in June and July, after considerable gains in the preceding three
+months. Total retail sales were unchanged in July with a small decline
+at the GAF grouping of stores. Unit auto sales also were unchanged in
+July at a relatively strong 9.7 million unit annual rate. But, even
+though the financing concessions by domestic producers have become less
+generous and remain directed at the less popular smaller cars, domestic
+sales rose somewhat in early August.
+
+II-6
+PERSONAL INCOME
+(Based on seasonally adjusted data)
+1983
+1981 1982 Q1 02 Apr. May June
+--Percentage changes at annual rates1 --
+Total personal income
+Wage and salary
+disbursements
+Private
+Disposable personal income
+Nominal
+Real
+Total personal income
+Wage and salary disbursements
+Private
+Manufacturing
+Other income
+Transfer payments
+Less: Personal contributions
+for social insurance
+Disposable personal income
+Nominal
+Real
+Memorandum:
+Personal saving rate11.1 4.6 4.0 8.99.2 13.4 6.0
+8.4 3.6 6.4 10.0 11.4 15.6 7.3
+8.5 2.8 6.4 10.8 13.0 14.7 11.3
+11.1 5.1 5.2 8.6 11.8 8.8 4.4
+3.4 .2 2.9 3.0 1.3 5.7 -.7e
+--Changes in billions of dollars2 --
+18.9 10.6 8.4 21.3 20.4 30.1 13.5
+8.8 5.1 8.3 15.5
+7.0 3.4 6.9 14.2
+1.0 -.6 3.7 4.115.3
+14.0
+5.621.2
+16.0
+3.410.1
+12.5
+3.3
+11.3 6.0 1.3 6.7 5.9 9.9 4.2
+2.8 4.2 -.3 .2 .7 1.2 -1.4
+.5 1.2 .9 .8 1.0
+15.8 10.0 9.1 15.9 22.3 16.8 8.5
+2.0 1.0 2.1 2.0 1.2 5.1 -.6e
+6.6 5.8 5.4 3.9 4.6 3.8 3.3
+1. Changes over periods longer than one quarter are measured from final
+quarter of preceding period to final quarter of period indicated. Changes
+for quarterly periods are compounded rates of change; monthly changes
+are not compounded.
+2. Average monthly changes are from the final month of the preceding
+period to the final month of period indicated; monthly figures are changes
+from the preceding month.
+e--staff estimate.
+
+II-7
+RETAIL SALES
+(Percent change from previous period;
+based on seasonally adjusted data)
+1982 1983
+Q4 Ql Q2 May June July
+--Quarterly rate ----Monthly rate --
+Total sales 2.8 .3 5.7 3.1 .3 .0
+(Real)1 2.4 .3 4.8 2.7 .5 --
+Total, less autos and
+nonconsumption items 1.0 .6 2.8 2.3 -.1 .2
+Total, less autos,
+nonconsumption items,
+and gasoline 1.2 1.3 2.7 2.0 .0 .3
+GAF2  1.8 1.2 4.2 3.1 .7 -.8
+Durable goods 7.7 .4 12.0 4.7 .7 -.8
+Automotive 11.8 -2.6 17.3 5.2 1.4 -1.0
+Furniture &
+appliances 2.6 3.2 3.4 1.0 -1.9 1.5
+Nondurable goods .7 .3 3.0 2.4 .1 .3
+Apparel .2 -.4 7.7 3.8 .4 -.4
+Food .6 -.3 2.3 2.2 -.9 1.0
+General merchandise3  2.1 1.2 3.1 3.7 1.8 -1.8
+Gasoline -.7 -4.3 3.7 4.8 -.7 -.2
+1. BCD series 59.
+2. General merchandise, apparel, and furniture and appliance stores.
+3. General merchandise excludes mail-order nonstores; mail-order sales
+are also excluded in the GAF composite sales summary.
+AUTO SALES
+(Millions of units; seasonally adjusted annual rates)
+1982 1983
+03 04 Q1 Q2 May June July Aug.
+Total 7.8 8.6 8.5 9.1 9.1 9.7 9.7 n.a.
+Foreign-made 2.2 2.5 2.4 2.3 2.3 2.5 2.5 n.a.
+U.S.-made 5.6 6.1 6.1 6.8 6.9 7.2 7.3 7.6
+Small 2.6 2.8 2.5 3.0 2.9 3.3 3.0 n.a.
+Intermediate/Standard 2.9 3.3 3.6 3.9 4.0 3.8 4.2 n.a.
+Note: Components may not add to totals due to rounding.
+n.a.--not available.
+1. August represents the first ten-day sales only.
+
+II-8
+FACTORS ASSOCIATED WITH
+THE RISE IN CONSUMER SPENDING
+1982Q4=1
+I
+House sales, new
+and existing///
+7/
+/
+S/
+///
+-Index of current personal
+financial situation, Michigan
+Survey .
+Consumer auto loan
+rate (inverse)
+Value of common
+stock (real)I I I
+1982-Q4 1983-Q11.35
+1.25
+1.15
+1.05
+0.95
+0.85
+0.75
+1983-Q2 1982-Q2 1982-Q3
+
+II-9
+Consumers remained very confident in July according to both the
+Michigan Survey Research Center and the Conference Board. The Michigan
+Survey's index of sentiment edged up to 93.9 in July, the highest level
+since 1972, while the Conference Board's index of consumer confidence
+moved down just slightly from a high June level. Although the Michigan
+survey reported a sharp increase in respondents expecting higher interest
+rates, it also reported more optimistic expectations for the economy in
+the long-run and a greater willingness to incur debt than at any time
+during the last three years.
+Housing Markets
+Private housing starts were little changed from June to
+July at a seasonally adjusted annual rate of 1-3/4 million units--4
+percent below the recent high in May. During July, a 12 percent reduction
+in single-family starts was largely offset by a sharp rise in multi-family
+units. As in the case of starts, permits for single-family units were
+down, but that decline was swamped by an increase in multi-family permits.
+Combined sales of new and existing houses in the second quarter
+averaged 3.5 million units (annual rate), 52 percent above the cyclical
+low in the third quarter of last year. In June, however, sales of new
+houses fell 3 percent, following three months of expansion, and inventories
+of unsold houses, both new and existing, increased somewhat. Sales of
+existing houses continued to rise during the month, but at a much slower
+pace than the average over the first five months of the year; early
+indicators, suggest some weakening in these sales in July.
+Reported prices of houses sold so far in 1983 have consistently
+been above year-earlier figures. However, this appears to reflect changes
+
+II-10
+PRIVATE HOUSING ACTIVITY
+(Seasonally adjusted annual rates, millions of units)
+1983
+S____ 1982 Q1 Q2 _ May June July1
+All units
+Permits 1.00 1.46 1.64 1.64 1.76 1.82
+Starts 1.06 1.69 1.69 1.81 1.75 1.74
+Single-family units
+Permits .55 .85 .93 .94 1.01 .93
+Starts .66 1.08 1.11 1.18 1.15 1.01
+Sales
+New homes .41 .61 .64 .66 .64 n.a.
+Existing homes 1.99 2.58 2.85 2.90 2.93 n.a.
+Multifamily units
+Permits .45 .61 .71 .70 .75 .88
+Starts .40 .62 .58 .62 .61 .73
+Mobile home shipments .24 .28 .30 .30 .31 n.a.
+1. Preliminary estimates.
+n.a.--not available.
+PRIVATE HOUSING STARTS
+(Seasonally adjusted annual rate)
+Millions
+of units
+-12.
+Total-1.6
+I""/"'. \ /__ \ 4 ,/V\ V -
+Multifamily \ /
+V• ,/'l."'-Single-Family *
+C * %% .N\A%*
+197 198 19 1 1 I 98 1 98311 11
+1979 1980 1981 1982 1983
+
+II-11
+in the quality and regional composition of houses sold. Through the
+first six months of the year, new houses were sold for prices averaging
+about 6 percent above the comparable figures for the previous year;
+prices of existing homes were up about 2 percent. After adjusting for
+the influences of quality and regional mix of the new units, prices
+appeared to be virtually unchanged from year-earlier levels.
+Business Fixed Investment
+A cyclical recovery in capital spending apparently began in the
+second quarter of 1983 with business fixed investment rising 4.6 percent
+in real terms, after six quarters of decline. The turnabout came with a
+substantial increase in purchases of durable equipment as investment in
+structures continued to slide.
+Real expenditures on equipment, about two-thirds of total outlays,
+rose about 14 percent at an annual rate in the second quarter, the largest
+one-quarter advance in five years. The pickup in equipment spending in
+the second quarter was broadly-based. Although a little more than
+40 percent of the increase in expenditures was for office and store
+machinery and communications equipment, purchases of heavy industrial
+machinery also rose substantially. In addition, spending on motor vehicles
+rose further following the upturn in the first quarter.
+Investment in nonresidential structures remained weak, with real
+outlays down at an annual rate of 14 percent in the second quarter. The
+declines were pervasive, affecting both industrial and commercial building,
+as well as institutional construction. Nonresidential construction has,
+however, increased a little in each of the last two months, and the decline
+in oil and gas well drilling appears to have ended with the stabilization
+
+II-12
+BUSINESS CAPITAL SPENDING INDICATORS
+(Percentage change from preceding comparable period;
+based on seasonally adjusted data)
+1982 1983
+Q4 Q1 Q2 Apr. May June
+Producers' durable equipment
+Nondefense capital goods
+Shipments
+Excluding aircraft &
+parts
+Nondefense capital goods
+Orders
+Excluding aircraft &
+parts
+Addenda:
+Ratio of unfilled orders
+to shipments
+Excluding aircraft &
+parts
+Sales of heavy-weight
+trucks (thousands of
+units)
+Nonresidential structures
+Nonresidential construction
+Value of contracts for
+private nonresidential
+building-3.8
+-6.0.0 4.3
+.2 5.2.4 -2.3 6.5
+.8 -.5 4.0
+1.5 -.1 14.1 12.8 -1.3 4.3
+-.7 3.7 9.4 3.3 -1.1 1.3
+5.77 5.56 5.39 5.38 5.54 5.22
+4.23 4.12 3.98 3.99 4.04 3.88
+162 173 180 171 168 200
+-.3 -4.6 -4.0 -2.8 1.1 2.5
+-4.5 21.5 -5.5 -11.3 20.6 4.2
+
+II-13
+of crude oil prices and reported reductions in the costs of drilling.
+Shipments of nondefense capital goods rose 6-1/2 percent in June to a
+level about 3-1/2 percent above the second-quarter average. Moreover,
+advance indicators for equipment spending are very positive. New orders
+for nondefense capital goods continued their upward trend in June; these
+orders were up 14 percent between the first and second quarters. In
+June the backlog of unfilled orders edged up for a third month, suggesting
+a further boost to shipments in coming months.
+Inventory Investment
+Strong shipments and sales in June contributed to a moderate
+inventory contraction, as the book value of manufacturing and trade
+inventories fell at an annual rate of $8 billion in June. Most of the
+June inventory decline occurred in the manufacturing sector where
+there were widespread increases in shipments. Although inventory-sales
+ratios for some sectors, particularly primary metals and nonelectrical
+machinery, continued to be high relative to prerecession experience, for
+most industries these ratios declined to very low levels in June.
+In the trade sector, strong sales also reduced inventories at the
+wholesale level as stocks fell at a $6 billion annual rate in June after
+a downward-revised $20 billion runoff in May. The inventory-sales
+ratio, at 1.15 in June, was close to the pre-recesssion level. In the
+retail sector, inventories rose $10 billion at an annual rate in June.
+Coupled with the moderate increase in retail sales, the inventory-
+sales ratio held constant during the month. Auto inventories have been
+especially lean--reportedly constraining sales--and production is
+scheduled to rise significantly.
+
+II-14
+CHANGES IN MANUFACTURING AND TRADE INVENTORIES
+(Billions of dollars at annual rates)
+1983
+1981 1982 Q1 Q2 Apr. Mayr JuneP
+Book value basis
+Total 33.3 -14.2 -34.9 7.1 18.9 10.3 -8.0
+Manufacturing 18.2 -17.4 -30.4 -.5 1.1 9.0 -11.5
+Durable 11.7 -11.0 -23.3 1.0 5.2 11.0 -13.4
+Nondurable 6.5 -6.4 -7.1 -1.4 -4.1 -2.0 1.9
+Wholesale trade 4.6 1.8 -8.8 -5.0 10.9 -19.7 -6.1
+Retail trade 10.4 1.4 4.3 12.5 6.9 21.0 9.6
+Automotive 2.1 .1 1.5 2.5 7.0 -.6 1.1
+Constant dollar basis
+Total 5.3 -8.2 -14.5 -- -2.1 15.2 --
+Manufacturing 2.0 -8.4 -12.3 -- -1.0 5.7 --
+Wholesale trade .9 .6 -5.3 -- -1.0 -3.0
+Retail trade 2.4 -.5 3.1 -- -.1 2.5
+Automotive -.2 -.4 .2 -- 1.0 -2.5 --
+INVENTORIES RELATIVE TO SALES1
+Cyclical
+reference points2  1983
+June 1981 1982 peak Ql Q2 Apr. Mayr JuneP
+Book value basis
+Total 1.42 1.54 1.46 1.39 1.44 1.39 1.36
+Manufacturing 1.59 1.78 1.61 1.53 1.58 1.54 1.49
+Durable trade 2.07 2.48 2.16 2.04 2.11 2.06 1.97
+Nondurable trade 1.11 1.18 1.09 1.03 1.06 1.03 1.01
+Wholesale trade 1.14 1.31 1.25 1.19 1.27 1.19 1.15
+Retail trade 1.39 1.45 1.40 1.36 1.36 1.34 1.34
+Automotive 1.79 1.92 1.66 1.45 1.51 1.43 1.41
+Constant dollar basis
+Total 1.63 1.77 1.65 -- 1.64 1.59 --
+Manufacturing 1.92 2.14 1.95 -- 1.92 1.87
+Wholesale trade 1.38 1.53 1.42 -- 1.45 1.36
+Retail trade 1.37 1.45 1.40 -- 1.38 1.35
+Automotive 1.70 1.79 1.50 -- 1.48 1.37
+1. Ratio of end-of-period inventories to average monthly sales for the
+period.
+2. Peaks are specific to each series and
+r--revised estimates.
+p--preliminary estimates.are not necessarily coincident.
+
+II-15
+The Government Sectors--Federal, State, and Local
+The federal deficit, on an NIPA basis, declined $18 billion to a
+level of $165 billion (seasonally adjusted, annual rates) in the second
+quarter. The smaller deficit is largely due to a quickening of revenue
+collection as expenditures were little changed. The revenue increase
+primarily reflects the recent rise in corporate profits and profits tax
+accruals, as well as the rise in the motor fuels excise tax on April 1.
+Preliminary data for July indicate that the recent strength in tax
+collection has continued into the third quarter, after allowing for the
+July 1 personal tax cut.
+The effects of recent legislation and of previously enacted changes,
+however, will tend to increase the deficit in the near-term. Most important
+is the final 10 percent cut in withholding on wage and salary income
+mandated by the Economic Recovery Tax Act of 1981. In addition, the
+legislation that raised the motor fuels tax in the second quarter and
+last spring's jobs bill both provide increased funding for highway and
+mass transit construction. In contrast, the deficit will be held down
+by the deferral under the Social Security Amendments of 1983 of the cost
+of living adjustments for Social Security from July 1 to the end of the
+year.
+The Administration released its Mid-Session Review of the 1984 Budget
+in late July. The federal unified budget deficit is now projected to
+recede from $210 billion in the current fiscal year to $180 billion next
+year and $82 billion at the end of the official planning horizon in 1988.
+The assumption of stronger economic growth (revised upward from 3.1 percent
+
+II-16
+to 5.5 percent over the four quarters of 1983) accounts for most of the
+revision since the January budget projection (see table).
+RECONCILIATION OF MID-SESSION REVIEW
+JANUARY BUDGET DEFICIT ESTIMATES
+(Unified budget, fiscal years, billions ofAND
+dollars)
+1983 1984 1985 1986 1987 1988
+January budget estimate -208 -189 -194 -148 -142 -117
+Changed due to:
+Economic assumptions 9 24 29 33 36 47
+Policy -4 -9 * -7 -5 -4
+Technical reestimates -7 -6 -5 -7 -7 -8
+Mid-Session Review estimate -210 -180 -170 -129 -118 -82
+*Less than $1/2 billion.
+In the state and local government sector, activity over the past
+few months has generally shown little change. However, construction
+spending, which has declined 10 percent since the start of the year,
+could begin to pick up. The high volume of recently-issued debt, more
+favorable construction costs, and increased federal highway aid may
+well signal an incipient rise in building and repair activity. On the
+revenue side, the recovery in economic activity generated a rapid rise in
+personal and indirect business taxes in the second quarter.
+Wages and Labor Costs
+In spite of the recovery in labor demand, wage increases
+continued to moderate during the first half of the year. Both the hourly
+earnings index, which covers wages paid to production and nonsupervisory
+workers, and the more comprehensive employment cost index for all private
+nonfarm employees rose at about a 4-1/2 percent annual rate during the
+first half of 1983, roughly 1-1/2 to 2 percentage points less than
+
+II-17
+HOURLY EARNINGS INDEX 1
+(Percentage change at annual rates;
+based on seasonally adjusted data)2
+1983
+1981 1982 Q1 Q2 May June July
+Total private nonfarm 8.3 6.0 5.3 3.4 4.5 1.6 2.9
+Manufacturing 8.8 6.1 4.5 1.3 5.1 .7 2.7
+Durable 8.8 6.1 4.0 .3 5.3 -.8 3.0
+Nondurable 8.7 6.3 5.1 3.1 4.8 3.5 2.3
+Contract construction 8.4 5.2 6.1 -.1 -11.4 1.4 -4.1
+Transportation and
+public utilities 8.5 6.1 8.3 3.4 5.1 1.8 7.9
+Total trade 7.0 4.8 4.6 5.0 5.8 2.3 2.1
+Services 9.1 6.6 3.6 6.4 6.9 3.9 2.2
+1. Excludes the effect of interindustry shifts in employment and
+fluctuations in overtime hours in manufacturing.
+2. Changes over periods longer than one quarter are measured from
+final quarter of preceding period to final quarter of period indicated.
+Quarterly changes are compounded annual rates; monthly changes are not
+compounded.
+EMPLOYMENT COST INDEX1
+(Percent change at annual rates)2
+1983
+1981 1982 Q1 02
+Total private nonfarm 8.8 6.3 3.9 5.3
+By occupation:
+White collar 9.1 6.4 4.3 6.6
+Blue collar 8.6 5.6 4.5 3.8
+Service workers 8.3 8.5 -2.1 5.9
+By bargaining status:
+Union 9.6 6.5 5.8 4.5
+Nonunion 8.5 6.1 2.5 5.8
+1. Figures are for wage and salary rates of all employees on private
+nonfarm payrolls and exclude the effects of employment shifts among
+occupations and industries as well as the influence of premium pay for
+overtime, work on weekends, and shift differentials.
+2. Changes are measured from final month of the preceding period to the
+final month of the period indicated; quarterly changes are compound
+rates. Seasonal adjustment by FRB staff.
+
+II-18
+NEGOTIATED WAGE-RATE CHANGES
+UNDER MAJOR COLLECTIVE BARGAINING SETTLEMENTS 1
+(Percent change)
+Same parties
+as during 1983 1983
+under prior First
+1980 1981 1982 settlements 6 month
+All Industries
+First-year adjustments 9.5 9.8 3.8 8.4 .9
+Average over life of contract 7.1 7.9 3.6 6.7 2.7
+Workers affected (in thousands) 3787 2382 3298 1241
+Contracts with COLAS
+First-year adjustments 8.0 8.0 2.2 -2.7
+Average over life of contract 5.0 5.5 2.1 .8
+Workers affected (in thousands) 2268 659 2204 548
+Contracts without COLAs
+First-year adjustments 11.7 10.6 7.0 3.8
+Average over life of contract 10.3 8.8 6.6 4.3
+Workers affected (in thousands) 1489 1723 1094 693
+1. Contracts covering 1,000 or more workers; estimates exclude potential gains
+under cost-of-living clauses.
+EFFECTIVE WAGE CHANGE IN MAJOR UNION CONTRACTS
+-contribution of:
+COLA
+-New Settlements E
+Prior Settlements
+1978 1979 1980 1981Percent
+ts ;; ; ....z.-t.5-
+1982 1983*
+*Based on first-half data. The contribution of new settlements for
+this period is zero.
+
+II-19
+during 1982. In July, the hourly earnings index increased at only a 3
+percent annual rate.
+The easing of wage inflation in the first half of the year, in
+part, reflected the continuation of concession bargaining. More than
+half of the 1-1/4 million workers who negotiated major union settlements
+accepted wage freezes or pay cuts for the first contract year, including
+those in the steel, copper, aluminum, and lumber industries. Many of
+these workers will receive cost-of-living adjustments, and if inflation
+were to average 5 percent over the next three years, their wage increases
+would average 3 to 4 percent annually. New major settlements without
+escalator protection called for wage increases of a similar magnitude--
+4.3 percent a year over the life of the contracts. However, bargaining
+in the second half of this year shifts to industries that fared better
+during the recession, such as telephones and aerospace, and these settlements
+are likely to be larger than the ones reached earlier in the year.
+For the private nonfarm sector as a whole, increases in hourly
+compensation--which includes fringe benefits and employer payroll taxes
+as well as wages--rose at to a 4.6 percent annual rate in the second
+quarter, which brought the change over the past year to 6 percent.
+Meanwhile, productivity continued to rebound strongly, as is characteristic
+of the early stages of a recovery. The 4.3 percent (annual rate) increase
+in the second quarter in output per hour was well above the underlying
+trend in productivity growth, which appears to be slightly more than 1
+percent per year. As a result, unit labor costs edged up in the second
+quarter to a level 3 percent above the year-earlier figure.
+
+II-20
+LABOR PRODUCTIVITY AND COSTS: NONFARM BUSINESS SECTOR
+(Percent change at annual rate, based on seasonally adjusted data)1
+Compensation Output Unit
+per hour per hour labor costs
+1979 9.2 -2.1 11.6
+1980 10.8 .2 10.5
+1981 9.0 1.2 7.7
+1982 7.2 .8 6.3
+1983-Q1 6.8 3.7 3.0
+Q2 4.6 4.3 .2
+Peak-to-peak rates of change:2
+1960-02 to 1969-Q4 4.9 2.5 2.4
+1969-Q4 to 1973-Q4 7.0 2.4 4.4
+1973-Q4 to 1980-Q1 8.9 .6 8.2
+1980-Q1 to 1981-Q3 10.0 1.6 8.2
+1. Changes are from the final quarter of preceding year to final quarter
+of the year indicated; quarterly changes at compound rates.
+2. These time periods represent the intervals between business cycle peaks
+as designated by NBER.
+Prices
+Moderating labor costs have contributed to the reduced rate of
+inflation during the first half of 1983. Excluding the volatile food
+and energy sectors, the consumer price index increased at about a 4
+percent rate during the first half of 1983, down from an average of 6
+percent during 1982 and 9 percent or more in each of the previous two
+years. The producer price index for finished goods excluding food and
+energy has increased at only a 1-1/4 percent annual rate in the first 7
+months of the year, down from about a 5 percent rise in 1982.
+During 1983, movements in the aggregate measures of inflation such
+as the consumer price index have been dominated first by the decline and
+then by the rebound in petroleum prices. Gasoline prices, for instance,
+fell 8-1/2 percent during the first quarter but rose nearly 4 percent
+
+II-21
+during the next quarter. Most recently, prices for gasoline rose a
+comparatively small 0.7 percent in June, and private surveys indicate
+that prices have remained roughly constant since then. In spite of the
+April 1 increase in federal excise taxes, gasoline prices in July are
+about 3 percent below the year-earlier level.
+Although food prices have generally fallen recently, it appears that
+this could change in the coming months. Consumer food prices fell in
+June at the retail and producer levels, and the prices of crude foodstuffs
+continued to decline into early July. Since mid-July, however, farm
+prices have turned up sharply, influenced by the crop damage caused by
+hot, dry weather in many growing areas. The futures prices of corn for
+December delivery rose from about $2.75 per bushel on July 11 to roughly
+$3.65 on August 15, and the price of the November soybean contract increased
+by about 40 percent over that same period. The futures prices of cattle
+and hogs also have risen since mid-July, with a particularly large advance
+in the prices of 1984 contracts for live hogs.
+Prices of industrial materials, which in the short run tend to be
+influenced by changing levels of economic activity, have increased during
+the year with the recovery. One measure of these prices, the Commodity
+Research Bureau Spot Market Index (which had previously been prepared by the
+Bureau of Labor Statisitics) rose 10-1/2 percent during the 7 months
+since the December 1982 trough in the series. This increase is somewhat
+larger and more sustained than typically seen in early recoveries.
+However, it follows a long two year slide in prices that was steeper than
+during most post-war recessions. Changes in the prices of these commodities,
+while often looked at to provide a reading of the strength in business
+
+II-22
+RECENT CHANGES IN PRODUCER PRICES
+(Percentage change at annual rates; based on seasonally adjusted data)1
+Relative
+Importance: 1983
+Dec. 1982 1981 1982 Q1 02 June July
+Finished goods 100.0 7.1 3.7 -4.7 2.9 5.5 1.3
+Consumer foods 23.7 1.4 2.1 4.1 -.3 -7.8 -7.4
+Consumer energy 13.2 14.1 -.1 -35.5 12.0 37.8 2.9
+Other consumer goods 40.5 7.1 5.3 -2.0 2.5 5.5 5.5
+Capital equipment 22.5 9.2 3.9 2.0 2.1 2.9 1.7
+Intermediate materials2  95.2 7.3 .3 -4.7 3.6 10.7 3.4
+Exc. energy 78.8 6.6 .6 .8 2.8 4.9 4.1
+Crude food materials 51.2 -14.0 1.5 18.1 .8 -18.8 -30.6
+Crude energy 34.4 22.8 2.6 -9.2 -4.8 .5 -7.1
+Other crude materials 14.4 -11.4 -7.6 -16.2 59.3 54.9 27.0
+1. Changes are from final month of preceding period to final month of
+period indicated; monthly changes are not compounded.
+2. Excludes materials for food manufacturing and animal feeds.
+RECENT CHANGES IN CONSUMER PRICES
+(Percentage change at annual rates; based on seasonally adjusted data)1
+Relative
+Importance: 1983
+Dec. 1982 1981 1982 01 02 May June
+All items2  100.0 8.9 3.9 .4 5.4 6.5 2.4
+Food 19.0 4.3 3.1 2.8 1.7 3.7 -3.7
+Energy 12.4 11.9 1.3 -25.1 21.0 29.9 4.0
+All items less food and
+energy3  68.6 9.4 6.0 4.4 3.9 3.4 3.8
+Commodities 26.2 7.9 5.0 5.7 2.9 2.5 4.5
+Services 42.4 10.6 6.9 3.7 4.6 3.9 3.6
+Memorandum:
+CPI-W4  100.0 8.7 3.9 .3 4.9 5.3 2.0
+1. Changes are from final month of preceding period to final month of
+period indicated; monthly changes are not compounded.
+2. Official index for all urban consumers, based on a rental equivalence
+measure for owner-occupied housing after December 1982.
+3. Data not strictly comparable. Before 1983, they are based on
+unofficial series that exclude the major components of homeownership;
+beginning in 1983, data include a rental equivalence measure of homeowners
+costs.
+4. Index for urban wage earners and clerical workers.
+
+II-23
+demand, are not necessarily a reliable indicator of the trend in price
+inflation for finished goods. Primary raw materials make up less than
+2 percent of the value of final goods and thus are much less important in
+determining business costs than, for example, labor compensation.
+
+P T
+a I
+a aI i
+a a
+a a
+a a
+I a
+1981COMMODITY RESEARCH BUREAU SPOT MARKET INDEX
+P T P T P T 1967=10 160
+8 I | i $
+S i i i i
+a a . .8 -- 150
+S A a a a
+a a S a 8
+S-- 140
+i a I a
+. I a -- 130
+ii $ 8 I iII * I a a
+i i $ 0a aa S a8 8 I ,
+110
+1952 1957 1962
+P T P T P T P T 350 8 a a a S, . - 50
+S 0 8 10S* * -300
+Ia I
+* ' * * * - 200 S8
+$ a a a a
+, .. . . .-- 150
+5 6 8 •
+.. . , - 100
+a a a a a aa a a1947
+1976
+
+APPENDIX A*
+ANNUAL REVISION OF THE NATIONAL INCOME AND PRODUCT ACCOUNTS
+The Commerce Department in July released its annual revision of the
+National Income and Product Accounts. The revision covers the past three
+years and incorporates new source data and updated seasonal factors. Major
+new source data for 1980 and 1981 include the Internal Revenue Service
+tabulations of business tax returns and for 1981 the Census Bureau's Annual
+Housing Survey, the Survey of Manufacturers, and Surveys of Retail and
+Wholesale Trade.
+The revised figures still portray the 1980-1982 period as one of little
+growth, on balance, accompanied by slowing inflation. As in the earlier
+estimates, the level of real GNP in the first quarter of 1983 was virtually
+the same as at the end of 1979. However, the cyclical fluctuations of the
+last few years were sharper than indicated by the preliminary figures and
+the composition of output was altered a bit. The upturn in activity during
+the 1980-81 recovery was somewhat stronger than originally thought as the
+expansion in real GNP between 1980-Q2 and 1981-Q3 was raised 0.7 percentage
+point to 4.3 percent. In addition, output is now estimated to have fallen
+3 percent between mid-1981 and the end of 1982, 0.8 percentage point more
+than the earlier estimates, mainly because of a steeper decline in the second
+half of last year. The real growth rate in 1983-Q1 is still shown to be
+2.6 percent at an annual rate.
+The strengthening of real activity in 1981 and early 1982 was also
+reflected in upward revisions in current-dollar GNP, as changes to aggregate
+price measures mostly were small. Over the 1980-82 period, the revisions to
+both the gross domestic business product fixed-weighted price index and the
+GNP deflator averaged -0.1 percent per year, as lower prices for personal
+consumption expenditures largely were matched by lower prices for imports.
+In 1983-Q1, the increase in the GDBP fixed-weighted price index was raised
+0.6 percentage point to 3.6 percent at an annual rate, while the rise in the
+GNP deflator remained at 5.5 percent.
+In terms of the components of GNP, personal consumption expenditures
+are now estimated to have been higher over the past three years, particularly
+for services. Outlays for housing services were raised to incorporate infor-
+mation on average rents contained in the Annual Housing Survey for 1981;
+spending for recreation and personal business services was higher as well.
+The revisions in consumption in 1980 and 1981 were roughly paralleled by
+increases in disposable income, and the saving rate was little changed. In
+1982, however, the upward revision in disposable income was much smaller
+than the change in outlays and the saving rate was reduced to 5-3/4 percent,
+3/4 percentage point below the previous estimate.
+* Prepared by Andrea Kusko, Economist, National Income Section, Division
+of Research and Statistics.
+II-A-1
+
+II-A-2
+REAL GROSS NATIONAL PRODUCT
+Billions of 1972 dollars, annual rate
+Revised series -1525
+-1500
+-1475
+Series prior to revision
+S1450
+S1425
+-1400
+I 1 I I I
+1978 1979 1980 1981 1982 1983
+PERSONAL SAVING RATEPercent
+11
+10
+9
+Series prior to
+revision
+S 6
+5
+Revised serie
+4
+I3
+
+II-A-3
+Changes in other major components of GNP generally were relatively
+small. Among the larger revisions, residential construction expenditures in
+1982 were reduced to incorporate annual survey information on construction
+activity while the drop in net exports last year was exacerbated by weaker
+international service flows. Business fixed investment was raised in 1981,
+reflecting higher outlays for both equipment and structures, but was virtually
+unchanged in 1982. As a result, investment is now indicated to have dropped
+9.7 percent from its cyclical peak in the third quarter of 1981 to a trough
+in the first quarter of 1983. By contrast, the investment contraction in
+the preliminary figures totalled 7.6 percent and extended only over the four
+quarters of 1982.
+The upward revision in the level of nominal GNP in the last two
+years was accompanied by higher national income. There were substantial
+increases in the estimates of rental income beginning in 1981 and in compen-
+sation of employees in 1982. In addition, corporate profits were slightly
+higher in 1982. On the other hand, although net interest was raised sub-
+stantially through mid-1982, interest outlays now are estimated to have
+fallen appreciably with the decline in interest rates over the past year, and
+proprietors' income was reduced markedly in both 1981 and 1982.
+
+II-A-4
+GROSS NATIONAL PRODUCT AND RELATED ITEMS
+(Billions of 1972 dollars)
+Revised Levels Revisions
+1980 1981 1982 1983-Q1 1980 1981 1982 1983-Q1
+Gross National 1475.0 1513.8 1L85.4 1490.1 1.0 11.2 8.5 3.4
+Product
+Final sales 1479.4 1505.3 1494.8 1505.5 .4 11.6 8.8 3.3
+Personal consumption
+expenditures 931.8 956.8 970.2 986.7 1.3 9.2 13.3 13.8
+Business fixed
+investment 165.8 174.4 166.1 159.9 -.3 2.4 .4 -2.5
+Residential
+construction 47.1 44.7 37.8 45.5 -.1 -.2 -2.5 -4.3
+Government purchases 284.3 286.5 291.8 292.9 -.3 -.6 .5 .5
+Change in business
+inventories -4.4 8.5 -9.4 -15.4 .6 -.5 -.2 .1
+Net exports 50.3 43.C 28.9 20.5 -.3 1.0 -2.9 -4.2
+ADDENDA:
+Nominal GNP 2631.7 2954.. 3073.0 3171.5 -1.4 16.4 13.7 .9
+Personal saving
+rate (percent) 6.0 6.6 5.8 5.4 .2 .2 -.7 -.5
+
+II-A-5
+NATIONAL INCOME AND RELATED ITEMS
+(Billions of dollars)
+Revised Levels Revisions
+1980 1981 1982 1983-Q1 1980 1981 1982 1983-Q1
+National income 2116.6 2373.0 2450.4 2528.5 -.5 20.5 13.8 3.6
+Compensation of employees 1599.6 1769.2 1865.7 1923.7 1.0 1.6 9.2 15.6
+Wages and salaries 1356.6 1493.2 1568.1 1610.6 .5 -.8 7.5 13.3
+Supplements to wages
+and salaries 243.0 276.0 297.6 313.1 .5 2.4 1.8 2.3
+Proprietors' income with
+inventory valuation and
+capital consumption
+adjustments 117.4 120.2 109.0 120.6 1.1 -4.5 -11.3 -8.3
+Rental income of persons
+with capital consumption
+adjustment 31.5 41.4 49.9 54.1 -1.4 7.5 15.8 18.8
+Corporate profits with
+inventory valuation and
+capital consumption
+adjustments 175.4 192.3 164.8 181.8 -6.2 1.7 4.0 -4.3
+Net interest 192.6 249.9 261.1 248.3 4.9 14.2 -3.8 -18.3
+ADDENDA:
+Gross National Product 2631.7 2954.1 3073.0 3171.5 -1.4 16.4 13.7 .9
+Personal income 2165.3 2435.0 2578.6 2657.7 4.9 19.2 8.7 9.5
+Disposable personal income 1828.9 2047.6 2176.5 2255.9 4.8 18.5 3.8 8.7
+
+III-T-1
+SELECTED FINANCIAL MARKET QUOTATIONS1
+(Percent)
+1982 1983 Change from:
+FOMC Recent FOMC FOMC Recent FOMC
+highs Dec. 21 low May 24 July 13 Aug. 16 low July 13
+Short-term rates
+Federal funds2
+Treasury bills
+3-month
+6-month
+1-year
+Commercial paper
+1-month
+3-month15.61 8.69 8.48 8.72 9.21 9.70p 1.22 .49
+14.57
+14.36
+13.557.90
+8.01
+8.117.96
+7.97
+7.958.47
+8.48
+8.479.10
+9.30
+9.399.40
+9.48
+9.53
+15.73 8.48 8.17 8.48 9.19 9.53
+15.61 8.43 8.13 8.52 9.30 9.611.44
+1.51
+1.58
+1.36 .34
+1.48 .31
+Large negotiable CDs3
+1-month
+3-month
+6-month
+Eurodollar deposits2
+1-month
+3-month
+Bank prime rate
+Treasury bill futures
+Sept. 1983 contract
+Mar. 1984 contract
+Intermediate- and long-
+term rates
+U.S. Treasury (constant
+3-year
+10-year
+30-year
+Municipal (Bond Buyer)
+Corporate-Aaa utility
+Recently offered15.94
+16.14
+16.188.59
+8.62
+8.788.26
+8.26
+8.298.64
+8.73
+8.959.33
+9.58
+10.009.66
+9.88
+10.211.40
+1.62
+1.92
+16.36 9.44 8.68 8.96 9.70 9.90p 1.22 .20
+16.53 9.56 8.71 9.14 10.05 10.42p 1.71 .37
+17.00 11.50 10.50 10.50 10.50 11.00
+13.97 8.63 7.99 8.72 9.51 9.38
+13.55 9.32 8.37 9.15 10.10 9.98
+maturity)
+15.16
+14.95
+14.809.87
+10.54
+10.539.36
+10.12
+10.279.91
+10.56
+10.6910.91
+11.40
+11.44
+8.78 9.294 9.554
+16.34 11.96e11.03 11.55e12.38e11.21
+11.71
+11.70
+9.854
+12.65e.50 .50
+1.39 -.13
+1.61 -.03
+1.85
+1.59
+1.43
+1.07 .30
+1.62 .27
+S&L fixed-rate mort-
+gage commitment 17.66 13.635 12.55 12.555 13.305 13.845 1.29 .54
+1982 1983 Percent change from:
+FOMC FOMC 1983 FOMC
+lows highs May 24 July 13 Aug. 16 high July 13
+Stock prices
+Dow-Jones Industrial 776.92 1248.30 1219.04 1197.82 11o0.45 -4.6 -.6
+NYSE Composite 58.80 99.01 95.58 95.90 94.46 -4.6 -1.5
+AMEX Composite 118.65 246.38 229.30 241.07 230.30 -6.5 -4.5
+NASDAO (OTC) 159.14 328.91 307.36 314.59 299.85 -8.8 -4.7
+1. One-day quotes except as noted. 4. One-day quotes for preceding Thursday.
+.Averages for statement week closest to date shown. 5. One-day quotes for preceding Friday.
+.Secondary market. p-preliminary. e--estimated.13.44 10.054
+
+DOMESTIC FINANCIAL DEVELOPMENTS
+Monetary expansion slowed in July, especially so in the case of the
+broader aggregates. M2 and M3 grew at annual rates of only 6-1/4 and 5-1/4
+percent, respectively, placing both of them within their 1983 target ranges.
+M1 growth decelerated slightly to a 9 percent rate, leaving this measure
+above the new FOMC monitoring range.
+The reserves market tightened further after the July FOMC meeting,
+and federal funds recently have traded in the 9-5/8 percent area, up almost
+1/2 percentage point. Most other market interest rates have risen 1/8 to
+3/8 percentage point, and are now 1-1/4 to nearly 2 points above their
+recent lows in May; the bank prime rate was raised 1/2 percent earlier
+this month, the first adjustment since February. Long-term market rates
+have risen about as much as short rates during the past three months--an
+unusual phenomenon that may reflect, in part, some reassessment of real
+interest rate prospects in light of the federal budget picture and the
+surprising strength of the private economy at rate levels that had been
+viewed as restraining by many observers.
+Total domestic nonfinancial sector debt is estimated to have grown at
+a seasonally adjusted annual rate of about 9 percent in July, appreciably
+below the first-half pace. The U.S. government component slowed the most
+last month; the Treasury began to run down the large cash balance it accumu-
+lated through heavy borrowing in the second quarter. Borrowing by state
+and local governments has continued at the more moderate pace that emerged
+in June as the pre-registration surge ended and interest rates rose. House-
+hold sector borrowing apparently has not yet weakened, largely because of
+lags in the mortgage commitment-lending process and lagged adjustments of
+III-1
+
+III-2
+MONETARY AGGREGATES
+(Based on seasonally adjusted data unless otherwise noted)1
+1982 1983
+Q4 Q1 Q2 May June JulyP
+----- Percentage change at annual rates ---Growth from
+base period
+to July 19832 P
+Money stock measures
+1. M1
+2. (M1)3
+3. M2
+4. M313.1
+(14.5)
+9.3
+9.5'4.1
+(13.8)
+20.3
+10.212.2
+(12.7)
+10.1
+8.226.3
+(21.4)
+12.4
+11.010.2 8.9
+(7.6) (3.3)
+10.6 6.2
+10.9 5.2
+Selected components
+5. Currency
+6. Demand deposits
+7. Other checkable deposits
+8. M2 minus M1 (9+10+11+14)
+9. Overnight RPs and Eurodollars, NSA4
+10. General purpose and broker/dealer money
+market mutual fund shares, NSA
+11. Commercial banks
+12. Savings deposits, SA plus
+MMDAs. NSA5
+13. Small time deposits
+14. Thrift institutions
+15. Savings deposits, SA, plus
+MMDAs, NSA5
+16. Small time deposits
+17. M3 minus M2 (18+21+22)
+18. Large time deposits
+19. At commercial banks, net6
+20. At thrift institutions
+21. Institution-only money market
+mutual fund shares, NSA
+22. Term RPs, NSA
+MEMORANDA:
+23. Managed liabilities at commercial
+banks (24+25)
+24. Large time deposits, gross
+25. ondeposit funds
+26. Net due to related foreign
+institutions, NSA
+27. Other7
+28. U.S. government deposits at commercial
+banks87.4 10.9 10.6 11.3 8.6 4.3
+8.4 2.7 4.0 18.1 7.4 8.9
+34.0 46.2 30.6 62.7 17.9 14.7
+8.1 22.4 9.5 8.1 10.8 5.4
+23.9 34.2 49.0 106.7 30.5 -82.8
+15.3 -57.5 -44.0 -45.8 -12.8 -10.3
+9.9 57.8 16.5 12.3 14.6 13.0
+35.5 296.1 62.4 34.4 25.5 2.4
+-0.5 -48.5 -24.0 -10.1 2.6 24.8
+4.1 14.7 12.4 7.6 10.2 8.6
+30.3 171.0 56.8 28.2 18.1 -4.3
+-6.0 -51.0 -18.0 -8.3 3.6 19.1
+10.4 -36.5 -2.2 3.2 3.2 -0.3
+4.2 -43.0 -0.4 -3.6 18.0 7.5
+-1.5 -49.9 -15.5 -21.3 9.0 -13.6
+29.3 -14.6 55.4 57.2 46.3 71.7
+32.7 -32.7 -41.9 -17.6 -35.6 -18.4
+34.4 19.4 31.2 73.1 -18.5 -48.4
+-- Average monthly change in billions of dollars --
+-5.2 -19.6 1.3 1.4 -2.1 -13.7
+-6.5 -17.1 -2.8 -9.2 0.5 -1.8
+1.3 -2.5 4.1 10.6 -2.6 -11.9
+-0.7 -4.9 2.4 4.7 2.7 -3.7
+2.0 2.5 1.7 5.9 -5.3 -8.2
+0.3 0.2 0.2 -2.2 1.7 11.1Level in billions
+of dollars
+July 1983P
+140.8
+245.8
+124.2
+1610.3
+52.6
+138.4
+682.6
+356.5
+326.1
+744.3
+335.3
+409.0
+384.1
+305.9
+226.1
+79.8
+38.6
+42.8
+361.5
+285.7
+75.8
+-58.8
+134.6
+24.1
+T. Ouarterly growth rates are computed on a quarterly average basis. Dollar amounts shown under memoranda for quarterly
+changes are calculated on an end-month-of-quarter basis.
+2. The base for ML is the second-quarter 1983 average. The base period for M2 is the February-March 1983 average. The
+base period for 13 is the fourth-quarter 1982 average.
+3. 11 seasonally adjusted using an experimental model-based procedure applied to weekly data.
+4. Overnight and continuing contract RPs issued to the nonbank public by commercial banks plus overnight Eurodollar
+deposits issued by branches of U.S. banks to U.S. nonbank customers, both net of amounts held by money market mutual
+funds. Excludes retail RPs, which are in the small time deposit component.
+5. Beginning December, 1982, growth rates are for savings deposits, seasonally adjusted, plus money market deposit
+accounts (MMDAs), not seasonally adjusted. Savings deposits excluding MMDAs were unchanged in May and June declined
+at an annual rate of 10.2 in July. At thrift institutions, saving deposits excluding MMDAs increased during May and
+June at rates of 10.6 percent, 12.5 percent, and declined at an annual rate of 2.0 in July.
+6. Net of large-denomination time deposits held by money market mutual funds and thrift institutions.
+7. Consists of borrowings from other than commercial banks in the form of federal funds purchased, securities sold
+under agreements to repurchase and other liabilities for borrowed money (including borrowings from the Federal Reserve
+and unaftiliated foreign banks), loans sold to affiliates, loan RPs and other minor items. Data are partially estimated.
+8. Consists of Treasury demand deposits at commercial banks and Treasury note balances.
+P--preliminary.12.2
+(12.2)
+8.5
+9.1
+
+III-3
+consumer loan rates to changes in market yields. Overall business demands
+for credit apparently have remained light, with deteriorating conditions
+in bond markets leading many firms to rely more on bank loans where external
+funds are needed.
+Monetary Aggregates and Bank Credit
+Since the new second-quarter base period, M1 has expanded at a 12-1/4
+percent rate, placing it nearly $3 billion above the upper end of the 5 to
+9 percent monitoring range. Demand deposits grew at a relatively brisk 9
+percent rate in July, despite the recent backup in interest rates, but cur-
+rency growth moderated further and the expansion of other checkable depos-
+its slowed. Data for early August suggest little or no slackening in M1
+growth from the July pace.
+From its February-March base period, M2 has expanded at an 8-1/2 per-
+cent pace and lies at the mid-point of the 7 to 10 percent target range.
+The nontransaction component of M2 weakened markedly in July, as the over-
+night RP and Eurodollar component declined sharply. The sum of the domestic
+deposit categories (savings, small time, and MMDAs) expanded at about the
+same pace as in other recent months, while outflows from money market funds
+diminished further in July. Reductions in MMMFs earlier in the year pri-
+marily reflected shifts to MMDAs, but the declines in June and July may
+have been related to a substantial increase in the spreads between rates
+on various market instruments and yields on money fund shares. Investors
+may also have shifted some money to bond and equity mutual funds; such
+funds have registered record net inflows in recent months.
+Major shifts in flows have occurred lately within the nontransactions
+deposit component of M2. MMDAs have been flat since mid-June, and small
+
+III-4
+time deposits--which registered substantial declines during the first five
+months of the year--began growing again in June and rose sharply in July.
+The turnaround in small time deposits was accounted for largely by a resump-
+tion of inflows to six-month money market certificates at both commercial
+banks and thrifts. The changing composition of flows reflects, to some
+extent, increasing rate advantages on certain small time deposits relative
+to offering rates on MMDAs; for example, rates on six-month MMCs exceeded
+those on MMDAs by about 1 percentage point in late June and during July,
+compared with a spread of about 50 basis points in earlier months. The
+increase in this spread resulted partly from a steeper slope at the short
+end of the yield curve, but it may also reflect a desire by banks and
+thrifts to lengthen the maturities of their deposits after the substantial
+shortening that accompanied earlier massive inflows to MMDAs.1
+M3 growth also weakened markedly in July, moving this aggregate back
+within the upper end of the 6-1/2 to 9-1/2 percent target range. Thrift
+institutions continued to issue substantial amounts of large time depos-
+its--primarily to fund asset expansion, but also to repay FHLB advances.2
+By contrast, large time deposits and term RPs ran off at commercial banks,
+as a record $11 billion increase in U.S. government deposits at banks aug-
+mented funds available for lending and likely reduced collateral available
+for RPs, both term and overnight.
+Growth in bank credit in July--at nearly a 10 percent annual rate--
+was about the same as during the second quarter. Its composition, however,
+1. Banks evidently have also been lengthening the average maturity of large
+time deposits; at large banks, only those CDs with remaining maturities of
+over one year have registered a net increase since MMDAs were introduced.
+2. Total deposit growth at thrift institutions was about 15 percent in both
+June and July, while time and savings deposits other than large CDs grew at
+around a 9 percent rate.
+
+III-5
+NET FLOWS INTO SELECTED ACCOUNTS
+AT BANKS AND THRIFTS
+MMDAs, Savings, and Small Time Deposits
+(billions of dollars, seasonally adjusted unless otherwise noted)
+MMDAS
+(NSA)
++15.6
++ 1.2Savings
+deposits
++0.7
+-1.4Small time
+deposits
+-3.9
++13.0Total
++12.4
++12.8
+Selected Small Time Deposits
+(billions of dollars, not seasonally adjusted)
+Average
+monthly
+flows2
+1983:April
+May
+June
+July7- to 31-day
+deposits and
+91-day certificates
+*
+-0.5
++.2
++1.2Six-month
+Money Market
+Certificates1-1/2 year and
+over small time
+deposits
+-7.6
+-8.4
++1.4
++7.6+5.6
++7.4
++5.7
++2.8
+1. Month-average to month-average.
+2. Month-end to month-end
+*--Less than $0.1 billionAverage
+monthly
+flows1
+1983:02
+July_~_~~__~
+
+III-6
+COMMERCIAL BANK CREDIT AND SHORT- AND INTERMEDIATE-TERM BUSINESS CREDIT
+(Percentage changes at annual rates, based on seasonally adjusted data)1
+1. Total loans and securities
+at banks2
+2. Securities
+3. Treasury securities
+4. Other securities
+5. Total loans2
+6. Business loans2
+7. Security loans
+8. Real estate loans
+9. Consumer loans
+10. Total short- and intermediate-
+term business credit (sum of
+lines 14, 15 and 16)
+11. Business loans net of bankers
+acceptances
+12. Commercial paper issued by non-
+financial firms3
+13. Sum of lines 11 & 12
+14. Line 13 plus loans at foreign
+branches4
+15. Finance company loans to business5
+16. Total bankers acceptances outstanding51982
+04 Q1 Q2
+6.3 10.7 9.9
+15.9 25.0 23.9
+43.0 61.1 53.5
+2.5 5.3 5.8
+3.0 5.7 4.8
+-0.3 3.9 -1.3
+37.2 -34.0 -5.3
+4.8 7.1 9.7
+4.9 b.3 10.3
+---- Short- and
+-3.0 -3.1 -1.5
+0.5 3.6 -0.4Levels in
+1983 bil. of dollars
+May June July July 1983
+Commercial Bank Credit
+10.7 10.0 9.7
+29.6 18.4 4.6
+63.1 36.8 11.9
+7.9 6.4 -1.0
+3.7 6.9 11.6
+0.9 6.4 11.9
+26.2 -56.4 75.3
+8.5 13.0 9.1
+11.6 11.5 20.4
+Intermediate-Term Business Credit
+0.2 5.6 n.a.
+3.0 7.2 10.7
+-39.6 -33.1 -23.5 -46.5 2.7
+-4.6 -0.4 -2.9 -2.1 6.7
+-4.9 0.3 -2.3
+-15.2 4.0 7.8
+22.9 -30.9 -7.3-13.4
+8.3
+0.0 6.7 7.2
+7.3 10.2 n.a.
+-5.1 -8.5 n.a.1502.6
+418.9
+172.9
+246.0
+1083.6
+401.2
+23.7
+319.4
+203.2
+n.a.
+392.7
+44.3
+437.0
+453.6
+n.a.
+n.a.
+1. Average of Wednesdays for domestically chartered banks and average of current and preceding ends of months for
+foreign-related institutions.
+2. Loans include outstanding amounts of loans reported as sold outright to a bank's own foreign branches, uncon-
+solidated nonbank affiliates ot the bank, the bank's holding company (if not a bank), and unconsolidated nonbank
+subsidiaries of the holding company.
+3. Average of Wednesdays.
+4. Loans at foreign branches are loans made to U.S. firms by foreign branches of domestically chartered banks.
+5. Based on average of current and preceding ends of month.
+n.a.--not available.
+
+III-7
+changed substantially in the past few months. Acquisitions of U.S. Trea-
+sury securities slowed appreciably in June and July to the slowest pace
+since last September. At the same time, growth in business loans increased
+to a 12 percent annual rate in July. Consumer loan growth also strength-
+ened markedly further in July, to more than a 20 percent annual rate, while
+the expansion in real estate loans held near the elevated 10 percent pace
+of the second quarter.
+Business Finance
+Debt of nonfinancial businesses grew at about a 5 percent annual rate
+during the first two quarters of this year, and indications are that busi-
+ness demands for credit have remained relatively light thus far in the cur-
+rent quarter. Corporate cash flows apparently remain ample relative to out-
+lays on inventories and fixed capital.
+Gross public issuance of bonds by nonfinancial corporations dropped
+to less than $2 billion per month in June and July--compared with an aver-
+age of $3.2 billion during the first five months of the year. The sharp
+reduction in bond offerings was due in large part to rising interest rates.
+The Board's index of yields on recently offered Aaa utility bonds stood at
+12.65 percent in mid-August, 27 basis points higher than at the time of the
+last FOMC meeting; since early May, corporate bond rates have increased more
+than 1-1/2 percentage points. Higher interest rates also have caused issu-
+ers to shorten the maturities of their bonds. In recent weeks, bonds with
+maturities longer than 20 years have accounted for only a small proportion
+of total volume; most of these long-term issues have been sold by utilities.
+The weak bond market and an evident swing toward inventory accumula-
+tion have led to renewed growth in short-term business credit. The sum of
+
+III-8
+GROSS OFFERINGS OF SECURITIES BY U.S. CORPORATIONS
+(Monthly totals or monthly averages, millions of dollars)
+1982 1983
+p P P f
+Year Q1 Q2 June July Aug.
+--------------- Seasonally adjusted --------------
+Corporate securities--total
+Securities sold in U.S.
+Publicly offered bonds1
+Privately placed bonds
+Stocks2
+Securities sold abroad38,121 10,815 10,929
+6,985
+3,622
+816
+2,547
+1,1369,878
+4,588
+700e
+4,590
+93710,300
+5,000
+700e
+4,600
+6298,211 7,850 7,700
+7,700
+1,700
+700e
+5,300
+5117,300
+2,700
+700e
+3,900
+5507,200
+2,200
+700
+4,300
+500
+--- Domestic offerings, notseasonally adjusted ---
+Publicly offered bonds--total1
+By industry
+Utility
+Industrial
+Financial
+By quality4
+Aaa and Aa
+A and Baa
+Less than Baa
+No rating (or unknown)
+Memo items:
+Equity based bonds5
+Original discount bonds
+Par value
+Gross proceeds3,622
+976
+1,236
+1,410
+1,357
+1,505
+286
+4744,542 5,100 2,300 2,650 2,500
+986
+1,292
+2,264
+1,724
+1,885
+563
+3701,400
+2,300
+1,400
+1,160
+2,220
+830
+890
+861 1,209730
+1,150
+420
+355
+895
+170
+8801,570
+325
+755
+415
+1,755
+220
+260
+2,547 4,710 4,440 4,800 3,400 3,500 Stocks--total2
+By industry
+Utility
+Industrial
+Financial871
+1,119
+5571,203
+2,124
+1,383590
+2,890
+960500
+3,500
+800300
+2,500
+600
+1. Total reflects gross proceeds rather than par value of original discount bonds.
+2. Includes equity issues associated with debt/equity swaps.
+3. Notes and bonds, not seasonally adjusted.
+4. Bonds categorized according to Moody's bond ratings.
+5. Includes bonds convertible into equity and bonds with warrants attached where
+the warrants entitle the holder to purchase equity in the future.
+p--preliminary, f--forecast. e--estimate.904 1,231
+
+III-9
+business loans at banks and nonfinancial commercial paper turned positive
+in June, following a virtually continuous decline since late last year, and
+increased by more than 8 percent in July. A considerable slowdown in the
+contraction of commercial paper outstanding has accompanied the pickup of
+business loans.
+The bull market in stocks faltered after interest rates turned up in
+May. Major stock price indexes are down only slightly, on balance, since
+the last FOMC meeting, but off 5 to 9 percent from their 1983 highs. How-
+ever, price-earnings ratios remain high enough to induce many firms to issue
+equities; stock sales totaled about $4 billion (seasonally adjusted) in
+July, down slightly from previous months but still robust by past standards.
+Institutional investors have been a receptive market for equities this year,
+absorbing a substantial portion of the issues brought to market. Reflecting
+the increased interest of individuals, mutual funds made net purchases of
+stocks amounting to $7.8 billion during the first half of 1983.
+Government Finance
+Federal sector. The Treasury is expected to borrow (net) about $48
+billion during the third quarter--$8.4 billion in bills, $38.4 billion in
+coupon issues, and $1.4 billion in nonmarketable securities (primarily state
+and local issues and savings bonds). Included in this borrowing is $9.4
+billion raised by the Treasury in its mid-August refunding through auctions
+of 3- and 10-year notes and 30-year bonds. Investor interest in the auc-
+tions was limited, and the dealer community absorbed a somewhat larger than
+usual proportion of the issues in a sharply weakening market. The issues
+have since moved to premiums over their issue prices as investor sentiment
+
+III-10
+TREASURY AND AGENCY FINANCING1
+(Total for period; billions of dollars)
+1983
+JulyP Aug.f Sept.f 02 Q3f
+Treasury financing
+Combined surplus/deficit(-)
+Means of financing deficit:
+Net cash borrowing
+from the public
+Marketable borrowings/
+repayments(-)
+Bills
+Coupons
+Nonmarketable-23.4 -20.6
+11.7 19.6
+11.5
+3.3
+8.2
+.2
+Decrease in the cash
+balance 6.3
+Memo: Cash balance
+at end of period
+Other2
+Federally sponsored credit
+agencies net cash borrowing319.6
+2.7
+16.9
+0-7.6 -33.5 -51.6
+16.9
+15.7
+2.4
+13.3
+1.246.9
+41.1
+2.4
+38.7
+5.8
+8.7 -12.1 -12.5
+21.7 13.0
+5.4 -7.725.1
+2.8
+2.028.0
+.3 .2 FHLB
+FNMA.3 -3.1
+.6 -.1
+Farm Credit Banks
+FHLMC
+SLMA.7 .5
+* .2.6 1.7
+.3 1.3
+1. Numbers reported on a not seasonally adjusted, payment
+2. Includes checks issued less checks paid, accrued items
+transactions.basis.
+and other
+3. Includes debt of Federal Home Loan Banks, the Federal National Mortgage
+Association, the Federal Farm Credit Bank System, the Federal Home Loan
+Mortgage Corporation, and the Student Loan Marketing Association. Excludes
+mortgage pass-through securities issued by FNMA and FHLMC.
+p--preliminary. f-forecast. *--less than $50 million.48.2
+46.8
+8.4
+38.4
+1.4
+2.9
+25.1
+1.4
+
+III-11
+has been improved by slower monetary growth and signs of moderating con-
+sumer spending.
+The staff projects a third quarter combined deficit for the Treasury
+of $52 billion, bringing the fiscal 1983 total to a record $217 billion.1
+Borrowing during the quarter is expected to be accompanied by a reduction
+of about $3 billion in the Treasury's cash balance--leaving the balance at
+a relatively high level around $25 billion. The cash balance is likely to
+be drawn down further in the fourth quarter to help finance a deficit ex-
+pected to be upwards of $60 billion.
+Federally sponsored credit agencies, as a group, reduced their debt
+slightly in the second quarter (not seasonally adjusted), but a moderate
+increase is estimated for July. Federal Home Loan Bank debt, which fell by
+$3 billion during the second quarter, increased slightly in July--despite a
+further decline in outstanding advances to thrifts--as the Banks added to
+liquid asset balances. FNMA's borrowing needs have been small in recent
+months as it has financed mortgage acquisitions largely by reinvesting mort-
+gage repayments and by selling mortgages via issuance of pass-through secur-
+ities. Heavy borrowing by FHLMC in the second quarter reflected issuance
+of a new type of mortgage-backed bond,2 and in July the volume of funds
+raised in debt markets by this agency fell back to a low level.
+State and local sector. Yields on short- and long-term tax-exempt
+securities generally have risen by 20 to 30 basis points since the last
+1. The Administration's midyear update of its projected FY1983 combined
+deficit is $226 billion. The Administration is anticipating higher on-
+budget outlays than is the staff.
+2. FHLMC's "Collateralized Mortgage Obligations" have pass-through fea-
+tures and were issued in three maturity classes designed to meet the dif-
+ferent cash-flow preferences of thrift institutions and pension funds.
+
+III-12
+FOMC meeting--less than the increases in taxable yields. The ratio of tax-
+exempt to taxable bond yields has fallen substantially since the trough of
+the recession last November (chart).
+Gross offerings of tax-exempt bonds totaled $5.2 billion (seasonally
+adjusted) in July, only slightly less than in June but well below the second
+quarter average of $7.5 billion. Some of the slowdown in bond offerings in
+June and July was associated with the backup in interest rates, but there
+also have been some special factors. The registration requirement for muni-
+cipal bonds that went into effect July 1 had caused some acceleration of
+issues during April and May.1 And uncertainty surrounding the problems of
+the Washington Public Power Supply System (WPPSS), including the expected
+default on $2.25 billion in revenue bonds for its defunct nuclear projects,
+apparently contributed to a particularly sharp drop-off in issuance of tax-
+exempt bonds to finance projects of other public utilities.
+Interest rates on tax-exempt issues similar to WPPSS bonds--that is,
+securities issued to construct joint nuclear power projects involving take-
+or-pay contracts--reportedly are trading at yields 60 basis points or more
+above those on otherwise comparable bonds.2 But there has been little indi-
+cation of a general flight to quality within the municipal securities mar-
+ket. Indeed, the spread between A-rated and Aaa-rated municipal bond
+yields and the spread between revenue and general obligation bond yields
+have remained nearly unchanged.
+1. Bonds sold during the last two weeks of June for delivery after July 1
+also had to be in registered form.
+2. In addition, yields on general obligation bonds issued by Washington
+State in early August were 75 to 100 basis points above yields on compara-
+ble bonds, as a result of both the problems of WPPSS and the state's bud-
+get difficulties.
+
+III-13
+RATIO OF TAX-EXEMPT TO TAXABLE YIELDS1
+P T P T PT P T Ratio
+I I I -1 1.00
+-0.95
+- -0.90
+0.85
+-0.80
+0.75
+0.70
+I I- I I I I I I I I L I 0.65
+65 67 69 71 73 75 77 79 81 83
+1. Ratio is the Bond Buyer 20-Bond General Obligation Index divided
+by the 20-year, constant-maturity U.S. Treasury yield.
+GROSS OFFERINGS OF SECURITIES BY STATE AND LOCAL GOVERNMENTS
+(Monthly totals or monthly averages; billions of dollars)
+1982 1983
+Year QIV QI Apr. May Junee Julye
+------------------- Seasonally adjusted -------------------
+Total 9.80 13.00 9.85 11.45 11.80 8.40 8.35
+Long-term 6.40 8.75 7.05 8.60 9.10 5.30 5.20
+Short-term1  3.40 4.25 2.80 2.85 2.70 3.10 3.15
+----------------- Not seasonally adjusted -----------------
+Total 9.80 12.60 8.27 16.39 11.73 9.80 7.80
+Long-term 6.40 9.10 6.10 10.39 9.23 6.50 4.80
+Refundings .35 .70 .93 1.92 2.60 1.15 .53
+Mortgage revenue 1.00 1.20 1.00 1.73 .78 .60 1.40
+Short-term1  3.40 3.50 2.17 6.00 2.50 3.30 3.00
+1. These figures do not include tax-exempt commercial paper.
+e--estimate.
+
+II-14
+Mortgage Markets
+The average contract interest rate on new commitments for fixed-rate
+conventional home loans at S&Ls has risen about half a percentage point
+since the July FOMC meeting to 13.84 percent, roughly 1-1/4 percentage
+points above the recent low in May. On August 1, the ceiling rate on
+level-payment FHA/VA home loans was increased by a full percentage point
+to 13-1/2 percent as discounts in primary and secondary markets approached
+8 points.1 In mid-August, discounts on the new 13-1/2 percent contracts
+were around 2 points.
+Initial interest rates on adjustable-rate home mortgages (ARMs) have
+risen more since May than rates on fixed-rate loans (chart). The rate
+advantages available to borrowers on ARMs purchased by FNMA have diminished
+considerably, and the advantage on the plan involving adjustments every 5
+years to interest rates and to monthly payments (the variant that borrowers
+have been most willing to accept) has dropped to about 20 basis points. In
+early July, one-fourth of the conventional home mortgages originated by
+major lender types had adjustable-rate provisions. Including FHA/VA mort-
+gages, the ARM proportion of institutional home mortgage lending has de-
+clined to less than one-fifth from more than one-third during the first
+half of 1982 when spreads were relatively narrow but rates were at near-
+record levels.
+Total mortgage debt is estimated to have expanded at an annual rate
+of around 9-1/4 percent during the second quarter. The share of net resi-
+dential mortgage investment effectively accounted for by thrift institutions
+1. At current rate levels, a one percentage point increase in the contract
+interest rate reduces discounts by nearly 6 points.
+
+III-15
+INTEREST RATES ON CONVENTIONAL HOME MORTGAGES1
+Percent
+Fixed-rate mortgage
+1982 1983
+1. The fixed-rate mortgage series is the average contract interest
+rate on new commitments for 30-year loans at savings and loan
+associations, reported weekly by FHLMC. The ARM series are
+average rates posted weekly by FNMA in its purchase programs for
+long-term, adjustable-rate loans providing for rate and payment
+adjustments every 1, 3 or 5 years.
+
+III-16
+MORTGAGE DEBT
+1982 1983
+Q1 Q2 Q3 Q4 Q1 Q2e
+----------- Percent rate of growth, SAAR------------
+Total mortgage debt 6.2 4.7 4.5 5.8 7.9 9.2
+Residential 5.8 3.9 4.8 5.8 8.6 9.4
+Nonresidential 7.3 7.5 3.5 5.7 5.7 8.5
+------ Net change in billions of dollars, SAAR-----
+Total mortgage debt 98 76 73 94 130 154
+Residential 70 47 59 71 107 119
+Nonresidential 28 29 14 23 23 35
+Residential mortgage debt
+S&Ls and MSBs -6 -28 -31 -49 11 21
+Commercial banks 8 5 7 8 16 18
+Mortgage poolsl 38 46 55 72 73 66
+Federal agencies2 4 9 11 9 7 10
+State and local credit
+agencies 4 3 4 5 6 7
+All other3 22 12 13 26 -6 -3
+1. Pools or trusts backing pass-through securities guaranteed by the Government
+National Mortgage Association, Federal National Mortgage Association, Federal
+Home Loan Mortgage Corporation, and Farmers Home Administration.
+2. Includes federal agencies and federally sponsored enterprises.
+3. Includes mortgage companies, real estate investment trusts, state and local
+government retirement funds, non-insured pension funds, life insurance companies,
+credit unions and individuals.
+e--estimate.
+
+III-17
+(savings and loans and savings banks) rose substantially during the first
+half of the year, as thrift acquisitions of both mortgage loans (shown in
+the table) and mortgage pass-through securities rebounded.1 After falling
+to a post-World War II low of 3 percent in 1982, the thrift share has
+climbed to 40 percent--close to the proportion during the abbreviated mort-
+gage market recovery in the second half of 1980 but still well below the 60
+to 70 percent shares during comparable stages of previous expansions.
+Both new and outstanding mortgage commitments picked up at S&Ls
+throughout the second quarter, presaging further strong mortgage lending.
+However, recent rate increases have had discernible effects on the demand
+for new mortgage commitments. In July, the University of Michigan's survey
+of consumer attitudes revealed a modest deterioration in house buying atti-
+tudes, a sample of home builders reported some falloff in sales activity,
+and single-family housing starts and building permits fell by about 10 per-
+cent.2 Furthermore, weekly HUD surveys of large mortgage companies indicate
+declines in applications for both FHA and conventional home loans during
+July and early August.
+Consumer Credit
+Growth in consumer installment credit surged to an annual rate of 15
+percent in June, bringing the second quarter increase to 11 percent--the
+largest gain since the fourth quarter of 1979. Commercial banks paced the
+June advance which was broad-based by type of consumer loan.
+1. The mortgage asset share of S&L portfolios increased slightly in June
+following a continuous decline from 84 percent in late 1981 to 75 percent
+in May of this year.
+2. Movements in new mortgage commitments generally are roughly coincident
+with movements in home sales, starts, and permits.
+
+III-18
+CONSUMER INSTALLMENT CREDIT
+1981 1982 1983
+Q1 Q2 Apr. May June
+Change in outstandings--total
+By type:
+Automobile credit
+Revolving credit
+All other1-----Percent rate of growth, SAAR -----
+5.8 4.0 7.1 10.9 7.9 9.3 15.1
+7.3 3.9 5.0 12.1
+7.7 7.0 7.1 16.5
+4.5 2.6 9.1 7.46.3
+17.2
+5.311.9
+9.5
+6.917.7
+22.2
+9.7
+------Billions of dollars, SAAR ------
+Change in outstandings--total
+By type:
+Automobile credit
+Revolving credit
+All other1
+By major holder:
+Commercial banks
+Finance companies
+All other18.2 13.1 24.2
+8.5 4.9 6.5
+4.5 4.4 4.4
+5.3 3.8 13.3
+-0.1
+13.4
+5.44.8 10.2
+4.6 6.8
+3.9 7.137.5 27.3 32.4
+15.9
+10.6
+11.0
+20.6
+1.3
+15.78.3
+11.0
+8.0
+14.2
+-6.2
+8.015.8
+6.2
+10.4
+18.5
+4.3
+9.6
+-------Annual percentage rate -------
+Interest rates
+At commercial banks2
+New cars, 48 mos.3
+Personal, 24 mos.
+Credit cards
+At auto finance companies4
+New cars
+Used cars16.54
+18.09
+17.7816.83
+18.65
+18.5114.81
+17.59
+18.8913.90
+16.57
+18.79n.a.
+n.a.
+n.a.13.90
+16.57
+18.79n.a.
+n.a.
+n.a.
+16.17 16.15 12.12 11.80 11.90 11.94 11.57
+20.00 20.75 19.83 18.75 18.91 18.76 18.58
+1. Includes primarily personal cash loans, home improvement loans, and sales
+finance contracts for non-automotive consumer durable goods.
+2. Average of "most common" rates charged, on loans of specified type and maturity,
+during the first week in the middle month of each quarter.
+3. Data for periods prior to 1983-Q1 are for new-car loans at a 36-month maturity.
+4. Average rate for all loans of each type made during the period, regardless of
+maturity.
+n.a.--not available.52.9
+23.7
+14.5
+14.7
+29.1
+5.6
+18.2--I--- - ---~-- ~-----~I-
+
+III-19
+Interest rates on consumer loans apparently have changed little in
+recent months. According to the Board's quarterly survey of commercial
+banks, average rates on selected types of installment credit contracts
+had dropped 2-1/2 to 3-1/4 percentage points between August 1982 and May
+of this year, but a recent staff canvass of a number of banks around the
+country has indicated little variation, on balance, since May.1 Thus,
+as in past periods, consumer finance rates are lagging upward movements
+in yields on market instruments with comparable maturities (chart).
+Rate subsidy programs offered by the major domestic auto makers
+through their finance subsidiaries were scheduled to expire at the end of
+July. But two of these manufacturers have extended their programs into
+August (at somewhat higher interest rates and for a more limited selection
+of cars), and the other has replaced its rate subsidy plan with a program
+of sales incentive payments to dealers. Some dealers are using these pay-
+ments to provide reduced-rate financing to buyers.
+Household debt repayment problems have eased in recent months. Delin-
+quency rates on auto loans at major finance companies declined in June to
+the lowest reading since the series began in 1966, and the delinquency rate
+on mortgage loans at S&Ls edged down after rising for nearly 4 years. Per-
+sonal bankruptcies fell sharply during the second quarter from the unusually
+high level that had prevailed for most of the past two years.
+1. The regular survey is conducted early in the mid-month of each quarter.
+August results are not yet available.
+
+III-20
+RATES ON COMMERCIAL BANK NEW-AUTO LOANS
+AND 3-YEAR TREASURY SECURITIES
+Percent
+1 20
+Bank Auto Loans
+S3-year
+Treasuries
+1973 1975 1977 1979 1981 1983
+1. Auto loan rate for August is an estimate based on informal
+canvass.
+2. Treasury yield for August represents average for first two
+weeks.
+
+INTERNATIONAL DEVELOPMENTS
+Foreign Exchange Markets
+The dollar appreciated by 4-1/2 percent on a weighted-average basis
+between the last FOMC meeting and August 11, to reach a record high. The
+rise was related to evidence of rapid growth in the U.S. economy and
+actual and expected increases in U.S. interest rates relative to foreign
+rates. Since August 11, the dollar has depreciated by about 2-1/2 per-
+cent in association with decreases in U.S. interest rates and possible
+downward revisions in expectations about the growth in economic
+activity.
+The EMS currencies have been particularly weak in recent weeks,
+with the mark depreciating about 2-1/4 percent against the dollar since
+the last FOMC meeting. The particular weakness of the mark may be due to
+the relatively poor performance of the German economy and political
+unease over the scheduled deployment of nuclear missiles.
+Total U.S. intervention amounted to $250 million, about $180 million was
+against marks, and about $70 million was against yen. This was the first
+U.S. intervention since October of last year.
+IV-1
+
+IV-2
+WEIGHTED AVERAGE EXCHANGE VALUE OF THE U.S. DOLLAR
+March 1973=100
+.ries " 34
+FO IC -132
+July 12
+130
+128
+126
+124
+122
+120
+IIIIIIll ll lll III I lllllllll llllll l Ill111 1111111 llli ll 1 llllll llllllll ll 118
+ly June July August
+3-MONTH INTEREST RATES
+Percent
+eries 10.5
+FO
+July 12
+10
+9.5
+U.S. CD's
+9
+Weighted-Average Foreign Rate
+" r- /_ 8.5
+1 IIIIIJ IIIIl III II till11 1 III 1 i 1111 I i ll IIIIII ll lll IIlll 1111 8
+May June July August
+
+IV-3
+On July 26 the U.S. Treasury redeemed the last of its Carter notes,
+which amounted to $607 million equivalent of marks.
+
+IV-4
+U.S. International Financial Transactions
+During the first half of the year, total Eurodollar holdings
+of U.S. nonbank residents rose despite potential competition from
+the introduction of money market deposit accounts (MMDAs) (see line
+3 of the International Banking Data Table for data through May). The
+continued attractiveness of Eurodollar deposits has been reflected
+in the portfolio choices of money market mutual funds: their
+holdings of Eurodollars stayed just under $20 billion in the period
+between March and July in the face of a 15 percent decline in their
+total assets. This preference for Eurodollar asssets may reflect
+the favorable liquidity characteristics of such deposits and the
+yield differentials arising from the absence of reserve requirements
+in the context of increased competition from MMDAs. Because Euro-
+INTERNATIONAL BANKING DATA
+($ billion)
+1981 I 1982 1983
+Dec. Mar. June Sept. Dec. Jan. Feb. Mar. Apr. May June July
+1. U.S. Banking Offices'
+Positions Vis-a-Vis
+Own Foreign Offices 1/
+(a) Total 9.2 10.7 16.6 6.9 8.4 -4.9 -6.0 -5.6 -6.3 -4.7 -.4 -1.7
+(b) U.S.-Chartered Banks -8.9 -2.8 1.3 -4.4 -3.1 -13.8 -14.6 -17.5 -16.6 -13.4 -11.7 -11.5
+(c) Foreign Chartered Banks 18.1 13.5 15.3 11.3 11.5 8.9 8.6 11.9 10.2 8.7 11.2 9.8
+2. Credit Extended to U.S.
+Nonbank Residents by Foreign
+Branches of U.S. Banks 2/
+(a) Total 13.2 13.8 14.1 16.1 15.7 16.4 16.6 16.4 16.0 16.8 16.8 16.7
+(b) NY Banks Only 8.8 9.1 9.7 11.4 11.2 12.0 12.0 12.2 11.9 12.3 12.2 12.3
+3. Eurodollar Holdings of
+U.S. Nonbank Residents 3/ 93.6 104.2 116.0 111.5 110.3 110.0 111.9 114.9 117.0 117.3 n.a. n.a.
+1/ Average of Wednesdays, net due to own foreign office = (+). 1BFs are included in U.S. offices.
+2/ Daily averages.
+3/ End of month.
+e/ estimate.
+
+IV-5
+dollar deposits are reserve-free, while large CDs and MMDAs are
+subject to the 3 percent reserve requirement on non-personal time
+deposits, banks offer higher yields on Eurodollar deposits than on
+similar instruments at domestic offices. For example, yields on CDs
+issued by London offices of prime U.S. banks remain about 20 to 25
+basis points above those on domestic CDs issued by the same banks.
+Domestic offices of U.S. chartered banks (including IBFs)
+reduced their outstanding net advances to their own foreign offices
+between March and July of this year by $6 billion, reversing about
+half of the outflow to foreign offices in the first quarter (see
+line 1b of the International Banking Data Table.) The recent
+decline in net advances may be related to the increase in Euro-
+dollar deposits at foreign branches of U.S. banks by U.S. nonbank
+residents noted above. In addition the decline may be partly
+accounted for by a reduction in Euro-interbank placements by foreign
+branches of U.S. chartered banks. Monthly data reported by the
+foreign branches indicated that their net claims on foreign banks
+fell by about $1 billion during April and May. Branches of U.S.
+regional banks reduced net claims on foreign banks by $4 billion
+over this period, a decline that was largely offset by an increase
+in such claims by large U.S. money center banks. The reduction in
+net placements by regional banks, reversing the increases in their
+net placements in the first quarter, may have reflected a pick-up in
+consumer and real estate loan demand at their domestic offices and
+possibly a desire to limit exposure in the Euro-interbank market.
+
+IV-6
+However, these monthly data should be interpreted cautiously because
+they are subject to large short-run fluctuations.
+Recent press reports have called attention to record net
+purchases of U.S. corporate stocks by foreigners during the present
+recovery, though the rate of inflow slowed in May and June (line 2b
+of the Summary Table of U.S. International Transactions); net
+purchases were $4.5 billion during the first half of this year.
+Less attention has been focused on net purchases of foreign stock by
+U.S. residents, which were a record $2.8 billion during the first
+half of this year out of total net purchases of foreign securities
+of $5 billion. Some brokerage firms indicate that U.S. investors
+have primarily been purchasing the stocks of Japanese and German
+companies. Such cross-border flows of funds to purchase equities,
+and the similarity of trends in equity markets in major countries
+are evidence of increasing integration of capital markets.
+Foreign official reserve assets held in the United States rose
+by about $2 billion in the second quarter as an accelerated
+reduction in OPEC holdings was more than offset by increases in
+holdings of G-10 and other countries. (see lines 4 and 4a of the
+Summary Table of U.S. International Transactions.) Partial data
+available from the Federal Reserve Bank of New York for the period
+between late June and the end of July indicate that OPEC holdings of
+official reserve assets showed little further change, while the
+holdings of G-10 countries increased by $2.6 billion. Much of this
+increase was attributable to France, which placed the proceeds from
+
+IV-7
+its borrowings from the EC in its account at the Federal Reserve
+Bank of New York.
+Finally, U.S. official reserve assets showed little change in
+the second quarter (see the U.S. Official Reserve Asset Table
+below.) Preliminary data for July indicate that U.S. holdings rose
+moderately, mainly because of a rise in the U.S. reserve position at
+the IMF associated with provision of dollars in connnection with
+drawings on the Fund.
+U.S. OFFICIAL RESERVE ASSETS 1/
+(Billions of dollars; increase in assets (+))
+Holdings 2/
+Dec. 1981 Dec. 1982Transactions 3/
+1982 1983 July e/
+1st Half 03 04 01 02
+Total 4/ 15.9 21.5 2.6 1.7 2.5 1.2 .5 .4
+SDRs 4.1 5.2 .6 .4 .3 .1 .3 .1
+Reserve Position
+in the I.M.F. 5.1 7.3 1.4 .5 .7 2.1 .2 .2
+Foreign Currency 4/ 6.8 8.9 .6 .8 1.4 -1.1 .0 .0
+GlO + Switzerland 4/ 6.8 6.8 .4 .2 .1 .1 .1 .0
+Other - 2.1 .2 .6 1.3 -1.2 -.2 .0
+1. Excludes holdings of gold.
+2. Valued at market exchange rates.
+3. Net flows on a balance-of-payments basis excluding valuation changes.
+4. Holdings are net of foreign exchange held in anticipation of redemption of Treasury
+debt denominated in foreign currencies (Carter bonds); transactions are net of use of
+foreign exchange for such redemptions. Carter bond redemptions for the period indicated
+totaled $354 million for the 1st half 1982, $902 million for 1982 Q3, $519 million for 1982
+Q4, $386 million for January 1983, $490 million for May 1983, and $402 million for July 1983.
+Details may not add to totals because of rounding.
+e/ Estimate.
+
+IV-8
+SUMMARY OF U.S. INTERNATIONAL TRANSACTIONS
+(Billions of dollars)
+1981 1982 1983
+Year Year Q-IV Q-I Q-II Apr. May June
+Private Capital
+Banks
+1. Change in net foreign positions of banking
+offices in the U.S. (+ = inflow) -34.0 -39.6 -10.8 -9.3 6.4 2.5 4.4 -0.5
+a) with own foreign offices -2.7 -9.6 -3.2 -10.1 1.4 3.9 -2.0 -0.5
+b) all other -31.3 -30.0 -7.6 0.8 4.9 -1.4 6.3 *
+Securities
+2. Private securities transactions, net 1.2 -1.8 -1.6 1.1 -0.8 -0.1 -0.6 *
+a) Foreign net purchases (+) of U.S.
+corp. bonds 2.1 2.5 0.1 0.1 0.8 0.1 0.5 0.1
+b) Foreign net purchases (+) of U.S.
+corp. stocks 4.8 3.6 1.8 2.8 1.7 0.9 0.4 0.4
+c) U.S. net purchases (-) of foreign
+securities -5.7 -8.0 -3.3 -1.8 -3.2 -1.2 -1.5 -0.5
+3. Foreign net purchases (+) of U.S. Treasury
+obligations 1/ 2.5 6.4 2.1 2.8 2.8 -0.7 1.4 2.0
+Official Capital
+4. Changes in foreign official reserve assets
+in U.S. (+ -increase) 5.5 2.7 1.5 0.3 2.1 0.4 1.7 *
+a) By area
+G-10 countries and Switzerland -10.8 -12.7 -2.8 2.7 2.0 -0.3 1.2 -1.1
+OPEC 12.7 6.6 -1.C -1.4 -3.6 -0.9 -1.0 -1.7
+All other countries 3.6 8.8 5.3 -0.9 3.7 1.6 1.5 0.7
+b) By type
+U.S. Treasury securities 5.0 5.8 4.3 3.0 2.0 0.8 0.9 0.3
+Other 2/ 0.5 -3.1 -2.8 -2.7 0.1 -0.4 0.8 -0.3
+5. Changes in U.S. official reserve assets
+(+ -decrease) 3/ -5.2 -5.0 -2.( -0.8 * 0.1 -0.1 -0.1
+Other transactions (Quarterly data)
+6. U.S. direct investment (-) abroad -9.7 3.0 2.0 -0.4 n.a. n.a. n.a. n.a.
+7. Foreign direct investment (+) in 0.S. 22.0 10.4 2. 1.6 n.a. n.a. n.a. n.a.
+8. Other capital flows (+ -inflow) 4/ 5/ -11.1 -6.3 -2.3 0.0 n.a. n.a. n.a. n.a.
+9. U.S. current account balance 5/ 4.6 -11.2 -6. -3.0 n.a. n.a. n.a. n.a.
+10. Statistical Discrepancy 5/ 24.2 41.4 14.7 7.6 n.a. n.a. n.a. n.a.
+MEMO:
+U.S. merchandise trade balance -part of line 9
+(Balance of payments basis, seasonally adjusted) -28.1 -36.4 -11.4 -8.7 -14.8 -4.4 -5.8 -4.7
+1. Includes U.S. Treasury notes publicly issued to private foreign residents.
+2. Includes deposits in banks, commercial paper, acceptances, & borrowing under repurchase agreements.
+3. Includes newly allocated SDR's of $1.1 billion in January 1981.
+4. Includes U.S. government assets other than official reserves, transactions by nonbanking concerns,
+allocations of SDRs, and other banking and official transactions not shown elsewhere.
+5. Includes seasonal adjustment for quarterly data.
+* Less than $50 million.
+NOTE: Details may not add to total because of rounding.
+
+IV-9
+U.S. Merchandise Trade
+The U.S. merchandise trade deficit in June was somewhat
+smaller than that recorded in May but was still well above fourth
+quarter 1982 or first quarter 1983 levels. Exports in June were
+somewhat higher than during the preceding two months. Just under
+half of the rise in exports was in deliveries of large airplanes to
+industrial countries. The increase in agricultural exports largely
+reflected a temporary bunching of deliveries of soybeans. The small
+decline in imports in June was primarily in the volume of oil.
+For the second quarter as a whole, the trade deficit increased
+to nearly $60 billion annual rate from rates of $35-45 billion in
+the previous two quarters. Imports turned up across a broad range
+of commodity categories and from most geographic areas as U.S.
+U.S. MERCHANDISE TRADE*
+1982 1983
+Year 4Q 1Q 2Q May June
+Value (Bil. $, SAAR)
+Exports 211.2 193.4 198.3 196.1 194.5 201.3
+Agricultural 37.2 33.1 36.0 35.4 33.6 37.3
+Nonagricultural 174.0 160.3 162.2 160.7 160.9 164.0
+Imports 247.6 238.8 233.2 255.5 264.0 257.2
+Oil 61.2 60.5 42.0 52.1 59.7 54.3
+Nonoil 186.4 178.3 191.2 203.4 204.2 202.9
+Trade Balance -36.4 -45.4 -35.0 -59.4 -69.4 -55.9
+Volume (Bil. 72$, SAAR)
+Exports -Agric. 17.1 15.9 16.9 16.1 15.3 16.8
+-Nonagric. 61.2 56.3 56.1 56.2 56.8 57.5
+Imports -Oil 5.0 5.0 3.6 4.8 5.5 5.0
+Nonoil 71.8 70.0 75.5 80.4 81.3 80.0
+International Transactions and GNP basis. Monthly data are estimated.
+
+IV-10
+economic activity strengthened and in response to the continuing
+effects of the dollar's appreciation. The value of exports changed
+very little during the past three quarters reflecting continued
+sluggish economic activity in major trading partners and the effects
+of a strong dollar on the price competitiveness of U.S. goods.
+The value of exports in the second quarter was only 1 percent
+higher than the low level in the fourth quarter of 1982; volume was
+about unchanged. The small increase in the value of agricultural
+exports (4Q82 to 2Q83) was accounted for almost entirely by higher
+prices of exports, particularly corn. The first quarter run-up in
+the volume of agricultural exports was largely attributable to a
+bunching of wheat deliveries to the U.S.S.R. The new five-year
+grain agreement with the U.S.S.R. was signed in August and will be
+effective October 1. The U.S.S.R. agreed to purchase a minimum of 9
+million metric tons (MMT) each year of corn and wheat combined, an
+increase from the current 6 MMT minimum, and may purchase up to 12
+MMT without prior consultation (the current ceiling is 8 MMT). In
+addition, the U.S.S.R. may subsitute 500 thousand metric tons of
+soybeans for 1 MMT of grain.
+Nonagricultural exports have been about unchanged in value and
+volume during the past three quarters as steady declines in exports
+of a broad range of machinery and industrial supplies (categories
+accounting for two-thirds of the volume of nonagricultural exports)
+were offset by increases in exports of commercial aircraft and in
+automotive products to Canada. The volume of exports of machinery
+
+IV-11
+and industrial supplies dropped more than 20 percent since the
+fourth quarter of last year. The aircraft deliveries primarily went
+to major industrial countries. Automotive exports to Canada were
+largely parts for assembly into vehicles that were then shipped back
+to the United States; recent increases reflect the current strength
+of U.S. domestic auto sales.
+Just under half of the substantial rise in imports in the
+second quarter from the first quarter was accounted for by oil. The
+volume of oil imports was unusually low in the first four months of
+the year in response to several temporary market situations
+(including the effects of unusually warm weather, inventory draw-
+downs and declining prices). By May and June the import volume had
+increased to almost 6 million barrels per day (mbd) as the influence
+of the temporary factors ended and as U.S. economic activity
+picked-up. Prices of oil imports, which declined during the first
+four months of the year, edged up in May (by 15 cents per barrel)
+and increased further in June (by about 45 cents per barrel).
+Prices on the spot market have increased steadily since March and
+are currently at or slightly above official prices. In July, OPEC
+held its biannual meeting and decided to keep its total production
+ceiling at 17.5 mbd (quarterly average) and its marker price at $29
+per barrel.
+OIL IMPORTS1982 1983
+Year 4Q 1Q 2Q May June
+Volume (mbd, SA) 5.36 5.35 3.91 5.16 5.97 5.92
+Price ($/BBL) 31.23 30.97 29.41 27.69 27.57 28.03
+Value (Bil$ SAAR) 61.2 60.5 42.0 52.1 59.7 54.3
+
+IV-12
+Nonoil imports increased strongly in the second quarter over a
+wide range of commodity categories largely in response to the
+strength in U.S. economic activity. Most of the increase in the
+second quarter (as has been the case for the past year) was in the
+volume of consumer goods (other than automotive), capital goods and
+industrial supplies; together these commodity categories account for
+about 75 percent of the volume of nonoil imports. Automotive
+imports from Japan and Europe accounted for only a small part of the
+second quarter total increase -- less than one percent of the rise
+in volume. The automotive agreement with Japan, limiting Japanese
+shipments to the United States to 1.68 million units annually, began
+its third year on April 1. For April, May, and June combined the
+Japanese export schedule to the United States was very similar to
+that of a year ago; in the second quarter Japanese producers shipped
+495 thousand units, which was 1.2 percent more than in the same
+period last year. Japanese exports are recorded as U.S. imports
+with a shipping lag of from 4 to 8 weeks.
+
+IV -13
+Foreign Economic Developments. The upturn in foreign economic
+activity which became evident earlier this year in several of the major
+foreign industrial countries has continued in recent months, with the
+pace of recovery generally remaining slow. In all of the foreign
+industrial countries, the level of production continues to be depressed
+and unemployment is still at historically high levels. In Japan,
+Germany, and the United Kingdom, the unemployment rate appears to have
+stopped rising, however, and in Canada a significant decline in the rate
+of unemployment has been recorded. There are few signs of a recovery in
+France and Italy. Recent austerity measures taken by the French
+government indicate that French economic activity is likely to remain
+weak in the near future.
+The pattern of declining foreign inflation rates generally has
+continued in recent months. One exception to this pattern is Canada
+where consumer prices accelerated somewhat during the second quarter.
+So far this year the German and Canadian trade balances have
+declined moderately from the levels registered in the second half of
+1982. There has been a substantial weakening of the U.K. trade position
+in 1983 while the French and Italian trade accounts have strengthened.
+Japan's trade surplus has increased dramatically: in the first half of
+this year the Japanese trade balance was $29 billion (s.a.a.r.). In
+1982, the Japanese trade balance was $19 billion.
+Individual Country Notes. In recent weeks, there have been some
+signs that the Japanese economy may be starting to recover from its
+recent stagnation. Industrial production rose sharply in June by 1.2
+percent (s.a.); in the second quarter, industrial production was almost
+
+IV -14
+7 percent (s.a.a.r.) higher than the level recorded in the previous
+quarter. According to recent assessments by both the Bank of Japan and
+the Japanese Economic Planning Agency, the recent pickup in industrial
+production is primarily related to increases in exports and continued
+progress in inventory adjustment. Other components of private domestic
+demand -- notably investment in plant and equipment -- are still quite
+weak. Labor market conditions have improved slightly, as the rate of
+unemployment, although still quite high by Japanese standards, declined
+in June to 2.6 percent (s.a.).
+The price situation in Japan continues to be favorable. Consumer
+prices remained unchanged in July following June's decline of nearly a
+percentage point. The CPI has increased less than 1 percent since the
+end of last year. Wholesale prices moved ahead by 0.2 percent in July,
+but wholesale prices are still more than 2 percent below their level of
+a year ago.
+The reduction in Japan's current account surplus in June by about
+$1 billion (s.a.) may have eased temporarily some of the pressure for a
+policy adjustment. Nevertheless, the cumulative current account surplus
+for the first half of 1983 was $9-1/2 billion (s.a.), raising concern
+that, unless the domestic economy strengthens promptly, the Japanese
+current account surplus is likely to reach $20 billion for the year. In
+1982, the Japanese current account registered a $7 billion surplus.
+German real GNP, according to preliminary indications, has
+maintained its first quarter growth of 2 percent (s.a.a.r.) in the second
+quarter. Industrial production rose by 1.9 percent (s.a.) in June to
+
+IV -15
+reach, for the first time since March of last year, a level above its
+year-earlier mark. The rate of unemployment rose in June to 9.6 percent
+(s.a.), but was unchanged in July. The volume of manufacturing orders
+rose 2 percent in June with the bulk of new orders continuing to come
+from domestic sources. In contrast to domestic orders, which in June
+were 6-1/2 percent above their June 1982 level, export orders were 5-1/2
+percent below their year-earlier level.
+Consumer prices rose by 0.4 percent in July. For the year so far,
+consumer prices have risen 2-1/2 percent (a.r.) and wholesale prices have
+declined somewhat.
+The current account surplus through June of this year was $2-1/2
+billion, substantially above the $1/2 billion surplus achieved in the
+first half of last year. The increase in the current account surplus
+reflects reduced outlays for services and interest payments. The volume
+of exports in the first five months of this year declined by about 6
+percent compared with the same period last year, while the volume of
+imports declined less than 1 percent. The effect of this change in trade
+volume on the value of the trade balance was largely offset by an
+improvement in the terms of trade.
+German central bank money (CBM) increased 0.7 percent (s.a.) in
+July. Between the fourth quarter of last year and July, CBM increased 9
+percent (s.a.a.r.), well above the Bundesbank's 4-7 percent target range.
+Although industrial production in France increased by 1.6 percent
+(s.a.) in May, it remained only slightly above its year-earlier level.
+Private surveys and forecasts suggest a decline in economic activity
+
+IV -16
+and a rise in unemployment for the remainder of this year. The weak
+outlook reflects in part the austerity measures initiated by the
+government in March.
+Wholesale prices rose by 1.1 percent in June, and for the first
+half of the year wholesale price inflation was nearly 15 percent (a.r.).
+Consumer prices rose 10-1/2 percent (a.r.) in the first seven months of
+1983, about the same as the rate of increase registered in the first
+seven months of last year. The government's goal is to hold down the
+increase in consumer prices for all of 1983 to 8 percent.
+The trade deficit (s.a.) in the second quarter was half the size of
+that in the first quarter. For the first half of 1983, the trade deficit
+was $10-1/2 billion (s.a.a.r.), less than the $14 billion deficit
+recorded last year. A key goal of the government's austerity program is
+to eliminate the trade deficit by the end of 1984.
+The French Prime Minister has stated that the 1984 budget, to be
+announced next month, will aim at limiting the government budget deficit
+to 3 percent of GDP, the same as this year's objective. Cuts in
+government spending and increased taxes are widely anticipated to be part
+of the budget package.
+In the United Kingdom, the recovery of real economic activity
+weakened somewhat in the second quarter as industrial production rose
+only 2-1/2 percent (s.a.a.r.); in June industrial production actually
+fell 1.7 percent (s.a.). In July, the unemployment rate of 12.4 percent
+was unchanged from the June level.
+The rate of consumer price inflation remains very low by recent
+
+IV -17
+U.K. standards. In July, the retail price index was 4 percent above its
+year-earlier level.
+Both the trade and current account balances returned to surplus in
+June. However, for the first half of 1983 the trade balance was in
+deficit by some $3 billion (s.a.a.r.), which is a sharp negative swing
+from the $3-1/2 billion surplus recorded in 1982. The current account
+balance has weakened correspondingly, from a surplus of nearly $7 billion
+in 1982 to one of about $1 billion (s.a.a.r.) for the first half of this
+year.
+Growth of all three targeted monetary aggregates remained above the
+7-11 percent target range in July. Shortly after assuming office, the
+new Chancellor of the Exchequer, Nigel Lawson, announced controls on
+public sector expenditure which are intended to prevent the public sector
+borrowing requirement from rising above the level announced in the March
+budget.
+Industrial production remains weak in Italy, falling by 2.5 percent
+(s.a.) in the second quarter to a level 13 percent below the previous
+peak reached in the first quarter of 1980. The slowdown in activity has
+led to some moderation of inflation. In the first half of this year,
+wholesale prices were up by about 10-1/2 percent from the level of the
+first half of 1982; the rate of increase between the first halves of 1981
+and 1982 was 15 percent. Primarily because of increases in indirect
+taxes, consumer price increases have remained high: in July, consumer
+prices were 15-1/2 percent above their year-earlier level. Between April
+and July, consumer prices increased only 11 percent (a.r.). The weakness
+
+IV -18
+of activity also has shown up in the trade account. In the first six
+months of this year, the trade deficit was about $7 billion (s.a.a.r.),
+well below the 1982 outcome of $14-1/2 billion.
+On August 4, Benedetto ("Bettino") Craxi became Italy's first
+Socialist prime minister. In return for the support of the other four
+parties in the coalition government, the Socialists had to give the most
+important ministries to non-Socialists and to adopt a more austere
+economic program than indicated by their pre-election statements.
+Craxi's government hopes to reduce consumer price inflation to 10 percent
+next year and to 7 percent in 1985. The government intends to achieve
+this by a new incomes policy as well as by cuts in the large public
+sector deficit.
+The Canadian economy continues to expand at a brisk pace after
+posting a 7-1/2 percent (s.a.a.r.) rate of growth of real GNP in the
+first quarter. Industrial production expanded in April and May at an
+average monthly rate of 1.6 percent (s.a.). Much of the increase in
+industrial output occurred in durable goods manufacturing. Progress on
+unemployment continues at a less dramatic pace as the unemployment rate
+fell to 12.2 percent in June (s.a.) and then to 12.0 percent in July. At
+its peak in December 1982, the unemployment rate was 12.8 percent.
+The inflation rate in Canada has shown a dramatic decline in 1983
+from the double digit levels of 1981 and 1982. In the first six months
+of 1983, consumer prices increased 5-1/2 percent (a.r.), less than half
+the rate of inflation experienced over the same period in 1982. However,
+the July increase in consumer prices of 1.1 percent is the largest
+
+IV-19
+monthly increase in over a year. Wage settlements have reflected the
+improved price performance and generally have stayed within the govern-
+ment's "6-5 percent" guidelines for public sector wage increases for
+the two years beginning June 1982. Average hourly earnings increased
+5-1/2 percent (s.a.a.r.) in the first three months of 1983.
+Major Debt Problem Situations in Developing Countries
+Most major borrower countries are making reasonable progress in
+reaching their goals of economic adjustment and debt rescheduling.
+Brazil may be an exception, having gone off track on its original IMF
+program and financing arrangements with banks. However, recent
+developments there are also somewhat encouraging.
+Mexico was found to have been in compliance with the second quarter
+performance criteria specified in its arrangement with the IMF. As a
+consequence, Mexico drew another $310 million from the IMF on Augusut 15
+and paid half the BIS and half to the Federal Reserve and Treasury.
+Mexico is eligibile to draw another $1.1 billion from the $5 billion
+commercial bank credit signed last March. Mexico was eligible to make a
+drawdown of $1.1 billion on the bank credit in late May, after IMF
+certification of Mexican compliance with the first quarter performance
+criteria, but drew only about $500 million in July. The remaining $600
+million, added to the funds that became available after August 15, will
+enable Mexico to complete the repayment on schedule (by August 23) of the
+emergency credits that it received a year ago from the BIS, the U.S.
+Treasury, and the Federal Reserve; the balance outstanding is about $1.2
+billion. Mexico recorded a merchandise trade surplus of nearly $7
+
+August 17, 1983
+UNEMPLOYMENT RATES IN MAJOR INDUSTRIAL COUNTRIES
+(PERCENT, SEASONALLY ADJUSTED)
+1982
+Q3 Q4 1981 1982
+CANADA
+FRANCE
+GERMANY
+ITALY
+JAPAN
+UNITED KINGDOM
+UNITED STATES7.6
+7.8
+5.6
+8.4
+2.2
+10.0
+7.610.9
+8.7
+7.7
+9.1
+2.4
+11.7
+9.712.1
+8.9
+7.912.7
+8.8
+8.4
+9.2 9.2
+2.4 2.4
+11.9 12.2
+10.0 10.71983
+Q1 Q2
+12.5 12.4
+8.7 8.8
+9.0 9.5
+9.8 9.9
+2.7 2.6
+12.6 12.5
+10.4 10.11983
+MAR. APR. MAY JUN. JUL.
+12.6
+8.7
+9.312.5
+8.7
+9.412.4
+8.8
+9.512.2
+8.8
+9.612.0
+8.8
+9.6
+* * *r * *
+2.6
+12.7
+10.32.7
+12.7
+10.22.7
+12.4
+10.12.6
+12.4
+10.0N.A.
+12.4
+9.5
+* DATA NOT AVAILABLE ON AMONTHLY BASIS.
+
+August 17, 1983
+REAL GNP AND INDUSTRIAL PRODUCTION IN MAJOR INDUSTRIAL COUNTRIES
+(PERCENTAGE CHANGE FROM PREVIOUS PERIOD, SEASONALLY ADJUSTED)
+Q4/Q4 Q4/Q4
+1981 19821982
+Q3 Q4
+CANADA: GNP .8 -3.8 -.8 -.7
+IP -3.5 -11.9 -2.9 -3.9
+FRANCE: GDP 1.8
+IP -.51.3 -.6 .9
+-2.6 -2.1 .8
+GERMANY: GNP .6 -1.9 -.8 -.2
+IP -.3 -5.6 -2.8 -1.9
+ITALY: GDP .5
+IP .4
+JAPAN: GNP 2.7
+IP 5.7
+UNITED GDP -.3
+KINGDOM: IP -.6-2.4 -2.2 -.2
+-6.1 -7.6 2.2
+3.7
+-1.7.9 .4
+1.7 -.8
+.8
+-.2
+UNITED GNP 2.0 -1.7 -.2 -.3
+STATES: IP -1.7 -7.5 -.9 -2.11983
+Q1 Q2
+1.8 N.A.
+5.8 N.A.
+N.A.
+N.A.
+.5 N.A.
+2.0 1.6
+.3 N.A.
+-.6 -2.5
+N.A.
+1.6
+1.3 N.A.
+.8 .6
+.6 2.1
+2.4 4.21983
+FEB. MAR. APR. MAY
+* * * * *
+2.2 -.9 1.7 1.5 N.A.
+* * * * *
+.0 -.8 .8 1.6 N.A.
+* * * * *
+-1.9 3.0 -1.0 1.0 1.9
+* * * * *
+-.5 -.5 -4.5 4.9 -1.8
+* * * * *
+-.7 2.3 -.2
+16
+1.6LATEST 3 MONTHS
+JUN. JUL. FROM YEAR AGO+
+i flip L
+-1.2
+-.6
+1.4
+.0
+-.4
+-1.3
+-3.5
+-8.4
+.2 1.2
+.0* * * *-1.7
+-1.0 1.0 .5 -1.7
+* * * * * *
+.5 1.4 1.9 1.3 1.1 1.83.5
+3.0
+2.3
+1.9
+2.2
+5.4
+* DATA NOT AVAILABLE ON A MONTHLY OR QUARTERLY BASIS.
++ IF QUARTERLY DATA, LATEST QUARTER FROM YEAR AGO.I-_ __
+
+August 17, 1983
+CONSUMER AND WHOLESALE PRICES IN MAJOR INDUSTRIAL COUNTRIES
+(PERCENTAGE CHANGE FROM PREVIOUS PERIOD)
+Q4/Q4 Q4/Q4
+1981 1982
+CANADA: CPI
+WPI
+FRANCE: CPI
+WPI
+GERMANY: CPI
+WPI
+ITALY: CPI
+WPI
+JAPAN: CPI
+WPI
+UNITED CPI
+KINGDOM: WPI
+UNITED CPI (SA)
+STATES: WPI (SA)1982
+Q1 Q2 Q3 Q4
+12.3 9.7 2.5 3.1 2.2 1.6
+8.5 4.5 1.4 1.9 .8 .3
+14.1 9.5 2.8 3.1 1.4 1.9
+12.7 8.5 2.7 2.6 1.9 1.0
+6.5 4.7 1.5 1.4 1.1 .7
+10.4 3.1 1.8 1.3 .0 .0
+18.4 16.6 4.0 3.0 4.1 4.5
+18.7 12.4 3.3 2.0 3.2 3.3
+1.0 2.9 .3
+-.1 1.3 .2
+11.9 6.2 1.7 3.2 .5 .7
+11.2 7.7 2.2 1.7 1.6 2.0
+9.6 4.5 .7
+7.3 3.7 .71.3 1.9 .5
+.3 1.5 1.11983
+Q1 Q2
+.6 1.4
+.7 1.6
+2.6 2.9
+2.4 4.0
+.5 .6
+-2.0 .8
+3.6 2.9
+1.6 1.6
+-.1 .9
+-1.9 -1.0
+.5 2.0
+1.8 1.7
+-.1 1.0
+-.7 .21983
+APR. MAY JUN. JUL.
+.0 .3 1.1 N.A.
+.6 .5 .5 N.A.
+1.3 .7 .5 .9
+1.6 1.0 1.1 N.A.
+.4
+.7
+1.0 .9
+.8 .5LATEST 3 MONTHS
+FROM YEAR AGO
+.4
+-.5
+.6 1.0
+.5 N.A.
+.2 1.2 -.9 .0
+-.7 -.3 .3 .2
+1.4 .4
+.7 .6
+.6 .5 .2
+-.1 .3 .5N.A.
+.12.6
+-1.5
+15.7
+10.1
+2.5
+-2.1
+3.8
+7.1
+3.3
+1.9
+
+August 17, 1983
+TRADE AND CURRENT ACCOUNT BALANCES OF MAJOR INDUSTRIAL COUNTRIES#
+(BILLIONS OF U.S. DOLLARS; SEASONALLY ADJUSTED)
+1981 1982
+CANADA: TRADE
+CURRENT ACCOUNT
+FRANCE: TRADE+
+CURRENT ACCOUNT+
+GERMANY: TRADE
+CURRENT
+ITALY: TRADE
+CURRENTACCOUNT (NSA)
+ACCOUNT (NSA)1982
+Q1 Q2 Q3 Q4
+5.8 14.8 2.9 3.8 4.0 4.1
+-4.8 2.4 -.1 .8 .9 .9
+-9.3 -14.0 -3.0 -4.0
+-4.7 -12.0 -2.1 -4.4
+11.9 20.6 5.0 5.3
+-7.3 3.6 -.4 .9
+-15.9 -14.6 -6.2 -2.8
+-8.6 -5.8 -4.6 -.91983
+Ql Q2
+3.3 4.3
+.2 N.A.
+-4.2 -2.9 -3.5 -1.7
+-3.2 -2.3 -4.4 -.4
+5.2 5.1
+-1.6 4.75.3 N.A.
+1.7 .8
+-3.2 -2.4 -1.5 -1.9
+.4 -.7 N.A. N.A.1983
+MAR. APR. MAYJUN.
+1.1 1.6 1.4 1.3
+* * * *
+-.9 -.2 -1.0 -.5
+* * * *
+1.7 1.0 1.5 N.A.
+1.3 .0 .6 .2
+-.4 -1.4 .2
+* * *-.7
+*
+JAPAN: TRADE+
+CURRENT ACCOUNT
+UNITED TRADE
+KINGDOM: CURRENT ACCOUNT+
+UNITED TRADE
+STATES: CURRENT ACCOUNT20.1 18.8 4.3 5.5 5.1 4.0 6.5 8.0
+4.8 6.9 .9 2.8 2.3 1.6 3.5 6.0
+6.4 3.7 .4 .2
+12.6 6.8 1.1 1.4
+-28.1 -36.4
+4.6 -11.21.0 2.1
+1.5 2.9
+-6.1 -5.9 -13.1 -11.4
+.6 1.4 -6.6 -6.6-.4 -1.2
+.7 -.1
+-8.7 -14.8
+-3.0 N.A.2.2 2.8 3.3 1.9
+1.3 2.3 2.3 1.4
+-.6
+-.2-.9 .2
+-.5 .6
+-2.8 -4.4 -5.8
+* * *-4.7
+*
+# THE CURRENT ACCOUNT INCLUDES GOODS, SERVICES AND PRIVATE AND OFFICIAL TRANSFERS.
++ QUARTERLY DATA ARE SUBJECT TO REVISION AND ARE NOT CONSISTENT WITH ANNUAL DATA.
+* COMPARABLE MONTHLY OR QUARTERLY CURRENT ACCOUNT DATA ARE NOT PUBLISHED.
+
+IV-24
+billion in the first six months of this year, compared with a surplus of
+about $800 million in the same period last year, although imports have
+begun to recover from the lows of January-February. The consumer price
+index increased by nearly 5 percent in July--about one percentage point
+more than in June-and was about 48 percent higher than in December 1982
+and about 118 percent higher than in July 1982.
+Brazil has centralized control of all foreign exchange revenues at
+the Central Bank. Priority for payments is now likely to be given to oil
+imports and overdue interest obligations. Brazil's gross public sector
+arrears (principal and interest) are about $1.9 billion currently.
+Brazil has reached a tentative agreement with an IMF negotiating team
+over a revised IMF program. After the agreement is completed and
+approved by the IMF Managing Director, it will be scheduled for review by
+the IMF Executive Board in mid-October. By that time the new decree law
+which reduces wage indexation will have passed most of the period for
+congressional review. If eligible, Brazil could draw a further $1.2
+billion from the IMF before the end of 1983. Brazil is in the process of
+renegotiating its arrangements with private banks. IMF and private bank
+data indicate that Brazil has a financing gap of $4-5 billion in 1983 and
+up to $5 billion in 1984. This gap would have to be filled by private
+bank and IMF funds and, perhaps, other official assistance. Brazil also
+owes $400 million, due since the end of May, on its $1.45 billion bridge
+loan from the BIS. Another $400 million is due at the end of August.
+Brazil will reportedly seek a Paris Club rescheduling of payments to
+
+IV-25
+official creditors, which would reduce Brazil's 1983-84 financing needs
+by $1 -1.5 billion.
+Indications are that Argentina will be found to have met the
+second-quarter quantitative performance tests specified in its IMF
+stand-by arrangement. But it did not eliminate all interest arrears by
+June 30, as required by the agreement. A waiver of this provision was
+granted by the IMF Executive Board on August 15, paving the way for the
+banks to release the last $300 million of the $1.1 billion bridge loan.
+The IMF Board also approved Argentina's August 8 action lifting its
+discriminatory restrictions against British remittances, waiving the July
+31 deadline that had been imposed by the IMF. This clears the way for
+banks to sign the $1.5 billion credit that had been under negotiation for
+several months. However, Argentina's eligibility to make the August
+drawing from the IMF was held in abeyance pending completion of a formal
+review of its second-quarter quantitative performance now in progress.
+Meanwhile, the raging inflation (325 percent in the twelve months ending
+in July) has prompted the Argentine government this week to tighten price
+and wage controls, to abolish the free interest rate sector of the
+domestic money market, and to announce its intention to raise taxes and
+cut public works spending.
+Venezuela's economic authorities have shown strong resistance to
+accepting IMF conditions for a CFF drawing or Fund program before the
+December presidential elections. Banks would like an IMF program in
+place as a precondition to the renegotiation of the estimated $34 billion
+of foreign debt. Over 45 percent of this debt, $16.3 billion, is due
+
+IV-26
+this year and next. Venezuelan authorities are particularly reluctant to
+accept a liberalization of price controls and a unification of the
+exchange rate system as part of an IMF-approved program. The floating
+exchange rate has depreciated sharply, moving from 11.2 bolivars per
+dollar on July 1 to 16.8 bolivars per dollar on August 10, as the central
+bank stopped selling into this market. The exchange rate was equal to
+4.3 bolivars per dollar before the imposition of exchange controls in
+February. Effective August 1, oil prices for Venezuelan heavy crudes
+were increased by an average of $1.25 per barrel. With 0.436 mbd of
+exports of heavy crude, the price increase should produce $200 million of
+additional foreign exchange earnings over a full year.
+On July 27 the IMF Executive Board approved Chile's request for a
+waiver and a modification of performance criteria under its IMF program.
+This approval allowed Chile to draw about $110 million from the IMF on
+August 15. On July 28, Chile and its creditor banks began the process of
+signing an agreement which will provide Chile with $1.3 billion of new
+money; the signing was expected to take at least two weeks. The loan is
+for seven years with a four-year grace period. Disbursements of the
+later tranches of the loan are dependent on satisfactory progress by
+Chile under its modified IMF program. The restructuring of 1983 and 1984
+payments to banks totaling $3.4 billion is also in the signing process.
+The short-term trade facility negotiated with banks has commitments of
+$1.7 billion, $500 million above the original target. Chile is
+continuing its program, begun last June, of a gradual relaxation of
+earlier economic austerity measures. However, unemployment is still near
+20 percent, fueling violent protests against the current government.
+
+IV-27
+Late in July, the IMF approved a 12 month $165 million stand-by
+agreement for Ecuador which had earlier been agreed upon, pending an
+agreement with banks for new money. Ecuador's bank steering committee
+had raised over $410 million of the $431 million required for the IMF
+program. A large share of the remaining amount is accounted for by some
+U.S. regional banks which are unwilling to increase their exposure in
+Ecuador. Ecuador's total foreign debt is $6.6 billion, of which $2.6
+billion will be rescheduled by commercial banks over seven years with a
+two year grace period. At a Paris Club meeting on July 27-28, Ecuador's
+official creditors agreed to reschedule 85 percent of principal and
+interest falling due between November 1, 1982 and December 31, 1983.
+Debt relief from this exercise is estimated at about $200 million over
+the two years.
+Preliminary data indicate that the Philippines' trade and current
+account deficits were slightly larger in the first half of this year--
+both at about $1-1/2 billion-than in the same period a year earlier.
+Exports fell more (8-1/2 percent) than imports (2-1/2 percent). Part of
+this larger deficit on trade account was offset by a 28 percent rise in
+remittances from overseas Filipino workers and a 7 percent decline in
+interest payments on foreign loans as a result of the decline in interest
+rates abroad. Official international reserves declined 10 percent during
+the first half of this year to $2.3 billion. Medium- and long-term
+external debt outstanding increased about 4 percent in the first half of
+the year to $13.4 billion.

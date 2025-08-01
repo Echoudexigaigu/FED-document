@@ -1,0 +1,4320 @@
+ 
+Prefatory Note  
+ 
+ 
+The attached document represents the most complete and accurate version 
+available based on original copies culled from  the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserv e System.  This electronic document was 
+created through a comprehensiv e digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain.  
+Please note that this document may contain occasional gaps in the text.  These 
+gaps are the result of a re daction process that removed information obtained on a 
+confidential basis.  All redact ed passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+ 
+                                                
+ 
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and we re not checked or corrected by staff. 
+Confidential (FR) Class III FOMC
+September 26, 1990
+RECENT DEVELOPMENTS
+Prepared for the Federal Open Market Committee
+By the staff of the Board of Governors of the Federal Reserve System
+
+TABLE OF CONTENTS
+Section Page
+DOMESTIC NONFINANCIAL DEVELOPMENTS II
+Energy prices..... ........................... ...................... 1
+Prices excluding energy........................................... 3
+Employment and unemployment........................................ 9
+Issues related to the growth of potential GNP.................... 14
+Wages and collective bargaining.................................... 16
+Industrial production.. .......................................... .19
+Personal consumption expenditures ................................. 23
+Autos and light trucks ................................ ............ 25
+Business fixed investment ......................................... 27
+Business inventories............................................. .33
+Housing markets........................................... .... .... 35
+Federal government sector ......................................... 39
+State and local government sector.................................... 41
+Indicators of the probability of recession....................... 43
+Tables
+Monthly average prices, West Texas intermediate................... 2
+Recent changes in consumer prices.................................... 6
+Recent changes in producer prices ................................. 6
+Changes in employment................ .............................. 8
+Other labor market indicators....................................... 8
+Benchmark revisions to payroll employment......................... 13
+Average hourly earnings............................................ 17
+Growth in selected components of industrial production............ 18
+Percent change in orders for manufactured goods................... 18
+Capacity utilization in industry................................. . 20
+Personal income........... ......... ....................... .......... 24
+Real personal consumption expenditures............................. 24
+Sales of automobiles and light trucks............................. 25
+Business capital spending indicators............................... 26
+Changes in manufacturing and trade inventories.................... 32
+Inventories relative to sales..................................... 32
+Commerce surveys of plant and equipment expenditures............... 33
+Private housing activity .......................................... 36
+Federal government outlays and receipts.......................... 38
+DoD estimates of Operation Desert Shield.......................... 38
+Charts
+Daily spot and posted prices of West Texas intermediate............ 2
+Commodity price measures........................................ .. 4
+Consumer prices................................................... .5
+Other labor market indicators....................................... 10
+Unemployment insurance ............................................. 10
+Changes in payroll employment....... . ................................ 12
+Revisions to payroll employment.................................. 13
+Consumer attitudes................................ ............... .22
+Recent data on orders and shipments................................... 28
+Nonresidential construction and selected indicators................ 30
+Ratio of inventories to sales.................................. .34
+Private housing starts............................................ 36
+Revenue from increases in state taxes
+as a percent of total revenue.................................. 42
+
+ii
+DOMESTIC FINANCIAL DEVELOPMENTS III
+Monetary aggregates and bank credit................................ .. 3
+Bank financing ................................. ................. 7
+Business finance ................. ................. ................ 11
+Treasury and sponsored-agency financing............................ 13
+Municipal securities................................ ... ......... 15
+Mortgage markets................... ....... ......................... 17
+Consumer installment credit...................................... .19
+Tables
+Monetary aggregates........................... ..................... 2
+Commercial bank credit and short- and intermediate-term
+business credit ..................... ........................... 4
+Yield spreads for selected companies.............................. 8
+Gross offerings of securities by U.S. corporations................ 10
+Treasury and agency financing...................................... 12
+Gross offerings of municipal securities........................... 15
+Mortgage-backed security issuance ................................. 18
+Consumer credit ................................................... 20
+Consumer interest rates........ ................................. .20
+Charts
+Yield spreads on subordinated bank debt........................... 8
+ARM share vs. FRM-ARM initial rate spread......................... 18
+Household leverage measures.................... ................. .21
+Loan loss (charge-offs) and delinquency rates at large banks...... 22
+INTERNATIONAL DEVELOPMENTS IV
+U.S. merchandise trade............................................. 1
+World oil prices since the Iraqi invasion......................... 4
+Prices of exports and non-oil imports............................. 6
+U.S. current account in 1990-Q2 .................................... 6
+U.S. international financial transactions......................... 7
+Foreign exchange markets .............................. .......... .12
+Developments in foreign industrial countries....................... 15
+Developments in East European economies........................... 25
+Economic situation in major developing countries.................. 26
+Tables
+U.S. merchandise trade: Monthly data............................. 1
+U.S. merchandise trade: Quarterly data............................ 2
+Major trade categories............................................ 3
+Oil imports................................. ................... .... 4
+Import and export price measures.................................. 5
+U.S. current account.......................................................... 7
+Summary of U.S. international transactions........................ 9
+International banking data..................................... ... 11
+Selected stock indexes............................................. 13
+Major industrial countries
+Real GNP and industrial production............................... 17
+Consumer and wholesale prices ................................... 18
+Trade and current account balances............................... 19
+Charts
+Weighted average exchange value of the dollar...................... 13
+
+DOMESTIC NONFINANCIAL
+DEVELOPMENTS
+
+DOMESTIC NONFINANCIAL DEVELOPMENTS
+Incoming data on spending and labor demand have had a predominantly
+negative cast in recent weeks, but they have yet to show the degree of
+weakness suggested by survey results and much of the anecdotal information
+since the Iraqi invasion of Kuwait. On the inflation front, the August
+price reports were dominated, as expected, by the surge in prices of
+petroleum products, but the upward trend in prices of items other than food
+and energy also appears to have steepened somewhat in recent months.
+Energy Prices
+After easing a bit in the second half of August, the spot prices of
+crude oil surged higher again in September, moving above the peaks reached
+shortly after Iraq's invasion of Kuwait. The spot price of West Texas
+Intermediate, as of September 25, was about $37.50 per barrel; this price is
+more than $10 per barrel above the average for August and is more than
+double the level of June, when spot prices were at their most recent low.
+With only short lags, other oil prices (such as refiners' posted prices)
+have followed spot prices upward.
+The passthrough of rising oil costs was quickly reflected in the prices
+of petroleum products in August, at all stages of processing. The PPI index
+for finished energy was up 9-1/2 percent in that month, while the CPI for
+energy rose 4-1/4 percent. Increases in gasoline and fuel oil prices were
+huge in both measures; spillover to the service fuels (natural gas and
+electricity) was not apparent, however.
+1. In the PPI, natural gas prices are lagged one month; thus, the
+9 percent drop reported for August reflects the prices of July. In the CPI,
+the prices for natural gas and electricity were unchanged in August.
+II-1
+
+II-2
+DAILY SPOT AND POSTED PRICES OF WEST TEXAS INTERMEDIATE
+Dollar per barrel
+* Spot
+- I '
+S , I -
+-, I
+AugustDolar per barrel
+S42
+,. 38
+/ 34
+30
+Posted 26
+22 ;
+18 a
+September '
+Oct Nov Dec Jan Feb Mar Apr May June July Aug Sep Oct
+* Posted prices are evaluated as the mean of the range listed in the Wall Street Journal.
+Dotted line on small panel indicates week of last Greenbook.
+MONTHLY AVERAGE PRICES-WEST TEXAS INTERMEDIATE
+Month Posted Spot
+October 19.25 20.09
+November 19.07 19.82
+December 19.32 21.09
+January 21.21 22.64
+February 21.27 22.12
+March 20.08 20.42
+April 17.77 18.58
+May 17.55 18 24
+June 16.15 16.87
+July 17.23 18.64
+August 24.99 27.17
+September' 30.16 32.65
+* Price through September 25, 1990.Spot
+I '
+I'
+'I
+rII 1'
+'½
+
+II-3
+With the additional rise in oil prices in recent weeks, further large
+advances at retail are virtually certain, probably stretching at least into
+October. The surge in spot prices for oil since June translates into a rise
+of more than 50 cents per gallon, less than one-fourth of which was
+reflected in the August CPI. It is not clear at this point, however, that
+all of the rise in crude oil prices will actually be passed on. The stocks
+of gasoline, which had been relatively low over the summer, have risen in
+the last three weeks into a range fairly typical for this time of year. If
+stocks are maintained, or boosted further, there might well be some downward
+pressures on margins, which have been very large since late spring when the
+tightness of gasoline stocks was first emerging. Even with relatively
+optimistic assumptions about margins, however, some further big price
+increases for refined products seem likely at retail in the next month or
+so.
+Prices Excluding Energy
+Even apart from energy, the recent price reports depict a worsening
+inflation trend. The CPI excluding food and energy was up an additional
+0.5 percent in August to a level about 5-1/2 percent above a year earlier.
+Prices of nonenergy services rose sharply in both July and August, boosted
+by hikes for lodging out of town and further large increases for owners'
+equivalent rent and medical care. By contrast, the prices of commodities
+less food and energy flattened out in August, after a moderate increase in
+July. Prices of most key items within this category, notably apparel and
+motor vehicles, were little changed in August. On a year-to-year basis, the
+CPI for nonenergy services moved up to 6-1/2 percent in August, while the
+
+II-4
+COMMODITY PRICE MEASURES *
+Journal of Commerce Index, total
+--Journal of Commerce Index, metals
+Ratio scale, index
+(1980=100)
+1990
+CRB Spot Industrials
+Ratio scale, index
+(1967=100) 340
+Sep 24 -- 320
+S300
+-280
+260
+-240
+220
+I, , I * I , I , , II , J, I-t 200
+1983 1984 1985 1986 1987 1988 1989 1990 1991
+CRB Futures
+Ratio scale, index
+(1967=100) 320
+310
+2 290
+Sep 25
+, , ,. I 1 , 1 , , , t , , , I , , 1 , , t , , , I , ,, * , ,
+1989 1990 1991CRB Industrials
+"'-16-
+CRB Futures-242
+241
+-237
+i i i r_ r e 233270
+250
+230
+210
+190
+Dotted lines indicate week of
+last Greenbook.1983 1984 1985 1986 1987 1988
+*Weekly data, Tuesdays; Journal of Commerce data monthly before 1985LLI ·L~· L~
+
+II-5
+index for commodities was 3-3/4 percent above a year earlier--both
+substantially above the increases posted in 1989.
+CONSUMER PRICES
+Percent change from 12 months earlier Percent change from 12 months earlier
+All Items All items less food and energy
+Aug.-- 6 - 6
+4 -4
+-- 2 2
+1 0 I I I I I I I I
+1984 1986 1988 1990 1984 1986 1988 1990
+In August, there was only a small spillover of higher crude oil costs
+into the prices of a broader range of goods and services. However, a more
+substantial spillover may start to show up in September. Airfares, for
+example, were raised at the end of August, and further increases have been
+announced to take effect at the beginning of October. The two rounds likely
+will boost airfares more than 10 percent, although slack demand may dictate
+various forms of discounting from these fares. For commodities, the
+spillover of higher oil prices was not yet visible at either the consumer or
+producer levels in August, the latter of which reflects only mid-month
+prices. However, announcements of price increases have been showing up in
+recent weeks for petroleum-based materials such as petrochemicals. Previous
+
+II-6
+RECENT CHANGES IN CONSUMER PRICES
+(Percentage change; based on seasonally adjusted data) 1
+Relative
+importance 1989 1990 1990
+Dec. 1989 1988 1989 Q4 Q1 Q2 July Aug.
+----Annual rate---- -Monthly rate-
+All items2  100.0 4.4 4.6 4.9 8.5 3.5 .4 .8
+Food 16.3 5.2 5.6 5.5 11.4 2.1 .4 .3
+Energy 7.4 .5 5.1 3.9 14.8 -2.0 -.7 4.3
+All items less food
+and energy 76.3 4.7 4.4 4.7 7.5 3.9 .6 .5
+Commodities 25.2 4.0 2.7 3.4 7.8 .7 .3 .0
+Services 51.1 5.0 5.3 5.7 7.2 5.5 .7 .8
+Memorandum:
+CPI-W3  100.0 4.4 4.5 4.6 8.3 3.2 .3 .8
+1. Changes are from final month of preceding period to final month of period indicated.
+2. Official index for all urban consumers.
+3. Index for urban wage earners and clerical workers.
+RECENT CHANGES IN PRODUCER PRICES
+(Percentage change; based on seasonally adjusted data) 1
+Relative
+importance 1989 1990 1990
+Dec. 1989 1988 1989 Q4 Q1 Q2 July Aug.
+----Annual rate---- -Monthly rate-
+Finished goods 100.0 4.0 4.9 5.0 7.1 .3 -.1 1.3
+Consumer foods 25.9 5.7 5.2 12.4 10.6 -2.9 .0 .8
+Consumer energy 9.2 -3.6 9.5 -5.3 24.7 -14.3 -.5 9.5
+Other finished goods 64.9 4.3 4.2 3.6 3.6 3.9 -.1 .3
+Consumer goods 39.5 4.8 4.4 4.2 3.5 5.1 -.2 .2
+Capital equipment 25.4 3.6 3.8 2.0 4.0 1.7 .3 .3
+Intermediate materials 2  94.9 5.3 2.5 -.4 2.5 -1.1 -.1 1.5
+Excluding food and energy 82.5 7.2 .9 -1.0 1.0 .7 .1 .3
+Crude food materials 41.9 14.2 2.8 19.2 9.1 -11.5 1.0 -.9
+Crude energy 40.5 -9.5 17.9 13.2 .5 -38.9 -.1 25.5
+Other crude materials 17.5 7.5 -3.6 -15.3 4.0 10.9 .9 1.8
+1. Changes are from final month of preceding period to final month of period indicated.
+2. Excludes materials for food manufacturing and animal feeds.
+
+II-7
+oil-price shocks triggered widespread increases in prices of goods and
+services at all levels, typically led in timing and magnitude by the
+petroleum derivatives.
+With such spillover effects still largely absent in August, the
+increase in producer prices of finished goods excluding food and energy was
+0.3 percent, similar to the average monthly pace earlier this year; year-
+over-year increases in this measure have been somewhat below those in 1989.
+The PPI for intermediate materials (less food and energy) also was up
+0.3 percent in August--more than in recent months--owing mainly to a marked
+firming in prices of nonferrous metals. Prices of crude nonfood materials
+less food and energy were up 1.8 percent, boosted by large increases for
+metal scrap and ore, and were about 2-1/2 percent above their level of a
+year earlier.
+After surging 0.8 percent in June, consumer food prices rose
+0.4 percent in July and 0.3 percent in August. Despite the slowing in these
+months, the year-to-year trend in food prices remained above the 5 percent
+mark, where it has been lodged ever since the 1988 drought. During this
+two-year period, inflation pressures have been the most persistent for
+cereals, meats, and dairy products. With grain prices down sharply in
+recent months, one source of pressure on the prices of these foods has
+eased. Nevertheless, the anticipated slowing of prices at retail could be
+delayed if rising energy costs are passed on readily to consumers or if,
+facing a potentially soft economy, livestock producers were to be more
+cautious in expanding supplies than would seem to be warranted by the drop
+in feed costs.
+
+II-8
+CHANGES IN EMPLOYMENT 1
+(Thousands of employees; based on seasonally adjusted data)
+1989 1990 1990
+1988 1989 Q4 Q1 Q2 June July Aug.
+--------------- Average Monthly Changes---------------
+Nonfarm payroll employment 272 193 172 246 236 212 -89 -75
+Excluding census workers 207 153 201 84 45
+Private 242 162 157 169 106 162 9 -12
+Manufacturing 20 -16 -29 -22 -23 -19 -22 -45
+Durable 16 -16 -24 -12 -20 -16 -26 -49
+Nondurable 4 -0 -4 -11 -3 -3 4 4
+Construction 8 5 -3 32 -14 -16 -39 -40
+Trade 66 47 39 24 27 41 19 -10
+Finance, insurance, real estate 5 9 11 12 8 6 -1 9
+Services 134 100 96 109 92 131 59 72
+Total government 30 30 15 77 129 50 -98 -63
+Private nonfarm production workers 197 134 123 143 94 176 -40 -78
+Manufacturing production workers 14 -17 -27 -21 -18 -16 -1 -43
+Total nonagricultural employment 193 145 164 147 -31 -4 -174 -346
+1. Average change from final month of preceding period to final month of period indicated.
+2. Survey of establishments.
+3. Survey of households.
+OTHER LABOR MARKET INDICATORS
+1989 1990 1990
+1988 1989 Q4 Q1 Q2 June July Aug.
+Civilian unemployment rate
+16 years and older 5.5 5.3 5.3 5.2 5.3 5.2 5.5 5.6
+Teenagers 15.3 15.0 15.2 14.5 14.8 14.1 16.3 16.7
+20-24 years old 8.7 8.6 8.9 8.4 8.7 8.2 8.3 8.8
+Men, 25 years and older 4.2 3.9 4.0 4.1 4.1 4.1 4.4 4.6
+Women, 25 years and older 4.3 4.2 4.3 4.2 4.1 4.1 4.2 4.3
+Labor force participation rate 65.9 66.5 66.5 66.5 66.5 66.4 66.3 66.2
+Teenagers 55.3 55.9 56.3 55.6 54.3 52.9 52.4 50.9
+Women, 20-24 years old 72.5 72.4 71.1 71.6 71.8 71.1 71.1 72.0
+Memo:
+Total national unemployment rate' 5.4 5.2 5.3 5.2 5.2 5.1 5.4 5.5
+1. Includes resident armed forces as employed.
+
+II-9
+Since mid-August, the Journal of Commerce index of industrial prices
+has moved up about 3 percent, largely reflecting the "miscellaneous"
+component, which includes crude oil (with a weight of about 7 percent in the
+index total). The commodity price indexes produced by the Commodity
+Research Bureau have exhibited a generally sideways trend since the last
+Greenbook.
+Employment and Unemployment
+Data for August and early September indicated a further weakening in
+the labor market. The unemployment rate rose an additional 0.1 percentage
+point to 5.6 percent, and private payroll employment declined 12,000,
+offsetting July's meager advance. Labor input, as measured by aggregate
+hours of production or nonsupervisory workers, now is reported to have
+declined in both July and August, and for the two months together, average
+hours were unchanged from the second-quarter level. In the weeks since the
+August surveys, initial claims for unemployment insurance have increased
+further, moving into a range a little higher than was seen over the
+preceding few months.
+In the goods-producing sector, declines in payroll employment were
+widespread in August. Construction lost about 40,000 jobs for a second
+month. Manufacturing employment also fell further as producers of durable
+goods shed nearly 50,000 workers; about half of those losses came in
+electrical equipment and motor vehicles. In contrast, producers of
+nondurable goods posted a small increase, owing in part to gains in food ana
+petroleum processing. The manufacturing workforce has shrunk by more than
+450,000 jobs since employment cutbacks began early last year.
+
+II-10
+OTHER LABOR MARKET INDICATORS
+Monthly Data
+Job Losers 1 Percent
+Aug -3
+1986 1987 1988 1989 1990
+1. Job losers as a percentage of household employment.Aggregate Hours
+1986 1987 1988
+1. Dots denote quarterly averages.
+UNEMPLOYMENT INSURANCE
+Initial Claims (Weekly data; seasonally adjusted, FRB basis) Thous
+r-- (Weekly data; seasonally adjusted, FRB basis)'1989 191977n100
+S132
+-126
+ugust
+120
+114
+mi 108
+90
+sands
+S435
+400
+8
+388
+-365
+-330
+-295
+L-L.-- 260
+1986 1987 1988 1989 1990
+1. Only the state program components of these series are seasonally adjusted.
+
+II-11
+Employment gains in the service industry were relatively small in July
+and August--about 65,000 per month, on average. Much of the recent slowing
+has been in business services, which had been a strong performer early in
+the year but was flat in July and August. In contrast, health services
+continued to expand almost as rapidly as earlier this year. Over the past
+twelve months, health services have accounted for nearly 40 percent of the
+total gain in private payrolls.
+Details of the August household survey also gave fairly widespread
+indications of a weakening labor market. Total employment continued to
+contract, and the number of unemployed persons rose 189,000 in August. The
+labor force participation rate fell further to its lowest level since late
+1988, owing in part to a sharp decline in the participation of teenagers.
+In the past year, participation rates for teens have dropped off more than
+5 percentage points, possibly reflecting a growing perception that jobs are
+difficult to find. The participation rate of women aged 20 to 24 climbed
+higher in August, but still remained below its average level in 1989. 2
+For adult men and women (aged 25 and older), participation rates held steady
+or edged higher.
+The August report on payroll employment incorporated annual benchmark
+revisions derived from March 1989 unemployment insurance tax records and
+updated seasonal adjustment factors; these revisions affected data going
+back to 1985. As shown in the table, the effects of the benchmark were
+relatively small in the aggregate, as downward adjustments in construction,
+2. The participation rate of women aged 20 to 24 dipped sharply in
+December of 1989 to 70.3 percent from 72.0 percent in November. It averaged
+72.4 percent in 1989. Since that time, their participation rate has
+gradually returned to 72 percent, while the participation rate of men in the
+same age group has generally moved lower.
+
+II-12
+CHANGES IN PAYROLL EMPLOYMEN
+Quarterly Data, Average Monthly Changes
+ThousandsManufacturing
+1986 1987 1988 1989 1990
+Construction
+ThousandsServices
+-- 50
+I I I I J Aug
+1986 1987 1988 1989 1990-Total
+-- -Health
+-----
+I I 1
+1986 1987 1988 1989 1990Private
+Thousands
+Thousands
+JuAil-Aug /-ý,\
+
+II-13
+BENCHMARK REVISIONS TO PAYROLL EMPLOYMENT
+(Thousands of employees;
+seasonally adjusted)
+March 1989 employment estimates Net Percent
+Before revision After revision change change
+Payroll employment 107,888 107,811 -77 -.1
+Private 90,291 90,161 -130 -.1
+Manufacturing 19,680 19,503 -177 -.9
+Construction 5,252 5,137 -115 -2.2
+Trade 25,685 25,750 65 .3
+Services 26,520 26,790 270 1.0
+Finance, insurance,
+and real estate 6,774 6,686 -88 -1.3
+Government 17,597 17,650 53 .3
+Revisions to Payroll Employment
+----- Tot payro4 employment before revision
+-- --Total payroll empoyment, after revision
+1 s 99igMillions
+I 1 I I I I I I I I t I t I I I I I I I I I I I I
+19901988 1909
+
+II-14
+manufacturing, and finance, insurance, and real estate were partially offset
+by an upward revision in services. Overall, these revisions, which were
+based on unemployment insurance tax records for the first quarter of 1989,
+were substantially smaller than would have been expected based on more
+recent unemployment insurance tax data.
+The employment surveys in coming months will be affected to some degree
+by the call-up of the military reserves.3 Essentially no reservists had
+been activated at the time of the August survey, but by September 25, about
+25,000 had been called for active duty, and an additional 15,000 are
+expected to be called up in the next several weeks. For the most part,
+reservists will serve 90-day tours of duty, which could be extended another
+90 days. Employers are required by law to hold open a reservist's job until
+he or she returns from active duty. Although many employers will hire
+temporary workers to fill the gap, some temporary declines in payrolls may
+be evident. Industries expected to be hardest hit are airlines, protective
+services (including police, prison guards, and private security guards), and
+health care, where the nursing shortage already is a significant problem.
+Issues Related to the Growth of Potential GNP
+Over the past year, several developments have emerged that, taken
+together, suggest that the growth of potential GNP may not be as high as the
+staff--and others--had previously estimated. This issue is of central
+concern because the estimate of potential GNP growth--the rate at which the
+3. Reservists are excluded from the payroll survey of employment. The
+household survey of the civilian noninstitutional population also excludes
+reservists, although the "total labor force" and "total noninstitutional
+population" include figures obtained from the Department of Defense on
+members of the Armed Forces stationed in the United States.
+
+II-15
+economy can expand without generating systematic pressure on inflation--is a
+key element in tying down the staff's price and output projections.
+The developments that have called the earlier estimates of potential
+GNP into question are the following: (1) the persistence of the
+unemployment rate at a level of around 5-1/4 percent throughout 1989 and the
+early part of 1990, a period in which the actual growth of real GNP was, on
+average, well below the staff's estimate of potential GNP growth; (2) a
+flattening out of the labor force participation rate, which has held the
+growth of actual labor input below its estimated potential pace; and
+(3) disappointing productivity growth over the period, seemingly a departure
+from the gradually improving trend that had become evident earlier in the
+expansion.
+At mid-year, it still appeared possible that upcoming revisions in the
+data might allay these concerns, as had happened in similar circumstances in
+some previous years. However, the July revisions to real GNP were downward
+rather than upward and led the staff, in the August Greenbook, to
+tentatively lower its point estimate of potential GNP growth from
+2.7 percent to 2.5 percent. In terms of a "growth accounting" decomposition
+of potential GNP, we currently see the pieces adding up in the following
+way:
+Contribution to the growth
+of potential GNP
+(percentage points)
+Growth of the working-age population .8
+Trend growth in labor force participation .4
+Trend growth in the average workweek 0
+Trend growth of labor productivity 1.3
+Total 2.5
+
+II-16
+We still regard these estimates as being tentative. Although the
+August benchmark revisions to the payroll employment data did not lead to
+further adjustment of our numbers, some additional refinement is possible
+when the BLS's upcoming reestimates of total hours worked and labor
+productivity become available in early November. More fundamentally, our
+current models suggest that, with regard to labor productivity and the
+participation rate, temporary cyclical influences can account for much, but
+not all, of the differences between the trend estimates and the actual
+figures we have seen in recent quarters. If incoming data over the next few
+months continue to show unexpected shortfalls in labor force growth or
+productivity, then our current estimates of potential GNP growth may need to
+be revised still further. In view of the difficult conceptual and empirical
+issues that are involved, a range of uncertainty will continue to surround
+any particular point estimate, even in the best of circumstances.
+Wages and Collective Bargaining
+Little statistical information on labor costs has become available
+since the last Greenbook. Average hourly earnings rose 0.2 percent in
+August after a downward-revised increase of 0.4 percent in July. Over the
+twelve months ended in August, average hourly earnings rose 4.0 percent--
+about the same pace as recorded during the previous twelve months.
+On the collective bargaining front, the United Auto Workers (UAW) and
+General Motors announced a tentative agreement on September 17. The
+proposed three-year contract covers about 300,000 workers and calls for wage
+increases of 3 percent in the first year and lump sums of 3 percent in the
+second and third years--the same package as in the 1987 agreement. This
+
+II-17
+AVERAGE HOURLY EARNINGS
+(Percentage change; based on seasonally adjusted data)
+Memo:
+1990 1990 Aug. 1989 to
+1988 1989 Ql Q2 June July Aug. Aug. 1990
+Annual rate --Monthly rate--
+Total private nonfarm 3.6 4.0 3.3 4.7 .5 .4 .2 4.0
+Manufacturing 3.2 2.6 2.5 5.8 .5 .3 .3 3.6
+Contract construction 3.2 3.7 -1.8 2.2 .1 .2 .1 1.7
+Finance, insurance
+and real estate 5.0 4.7 2.6 5.7 1.1 1.0 -.5 4.9
+Total trade 4.2 3.9 3.9 4.2 .4 .4 .1 4.1
+Services 4.7 5.7 4.4 5.9 .5 .6 .0 4.9
+1. Changes over periods longer than one quarter are measured from final quarter of
+preceding year to final quarter of year indicated.
+pay package is a bit smaller than those in other major collective bargaining
+agreements reached so far this year, but the benefits package is
+substantially more generous than that seen in other contracts.
+Job security was the focus of the negotiations this year. The new
+agreement permits GM to shut more plants and does not require it to reemploy
+the 30,000 workers already on layoff. In return, the proposed contract
+guarantees the income of workers for a period of one to three years,
+depending upon seniority. As with the 1987 contract, this tentative
+agreement requires GM to hire one worker for every two who quit, retire, or
+die. But, to induce more workers to leave the company, monthly pensions
+were raised for those selecting early retirement, and restrictions on non-
+pension income were relaxed. Workers who leave under this early retirement
+program do not have to be replaced by GM under the one-for-two rule. For
+GM, where the average worker is 44 years old and only six years away from
+
+II-18
+GROWTH IN SELECTED COMPONENTS OF INDUSTRIAL PRODUCTION
+(Percent change from preceding comparable period)
+Proportion 1989 1990 1990
+in total IP -
+July-Aug.
+Ave.
+1989:Q4 H21  H11  Q2 over Q2 June July Aug.
+--------- Annual rate-------- ---Monthly rate----
+Total index 100.0 -0.5 2.4 4.1 1.9 0.5 0.0 -0.2
+Excluding motor vehicles
+and parts 95.7 0.1 2.2 2.2 2.0 0.4 0.2 -0.2
+Major market groups:
+Products, total 61.2 -0.1 2.9 4.3 0.7 0.4 -0.3 -0.0
+Final products 46.6 -0.4 3.2 5.6 0.5 0.4 -0.3 -0.2
+Consumer goods 25.9 1.7 -0.2 2.9 0.1 0.6 -0.5 0.1
+Autos and trucks 1.4 -16.1 11.1 93.0 -6.0 6.9 -7.2 -3.1
+Other consumer goods 24.5 2.8 -0.8 -0.6 0.5 0.2 -0.1 0.3
+Business equipment 15.2 -3.6 8.3 10.0 2.2 0.3 -0.1 -0.2
+Motor vehicles 1.1 -13.9 14.2 92.9 -2.4 6.2 -7.6 0.0
+Other business equipment 14.1 -2.8 7.9 5.4 2.6 -0.2 0.6 -0.2
+Computers 2.5 2.8 14.9 11.7 2.3 -0.5 0.8 0,4
+Aircraft 1.1 -18.5 49.7 16.5 10.6 1.2 1.6 -0.4
+Other 10.5 -2.1 2.3 2.6 1.6 -0.3 0.4 -0.3
+Construction supplies 6.0 1.4 -1.7 -6.8 -2.3 0.4 -0.6 -0.1
+Materials 38.8 -1.2 1.6 3.8 3.8 0.8 0.5 -0.4
+Durable 19.8 -2.3 3.1 7.5 5.5 1.0 0.2 0.0
+Metals 2.8 -4.5 2.4 8.8 11.7 3.8 0.4 0.3
+Nondurable 8.8 -0.9 1.4 1.5 3.3 0.9 0.8 -0.7
+Major industry groups:
+Manufacturing 84.9 -1.1 2.8 3.7 1.9 0.4 0.0 -0.1
+Excluding motor vehicles
+and aircraft 77.8 0.4 1.8 1.3 2.0 0.2 0.3 -0.1
+Motor vehicles and parts 4.3 -14.4 7.1 58.4 -0.1 3.8 -4.7 -0.7
+Mining 7.4 -0.8 3.9 5.3 -2.3 0.3 0.6 -2.3
+Utilities 7.8 8.2 -5.3 7.7 6.7 2.0 -0.4 1.2
+1. From the final quarter of the previous period to the final quarter of the period
+indicated.
+PERCENT CHANGE IN ORDERS FOR MANUFACTURED GOODS1
+(For industries that report unfilled orders; seasonally adjusted)
+1990 1990
+July-Aug.
+Ave.
+Q1 Q2 over Q2 June July Aug.
+Durable goods excluding civilian
+aircraft, defense, and motor
+vehicles and parts -0.2 1.2 0.7 -2.3 2.4 -1.4
+Nonelectrical machinery 2.1 -2.5 -0.0 -2.2 3.4 -6.2
+Nondurable goods 2.8 2.2 na -1.4 -0.9 na
+1. Percent change from prior comparable period.
+
+II-19
+early retirement, this exemption is significant; according to GM, quits and
+early retirements could cut the workforce by 80,000 by 1995. Little change
+was made in the health care package, which is among the most comprehensive
+in the country. Other details of the proposed pact include an enhanced
+profit sharing program, higher penalties paid into the company training fund
+for use of "excessive" overtime, and the same COLA protection as under the
+1987 agreement (the effective passthrough of prices into wages amounts
+to about 95 percent).
+Industrial Production
+Industrial production was flat in July and declined 0.2 percent in
+August. Nevertheless, because of strong gains in May and June, the average
+level of production in July and August was nearly 2 percent at an annual
+rate above the second-quarter average.
+Assemblies of autos and light trucks, which had risen sharply in the
+spring, turned down in July and were little changed in August. In both
+months, assemblies came in considerably below the schedules that automakers
+had announced at the beginning of the month. This shortfall resulted in
+part from a number of temporary plant closings to control inventories. In
+addition, a strike at a GM parts supplier cut into the output of trucks.
+Outside of the motor vehicles sector, the recent trends have been mixed.
+Production of consumer goods excluding motor vehicles has firmed a bit in
+recent months after falling earlier this year. However, output of capital
+goods excluding motor vehicles has softened in recent months after a strong
+first-half gain of 8 percent at an annual rate, which was boosted, in part,
+by a rebound from the strike at Boeing. Production of construction supplies
+
+II-20
+CAPACITY UTILIZATION IN INDUSTRY
+(Percent of capacity; seasonally adjusted)
+1967-89 1978-79 1988-89 1989 1990
+Avg. High High Aug. June July Aug.
+Total industry
+Manufacturing
+Primary processing
+Textile mill products
+Lumber and products
+Pulp and paper
+Chemicals and products
+Petroleum products
+Stone, clay and glass
+Primary metals
+Iron and steel
+Nonferrous metals
+Fabricated metal products
+Advanced processing
+Furniture and fixtures
+Nonelectrical machinery
+Electrical machinery
+Motor vehicles and parts
+Aerospace and miscellaneous
+transport equipment
+Instruments
+Mining
+Coal mining
+Utilities
+Electric utilities82.2 87.3 85.0 84.0 83.6 83.5 83.1
+81.5 87.3 85.1 83.8 82.9 82.7 82.4
+82.3
+86.0
+82.7
+92.2
+79.8
+85.1
+78.3
+79.8
+79.4
+80.8
+77.7
+81.1
+82.7
+81.3
+80.4
+76.789.7
+90.5
+87.6
+98.2
+85.1
+89.5
+87.0
+102.4
+110.4
+90.5
+83.9
+86.3
+86.6
+92.1
+89.4
+93.089.0
+91.2
+91.2
+97.7
+86.8
+90.3
+86.4
+91.6
+92.0
+95.0
+85.1
+83.6
+88.3
+83.5
+83.1
+85.586.9
+88.3
+84.3
+92.0
+83.8
+88.6
+84.1
+88.4
+83.9
+95.0
+82.4
+82.4
+85.0
+81.9
+82.1
+77.885.5
+88.7
+81.7
+90.7
+81.3
+87.6
+81.8
+86.1
+83.7
+89.8
+81.5
+81-9
+86.6
+82.3
+81.0
+80.785.8
+88.8
+81.1
+95.5
+80.7
+90.0
+81.2
+85.9
+83.1
+90.2
+82.0
+81.5
+86.4
+82.5
+80.1
+76.885.5
+88.0
+81.1
+91.3
+80.5
+89.5
+80.9
+86.8
+85.2
+89.2
+81.7
+81.1
+86.2
+81.7
+79.8
+76.0
+75.3 80.5 86.2 85.5 84.3 85.0 84.5
+83.1 92.5 83.9 81.8 77.6 77.8 77.3
+87.3 95.2 87.2 86.4 89.1 89.7 87.8
+87.3 95.6 94.4 85.3 92.7 96.7 89-1
+86.8 88.3 92.3 84.7 86.3 85.9 86.9
+89.0 88.3 96.2 89.7 92.4 91.9 93.1
+
+II-21
+declined further in July and August, reflecting weakness in building
+activity.
+The September index levels will be pushed up by a rebound in auto
+production. Automakers' current plans for September call for a
+1-1/4 million unit increase in auto assemblies to a 7-3/4 million unit
+annual rate and a 300,000 unit rise in truck assemblies to a 4-1/4 million
+unit rate (based on FRB seasonal factors); physical product data for the
+first three weeks of September indicate that actual assemblies are about on
+schedule. At this pace, these increases would boost the total industrial
+production index a bit less than 1/2 percentage point in September. In
+addition, data on electricity generation showed a substantial increase
+through mid-month, and unless generation plunges in the second half of the
+month, this will provide a further lift to September IP. Even allowing for
+possible weakness in other components, total IP seems likely to register a
+noticeable increase for the month.
+Capacity utilization in total industry has edged down in recent months,
+and the August operating rate of 83.1 percent, while still 1 percentage
+point above its longer-run average, was nearly a point below the level of a
+year earlier. A notable exception to the general pattern is petroleum
+refining, where the August operating rate was up a little from a year
+earlier and about 4-1/2 percentage points above its historical average.
+Utilization also has held up in primary metals, where production has been
+maintained this year, in part, by increased demand from the motor vehicle
+industry; U.S. producers have benefited, too, from a recent strike that has
+idled two major Canadian steelmakers.
+
+II-22
+CONSUMER ATTITUDES
+Index
+S 160
+Michigan Survey Research Center Index of Consumer Confidence
+------ Conference Board Consumer Confidence Index 140
+S II t I, i I
+I 1 4 ! I € I. I I i ( i
+-- : --- :*: 41-:-;-;-:-:4i SI I I 1 I I
+11 /pA i -r-^ 120 JL..- .......... ~ .... .. .
+:.:- -:::::::- :  August ( 'I ' l -' :::
+:::::1; ::, C l i::Ji
+2-:~:::::-:-::: .. 0-.-- :- :-:. : : -:
+-.-:-:-:: ::*:::-::*:: i-:-:i r--:-:-:-:-::+ -
+-:-:-I 1:--:-:-:-:- :-:i 4-:-:-:-:-:-:- -20
+1990 1970 1975 1980 1985
+
+II-23
+Personal Consumption Expenditures
+Since the runup in energy prices, households perceive the state of the
+economy to have deteriorated. The Michigan and Conference Board measures of
+consumer sentiment dropped sharply in August, with both indexes reaching
+their lowest readings since 1983. More negative responses were registered
+to all of the major questions in the indexes, as consumers apparently.
+associated the events in the Middle East with a less robust view of current
+and expected conditions for both their personal financial situations and
+aggregate economic activity. In a preliminary, confidential reading based
+on an incomplete sample, the Michigan sentiment index edged off 2 more index
+points in September.
+This deterioration in surveyed consumer sentiment apparently has not
+translated into a marked retrenchment in spending. In constant-dollar
+terms, real PCE edged down 0.1 percent in August. Averaging spending in
+July and August, the level of total real PCE was more than 3 percent at an
+annual rate above its second-quarter level. Spending on motor vehicles and
+parts fell 3-1/2 percent last month, roughly in line with unit sales
+figures. However, real gasoline purchases rose moderately, and outlays for
+other consumer goods also posted moderate increases, on balance. Spending
+on services rose 0.1 percent in August, a pace well below the average
+increases registered over the past several months.
+Real disposable income fell 0.3 percent last month, leaving the July-
+August average fractionally above the second-quarter level. The weakness in
+real personal income in August reflected a flattening of wage and salary
+income and a deterioration in purchasing power associated with the increases
+in consumer prices. Pressure on the real incomes of households is, of
+
+II-24
+PERSONAL INCOME
+(Average monthly change at an annual rate; billions of dollars)
+1990 1990
+1989 Q1 Q2 June July Aug.
+Total personal income 24.5 32.7 15.3 19.3 24.0 13.0
+Wages and salaries 9.7 15.4 14.0 15.6 16.2 .7
+Private 7.2 11.8 11.0 12.9 15.5 -1.0
+Other labor income 1.2 1.7 1.2 1.2 1.2 1.2
+Proprietors' income 2.4 10.0 -5.7 -5.2 2.1 1.0
+Farm 1.1 6.4 -6.5 -5.7 -.1 -.5
+Rent -1.3 1.4 .2 .7 1.2 3.3
+Dividend .9 .8 .7 .4 .9 .7
+Interest 7.1 1.0 3.4 3.6 3.0 2.5
+Transfer payments 5.0 8.3 2.7 6.1 .6 3.5
+Less: Personal contributions
+for social insurance 1.4 2.5 1.1 3.2 1.0 .1
+Less: Personal tax and nontax
+payments 5.1 2.0 6.4 .0 6.2 3.2
+Equals: Disposable personal income 19.4 30.7 8.9 19.3 17.8 9.9
+Memo: Real disposable income 5.0 5.0 -.5 6.7 5.7 -9.9
+REAL PERSONAL CONSUMPTION EXPENDITURES
+(Percent change from the preceding period)
+1989 1990
+1989 Q4 Q1 Q21990
+June July Aug.
+Personal consumption
+expenditures
+Durable goods
+Excluding motor vehicles
+Nondurable goods
+Excluding gasoline
+Services
+Excluding energy1.2
+-1.4
+2.3
+.6
+.8
+2.4
+2.2---Annual rate---
+-.8 1.1 .2
+-13.0 14.5 -9.5
+3.2 7.8 -7.2
+-.2 -3.2 -1.9
+-1.1 -3.0 -1.0
+3.1 .1 5.1
+2.1 3.4 3.9---Monthly rate---
+1.0 .3 -.1
+2.0 .8 -1.2
+.5 .6 .6
+.6 .1 .0
+.7 -.1 -.0
+.9 .3 .1
+.7 .5 -.0
+Memo:
+Personal saving rate
+(percent) 4.6 4.9 5.0 4.6 4.5 4.3
+
+II-25
+course, a primary channel through which the effects of rising oil prices are
+expected to exert their adverse influence on real activity. In this regard,
+given that direct energy outlays currently account for about 5-1/2 percent
+of total nominal consumption expenditures (down from 9-1/4 percent in 1980),
+each 10 percent increase in consumer energy prices cuts about 1/2 percent
+out of household purchasing power; the loss is greater still when account is
+taken of potential indirect price and output effects.
+Autos and Light Trucks
+The demand for motor vehicles appears to have held up quite well on
+balance since the jump in oil prices. Total sales of autos and light
+trucks (both domestic and imported), at an annual rate of 13.8 million units
+in August, were down only moderately from the pace of 14.4 million units in
+SALES OF AUTOMOBILES AND LIGHT TRUCKS 1
+(Millions of units at an annual rate, BEA seasonals)
+1990
+1988 1989
+Autos and light trucks 15.4 14.5 1
+Autos 10.6 9.9
+Light trucks 4.8 4.6
+Domestic total 3  11.7 11.2 1
+Autos 7.5 7.1
+Light trucks 4.2 4.1
+Import total 3.7 3.3
+Autos 3.1 2.8
+Light trucks .6 .5
+Note: Data on sales of trucks and imp
+are preliminary and subject to revision.Q1
+4.4
+9.8
+4.6
+1.2
+7.0
+4.1
+3.2
+2.8
+.5Q2
+14.0
+9.5
+4.5
+10.8
+6.8
+4.0
+3.2
+2.7
+.5
+orted autosJuly
+14.3
+9.7
+A "7
+11.4
+7.1
+4.3
+2.9
+2.6
+.4
+for the1990
+Sept
+Aug. 1-20
+13.8 --
+9.4
+4.4 --
+10.9 11.5
+6.9 7.5
+4.0 4.0
+2.9 --
+2.5
+.4
+current month
+1. Components may not add to totals due to rounding.
+2. Seasonally adjusted by FRB staff.
+3. Includes vehicles produced in Canada and Mexico and vehicles made
+in U.S. plants of foreign manufacturers.July
+14.3
+9.7
+AT
+
+II-26
+BUSINESS CAPITAL SPENDING INDICATORS
+(Percentage change from preceding comparable periods;
+based on seasonally adjusted data)
+1989 1990 1990
+Q4 Q1 Q2 June July Aug.
+Producers' durable equipment
+Shipments of nondefense capital goods -2.7 4.8 -.9 3.8 -4.1 4.1
+Excluding aircraft and parts -.4 2.8 -1.5 1.4 -4.4 3.3
+Office and computing -2.1 4.0 -1.0 5.1 -7.9 2.7
+All other categories .1 2.5 -1.6 .6 -3.5 3.4
+Weighted PDE shipments 1  .8 2.4 -1.4 .7 -2.3 2.1
+Shipments of complete aircraft2  -49.2 124.8 -14.3 35.3 -10.1 n.a.
+Sales of heavy-weight trucks -5.9 -.1 -5.9 1.6 10.5 -8.1
+Orders of nondefense capital goods 4.7 -3.3 -5.8 ,7 10.1 -11.2
+Excluding aircraft and parts 2.2 .5 -1.4 -1.1 2.8 -4.4
+Office and computing -2.5 1.8 -1.2 -3,1 10.7 -16.9
+All other categories 3.4 .3 -1.5 -.7 .9 -1.2
+Weighted PDE ordersi  2.6 .1 -.7 -1,0 1.6 -2.9
+Nonresidential structures
+Construction put-in-place -.1 1.0 -.1 1,3 2.0 n.a.
+Office -3.1 -4.0 -3.8 7.8 .7 n.a.
+Other commercial 2.9 -1.5 -3.7 -.4 -.2 n.a.
+Public utilities 2.4 2.2 1.0 -.8 -.5 n.a.
+Industrial -1.2 8.2 1.3 -2.6 9.4 n.a.
+All other -2.4 2.5 5.0 2.8 2.9 n.a.
+Rotary drilling rigs in use -2.7 2.3 21.6 3.1 -4.3 -8.5
+Footage drilled3  10.4 .2 -4.3 6.1 .1 n.a.
+1. Computed as the weighted sum of 25 individual equipment series
+(excluding aircraft) from the Census M-3 report with weights equal to
+the fraction of final business spending for each type of equipment.
+2. From the Current Industrial Report (CIR) titled Civil Aircraft
+and Aircraft Engines. Seasonally adjusted with BEA seasonal factors.
+To estimate PDE spending for aircraft, BEA uses the aircraft shipments
+shown in that report, not the corresponding Census M-3 series. The CIR
+does not provide information on aircraft orders.
+3. From Department of Energy. Not seasonally adjusted.
+n.a. Not available.
+
+II-27
+July and the second-quarter rate of 14 million units. In the first twenty
+days of September, sales of domestically produced units picked up from the
+August pace, to a higher rate than in any of the previous few months; the
+September numbers should be viewed with extra caution, however, in view of
+the problems of seasonal adjustment around the end of the model year. The
+inventories of cars at the end of August were near the normally desired
+level of 60 days' supply, but stocks of light trucks seemed to be on the
+high side of desired levels.
+Price increases announced by automakers on 1991 models have been
+relatively moderate. 4 However, these announced price increases come on
+the heels of price hikes that were implemented earlier in the summer by some
+car makers. Furthermore, because car inventories have been leaner than in
+many recent autumns, car manufacturers have not turned to the "fire sale"
+pricing strategies that were used in those years. The companies' strategies
+still are in flux, though. All automakers have announced incentives on some
+1991 model-year cars. Ford has scaled back its earlier price increases,
+while, in a change of marketing strategy, it trimmed some rebates that it
+announced earlier and simultaneously enhanced dealer incentives.
+Business Fixed Investment
+[Unpublished detail on orders and shipments is provided to the Federal
+Reserve on a confidential basis.]
+Qualitative reports, such as those in the Beige Book and those obtained
+through informal staff contacts with industry economists, indicate that the
+4. Average price hikes by car makers on 1991 models announced so far are:
+2.3 percent by GM, 3.2 percent by Ford, 0.9 percent by Chrysler, 1.8 percent
+by Nissan, and 2.3 percent by Toyota. Honda and Mazda are expected to
+announce their 1991 prices later this month.
+
+II-28
+RECENT DATA ON ORDERS AND SHIPMENTS
+Office and Computing Equipment
+Billions of dollars
+-- Orders
+----Shipments
+August
+1985 1986 1987
+Other Equipment (excluding aircraft and computers)
+Orders
+----Shipments1988 1989 1990
+Billions of dollars
+August
+/
+/
+/
+/r/
+1~~~
+/
+1987 1988 1985 1986 1989 1990
+
+II-29
+investment picture since the oil shock is clearly one of increased
+uncertainty and heightened caution. As yet, however, reports of marked
+cutbacks in spending plans are not widespread.
+The recent indicators of equipment spending still seem to show a
+relatively flat trend overall, with a wide range of positives and negatives
+across sectors. In August, shipments of nondefense capital goods excluding
+aircraft rose 3-1/4 percent, but this gain reversed only part of a large
+July decline; for the two months together, average shipments were
+1-3/4 percent below the second-quarter level. Within this category, nominal
+shipments of office and computing equipment in July and August were
+4 percent below the second-quarter average; thus, even with prices
+continuing on their downward trend this quarter, an increase in real
+computer outlays seems unlikely. By contrast, some strength has been
+evident in the spending indicators for aircraft and motor vehicles.
+Shipments of complete aircraft in July were 5 percent above the second-
+quarter average; moreover, because exports were down, a larger than usual
+fraction of these aircraft likely were shipped to domestic airlines.
+Average sales of heavy trucks in July and August were 9 percent above the
+second-quarter level.
+Looking ahead, new orders for nondefense capital goods other than
+5aircraft fell 4-1/2 percent in August. The average level of orders in
+July and August was little changed from that of the second quarter and
+suggests continued sluggishness in spending for these categories in coming
+months. Similarly, the recent run-up in gasoline and diesel prices, and the
+5. Computer orders were particularly weak in August, perhaps influenced in
+part by buyers delaying orders in anticipation of new IBM mainframe
+products.
+
+II-30
+NONRESIDENTIAL CONSTRUCTION AND SELECTED INDICATORS *
+(Index, Dec. 1982 = 100, ratio scale)
+Total Building
+175
+July
+Construction (C)" ' -,-'' -150
+------ Permits (P), Contracts (CN), or
+New commitments (NC) ,'125
+(CN) , 100
+(C) -75
+I Ii 1 I 1 50
+1980 1982 1984 1986 1988 1990
+Office Other Commercial
+S 160 - -290
+July
+-(c) 2/ -- 1-20 240
+July (C N) 90 0
+-' " ) ' '"'" -\ ~ 80 ,'
+(C -140/ (C)
+1 , 1I 1 1 1 1I [o90
+1984 1986 1988 1990 1984 1986 1988 1990
+Industrial Institutional
+-240 - -180
+-180  - (P) July -1SO
+(NC) ,-' July (P) Ju
+--120 120
+(C) (- C)90
+-60
+1 I I I- I 1 o60
+1984 1986 1988 1990 1984 1986 1988 1990
+*Six-month moving average for all series shown.
+
+II-31
+heightened uncertainty about their future course, augurs poorly for
+increased investment in motor vehicles. In contrast, the persistence of a
+large backlog of unfilled orders for aircraft should ensure increases in
+future production of planes, although these gains are likely to be limited
+by capacity constraints.
+Construction put in place increased in both June and July, if one
+takes the preliminary data for those months at face value. Virtually
+all other indicators--as well as the anecdotal evidence--suggest that the
+trend in nonresidential building is downward. The advance indicators of
+office and other commercial construction continue to look generally weak,
+reflecting both the persistence of high vacancy rates for commercial
+properties and the financial pressures that the slump in real estate has put
+on builders and lenders. In addition, the reduced pressures on industrial
+capacity since late 1988 have been accompanied by a downturn in the
+commitments for new factory construction. On a brighter note, the outlook
+for increases in drilling activity would seem to have improved of late,
+given the recent oil price developments; footage drilled in July, before the
+price surge, was about 4 percent above the second-quarter average.
+The latest Commerce Department survey of business plans for spending on
+plant and equipment indicates a 5.4 percent rise in nominal outlays this
+year. These plans, which were tallied in July and August, are nearly
+1-1/2 percentage points lower than those reported in the spring, with the
+6. The BEA calculates the advance estimate of the growth in drilling and
+mining from a weighted average of the change in total footage drilled and of
+the Baker-Hughes count of drilling rigs in use. For later estimates, the
+BEA couples the footage-drilled series with information on regional drilling
+activity. Regional differences can be important because the cost of
+drilling varies so widely; indeed, a foot drilled in, say, Alaska costs
+about 10 times as much as one drilled in Texas.
+
+II-32
+CHANGES IN MANUFACTURING AND TRADE INVENTORIES
+(Billions of dollars at annual rates;
+based on seasonally adjusted data)
+1989 1990 1990
+Q4 Q1 Q2 May June July
+Current-cost basis:
+Total 13.2 -7.0 11.2 52.2 -47.2 63.8
+Total excluding retail auto 27.7 9.1 9.8 43.2 -49.7 46.2
+Manufacturing .8 2.7 -4.2 1.0 -20.3 29.1
+Wholesale 14.9 2.2 7.6 27.6 -23.3 10.9
+Retail -2.5 -11.8 7.8 23.6 -3.6 23.8
+Automotive -14.5 -16.1 1.4 9.0 2.5 17.6
+Excluding auto 12.0 4.3 6.5 14.6 -6.1 6.2
+Constant-dollar basis:
+Total 14.1 -25.0 7.8 34.1 -31.9 n.a.
+Total excluding retail auto 6.9 -2.4 6.2 27.5 -35.7 n.a.
+Manufacturing -5.7 1.7 -1.4 5.3 -16.3 n.a.
+Wholesale 7.7 -1.1 3.4 13.7 -17.3 n.a.
+Retail 12.2 -25.6 5.8 15.2 1.6 n.a.
+Automotive 7.3 -22.6 1.5 6.6 3.7 n.a.
+Excluding auto 4.9 -3.0 4.3 8.5 -2.1 n.a.
+INVENTORIES RELATIVE TO SALES1
+(Months supply; based on seasonally adjusted data)
+1989 1990 1990
+Q4 Q1 Q2 May June July
+Range in
+preceding 12 months:2
+Low High
+Current-cost basis:
+Total 1.47 1.51 1.51 1.48 1.48 1.49 1.47 1.49
+Total excluding retail auto 1.44 1.49 1.48 1.46 1.45 1.46 1.44 1.46
+Manufacturing 1.55 1.65 1.60 1.60 1.56 1.56 1.55 1.57
+Wholesale 1.24 1.27 1.27 1.25 1.25 1.27 1.25 1.26
+Retail 1.55 1.62 1.62 1.55 1.58 1.59 1.57 1.58
+Automotive 1.81 2.07 2.04 1.84 1.92 1.91 1.90 1.93
+Excluding auto 1.46 1.50 1-50 1.48 1.49 1.50 1,48 1.48
+Constant-dollar basis:
+Total 1.42 1.46 1.46 1.44 1.43 1.44 1.42 n.a.
+Total excluding retail auto 1.40 1.45 1.42 1.42 1.41 1.42 1.40 n.a.
+Manufacturing 1.45 1.54 1.49 1.50 1.47 1.47 1.45 n.a.
+Wholesale 1.25 1.29 1.28 1.28 1.27 1.28 1.25 n.a.
+Retail 1.51 1.58 1.58 1.51 1.55 1.55 1.54 n.a.
+Automotive 1.72 2.04 2.00 1.73 1.81 1.80 1.80 n.a.
+Excluding auto 1.44 1.49 1.46 1.46 1.48 1.49 1.47 n.a.
+1. Ratio of end of period inventories to average monthly sales for the period.
+2. Highs and
+coincidential.
+which data arelows are specific to each series and are not necessarily
+Range is for the 12-month period preceding the latest month for
+available.
+
+II-33
+downward revision concentrated in the nonmanufacturing sector. By this time
+of year, of course, the annual figures for 1990 are being heavily influenced
+by developments in past quarters; small changes in the annual averages thus
+are consistent with a wide range of second-half growth rates.
+COMMERCE SURVEYS OF PLANT AND EQUIPMENT EXPENDITURES
+(Percent change from previous year; current dollars)
+Planned for 1990
+Commerce Commerce Commerce
+1989 (Jan.-Mar.) (Apr.-May) (July-Aug.)
+All business 11.4 8.1 6.8 5.4
+Manufacturing 12.5 5.7 4.2 4.7
+Durable 7.2 2.7 2.3 2.6
+Nondurable 17.2 8.2 5.8 6.4
+Nonmanufacturing 10.8 9.5 8.3 5.8
+1. As estimated in the July-August Commerce Department Survey.
+Business Inventories
+Data on business inventories currently are available only through the
+end of July. At that point, there was little evidence of any serious
+inventory imbalances, as inventory-sales ratios for major sectors were all
+within the ranges observed over the past year. Given the cautious inventory
+practices that have been apparent throughout the expansion, it would seem
+likely that businesses were poised to respond quickly to any sign of
+emerging softness in sales in the period since July. Indeed, anecdotal
+evidence suggests that retailers have been ordering conservatively for the
+coming months.
+Manufacturing inventories expanded at a $29 billion annual rate
+(current cost) in July, after falling $20 billion in June--a modest net
+
+II-34
+RATIO OF INVENTORIES TO SALES
+(Current-cost data)
+Manufacturing
+Ratio
+S- 2.1
+\\ Total -,/ -1.9
+Excluding transportation equipment -" .
+I I I I I I I I I i I 1.3
+1979 1981 1983 1985 1987 1989
+WholesaleRatio
+S1.5
+S1.4
+1.3
+Juy
+-1.2
+I ! I I I I 1.1
+1979 1981 1983 1985 1987 1989
+RetailRatio
+SE1.7
+July
+-,s -~1.5
+,, . Excluding auto1.4
+1983 1985 1987 1979 1981 1989
+
+II-35
+accumulation that kept the stock-shipments ratio near the lows of the
+current expansion. Much of the fluctuation in these two months is explained
+by sharp inventory swings in a few industries--aircraft, motor vehicles, and
+office and computing machinery--apparently the result of unusually large
+month-to-month fluctuations in shipments from these industries.
+After widespread reductions in June, wholesale and non-auto retail
+trade inventories expanded again in July, at a pace similar to the average
+rate of accumulation over the second quarter. For most types of trade
+establishments, especially those carrying consumer goods, inventory-sales
+ratios in July were either little changed or down somewhat from their spring
+levels. In particular, the inventory position of the broad range of retail
+stores in the "GAF" grouping (general merchandise, apparel, and furniture
+and appliances) improved despite slow sales; their overall inventory-sales
+ratio, at 2.38 in July, was near the low end of the range posted over the
+past year.
+Housing Markets
+The slide in residential construction activity continued in August.
+Total private housing starts fell 2 percent to a 1.13 million units annual
+pace, the seventh consecutive monthly decline.
+In the single-family sector, starts dropped back 3 percent to
+840,000 units in August, and permit issuance also slowed 3 percent. The
+pace of single-family starts has remained in close alignment with permits in
+recent months, so the two series give a consistent indication of a gradual
+contraction in home building. For the most part, the slowing can be traced
+to weak demand for new single-family homes. New home sales in July were
+estimated at 548,000 units at an annual rate; sales now have been below
+
+II-36
+PRIVATE HOUSING ACTIVITY
+(Seasonally adjusted annual rates; millions of units)
+1989 1989 1990 1990
+Annual Q4 Q1 Q2 June JulyV AuqP
+All units
+Permits 1.34 1.38 1.42 1.09 1.11 1.08 1.04
+Starts 1.38 1.35 1.45 1.20 1.19 1.15 1.13
+Single-family units
+Permits .93 .98 .96 .80 .80 .78 .76
+Starts 1.00 .99 1.08 .90 .89 .87 .84
+Sales
+New homes .65 .65 .59 .54 .56 .55 n.a.
+Existing homes 3.44 3.54 3.44 3.32 3.33 3.33 3.40
+Multifamily units
+Permits .41 .41 .47 .29 .31 .30 .28
+Starts .37 .36 .37 .31 .30 .28 .29
+Vacancy rate
+Rental units 9.3 8.8 9.4 8.5 n.a. n.a. n.a.
+Owned units 7.1 6.8 7.6 7.9 n.a. n.a. n.a.
+1. Percent. Owned units consist mainly of condominiums. All vacancy
+rate
+Pdata are revised
+Preliminary. rRevised estimates. n.a. Not available.
+PRIVATE HOUSING STARTS
+(Seasonally adjusted annual rate)
+Millions of units
+1981 1982 1983 1984 1985 1986 1987 1988 1989 1990
+
+II-37
+600,000 units for five successive months, the weakest performance since late
+1982 and early 1983. Consumer attitudes toward homebuying fell sharply in
+August, according to the Michigan Survey Research Center; preliminary
+results for September show little change in attitudes from those expressed
+in August. The one slightly encouraging development in the market for new
+homes is that inventories continued to inch down in July. Meanwhile, sales
+of existing homes edged up 2 percent in August to 3.4 million units at an
+annual rate from a downward-revised July level; this figure is about the
+same as the 1989 pace.
+Home price increases have continued to diminish in recent months. The
+median price of new homes in July was up 4 percent from a year earlier, well
+below the average year-to-year increases seen in the first half of 1990.
+The year-to-year rise in the median price of existing homes was 1.3 percent
+in August, somewhat less than in the first half. The year-to-year rise in
+the price series that controls for shifts in the quality and geographic
+distribution of homes sold was up only 0.5 percent in the second quarter of
+1990, the last available reading.
+In the multifamily sector, starts averaged 283,000 units at an annual
+rate in July and August. This level of starts is down two-thirds from the
+peak of the current housing cycle and about equals the cyclical lows reached
+in the 1981-82 recession. Issuance of multifamily permits in July and
+August remained at the very low second-quarter pace, suggesting no real
+upturn is in train. As in the single-family sector, however, the persistent
+overstock of rental units has lessened somewhat; the multifamily rental
+vacancy rate declined nearly one percentage point to 8.5 percent in the
+
+II-38
+FEDERAL GOVERNMENT OUTLAYS AND RECEIPTS
+(Billions of dollars,
+except where otherwise noted)
+July and October-August
+August Net Percent
+1989 1990 FY1989 FY1990 change change
+Outlays 182.7 229.5 1037.3 1170.3 133.0 12.8
+Deposit insurance 2.3 6.5 13.1 48.3 35.2 268.7
+Outlays, excluding
+deposit insurance 180.4 223.1 1024.2 1122.0 97.8 9.5
+National defense 47.2 51.4 274.9 277.8 2.9 1.1
+Net interest 30.0 32.7 155.6 168.1 12.5 8.0
+Social Security 38.9 62.0 213.0 247.9 34.9 16.4
+Medicare and health 23.6 28.8 122.4 143.1 20.7 16.9
+Income security 21.4 25.3 124.6 138.1 13.5 10.8
+Agriculture 0.2 0.5 17.0 11.9 -5.1 -29.8
+Other 19.1 22.4 116.7 135.0 18.3 15.7
+Receipts 142.3 150.8 891.5 928.6 37.1 4.2
+Personal income taxes 66.3 69.7 400.7 420.0 19.3 4.8
+Social insurance
+contributions 56.4 61.7 330.2 349.0 18.8 5.7
+Corporate income taxes 4.0 3.7 83.9 76.2 -7.7 -9.2
+Other 15.6 15.8 76.8 83.4 6.6 8.6
+Deficit(+) 40.4 78.7 145.8 241.7 95.9 65.8
+Details made not add due to rounding.
+DOD ESTIMATES OF OPERATION DESERT SHIELD
+(unified budget, billions of dollars)
+FY1990 FY1991
+DoD estimate of Desert Shield expense 1.9 11.3
+less
+Fuel price increase (on total DoD purchases) 0.3 1.7
+equals
+Desert Shield cost 1.6 9.6
+Fuel 0.4 2,4
+In-theater support 0.3 1.8
+Other operations and maintenance 0.6 3.1
+Construction 0.0 0.4
+Personnel 0.3 1.9
+
+II-39
+second quarter, but still stands near the high end of the range of vacancy
+rates seen over this housing cycle.
+Federal Government Sector
+In August, the federal government recorded a $53 billion budget
+deficit, as more than $25 billion of outlays were shifted from September
+into August because the first three days of September fell on non-business
+days. Excluding this payments shift, the deficit for the October-August
+period stood at $215 billion, compared with a $146 billion deficit for the
+year-earlier period. Rising payments by the Resolution Trust Corporation
+for the thrift bailout have accounted for more than half of this year's
+increase.
+Abstracting from the payments shift, outlays for the first eleven
+months of the fiscal year were 10 percent above a year earlier, and outlays
+excluding deposit insurance were up 7 percent, mainly reflecting increases
+for net interest, Medicare and health, and social security and income
+security. National defense spending for the same period was about the
+same as a year earlier.
+Year-to-year growth of federal receipts appears to have picked up in
+the final quarter of the 1990 fiscal year. The July and August monthly
+Treasury statements, together with daily data for September, indicate that
+7. Payments were made on August 31 for social security ($21 billion), some
+military pay ($3 billion), supplemental security income ($1 billion), and
+veterans' benefits ($1 billion). The social security payments normally are
+made on the third day of the month, and the others go out on the first day
+of the month.
+8. Deposit insurance outlays totaled $48 billion for the October-August
+period compared to $13 billion a year earlier. As of September 18, the RTC
+had spent $17 billion of the $41 billion approved by the Oversight Board for
+resolutions and advances in the July-September period. Net spending was
+only $12 billion, as the RTC received $5 billion from REFCORP in July.
+
+II-40
+tax receipts for the quarter may be 6 or 7 percent above a year earlier.
+Over the three previous quarters, the year-to-year rate of growth had been
+held to 4 percent, on average, because of declines in collections of
+corporate profits taxes and weak final payments on 1989 personal income tax
+liability in the second quarter of 1990.
+The Department of Defense has released preliminary estimates of the
+incremental cost of Operation Desert Shield: $1.9 billion for August and
+September and $11.3 billion for FY1991, assuming currently projected force
+9levels throughout the year. This estimate includes the effects of a
+$10 per barrel increase on the Department's normal fuel bill; subtracting
+this amount yields a net cost for Desert Shield of $1.6 billion for the
+third quarter and $9.6 billion for FY1991. However, not all of this expense
+is expected to be borne by the U.S. Treasury, and some of the costs will not
+even be recorded in government accounts. For instance, some of the
+"in-country" support costs, such as fuel and food, are being absorbed by the
+host countries, and financial contributions from allies seem likely.
+In-kind contributions are not expected to enter into either the unified
+budget or the NIPA accounts. In addition, sale of about $2.5 billion to
+Saudi Arabia of F-15 aircraft, tanks, and munitions are scheduled to take
+place between September and December. Because this equipment will come out
+of existing Department of Defense inventories, reducing defense purchases
+and increasing exports by equal amounts, the sale will have no net effect on
+GNP.
+9. Neither official nor unofficial estimates of current or projected force
+levels are being released by the Department of Defense.
+
+II-41
+As of September 26, budget negotiators had not yet resolved several of
+the major issues that have held a bipartisan agreement in abeyance since
+talks resumed earlier in September. The House Appropriations Committee has
+begun to consider a continuing resolution that is required to fund the
+government beginning October 1. The measure includes a provision that would
+delay implementation of the sequester until October 20. However, it is
+likely that the temporary suspension of the sequester will occur only if the
+major budget issues are resolved. If the sequester is not suspended or
+repealed, then furloughs and cutbacks in government services will begin the
+first week of October.
+State and Local Government Sector
+Indicators of activity in the state and local sectors have shown a bit
+of an up-and-down pattern this year, but the underlying trend seems one of
+sluggishness, with spending constrained by widespread fiscal difficulties.
+Construction spending by state and local governments appears to have
+stabilized around mid-year, at least for a time, as construction put in
+place in July, in real terms, was 1/2 percent above the second-quarter
+average; construction had surged in the first quarter of this year, when
+damage from Hurricane Hugo and the earthquake was being repaired, but it
+fell in the second quarter. Employment growth in the state and local
+sector picked up in July and August, but the pace seems unsustainable given
+the apparent financial pressures on these governmental units.
+The combined state and local deficit in the operating and capital
+accounts, excluding social insurance funds, edged up to $30.4 billion in the
+second quarter. As a result of growing budgetary shortfalls over the year,
+24 states enacted tax hikes in fiscal 1990; the National Conference of State
+
+II-42
+REVENUE FROM INCREASES IN STATE TAXES AS A PERCENT OF TOTAL REVENUE
+Percent
+-6
+Souce: National Conference of State Legislatures,
+a -NCSL estimate.I z z I IM I 1 1 21981 1982 1983 1984 1985 1986 1987 1988 1989 1990eSource: National Conference of State Legislatures,a -NCSL estimate.
+
+II-43
+Legislatures estimates that these increases will pull in $8.6 billion in
+additional receipts, the largest increase in percentage terms since 1983.
+Many states also have cut expenditures from the levels previously planned.
+Indicators of the Probability of Recession
+The staff's recession-probability measure that is based on the Commerce
+Department's index of leading economic indicators covers only the data
+through July, and puts the probability of a recession starting in the next
+six months at 8 percent. An update will be included in the Greenbook
+Supplement on Friday, after the release of the leading indicators for
+August. The most recent reading of the NBER recession-probability measure
+showed a 3 percent probability of recession; this figure was based on
+exchange rates and interest rates through August 24, as well as the
+nonfinancial data through July.
+
+DOMESTIC FINANCIAL
+DEVELOPMENTS
+
+III-T-1 1
+SELECTED FINANCIAL MARKET QUOTATIONS
+(percent)
+------------~---~-------------'-----------------------------------------
+1987 1989 1990
+2 March Dec FOMC
+Oct 16 highs lows Aug 21 Sept 25
+Short-term ratesChange from:
+..................................
+Mar 89 Dec 89 FOMC
+highs lows Aug 21
+----------------------------------
+Federal funds3
+Treasury bills
+3-month
+6-month
+1-year7.59
+6.93
+7.58
+7.749.85 8.45 8.16
+9.09
+9.11
+9.057.53
+7.29
+7.117.57
+7.48
+7.378.25 -1.60 -.20
+7.35
+7.39
+7.31-1.74
+-1.72
+-1.74-.18
+.10
+.20
+Commercial paper
+1-month
+3-month
+Large negotiable CDs4
+1-month
+3-month
+6-month
+Eurodollar deposits5
+1-month
+3-month
+Bank prime rate7.94 10.05 8.51 8.06 8.27 -1.78 -.24 .21
+8.65 10.15 8.22 7.94 8.14 -2.01 -.08 .20
+7.92
+8.90
+9.1210.07
+10.32
+10.088.52
+8.22
+8.018.06
+8.07
+8.078,25
+8.25
+8.26-1.82
+-2.07
+-1.82-.27
+.03
+.25
+8.00 10.19 8.38 8.06 8.31 -1.88 -.07 .25
+9.06 10.50 8.25 8.06 8.31 -2.19 .06 .25
+9.25 11.50 10.50 10.00 10.00 -1.50 -.50 .00
+Intermediate- and long-term rates
+U.S. Treasury (constant maturity)
+3-year
+10-year
+30-year
+Municipal revenue
+(Bond Buyer)
+Corporate--A utility
+recently offered
+Home mortgage rates
+S&L fixed-rate
+S&L ARM, 1-yr.9.52
+10.23
+10.24
+9.599.88
+9.53
+9.317.69
+7.77
+7.838.32
+8.84
+8.948.40
+9.02
+9.15-1.48
+-.51
+-.16.71
+1.25
+1.32
+7.95 7.28 7.53 7.73 -.22 .45
+11.50 10.47 9.29 10.36 10.27 -.20 .98 -.09
+11.58 11.22 9.69 10.05 10.16 -1.06 .47 .11
+8.45 9.31 8.34 8.31 8.30 -1.01 -.04 -.01
+1990
+FOMC
+Aug 21 Sept 25Percent change from:
+Record 1989 FOMC
+highs lows Aug 21
+Stock prices
+Dow-Jones Industrial
+NYSE Composite
+AMEX Composite
+NASDAQ (OTC)
+Wilshire
+One-day quotes except as noted.
+Last business day prior to stock market decline on Monday
+Oct. 19, 1987.
+Average for two-week reserve maintenance period closest to
+date shown. Last observation is average to date for the
+maintenance period ending October 3, 1990.4/ Secondary market.
+5/ Bid rates for Eurodollar
+deposits at 11 a.m. London time
+6/ Based on one-day Thursday quoteý
+and futures market index changeý
+7/ Quotes for week ending-.22
+-.09
+-.06
+Record
+highs1989
+Lows
+Jan 3 Date
+2999.75
+201.13
+397.03
+485.73
+3523.477/16/90
+7/16/90
+10/10/89
+10/9/89
+10/9/892144.64
+154.98
+305.24
+378.56
+2718.592603.96
+176.94
+327.34
+379.68
+3052.542485.64
+169.20
+313.17
+354.78
+2910.38-17.14
+-15.88
+-21.12
+-26.96
+-17.4015.90
+9.18
+2.60
+-6.28
+7.05-4.54
+-4.37
+-4.33
+-6.56
+-4.66-----------------------------------------
+
+Selected Interest Rates *
+(percent)
+1989 1990 8/21 9/25
+1989 1990
+'-Fdday weks through Septmber 21, Wednesday weeks through Septeber 19.-- 12
+Primary Mortgage
+(wekly)
+Corporate Bond
+(weekly)
+9 I-
+30-year Treasury Bond
+(daIly)
+1 1 I I I
+8/21 9/25Short-Term
+-- 11
+-- 9
+
+DOMESTIC FINANCIAL DEVELOPMENTS
+Developments in financial markets since the August FOMC meeting have
+continued to reflect a high degree of uncertainty and growing stress.
+Participants have been focusing on developments in the oil market, signs of
+both rising domestic inflation and weakening economic activity, and
+deliberations on the federal budget. Federal funds generally have traded
+near 8 percent; nevertheless, Treasury bill rates have declined, reflecting
+heightened investor preference for liquidity and safety, while rates on
+commercial paper and bank CDs of similar maturities have risen. The net
+effect of market responses has been a further steepening of the Treasury
+yield curve; the yield spread between thirty-year Treasury bonds and three-
+month Treasury bills is more than 40 basis points greater than at the time
+of the last meeting. Lately, subordinated debt obligations of some major
+banking institutions have moved effectively into the junk price class, as
+the health of these organizations has become an increasing concern of
+investors and recently released government reports have highlighted problems
+of large banks and the deposit insurance fund.
+Monetary expansion has been more rapid in the past two months, but
+evidently in large part because of increased liquidity preference and
+special factors. A considerable part of M2 growth has been in MMMFs and
+might only be reflecting some parking of funds awaiting calmer capital
+markets. Similarly, the spurt in bank credit in August appears to have been
+largely ephemeral; increases in basic business, real estate, and consumer
+loan categories remained sluggish.
+III-1
+
+III-2
+MONETARY AGGREGATES
+(based on seasonally adjusted data unless otherwise noted)
+Growth
+1990 1990 1990 1990 1990 Q4 89-
+19891 Q1 92 Jun Jul Aug p Aug 90p
+------------Percent change at annual rates--------------------
+4.8 3.5 6.0
+6.4 2.9 2.6
+3.0 0.8 0.9
+----------- Percent change at
+Selected components
+4. Ml-A
+5. Currency
+6. Demand deposits
+7. Other checkable deposits
+8. M2 minus M120.4 4.2 1.6
+4.8 10.3 9.2
+-2.8 -0.9 -4.7
+1.0 5.9
+7.0 2.6-0.3 10.7
+1.7 6.7
+0.9 4.7
+Levels
+annual rates-------- bil. $
+Aug 90p
+4.0 5.4 15.1 524.4
+9.3 10.3 15.3 238.4
+0.0 1.3 14.0 278.0
+7.1 9.5 -10.2 2.9 292.0
+1.5 2.4 5.4 2485.7
+9. Overnight RPs and Eurodollars, NSA
+10. General purpose and broker/dealer money
+market mutual fund shares
+11. Commercial banks
+12. Savings deposits plus MMDAs3
+13. Small time deposits
+14. Thrift institutions
+15. Savings deposits plus MMOAs3
+16. Small time deposits
+17. M3 minus MZ4-8.6 33.1
+29.7
+7.5
+-1.7
+19.0
+-0.2
+-9.3
+5.819.9
+8.5
+9.3
+7.8
+-1.1
+2.8
+-3.3-1.5 -20.0 20.4 -17.2 82.7
+-0.7
+10.3
+8.6
+12.1
+-4.6
+1.4
+-8.05.6
+14.0
+9.2
+18.5
+-16.1
+-8.1
+-20.911.9
+13.0
+7.2
+18.9
+-11.9
+-5.4
+-15.732.1
+7.6
+8.5
+7.0
+-3.3
+-2.4
+-3.9333.8
+1141.9
+570.5
+571.4
+929.7
+351.5
+578.2
+-1.3 -10.2 -7.5 -6.0 -2.4 -3.8 785.9
+Large time deposits
+At commercial banks, nets
+At thrift institutions
+Institution-only money market
+mutual fund shares
+Term RPs, NSA
+Term Eurodollars, NSA4.2 -7.9
+9.9 -1.1
+-7.8 -24.7
+17.1
+-14.7
+-21.910.2
+-37.7
+-50.9-10.4
+-2.8
+-30.4-5.8
+2.4
+-28.7-5.2
+5.1
+-36.5
+11.5 0.0 17.9
+5.0 36.3 -19.5
+-23.4 -56.9 -5.6-14.7
+-9.9
+-29.4523.8
+396.2
+127.6
+-----Average monthly change in billions of dollars----
+MEMORANDA:6
+24. Managed liabilities at commercial
+banks (25+26)
+25. Large time deposits, gross
+26. Nondeposit funds
+27. Net due to related foreign
+institutions
+28. Other7
+29. U.S. government deposits at commercial
+banks86.0 2.4 -1.4 -0.6
+2.6 -2.3 -1.5 -2.0
+3.5 4.7 0.2 1.4
+0.2 3.3
+3.3 1.4
+-0.3 -0.612.7 -3.6 733.7
+1.3 -3.2 450.8
+11.4 -0.4 282.9
+-0.9 -9.7 2.0 0.0 16.7
+1.0 11.1 9.4 -0.4 266.2
+0.4 1.8 -5.5 18.3 33.2
+1. Amounts shown are from fourth quarter to fourth quarter.
+2. Nontransactions M2 is seasonally adjusted as a whole.
+3. Commercial bank savings deposits excluding MMDAs grew during July and August at rates of 3.7
+percent and 1.8 percent, respectively. At thrift institutions, savings deposits excluding MMDAs grew
+during July and August at rates of -0.5 percent and -1.1 percent, respectively.
+4. The non-MZ component of M3 is seasonally adjusted as a whole.
+5. Net of large denomination time deposits held by money market mutual funds and thrift institutions.
+6. Dollar amounts shown under memoranda are calculated on an end-month-of-quarter basis.
+7. Consists of borrowing from other than commercial banks in the form of federal funds purchased, securities
+sold under agreements to repurchase, and other liabilities for borrowed money (including borrowing from the
+Federal Reserve and unaffiliated foreign banks, loan RPs and other minor items). Data are partially estimated.
+8. Consists of Treasury demand deposits and note balances at commercial banks.
+p -preliminary1. Ml
+2. MZ
+3. M3
+56.2 114.0
+24.7 99.1
+28.1 65.5
+
+III-3
+Overall borrowing by nonfinancial businesses in recent months has been
+weak. Investment-grade firms as a group have issued a moderate volume of
+commercial paper in recent weeks, while delaying bond offerings in the hope
+that rates will decline in the months ahead; the market has remained
+essentially closed to below-investment-grade offerings. Elsewhere,
+increasing budget difficulties experienced by states and localities are
+showing up in a widening of quality spreads among issuers. Only a few
+downgradings have occurred thus far, however, and overall issuance of tax-
+exempt debt has continued at a pace near that of the first half. In the
+household sector, the demand for mortgage and consumer credit probably has
+remained relatively subdued.
+Monetary Aggregates and Bank Credit
+The monetary aggregates posted relatively large advances in August, and
+preliminary indications are that the growth spurt continued in September.
+However, the pickup seems to be largely attributable to several special
+factors, including a heightened demand for both liquidity at home and
+currency overseas following the Iraqi invasion.
+M1 growth jumped to a 10-3/4 percent annual rate in August, after
+little change in July. Currency growth surged to a 15 percent pace,
+apparently bolstered by shipments to the Middle East. Demand deposit growth
+also rose at a double-digit average rate in August, owing in part to the
+multi-day power outage that delayed completion of funds-transfer operations
+at some large banks in New York City. In addition, OCDs resumed expanding
+in August, after a decline arising from the introduction of a NOW account
+sweeping service at a major regional bank in July. Evidence for September
+suggests some slowing, but still rapid growth in Ml; currency growth remains
+
+III-4
+COMMERCIAL BANK CREDIT AND SHORT- AND INTERMEDIATE-TERM BUSINESS CREDIT
+(Percentage changes at annual rates, based on seasonally adjusted data)
+1988:Q4
+1. Total loans and securities
+at banks
+2. Securities
+3. U.S. government securities
+4. Other securities
+5. Total loans
+6. Business loans
+7. Real estate loans
+8. Consumer loans
+9. Security loans
+10. Other loansLevels
+to 1990 bil.$
+1989:Q4 Q1 Q2 June July Aug._ Aug. p
+---------------------- Commercial Bank Credit ---------------------
+7.5 7.4 5.2 7.1 6.9 10.3 2707.8
+4.1 17.8 9.3 15.0 3.7 4.3 620.5
+10.0 27.2 15.2 22.3 5.7 1.9 441.3
+-6.7 -2.6 -4.7 -2.7 -.7 9.4 179.2
+8.5 4.4 4.0 4.8 7.9 12.1 2087.3
+6.9 2.5 4.7 6.1 1.3 3.7 653.1
+13.3 10.7 9.4 7.7 10.9 4.9 811.9
+6.3 4.5 -.7 -2.8 .3 5.7 380.1
+3.8 -26.1 -20.4 17.2 119.0 222.7 46.0
+1.5 -7.4 -6.5 .6 12.1 41.1 196.2
+--------- Short- and Intermediate-Term Business Credit----------
+11. Business loans net of bankers
+acceptances
+12. Loans at foreign branches2
+13. Sum of lines 11 & 12
+14. commercial paper issued by
+nonfinancial firms
+15. Sum of lines 13 & 14 :
+16. Bankers acceptances: U.S. trade
+related '
+17. Line 15 plus bankers acceptances:
+U.S. trade related
+3,618. Finance company loans to business
+19. Total short- and intermediate-
+term business credit (sum of
+lines 17 & 18)
+1. Average of Wednesdays.24.5 9.3 5.0
+6.2 5.6 5.51.9
+27.0
+2,7
+-13.2
+-.3
+6.1 -19.8 -9.8 23.0 -26.3
+4.9 6.3
+15.4 25.9
+5.0 7.4 10.9
+2. Loans at foreign branches are loans made to U.S. firms by foreign branches of
+3. Based on average of data for current and preceding ends of month.-1.3
+23.54.1
+-21.1
+3.2
+13.3
+5.2
+n.a.
+n.a.
+n.a.
+4.7 n.a.645.9
+22.3
+668.2
+145.6
+813.9
+31.25
+5
+842.1
+275.6
+1117.75
+domestically chartered banks.
+4. Consists of acceptances that finance U.S. imports, U.S. exports, and domestic shipment and storage of goods.
+5. July data.
+p--preliminary.
+n.a.--not available
+Note: Data have been revised to reflect benchmarking to the March 31, 1990 call report.
+
+III-5
+brisk, and faster growth in OCDs is partially offsetting a slowing in demand
+deposits.
+Growth of M2 picked up to a 6-3/4 percent annual rate last month, and
+appears to have remained near that rate in September, reflecting both the
+strength in M1 and a sharp rise in inflows to money market mutual funds, as
+investors continue seeking a refuge from the uncertainties of the stock and
+bond markets. Yet, despite the boost to growth provided by these factors in
+the third quarter, M2 is estimated to have expanded at only a 3 percent
+annual rate on a quarterly average basis, a rate that is about 2-1/2
+percentage points below the pace implied by the staff's model of money
+demand, and would suggest a further increase in velocity.
+M3 accelerated to a 4-3/4 percent rate of increase in August. The
+relative inactivity of the RTC in August served to slow both the growth of
+retail deposits at commercial banks and to stanch the runoff of such
+deposits at thrifts. Nonetheless, because the Treasury continued to borrow
+heavily to finance expected thrift resolutions, Treasury balances at
+commercial banks ballooned. This allowed banks to cut back on their managed
+liabilities--including large time deposits, which posted a considerable
+monthly decline. Still, the pickup in M2 largely showed through to M3, as
+the runoff of large time deposits at both thrifts and banks was mostly
+offset by a firming in the other non-M2 components of M3. Growth of M3 in
+September is expected to slow somewhat from that experienced in August, but
+the broad aggregate will still be well above the lower limit of its current
+annual target range.
+
+III-6
+Paced by a surge in security loans, bank credit strengthened to a
+10-1/4 percent annual rate of expansion in August. Banks may have chosen to
+deploy a portion of the bulge in government deposits in reverse repurchase
+agreements--a form of a security loan that has short duration and
+flexibility. Security loans constitute only a small portion of total bank
+lending, but accounted for about one-third of the total increase in bank
+credit during August. Neither lending to nonfinancial businesses nor to
+households showed much spark. The 3-3/4 percent annualized increase in
+business loans for August reflects a spurt in merger-related lending at
+large and foreign-related banks, so that abstracting from identifiable
+merger-related financing, business loans declined at a 4-1/2 percent pace.
+At small banks, business loans continued to decline last month, as they have
+since early spring. Sorting out the demand from the supply factors holding
+down business loan growth is especially difficult. Given that a substantial
+amount of lending is done under prior commitments, the effects of some
+supply responses on loans made may be delayed.
+Real estate loans at banks grew at about a 5 percent annual rate in
+August--only 4 percent, after subtracting home equity loans--and were off
+sharply from the average growth for the first half of the year. Although
+consumer loan growth picked up from July, much of the gain is attributable
+to reduced securitization activities during August. When adjusted for
+securitizations, consumer loans grew 7 percent in August, down from the
+9 percent pace in July. The preliminary second-quarter data from bank call
+reports, as discussed more fully later in the consumer credit section,
+indicate further deterioration in asset quality--particularly for real
+estate loans--as delinquency rates have risen to their highest levels of the
+
+III-7
+past seven years. The rise in real estate loan delinquencies, however,
+would appear to be in loans other than residential mortgages, as other
+evidence on residential mortgages at all lenders shows little change in
+delinquencies in recent quarters.
+Bank Financing
+Financing problems in the banking sector have been mounting. Both the
+GAO and CBO issued reports questioning the financial health of large banks
+and the FDIC insurance fund. Recently these problems were further
+highlighted by difficulties besetting Chase Manhattan. 1 In mid-September,
+Chase encountered problems in the resetting of the coupon rate for a
+subordinated issue, paying a very large premium over Treasury yields. The
+growing disenchantment of investors with the banking sector had already been
+evident in the short-term market. So far in 1990, there have been
+27 downgradings of bank holding company commercial paper programs rated by
+Moody's, accounting for more than half of all such actions. Facing a higher
+cost of funds and investor skittishness about defaults, banking entities
+have reduced substantially their outstanding commercial paper: The paper of
+banks and their holding companies has fallen from $49 billion outstanding in
+March to $37 billion recently, with nearly all of this decline having been
+in issues with credit ratings less than A1/P1.
+Moreover, banks have had little success replacing their commercial
+paper funds with long-term financing in the bond market. Indeed, spreads
+1. On September 17, Chase announced a number of measures to shore up its
+financial position, including setting aside $650 million in additional
+reserves, reducing staff by 5,000, and cutting its dividend. Despite these
+efforts, on September 25, Moody's announced a downgrading of the debt of
+Chase Manhattan bank and its holding company. The rating on commercial
+paper was reduced to P3 and on subordinated issues to below-investment
+grade.
+
+III-8
+YIELD SPREADS ON SUBORDINATED BANK DEBT *
+RECENT TRENDS
+Weekly
+Money Center
+----Regionalbasis points
+,f~ I 4
+-A A
+J F M A M J J A S O N D J F M A M J J A S O N D J F M A M J J A S
+1988 1989 1990
+YIELD SPREADS FOR SELECTED COMPANIES
+F-
+Company
+Chemical
+Chase
+Manufacturers
+Barnett
+Citicorp
+First Chicago
+Sovran
+Security Pacific
+NorwestMoody's
+Rating
+Ba2
+Baa3**
+Ba2
+Baal
+Baal
+Baal
+A3
+A2
+A2-Spread
+(in basis points)
+500
+435
+316
+225
+205
+195
+175
+161
+78
+*Average spread to Treasury yield for selected companies.Data as of September 21, 1990. Source: Salomon Brothers.
+**Moody's reduced Chase's subordinated debt rating to Ba2 on September 25,1990..
+
+III-9
+between yields on bank debt and Treasury rates widened over the summer for
+several large banking entities (chart). In 1990, only seven banking firms
+have issued underwritten bonds with maturities of seven years or longer in
+the U.S. public market, compared with an average of about 40 per year in the
+past five years. Moreover, all but one of the bank companies that issued
+long-term bonds in 1990 are viewed by the market as being strong or
+improving credit risks. As yield spreads on long-term debt of lower-rated
+banks have continued to widen, the prospects of raising tier-2 capital have
+deteriorated further. On the brighter side, though, some banking firms have
+had success issuing shorter maturity senior debt in the medium-term note
+market and asset-backed securities through well-secured special purpose
+subsidiaries.
+Several banks reportedly have plans to raise capital with preferred
+stock, but these plans could be derailed by the pronounced weakness in
+equity prices. Underwritten offerings of common and preferred stock, which
+were running well behind their 1989 pace through the first half of 1990,
+have dried up completely since July. The Dow Jones index of money center
+bank stock prices has dropped about 20 percent since August 1, and nearly
+twice that amount since the end of 1989. In contrast, the S&P 500 is down
+about 13 percent since both the first of August and the end of 1989.
+Japanese banks also have been under increasing pressure, in part the
+result of sharp declines in stock prices in Tokyo that have eroded their
+capital bases. With several of these institutions having recently been
+downgraded or under public notice that their ratings are being reviewed,
+they are likely to become less aggressive lenders in the U.S. market.
+
+GROSS OFFERINGS OF SECURITIES BY U.S. CORPORATIONS
+(Monthly rates, not seasonally adjusted, billions of dollars)
+1987 1988 1989 1990
+Year Year Year Q1 Q2 July Aug.P Sept?
+Corporate securities -total1  24.12 22.39 19.85 16.99 23.58 18.28 12.16 12.00
+Public offeringg in U.S. 21.93 20.37 17.79 15.10 20.75 15.05 11.01 10.50
+Stocks--total 4.45 3.53 2.69 3.00 2.33 2.25 .81 .50
+Nonfinancial 2.32 1.14 1.09 1.58 1.29 1.39 .59 .30
+Utility .57 .24 .29 .41 .38 .53 .21 .00
+Industrial 1.75 .90 .80 1.18 .91 .86 .38 .30
+Financial 2.12 2.39 1.60 1.42 1.04 .86 .22 .20
+Bonds--total1  17.48 16.84 15.10 12.10 18.42 12.80 10.20 10.00
+Nonfinancial 6.56 6.15 6.26 3.83 6.83 3.80 2.00 3.00
+Utility 2.02 1.78 1.78 1.22 2.37 1.05 1.30 1.00
+Industrial 4.54 4.37 4.48 2.61 4.46 2.75 .70 2.00
+Financial 10.92 10.69 8.84 8.27 11.59 9.00 8.20 7.00
+By quality
+Aaa and Aa 3.30 2.73 3.30 2.68 3.81 4.70 1.30. 1.50
+A and Baa 5.22 5.50 5.68 4.33 8.37 4.55 3.22 5.80
+Less than Baa 2.77 2.59 2.39 .17 .24 .18 .06 .10
+No rating (or unknown) .07 .04 .04 .00 .08 .00 .00 .00
+Memo items: 4
+Equity-based bonds .87 ,28 .52 .05 .88 .13 .39 .30
+Mortgage-backed bonds 5.19 4.72 1.67 1.64 2.95 1.30 3.00 .80
+Other asset-backed .93 1.26 2.02 3.28 2.97 2.07 2.62 1.80
+Variable-rate notes 1.88 1.19 1.01 1.39 .29 .01 .78 .50
+Bonds sold abroad -total 2.03 1.93 1.90 1.62 2.43 2.96 1.00 1.50
+Nonfinancial .94 .73 .48 .38 .58 .51 .10 .80
+Financial 1.09 1.20 1.42 1.24 1.85 2.45 .90 .70
+Stocks sold abroad -total .16 .09 .16 .27 .40 .27 .15 .00
+Nonfinancial .12 .08 .12 .10 .15 .12 .14 .00
+Financial .04 .01 .04 .17 .25 .15 .01 .00
+1. Securities issued in the private placement market are not included.
+Total reflects gross proceeds rather than par value of original discount bonds.
+2. Excludes equity issues associated with equity-for-equity swaps that have occured in
+restructurings. Such swaps totaled $20.4 billion in 1989.
+3. Bonds categorized according to Moody's bond ratings, or to Standard and Poors' if
+unrated by Moody's. Excludes mortgage-backed and asset-backed bonds.
+4. Includes bonds convertible into equity and bonds with warrants that entitle the
+holder to purchase equity in the future,
+p--preliminary. e--staff estimate.
+
+III-ll
+Indeed, lending by branches and agencies of Japanese banks slowed sharply in
+July and August.
+Business Finance
+Total borrowing by nonfinancial firms has remained weak over the
+intermeeting period, with moderate growth in bank loans and short-term paper
+being accompanied by very light public bond issuance. Outstanding
+commercial paper of nonfinancial corporations rose over the past month and a
+half, reversing the decline registered in July, but growth remained subdued
+in comparison with earlier in the year. Publicly underwritten offerings of
+bonds by U.S. nonfinancial corporations fell in August to the slowest
+monthly pace since May of 1984, and volume in September is very light as
+well. While a few companies have tapped the private placement market for
+financing, most would-be issuers reportedly are delaying new bond offerings
+in anticipation of lower rates.
+Issuance of junk bonds has remained sparse, with little likelihood of
+near-term revival, especially in light of deteriorating performance of
+outstanding issues. Thus far in 1990, defaults and distressed exchange
+offers have totaled some $9-1/2 billion--exceeding the $8-3/4 billion for
+all of 1989. These developments, coupled with the decline in equity prices,
+have had a devastating effect on the secondary market prices of most junk
+bonds, which dropped more than 3-1/2 percent on average in August and have
+declined further in September. Until now, the RTC has been selling off only
+moderate amounts from its junk bond portfolio, with sales totaling about
+$550 million for 1990. Columbia Savings and Loan's proposal to sell its
+junk bond portfolio to a private investment group for $3 billion fell
+
+III-12
+TREASURY AND AGENCY FINANCING 1
+(Total for period; billions of dollars)
+1990
+Q2 Q3e Jul. Aug.
+Treasury financing
+Total surplus/deficit (-)
+Means of financing deficit:
+Net cash borrowing
+from the public
+Marketable borrowings/
+repayments (-)
+Bills
+Coupons
+Nonmarketable-12.0 -57.8 -25.9 -52.8
+41.0 68.5 24.2 47.3
+32.6
+.5
+32.1
+8.364.3
+28.8
+35.6
+4.221.1
+11.3
+9.8
+3.145.8
+28.9
+16.8
+1.6
+Decrease in the cash
+balance -16.2 -2.7 2.4 -15.0
+Memo: Cash balance
+at end of period
+Other3
+Federally sponsored credit
+agencies, net cash
+borrowing
+FHLBs
+FHLMC
+FNMA
+Farm Credit Banks
+FAC
+SLMA
+FICO
+REFCORP34.6 37.3 24.8 22.3
+-12.8 -8.1 -8.2
+2.5
+-8.5
+4.9
+1.1
+.0
+.0
+1.4
+.0
+3.5-3.3
+-3.3
+.4
+-.3
+.0
+--
+.0
+5.0-1.3
+--
+.9
+.0
+.0
+.0
+1. Data reported on a not seasonally
+2. Includes proceeds from securitiesadjusted, payment basis.
+issued by federal agencies under
+financing authorities and the face value of zero-coupon bonds issued to
+(the discount from face value is offset in other means of finance).
+3. Includes checks issued less checks paid, accrued items and other
+transactions.
+4. Excludes mortgage pass-through securities issued by FNMA and FHLMC.
+5. Does not include SLMA.
+e--staff estimate
+Note: Details may not add to totals due to rounding.Sept.
+20.9
+-3.1
+-2.6
+-11.5
+9.0
+-.5
+37.3
+-2.9
+special
+REFCORP.-- -1.55
+1
+
+III-13
+through recently, because the OTS ruled that the terms were too generous and
+that Columbia should have sought additional bids.
+In the investment-grade market, yield spreads between Aaa corporates
+and Treasury bonds remain narrow, in part reflecting the reduced likelihood
+that call features on corporates will be exercised by issuers in the near
+term. The quality spread between indexes of Baa and Aaa nonfinancial
+corporate bonds has increased nearly 20 basis points since the August
+meeting, and although not wide historically, it is now larger than at any
+time in the past two years.
+Stock prices are off more than 4 percent from levels at the time of the
+August FOMC, and prices of shares remain about 13 percent below their year-
+end 1989 levels. Equity issuance in August and early September has been
+running at less than half the monthly rate recorded earlier in the year,
+with several firms announcing postponements of planned September offerings.
+Retirements of equity are estimated to have picked up a bit in the third
+quarter, as several large mergers were completed, so that nonfinancial
+corporate leverage has risen somewhat further.
+Treasury and Sponsored Agency Financing
+Treasury borrowing in the third quarter is expected to exceed
+$68 billion, against a budget deficit of nearly $58 billion. This
+relatively large borrowing total reflects, in part, anticipated needs of the
+RTC for additional working capital. The RTC had announced plans to resolve
+77 thrift institutions over the quarter; so far 67 resolutions have been
+completed and the RTC expects to reach its third-quarter goal.
+The Treasury is meeting its third-quarter financing needs by raising
+$29 billion in the bill market and $36 billion in the coupon market. Since
+
+III-14
+the beginning of the quarter, the gross sizes of the weekly bill auctions
+have risen from $17.2 billion to $18.4 billion. In contrast, weekly
+auctions of a year ago included only $14.4 billion of bills. Gross auction
+sizes for coupon issues also has increased but, on average, by less than
+that for bills. Further increases in gross auction sizes are anticipated
+during the fourth quarter, particularly because the RTC's needs continue to
+loom large.
+In the market for securities of government-sponsored enterprises
+spreads on debt relative to Treasury issues have remained narrow. Both the
+Federal Home Loan Bank System and Freddie Mac have reduced their outstanding
+levels of debt recently. Advances to member thrifts continued to wane, and
+Freddie Mac used some of its cash to pay down a sizable portion of its
+short-term indebtedness. Also, the Financial Assistance Corporation (a GSE
+set up by Congress in 1988 to aid the financially troubled Farm Credit
+System) has announced plans to issue $90 million of debt in late September,
+which will bring its total debt to roughly a third of its $4 billion in
+authority, with no foreseeable need to issue any more debt. In the equity
+market for GSEs, prices of Fannie Mae and Freddie Mac stocks are both down
+about 8 percent since mid-August, substantially more than the decline in
+broad market indexes. Proposals to increase regulation of, or reduce
+implicit subsidies to, these entities are thought to be under consideration
+at the budget summit. In addition, the softening real estate market also
+2. Treasury market funding activity could be affected in early October by
+the debt ceiling. Without additional legislation by October 3, the current
+debt ceiling of $3.2 trillion is scheduled to revert to $3.12 trillion,
+necessitating a Treasury paydown of maturing debt.
+
+III-15
+may be contributing to the relative decline in these two agency's stock
+prices.
+Municipal Securities
+Over the intermeeting period, the Bond Buyer index of municipal yields
+has followed Treasury rates, rising about 20 basis points. Moreover, as
+investors generally have reacted to the greater economic uncertainty by
+seeking safer havens for their funds, quality spreads within the market for
+municipal securities have tended to widen. The spread between Aaa and Baa
+yields for municipal securities of similar maturities increased about 15
+basis points since early August.
+GROSS OFFERINGS OF MUNICIPAL SECURITIES
+(Monthly rates, not seasonally adjusted, billions of dollars)
+1988 1989 1990
+Year Year Ql Q2 July' Auqp Sept.
+Total offerings 11.73 11.90 8.85 15.53 11.76 17.90
+Total tax-exempt 11.41 11.65 8.73 15.30 11.64 17.44 8.50
+Long-term 9.54 9.47 7.63 11.41 8.73 10.04 7.50
+Refundings 2.90 2.47 1.45 1.58 1.29 .69
+New capital 6.64 7.01 6.19 9.73 7.44 9.39
+Short-term 1.87 2.17 1.10 3.88 2.91 7.40 1.00
+Total taxable .32 .25 .12 .23 .12 .46
+p Preliminary.
+f Forecast.
+1. Includes issues for public and private purposes; also includes
+taxable issues.
+2. Includes all refunding bonds, not just advance refundings.
+The issuance of municipal securities jumped sharply in August, with
+long-term volume of $10 billion being sold along with almost $7-1/2 billion
+of short-term issues. Almost all of the long-term offerings were for new
+capital, as refundings fell to only $700 million. The short-term volume was
+
+III-16
+largely composed of sizable tax and bond anticipation notes brought to
+market by the states of California, Massachusetts, and Texas. So far in
+September, the pace of new offerings appears to have moderated, with no
+large short-term issues and a more subdued volume of long-term issuance.
+The number of states and localities announcing revenue shortfalls has
+been increasing and previously disclosed problems appear to be worsening.
+Indeed, this month Philadelphia was forced to delay their $375 million stop-
+gap sale of nine-month notes, because it could not secure a $50 million
+letter of credit to replace an earlier agreement that was rescinded by the
+Swiss Bank Corporation. With no other banks immediately willing to step in
+and provide such credit enhancement, market participants suggested that the
+issue might have had to offer a yield of more than 10 percent. (In
+contrast, California's recent 10-month note sale, which carried Moody's
+highest rating, sold at a yield of about 6 percent.) A successful note sale
+in the near future is still possible; it would be needed to provide funds to
+the city to enable it to avoid default later this year.
+Other major cities also have begun to face major financial
+difficulties, including New York, Washington, and Detroit. Detroit stands
+to lose major sources of revenue if the final Census count shows that the
+city's population has slipped below 1 million. The preliminary count
+indicates that the city fell short by about 30,000 persons. Under state
+law, Detroit would no longer be able to levy higher income taxes nor impose
+any excise taxes on utility services.
+Many of the state budget problems have been concentrated along the
+eastern seaboard, and they are generally being attributed to unanticipated
+shortfalls in tax revenues. The range of projected deficits runs from $1.5
+
+III-17
+billion for New York state to $380 million for Connecticut, with deficits
+for the states of Massachusetts, New Jersey, Pennsylvania, Virginia, and
+Florida expected to fall somewhere in between. Thus far, however, only for
+New York state and Massachusetts have these conditions led to reductions in
+their credit ratings.
+Mortgage Markets
+Mortgage debt growth appears to have remained subdued in the third
+quarter. As noted above, the increase in real estate loans at commercial
+banks slowed to about a 7-1/2 percent annual rate in the first two months of
+the quarter, while the runoff of mortgage assets at SAIF-insured
+institutions apparently has continued.
+Despite the apparent decline in home mortgage lending, issuance of
+federally related mortgage-backed pass-through securities has been brisk,
+with such pools providing about two-thirds of the growth in residential
+mortgage debt. In recent quarters, the repackaging of Fannie Mae and
+Freddie Mac pass-throughs into CMO issues has picked up to an annual rate of
+about $11 billion. A steepening of the yield curve in August and early
+September has created a favorable environment for increased issuance of
+these securities with differing maturity tranches, because of enhanced
+opportunities for earning yield-curve "arbitrage" profits. Indeed, recent
+trade reports indicate that, during August, a record volume of these
+derivative products were priced for sale by underwriters.
+In the past, a steeping of the yield curve has been associated with an
+increase in the proportion of primary mortgage loan originations that carry
+adjustable rates, and recently the share has risen to 30 percent from a low
+of 20 percent at the beginning of the year (chart). During the month of
+
+III-18
+MORTGAGE-BACKED
+(Monthly averages, billionsSECURITY ISSUANCE
+of dollars, NSA unless noted)
+Federally related
+pass-through securities Multiclass securities
+Total Total ARM- Private FNMA FHLMC Agency
+(SA) (NSA) backed Total issuesl REMICs REMICS strips
+1988 12.4 12.5 2.4 6.9 4.2 .9 1.2 .6
+1989 16.8 16.7 2.6 8.1 1.4 3.1 3.2 .3
+1989-Q1 15.9 13.6 3.1 6.6 2.5 1.2 2.5 .4
+Q2 13.5 14.1 2.8 5.2 .6 2.4 2.1 .1
+Q3 15.9 17.6 2.5 9.8 1.2 3.6 4.4 .5
+Q4 21.6 21.6 2.2 10.7 1.2 5.2 4.0 .4
+1990-Q1 23,3 19.9 1.4 11.3 1.6 5.0 3.8 .9
+Q2 r 17.9 18.6 2.2 11.1 2.9 4.7 3.0 .4
+1990-Apr. 18.3 18.1 1.9 9.1 2.4 4.5 2.2 .0
+May r 18.4 18.1 2.5 12.6 4.6 5.0 3.0 .0
+June r 17.0 19.6 2.2 11.6 1.8 4.7 3.8 1.3
+July r 14.7 16.6 0.5 10.7 1.2 6.7 2.8 .0
+Aug. p n.a. n.a. 1.6 11.0 2.8 4.4 2.4 1.4
+1. Excludes pass-through securities with senior/subordinated structures.
+r--revised p--preliminary n.a.--not available.
+ARM Share vs. FRM-ARM Initial Rate Spread
+Percent Basis Points
+Monthly
+FRM-ARM Rate Spread
+ARM Share of Conventional Loans Closed'
+1987 1988 1989 1990
+*ARM share Is lagged one period.
+
+III-19
+August, the initial rate advantage of adjustable-rate mortgages (ARMs) over
+fixed-rate mortgages (FRMs) widened almost 50 basis points to 194 basis
+points, largely reflecting a rise in contract rates on FRMs. Although rates
+on FRMs have receded a bit lately, the latest ARM rate advantage remains
+about 186 basis points--enough to suggest some further rise in the share of
+ARMs.
+Consumer Installment Credit
+Consumer installment credit outstanding rose at a 7-1/2 percent annual
+rate in July, after no change in June. The advance in July was driven
+primarily by revolving credit gains, with outstanding automobile loans
+declining in the month. Monthly changes have been bumpy this year, but the
+growth trend in installment credit has been consistent with the decelerating
+pattern of the past few years. Indeed, the rise of total consumer
+installment credit through the first seven months of 1990 was at a meager 3
+percent annual rate, with most of this slowdown resulting from paydowns of
+auto credit. In contrast, revolving credit has grown at a 13 percent annual
+rate so far this year--only slightly below its 14 percent pace in the
+previous two years.
+The downtrend in consumer credit growth during the past several years
+has roughly paralleled a slackening in household purchases as the economic
+expansion has matured. Tax considerations also may have been a factor as
+well as growing difficulties in meeting debt-servicing obligations.
+Consumers are highly leveraged by historical standards, as indicated by the
+elevated relationship of installment debt to disposable income and by the 12
+percent share of disposable income that is required to service existing
+consumer credit indebtedness (chart). A still more comprehensive measure of
+
+III-20
+CONSUMER CREDIT
+(Seasonally adjusted)
+Percent change
+(at annual rate)
+Total installment
+Installment,
+excluding auto
+Selected types
+Auto
+Revolving
+All other
+Memorandum:
+Total21990
+1988 1989!  Q1 Q2P
+8.9 5.5 2.1 2.3
+10.3 8.6 3.4 7.4
+7.0
+13.7
+7.61.3
+14.2
+4.2.2
+10.5
+-2.6-5.2
+12.1
+3.2
+7.3 5.0 2.4 1.51990
+June JulvP
+.2 7.4Net change
+(billions of
+dollars)
+1990
+JunerJulvy
+.12 4.47
+5.2 13.7 1.88 5.00
+-7.3
+7.0
+3.5-2.2
+21.7
+6.5-1.76
+1.21
+.67-.53
+3-77
+1.23
+2.5 2.9 1.66 1.92Memo:
+Outstandings
+(billions of
+dollars)
+1990
+Julyp
+729.1
+442.4
+286.6
+212.1
+230.3
+787.4
+1. Growth rates are adjusted for discontinuity in data between December 1988 and
+January 1989.
+2. Installment plus noninstallment.
+r--revised. p--preliminary.
+Note: Details may not add to totals due to rounding.
+CONSUMER INTEREST RATES
+(Annual percentage rate)
+1987 1988
+At commercial banks
+New cars (48 mo.)
+Personal (24 mo.)
+Credit cards
+At auto finance cos.
+New cars
+Used cars10.46
+14.23
+17.9210.86
+14.68
+17.791989
+12.07
+15.44
+18.02
+10.73 12.60 12.62
+14.61 15.11 16.181990
+Apr. May June July Aug.
+11.82 .
+15.41 .
+18.14 ...11.80
+... 15.46
+... 18.18
+12.21 12.23 12.58 12.68
+16.02 16.03 16.00 15.96
+I. Average of "most common" rate charged for specified type and maturity during the
+first week of the mid-month of each quarter.
+2. Average rate for all loans of each type made during the month regardless of
+maturity.
+
+III-21
+HOUSEHOLD LEVERAGE MEASURES
+(as percent of disposable personal income)
+Consumer Installment Credit
+Credit outstanding
+-
+i V. . ""\-20
+/16
+/ 16
+Debt service payments 1 /
+8
+II l l I1 1 1 I 1 1II iri ll illl il iii
+1974 1978 1982 1986 1990
+Total Household Borrowing
+-- 30
+- Total debt service payments 1/
+Mortgage debt service payments 1/15
+10
+-4s
+I I I I I I I I I I 1 1 1 I It Iiillul iiiiiliii
+1970 1974 1978 1982
+1/ Staff estimates of scheduled principal and Interest payments.Percent
+-- 24
+1970
+1986 1990_ · ·_ _I ·__ ······IILIL~~__LIII····YL
+,c.,,,,,
+---------
+
+III-22
+Loan Loss (Chargeoffs) and Delinquency Rates at Large Banks, SA
+Commercial and Industrial Loan
+Delinquency Rate
+1.6
+1.4
+1.2
+1
+0.8
+0.6
+0.4
+0.2
+1
+0.75
+0.5
+0.25
+0
+2.25
+2
+1.75
+1.5
+1.25
+1
+0.75
+0.5Delinquency Rate Loss Rate
+Loss Rate
+\ Delinquency Rate
+Consumer Loan
+Delinquency R
+1982 1983 1984 1985 1986 1987 1988 19897
+-6.5
+'- 6
+-5.5
+5
+-4.5
+ate
+-4int
+S3.5
+3
+-2.5
+2
+1990
+1. Loss rates are based on chargeoffs net of recoveries. Delinquent loans Include those past due 30 days or more and still accruing Interest,
+as well as those on nonaccural status. Data are reported on the Quarterly Report of Condition by banks with at least $300 million in assets.
+Data are consolidated (foreign and domestic offices). Percent at annual rate of average amount outstanding, seasonally adjusted.
+Loss rate series begin In 1982 01, delinquency rate series begin In 1982 04.Loss Rate
+Real Estate Loan
+Loss Rate
+
+III-23
+household debt servicing burden is provided by the measure that combines both
+mortgage and consumer loan repayment requirements; this measure has risen to
+around 19 percent in 1990--up almost 5 percentage points since its latest trough
+in 1983. The increasing debt burden may be contributing to the continued rise
+in personal bankruptcy filings.
+Recent data on loan delinquencies present a mixed picture, with those at
+commercial banks showing marked deterioration but others indicating little
+change or even improvement. Call Report data on delinquencies for consumer
+loans at banks with assets in excess of $300 million continued the steady climb
+that began in mid-1988 (chart). The latest reading of 3.82 percent is the
+highest in the eight-year period covered by these data. In contrast to this
+picture of significant deterioration at commercial banks, other indicators show
+unchanged or improved credit quality in the household sector. Delinquencies on
+car loans at the captive auto finance companies have declined for three
+consecutive quarters. Furthermore, unpublished data show that repossessions at
+these companies, which had risen from late 1988 through early 1990, have since
+receded and continue to be low. In the mortgage market, troubles with real
+estate loans have not extended to home loans. Delinquencies (60 days and up) on
+home mortgages were essentially unchanged in the second quarter, according to
+data compiled by the Mortgage Bankers Association. This series has been
+generally on a downtrend since peaking in the first half of 1986; at 1.49
+percent in the second quarter, the delinquency rate was at its lowest level
+since 1980. At commercial banks, however, the delinquency rate on all real
+estate loans (single and multi-family, farm, nonfarm-nonresidential, and
+construction and development) in the second quarter continued the trend up that
+began early last year.
+
+INTERNATIONAL DEVELOPMENTS
+
+INTERNATIONAL DEVELOPMENTS
+U.S. Merchandise Trade
+Preliminary data for July indicate that the deficit for U.S.
+merchandise trade widened to an unexpectedly large $9.3 billion (seasonally
+adjusted, Census basis) from a revised and unusually low deficit in June of
+$5.3 billion.
+The value of exports declined 6 percent in July from a strong level in
+June. The decreases were spread broadly among major trade categories --
+categories that increased in June (such as civilian aircraft, consumer
+goods, agricultural products, and machinery other than computers) declined
+U.S. MERCHANDISE TRADE; MONTHLY DATA
+(Billions of dollars, seasonally adjusted, Census customs basis)
+Exports Imports
+Total Ag. Nonag. Total Oil Non-oil Balance
+(nsa)
+1990-Jan 31.4 3.6 27.8 41.6 5.9 35.7 -10.2
+Feb 31.6 3.4 28.2 38.7 4.7 34.0 -7.1
+Mar 33.3 3.7 29.6 41.6 4.7 36.9 -8.4
+Apr 32.1 3.3 28.8 39.4 3.8 35.6 -7.3
+May 32.8 3.3 29.5 40.5 4.3 36.2 -7.8
+Jun 34.2 3.6 30.6 39.6 3.7 35.9 -5.3
+July 32.0 3.1 28.9 41.4 4.0 37.4 -9.3
+r--revised p--preliminary
+Source: U.S. Department of Commerce, Bureau of the Census.
+in July. In addition, there was a 12 percent drop in exports of automotive
+products (partly to Canada and partly to other countries).
+The value of imports increased 4-1/2 percent in July. About two
+thirds of the increase was in imported consumer goods (largely apparel,
+jewelry, and gem diamonds) and machinery, both of which rose 9 percent. The
+rise in the value of imported oil was entirely in quantity (which jumped 5
+IV-1
+
+IV-2
+percent) as the price of oil declined 1 percent. Oil developments are
+discussed further below.
+In the second quarter, the U.S. merchandise trade deficit was $90
+billion at a seasonally adjusted annual rate, balance of payments basis, the
+smallest quarterly trade deficit since the fourth quarter of 1983. Most of
+the $15 billion AR improvement from the first to second quarters resulted
+from a drop in the value of oil imports. In addition, the value of
+nonagricultural exports rose somewhat.
+U.S. Merchandise Trade
+Billions of dollars, SAAR, BOP-basis
+E
+Total Ag
+1987 250
+1988 320
+1989 360
+1989-1 353
+2 364
+3 357
+4 367
+1990-1 385
+2 387
+Percent Change (not AR)
+Q2/Q1 0.5
+Q2/Q2 6.2
+Source: U.S. Department
+The value of total exports rose slightly in the second quarter. There
+were increases (largely in quantity) of exported automotive products (to:xpor
+;ric
+30
+38
+41
+43
+43
+40
+41
+44
+41ts
+Nonagric
+221
+282
+319
+310
+322
+318
+326
+341
+346
+-5.5 1.3
+-3.1 7.4
+of Commerce,
+exports rose
+in quantity)Total
+410
+447
+475
+465
+477
+477
+482
+490
+477
+-2.6
+0
+Bureau ofOil
+42
+40
+51
+44
+54
+53
+53
+62
+48Non-oil
+367
+407
+424
+422
+423
+424
+429
+428
+429Trade
+Balance
+-160
+-127
+-115
+-112
+-113
+-119
+-115
+-105
+-90
+-22.4 0.2
+-10.5 1.3
+Economic Analysis.
+The value of total exports rose slightly in the second quarter. There
+were increases (largely in quantity) of exported automotive products (to
+Canada and to other areas), civilian aircraft, and consumer goods, that were
+nearly offset by declines in agricultural shipments (primarily wheat,
+soybeans, and cotton), computers, and industrial supplies. Exports of
+machinery other than computers (accounting for about one-fourth of
+nonagricultural exports) have been flat on average in recent monthsII- ImportsImports
+
+IV-3
+MAJOR TRADE CATEGORIES
+(Billions of dollars, BOP basis, SAAR)
+Agricultural Exports
+Nonagricultural Exports
+Industrial Supplies
+Gold
+Fuels
+Other Ind. Supp.
+Capital Goods
+Aircraft & Parts
+Computers & Parts
+Other Machinery
+Automotive Products
+Canada
+Other
+Consumer Goods
+Other Nonagric.Year
+1989
+41.5
+319.0
+90.6
+2.5
+12.1
+76.0
+138.0
+26.5
+24.2
+87.3
+34.7
+22.5
+12.2
+35.4
+20.3Q2
+42.7
+321.7
+94.0
+3,0
+12.8
+78.2
+138.4
+27.3
+24.1
+87.0
+34.3
+22.0
+12.2
+35.0
+20.11989
+Q3
+39.7
+317.7
+90.5
+2.6
+11.0
+76.9
+141.1
+29.7
+24.6
+86.8
+33.0
+21.5
+11.5
+35.0
+18.1Q4
+40.9
+326.1
+89.0
+2.1
+12.2
+74.7
+140.8
+25.6
+24.7
+90.5
+35.6
+22.8
+12.9
+38.0
+22.71990
+Ql-r 02
+43.8 41.4
+341.2 345.6
+94.2 93.0
+2.6 3.7
+12.8 11.2
+78.8 78.1
+152.9 154.2
+32.3 34.4
+26.4 24.9
+94.2 94.9
+34.7 38.5
+20.8 23.5
+13.9 15.1
+40.7 42.0
+18.7 17.9
+Oil Imports
+Non-Oil Imports
+Industrial Supplies
+Gold
+Other Fuels
+Other Ind. Supp.
+Capital Goods
+Aircraft & Parts
+Computers & Parts
+Other Machinery
+Automotive Products
+Canada
+Other
+Consumer Goods
+Foods
+Other Non-oil50.9
+424.4
+84.1
+3.6
+3.2
+77.3
+113.1
+9.5
+21.5
+82.1
+86.0
+22.5
+56.5
+102.8
+25.1
+13.454.1
+423.3
+85.1
+3.7
+3.2
+78.2
+114.0
+10.2
+20.9
+82.9
+84.5
+29.1
+55.4
+101.3
+25.2
+13.152.7
+423.9
+82.5
+3.4
+3.1
+76.0
+113.1
+9.2
+22.5
+81.4
+85.4
+29.1
+56.3
+104.9
+24.7
+13.353.3 62.4
+428.6 427.8
+83.2 80.4
+4.3 1.7
+3.7 3.1
+75.2 75.6
+116.5 115.7
+9.0 9.2
+23.4 23.1
+84.1 83.4
+83.0 83.9
+29.6 27.6
+53.4 56.3
+106.4 103.4
+25.0 27.8
+14.5 16.6
+Source: U.S. Department of Commerce, Bureau of Economic Analysis.48.4
+428.9
+82.2
+2.1
+3.1
+77.0
+115.6
+10.6
+22.8
+82.2
+84.9
+30.7
+54.1
+102.9
+26.7
+16.6
+
+IV-4
+apparently reflecting in part some slowing of economic growth in major
+markets abroad.
+The value of imports in the second quarter declined to levels recorded
+in the second and third quarters of last year. Non-oil imports rose very
+little in the second quarter (in both value and quantity); increases in the
+value of automotive products from Canada, aircraft, and industrial supplies
+(metals) were offset by declines in other categories. The drop in the value
+of oil imports in the second quarter was about three-fourths in price and
+one-fourth in quantity.
+OIL IMPORTS
+(BOP basis, value at annual rates)
+1989 1990 Months
+Q3 Q4 Q1 Q2 Apr May Jun Jul
+Value (Bil. $) 52.69 53.29 62.37 48.39 46.94 52.32 45.90 49.31
+Price ($/BBL) 16.75 17.67 19.47 15.81 16.86 15.76 14.92 14.76
+Quantity (mb/d) 8.55 8.20 8.90 8.41 7.73 8.93 8.54 8.98
+The decline in the price of imported oil in the second quarter and
+July reflected continued strong OPEC production. Between January and July
+the average price of imported oil dropped 27 percent (by more than $5.50 per
+barrel). When the Persian Gulf OPEC producers announced a production
+agreement in July, spot prices began to move up. Differences in price data
+for imported oil reported by BLS and by the Commerce Department (in the
+trade figures) occur because of differing commodity composition, sources of
+reporting, and coverage.
+World Oil Prices since the Iraqi Invasion
+Since the invasion of Kuwait by Iraq (August 2), spot oil prices have
+fluctuated sharply. The spot price of West Texas Intermediate has risen in
+an erratic pattern from $31.50 per barrel (at the time of the last
+Greenbook) to current levels of $38 per barrel. Prices generally declined
+
+IV-5
+IMPORT AND EXPORT PRICE MEASURES
+(percentage change from previous period, annual rate)
+Year Quarters Months
+1990-02 1989 1990 1990
+1989-02 04 Q1 02 June July
+(annual rates) (monthly rates)
+Imports, Total
+Foods, Feeds, Bev.
+Industrial Supplies
+Ind Supp Ex Oil
+Capital Goods
+Automotive Products
+Consumer Goods
+Memo:
+Oil
+Non-oil
+Exports, Total
+Foods, Feeds, Bev.
+Industrial Supplies
+Capital Goods
+Automotive Products
+Consumer Goods
+Memo:
+Agricultural
+Nonagricultural
+Fixed-Weight
+Imports, Total
+Oil
+Non-oil
+Exports, Total
+Ag.
+Nonag.
+Deflators
+Imports, Total
+Oil
+Non-oil
+Exports, Total
+Ag.
+Nonag.5.2
+7.3
+8.6
+-2.2
+2.8
+5.7
+4.1-1.0
+0.8
+-7.2
+-3.9
+2.4
+0.0
+3.1
+-14.3
+0.4
+0.1
+-7.2
+-2.2
+2.9
+2.8
+3.5
+-4.0
+0.6BLS Prices --
+3.7
+11.5
+-0.4
+-2.2
+9.1
+-0.3
+6.9-6.4
+2.2
+-18.1
+-3.8
+-0.9
+-5.4
+0.3
+35.8 3.3 -42.8
+2.9 3.8 -2.1
+0.0
+-7.4
+-2.7
+2.2
+4.8
+2.11.8
+-3.3
+0.0
+4.1
+1.8
+6.3
+-4.9 -1.1
+0.4 2.11.4
+5.7
+-1.7
+2.2
+1.4
+2.4
+7.1
+0.4-0.8
+2.3
+-2.9
+-1.1*
+0.2
+0.6
+-0.80.1
+-0.3
+0.2
+-0.3*
+-0.1
+0.2
+-0.3
+-7.0 1.4
+-0.1 -0.2
+-0.2
+-2,9
+-0.1
+0.4
+0.2
+0.00.3
+0.6
+0.0
+0.3
+0.1
+0.2
+-1.9 0.3
+0.1 0.2
+------Prices in the GNP Accounts -
+-2.4
+-13.7
+-0.6
+0.0
+-3.0
+0.6
+-4.0
+-13.7
+-2.8
+-1.0
+-3.0
+-0.73.2
+20.9
+0.7
+-2.2
+-15.2
+0.6
+0.4
+20.9
+-3.7
+-2.7
+-15.2
+-1.110.1
+48.2
+4.9-12.3
+-56.7
+-2.3
+3.8 1.5
+2.7 10.7
+4.1 -0.2
+5.4
+48.2
+2.8
+-0.6
+2.7
+-1.2-8.7
+-56.6
+-1.1
+4.7
+10.7
+4.4
+*Not for publication.
+
+IV-6
+during the last half of August as it became clear that other members of OPEC
+would increase production to offset much of the shortfall from Iraq and
+Kuwait. After drifting in the $29-$31 per barrel range through the middle
+of September, prices surged recently (at times approaching $40 per barrel),
+as the market's perception of a heightened probability of war apparently led
+to an increased demand for stocks.
+Prices of Exports and Non-oil Imports
+The rise in prices of exports was largely in agricultural products,
+capital goods, and consumer goods. (See the table on the next page.)
+Prices of non-oil imports in July decreased for the fourth consecutive
+month, with much of the decline attributable to industrial supplies and
+consumer durables. Note: Data for August will be released on September
+27, and will be included in the Greenbook supplement.
+For the second quarter, the decline in prices of non-oil imports was
+largely in industrial supplies, automotive products, and to a lesser extent
+capital goods. Part of the downward pressure on prices in the second
+quarter was the effect of an appreciation of the dollar against the Japanese
+yen that was not fully offset by the dollar's depreciation against other
+currencies. For U.S. exports, price increases in the second quarter were
+led by agricultural products with smaller increases in most other trade
+categories. The exception was in nonagricultural industrial supplies where
+price declines were recorded for most items.
+U.S. Current Account in 1990-02
+The U.S. current account deficit was $87.4 billion (seasonally
+adjusted annual rate) in the second quarter, $0.7 billion larger than in the
+revised first quarter (see table below). A reduction in the merchandise
+trade deficit in the second quarter was offset by increased outflows of
+investment income (both portfolio and direct) and unilateral transfers.
+
+IV-7
+Most of the change in net portfolio income was a reduction in receipts
+reflecting both lower interest rates and a lower level of claims outstanding
+during the quarter. For direct investment income, most of the change was a
+small increase in payments from very depressed first-quarter levels. The
+increase in net unilateral transfers was accounted for by government grants.
+U.S. CURRENT ACCOUNT
+(Billions of dollars, seasonally adjusted annual rates)
+1989 1990 Changes
+Year O1-r 02-p 02-Q1
+1. Trade Balance -114.9 -105.1
+2. Exports 360.5 385.1
+3. Imports 475.3 490.2
+4. Investment Income, net* -0.9 8.0
+5. Direct Investment, net* 39.6 48.1
+6. Portfolio Income, net -40.5 -40.2
+7. Service Transactions
+8. Military, net -6.3 -5.2
+9. Other Services, net 26.8 29.2
+10. Unilateral Transfers -14.7 -13.5
+11. Current Account Balance* -110.0 -86.7
+Memo: 1
+12. Capital Gains or Losses -0.6 2.3
+* Includes capital gains and losses.
+1. Gains or losses on net financial assets include
+capital gains (or losses) resulting from the sale of
+less) than book value. Plus = gain; minus = loss.
+r--revised p--preliminary-90.3 14.8
+387.0 1.9
+477.3 -12.9
+-2.6 -10.5
+44.4 -3.8
+-46.9 -6.7
+-5.4
+29.7
+-18.9
+-87.4-0.2
+0.5
+-5.3
+-0.7
+2.8 0.5
+only realized
+assets for more (or
+U.S. International Financial Transactions
+In July, there were large recorded net capital inflows into the United
+States, both official and private. (See Summary of U.S. International
+Transactions table.) In contrast, in the first half of 1990, recorded net
+capital inflows were small and the counterpart to the current account
+deficit was a huge positive statistical discrepancy.
+
+IV-8
+Foreign official monetary authorities added over $2 billion to their
+holdings in the United States in July (line 4). The countries adding to
+their holdings were a diverse group, including Spain and Taiwan; holdings
+of OPEC declined, as did the aggregate for the G-10 countries. Partial
+information from the FRBNY indicates that G-10 holdings increased by about
+$2 billion in August.
+Foreign private net purchases of U.S. Treasury securities (line 3)
+amounted to more than $5 billion in July, larger than net purchases in any
+other month in 1990. Financial centers in the Caribbean and the United
+Kingdom accounted for the bulk of the net purchases, providing little
+indication of the identity of the ultimate purchasers.
+Foreign private net purchases of U.S. corporate and government agency
+bonds (line 2a) were also strong in July; Japan accounted for more than one-
+quarter of the total, purchasing net $.7 billion in U.S. government agency
+bonds. In August, however, issuance of bonds by U.S. corporations in both
+the United States and Euromarkets declined sharply, suggesting that
+subsequent capital inflows through this channel are likely to be smaller.
+Foreign private net purchases of U.S. stocks (line 2b) were also substantial
+in July, the first month to show net purchases since last October. Japanese
+residents accounted for about two-thirds of the total. U.S. net purchases
+of foreign securities (line 2c) declined in July from the very high rate
+recorded in May and June.
+Banks reported large net inflows in July (line 1), reversing the
+outflows reported in June; transactions with own offices outside the United
+States accounted for most of this shift. However, on a monthly average
+basis, claims of U.S. banking offices on their own foreign offices and IBFs
+showed only small changes in July and August (see line 1 of the
+International Banking Data table).
+
+IV-9
+SUMMARY OF U.S. INTERNATIONAL TRANSACTIONS
+(Billions of dollars)
+1988 1989
+Year Year
+Private Capital
+Banks
+1. Change in net foreign
+positions of banking offices
+in the U.S. (+ = inflow)
+Securities
+2. Private securities
+transactions, net
+a) foreign net purchases2
+(+) of U.S. corporate bonds
+b) foreign net purchases
+(+) of U.S. corporate stocks
+c) U.S. net purchases (-) of
+foreign securities
+3. Foreign net purchases (+) of U.S.
+Treasury obligations
+Official Capital
+4. Changes in foreign official
+reserves assets in U.S.
+(+ = increase)
+a) By area
+G-10 countries (incl. Switz.)
+OPEC
+All other countries
+b) By type
+U.S. Treasury securities3Other
+5. Changes in U.S. official reserve
+assets (+ = decrease)
+4
+Other transactions (Quarterly data)
+6. U.S. direct investment (-) abroad
+7. Foreign direct investment (+) in U.S.5
+8. Other capital flows (+ = inflow)
+9. U.S. current account balance
+10. Statistical discrepancy1989 1990 1990
+Q3 Q4 Q1 Q2 May June July
+22.2 27.2 15.1 10.7 16.2 -2.6 8.2 -11.3 11.1
+17.8 16.1 0.6 6.2-6.8 -8.2 -4.6 -0.7 3.2
+26.8 32.8 5.6 12.5 5.9 6.8 1.8 4.1 3.3
+0.4 7.6 5.1 -1.5 -3.2 -3.2 -2.2 -0.1 1.4
+-9,4 -24.3 -10.2 -4.8 -9.5 -11.8 -4.3 -4.8 -1.4
+20.6 30.4 12.7 5.3 -0.7 3.0 2.7 3.5 5.3
+40.2 8.5 13.4 -7,4 -7.8 5.2 * 2.0 2.3
+15.5 -5.0 6.1
+-3.4 10.1 4.6
+28.1 3.4 2.7-2.0
+-1.5
+-3.9-6.3 0.1
+3.1 *
+-4.6 5.1-1.3 2.1 -0.5
+-0.5 0.1 -3.0
+1.8 -0.3 5.9
+41.7 0.3 12.8 -7.3 -5.9 3.0 * 1.1 1.6
+-1.6 8.2 0.6 -0.1 -1.9 2.2 * 0.9 0.7
+-3.9 -25.3 -6.0 -3.2 -3.2 0.4 -0.4 0.6 2.1
+-16.2
+58.4
+-1.8
+-128.9
+-8.4-31.7
+72.2
+-9.8
+-110.0
+22.4-9.6
+12.4
+-8.5
+-27.6
+-2.5-8.8
+21.5
+-3.7
+-26.7
+6.1-9.3
+5.5
+6.0
+-21.7
+21.8-3.1
+5.0
+-4.2
+-21.8
+26.3
+MEMO:
+U.S. merchandise trade balance -- part
+of line 9 (Balance of payments basis,
+seasonally adjusted) -127.2 -114.9 -29.8 -28.7 -26.3 -22.6 n.a. n.a. n.a.
+1. These data have not been adjusted to exclude commissions on securities transactions and, therefore, do not match
+exactly the data on U.S. international transactions as published by the Department of Commerce.
+2. Includes all U.S. bonds other than Treasury obligations.
+3. Includes deposits in banks, commercial paper, acceptances, borrowing under repurchase agreements, and other
+securities.
+4. Seasonally adjusted.
+5. Includes U.S. government assets other than official reserves, transactions by nonbanking concerns, and other banking
+and official transactions not shown elsewhere. In addition, it includes amounts resulting from adjustments to the data
+made by the Department of Commerce and revisions to the data in lines 1 through 5 since publication of the quarterly
+data in the Survey of Current Business.
+*--Less than $50 million.
+NOTE: Details may not add to total because of rounding.
+
+IV-10
+The Department of Commerce recently released data on U.S. capital flows
+in the second quarter of 1990. Foreign direct investment in the United
+States was very small for the second successive quarter, amounting to $10.5
+billion in the first half of 1990 compared with $38.4 billion in the first
+half of 1989. Although there have been few huge takeovers by foreign
+companies to date in 1990, partial information on the value of takeovers
+does not indicate such a sharp decline and suggests that a change in funding
+patterns may also have played a role. U.S. direct investment abroad in the
+first half of 1990 was robust, although the second-quarter total was far
+below the first quarter. Both plant and equipment expenditures by U.S.-
+owned affiliates abroad and acquisitions of foreign firms remained strong.
+The statistical discrepancy in the U.S. international transactions
+accounts for the first half of 1990 amounted to more than $45 billion (not
+at an annual rate). Part of this discrepancy is accounted for by the
+failure of the accounts to include data on increases in foreign holdings of
+U.S. currency. Information from a group of major banks indicates that the
+pace of their net currency shipments abroad increased from $3.7 billion in
+1989 to $6.8 billion in the first half of 1990 alone and another $4.2
+billion in July and August combined. However, the size of the statistical
+discrepancy for the first half indicates that there are other substantial
+errors and omissions in the accounts in addition to omitted currency
+shipments.
+
+INTERNATIONAL BANKING DATA
+(Billions of dollars)
+1988 1989 1990
+Dec. Mar. June Sept. Dec. Mar. May June July Aug.
+1. Net Claims of U.S. Banking
+Offices (excluding IBFS) on.Own
+Foreign Offices and IBFS
+(a) U.S.-chartered banks
+(b) Foreign-chartered banks
+2. Credit Extended to U.S.
+Nonbank Residents by Foreign
+Branches of U.S. Banks
+3. Eurodollar Holdings of
+U.S. Nonbank Residents i/-4.9
+21.6
+-26.5
+21.2-2.9
+20.4
+-23.3-3.9
+19.2
+-23.1-6.4
+14.9
+-21.3
+24.0 26.0 21.6-5.5
+19.2
+-24.7
+20.7-11.7
+12.2
+-23.9-22.0
+2.3
+-24.3-11.0
+7.2
+-18.2-10.3
+7.4
+-17.7
+21.8 22.4 22.2 22.3-12.4
+5.1
+-17.6
+23.0
+i
+145.3 144.8 131.5 130,3 123.5 110.6 111.2 107.2 104,5 105.7
+1. Includes term and overnight Eurodollars held by money market mutual funds. Note: These data differ in coverage and
+timing from the overall banking data incorporated in the international transactions accounts. Line 1 is an average of
+daily data reported to the Federal Reserve by U.S. banking offices. Line 2 is an average of daily data. Line 3 is an
+average of daily data for the overnight component and an average of Wednesday data for the term component.
+
+IV-12
+Foreign Exchange Markets
+After having declined steadily between mid-June and the August 21 FOMC
+meeting, the trade-weighted, foreign exchange value of the dollar against
+the other G-10 currencies ended this intermeeting period little changed on
+balance.
+The dollar followed a sinusoidal pattern against the major European
+currencies during the period, as the market's assessment of the short-term
+stance of the Federal Reserve alternated between easing and holding steady.
+Safe haven concerns may have provided some support for the dollar late in
+the period.
+While the dollar rose on balance against most of the major currencies
+since the August FOMC meeting, it depreciated more than 6-1/4 percent
+against the yen. The yen moved up in reaction to signs that economic
+activity in Japan remains strong and indications that Japanese authorities
+are keeping monetary conditions tight. On August 30 the Bank of Japan
+raised the official discount rate 75 basis points to 6 percent, ratifying a
+round of tightening that began in June. During the intermeeting period, the
+interest rate on three-month CDs in Japan rose 35 basis points to 8.4
+percent. The yield on the bellwether bond in Japan rose more than 60 basis
+points to about 8.7 percent.
+On balance, the dollar appreciated 1 percent against the mark and 3
+percent against sterling. Sterling declined as expectations that the pound
+would enter the exchange rate mechanism of the EMS in early September were
+unrealized. The dollar firmed 1-3/4 percent against the Swiss franc, as
+Swiss authorities moved to offset the additional monetary restraint caused
+by the runup in the franc in early August with an easing of interest rates.
+The three-month interbank rate in Switzerland declined 75 basis points
+
+IV-13
+WEIGHTED AVERAGE EXCHANGE VALUE OF THE DOLLARMarch 1973 = 100
+Daily series
+FOMC
+August 22
+June August September
+Selected Stock Indices
+(percent changes from date to September 25)
+August 1
+Spain
+Germany
+Japan
+Italy
+Switzerland
+France
+United Kingdom
+Netherlands
+Canada-28.7
+-28.0
+-24.3
+-23.2
+-23.0
+-21.2
+-17.6
+-13.1
+-10.2August 21
+-14.9
+-14.0
+-11.2
+-6.3
+-9.4
+-6.3
+-5.5
+-3.9
+-7.3
+-13.0 -4.4I I I I I I I I I I I I I I I I I I I I I I I I I I Il I I II I I I I I I I I I I I I l l I ll I 1 111111I Iil 1 1 1 1I I/I;~··--- 86
+United States
+
+IV-14
+during the period to 8 percent. The dollar rose about 1-1/2 percent against
+the Canadian dollar, as the Canadian dollar moved down from its 12-year high
+against the U.S. dollar early in the period. Signs of weakness in Canadian
+economic activity and an easing of interest rates in Canada prompted the
+decline in the currency. The Canadian three-month interbank interest rate
+declined about 55 basis points during the period to just above 12-1/2
+percent. Also contributing to downward pressure on the Canadian dollar was
+the surprise election victory of the New Democratic Party in Ontario.
+Within the EMS, the lira and peseta declined relative to the other
+currencies, as both economies were perceived to be relatively more
+vulnerable than the other EMS countries to the recent oil price increases.
+Furthermore, Italian authorities allowed interest rates to decrease during
+the period. Since the August FOMC, the three-month interbank interest rate
+in Italy fell more than 85 basis points to 10-3/4 percent. Comparable
+interest rates in France and Germany were little changed.
+Stock prices in the major industrialized countries, shown in the
+accompanying table, continued to move down in the intermeeting period, as
+oil price increases associated with the Iraqi invasion on August 1 prompted
+downward adjustments in prospective earnings for oil-consuming businesses
+worldwide. Contributing to the downward pressure on German stock prices was
+some disappointment with the increasing cost of unification and the pace of
+economic development in East Germany. Stock prices in the United Kingdom,
+the Netherlands, and Canada--countries that are net exporters of energy
+products--fared better than the rest. However, perceptions that economic
+activity is slowing in the United Kingdom and especially in Canada probably
+prevented stronger performances by stock prices in those countries.
+
+IV-15
+There was no Desk
+activity for official U.S. accounts.
+The price of gold moved down nearly 3 percent over the intermeeting
+period from its peak levels in mid-August to just under $402. However, the
+price of gold is still up more than 8-1/4 percent from the beginning of
+August.
+Developments in Foreign Industrial Countries
+Real GDP growth slowed in the second-quarter in most major foreign
+industrial countries. In Germany and Japan, however, this slowing was from
+exceptionally rapid first-quarter rates, and recent monthly indicators
+suggest that activity remains robust. In the other G-7 countries growth
+does not appear to have rebounded since the second quarter. Economic reform
+programs have contributed to declines in output in most East European
+economies. A shift in demand towards western goods in East Germany caused
+industrial production to fall sharply, but contributed to an increase in
+economic activity in West Germany.
+Consumer price inflation increased sharply in August in most
+industrial countries, as higher prices for oil added roughly 1/4 percent to
+consumer-price indices. Governments appear to have decided not to interfere
+with the pass-through of oil price increases to consumers. In July, before
+the oil-price increase, inflation rates were relatively stable in most
+industrial countries.
+The Japanese current account surplus declined in July, reflecting
+strong import demand. In Canada and the United Kingdom, external deficits
+narrowed due to a weakening of economic activity. In Germany, the
+Bundesbank began publishing consolidated East and West German balance of
+payments statistics, which showed for July a German current account surplus
+
+IV-16
+of $36 billion (a.r.), roughly equal to the West German surplus in July
+1989.
+Individual Country Notes. In Japan, real GDP (s.a.) grew 3.6 percent
+(a.r.) in the second quarter, down from a revised 11.4 percent in the first
+quarter. The slowing of growth from the first to the second quarter was
+accounted for entirely by a sharp swing in the contribution of the external
+sector from positive to negative. Domestic demand growth increased to 10
+percent in the second quarter, led by strong growth in consumption and
+investment. Relative to its level a year earlier, second-quarter GDP was up
+7.5 percent. Recent economic indicators suggest on balance that the pace of
+economic activity has been rapid, despite increases in Japanese interest
+rates. In July, industrial production (s.a.) rose 1.5 percent to a level
+6.7 percent above that of a year earlier. Retail sales (s.a.) fell in July,
+however, by 1.2 percent, and housing starts moved down in July for the
+second consecutive month. The index of capacity utilization (s.a.) rose
+1.4 percent in July returning to near its record level of May. The labor
+market continued to be tight as the unemployment rate (s.a.) edged down to
+2.1 percent in July. Following two sluggish months, new machinery orders
+(s.a.) rose 16 percent in July to their highest level this year. A new
+quarterly survey of business conditions by the Bank of Japan (conducted in
+early August) revealed that business confidence is still high and capital
+spending plans by leading corporations remain strong.
+In August, the Tokyo consumer price index (n.s.a.) rose 0.3 percent to
+a level 3.0 percent above its level a year earlier, up from 2.5 percent in
+July. The wholesale price index (n.s.a.) in August rose 0.3 percent to a
+level 1.1 percent above that of a year earlier. These increases were
+attributed mainly to higher oil and food prices.
+
+REAL GNP AND INDUSTRIAL PRODUCTION IN MAJOR INDUSTRIAL COUNTRIES
+(Percentage change from previous period, seasonally adjusted) 1
+Q4/Q4 Q4/Q4
+1988 19891989-----------1990-----------1990----------------------------- Latest 3 months
+Q3 Q4 Q1 Q2 Apr. May June July Aug. from year ago
+Canada
+GDP
+IP
+Germany
+GNPIP
+United Kingdom
+GDP
+IP
+United States
+GNP
+IP3.1 2.9
+2.7 .4
+3.5 3.4
+4.6 2.8
+3.4 3.24.0 4.6
+3.5 3.0
+7.5 3.3
+5.1 4.8
+7.6 4.2
+3.7 1.8
+2.5 .4
+3.5 1.8
+4.5 1.1.8 .6 .5 -.4
+-.2 -.4 -1.2 -.0
+.5 .7 .7 n.a.
+-.2 -.1 -.2 1.7
+-.4 1.0 3.6 -.9
+2.2 .4 2.9 -1.1
+.8 .5 .9 n.a.
+2.7 2.1 -2.3 n.a.
+2.9 .8 2.7 .9
+-.0 .7 .9 1.9
+.2 .8 .9 .3
+1.0 .1 -.1 2.0
+.4 .1 .4 .1
+-.3 .0 .2 1.0-.4 .2 .3 n.a. n.a.
+1.4 .2 .4 n.a. n.a.
+K K M M K
+-3,5 3.2 -.2 1.7 n.a.
+X X X w x
+-.8 -2.5 n,a. n.a. n.a.
+M ) C M M
+-1.0 2.5 -.2 1.5 n.a.
+x X K X
+.4 -.2 1.8 -3.7 n.a.
+X M M
+-.1 .5 .5 .0 -.2
+1. Asterisk indicates that monthly data are not available.
+2. For quarterly data, latest quarter from year ago.1 .4
+-1.8
+2.6
+1.1
+2.3
+2.9
+1.0
+1.6
+
+CONSUMER AND WHOLESALE PRICES IN MAJOR INDUSTRIAL COUNTRIES
+(Percentage change from previous period) 1
+Q4/Q4 Q4/Q4
+1988 19891989 1990
+Q1 Q2 Q3 Q4 Q1 021990--------------------------- Latest 3 moiths
+May June July Aug. from year igo
+Canada
+CPI
+WPI
+France
+CPI
+WPI
+Germany
+CPI
+WPI
+Italy
+CPI
+WPI
+Japan
+CPI
+WPI
+United Kingdom
+CPI
+WPI
+United States
+CPI (SA)
+WPI (SA)4.1 5.2
+3.7 .7
+3.0 3.6
+7.2 .9
+1.6 3.1
+2.2 4.3
+5.2 6.6
+n.a. n.a.
+1.5 2.9
+-1.4 3.7
+6.5 7.6
+4.9 5.2
+4.3 4.6
+3.4 4,91.2 1.7 1.4
+1.0 .3 -.2
+.8 1.22,4 .4
+.9 .0
+1.5 -.6.7 1.4
+-.4 .6
+.8
+-1.0
+.6 1.1
+.3 -.3
+2.0 1.7 1.0 1.8 1.6 1.2
+n.a. 1.7 .0 2.5 2.1 -.1
+-.2 2.2
+.5 2.7.1 .9
+.8 -.3.4 1.2
+.4 .8
+1.6 2.9 .9 2.0 1.8 4.7
+1.4 1.2 1.2 1.2 1.6 2.1
+1.3 1.5
+2.0 1.6.7 1.0 2.0
+.0 1.2 2.3.5 .4
+.3 -.1.5
+n.a,.0n.a.
+.2 .2 .3 .6
+x x 3
+.2 .1
+.3 -.3
+.3
+-.4.0
+-.3
+.4 .7
+.0 n.a.
+.6 -.6
+-.3 -.1
+.4 .1
+.2 .2
+.2 .5 .4
+.1 .2 -.1
+indicates that monthly data are not available.3.2
+-2.2
+2.5
+.6
+5.9
+5.0
+2.6
+.9
+10.1
+6.1
+5.1
+3.9
+1. Asterisk
+
+TRADE AND CURRENT ACCOUNT BALANCES OF MAJOR INDUSTRIAL COUNTRIES 1
+(Billions of U.S. dollars, seasonally adjusted except where otherwise noted)
+1988 19891989 1990-------------
+Q1 Q2 Q3 04 Q1 Q21990
+May Juno July Aug.
+Canada
+Trade
+Current account
+France
+Trade
+Current account
+Germany
+Trade (NSA)
+Current account (NSA)
+Italy
+Trade
+Current account (NSA)
+Japan
+Trade
+Current account 2
+United Kingdom
+Trade
+Current account
+United States
+Trade 2
+Current account8.3 6.4
+-8.4 -14.1
+-5.4 -7.6
+-3.4 -4.0
+72.9 71.6
+50.5 55.5
+-10.5 -12.4
+-6.3 -10.6
+77.3 64.5
+79.6 57.2
+-37.0 -38.1
+-26.6 -31.2
+-127.0 -114.9
+-128.9 -110.02.5 1.2 1.6 1.1 1.5 2.6
+-2.6 -4.0 -3.5 -4.0 -4.2 -3.8
+-.8 -2.1 -2.7 -2.1
+1.4 -1.2 -1.2 -3.0-.4 -1.9
+.9 -2.7
+19.4 17.7 17.8 16.6 22.4 16.7
+16.8 14.0 11.1 13.5 17.0 10.8
+-4.4 -3.3 -2.9 -1.7 -4.1 -1.9
+-8.2 -1.1 .1 -1.5 n.a. n.a.
+20.6 16.2 15.5 12.2 15.6 13.5
+20.3 14.0 14.2 9.2 15.3 8.3
+-10.5 -10.3 -10.4 -6.9 -9.0 -8.2
+-7.4 -7.6 -9.6 -6.6 -7.8 -7.0
+-28.1 -28.2 -29.8 -28.7 -26.3 -22.6
+-27.1 -28.6 -27.6 -26.7 -22.9 n.a..8 1.5 n.a. n.a.
+-1.0 -.2 -.9 -1.1
+7.3 4.9 4.9 n.a.
+5.2 2.2 3.0 n.a.
+-2.0
+w.6 -.9 n.a.
+x K K
+3.4 6.9 5.4 3.3
+2.1 3.8 1.8 n.a.
+-2.6 -2.7 -3.1 n.a.
+-2.2 -2.2 -2.5 n.a.
+* x K K
+X K X X
+1. The current account includes goods, services, and private and official transfers. Asterisk indicatesthat monthly data are not available.
+2. Annual data are subject to revisions and therefore may not be consistent with quarterly and/or monthly data.---~-~--~-
+
+IV-20
+The Japanese current account surplus narrowed in July by nearly $2
+billion (s.a.) to $1.8 billion, its smallest value since December; the
+merchandise trade surplus declined in August to $3.5 billion as exports
+edged down and imports increased.
+In West Germany, real GNP fell 3.5 percent (s.a.a.r.) in the second
+quarter, after increasing a revised 15.4 percent in the first quarter.
+However, compared with its level a year earlier, GNP was up 3.4 percent in
+the second quarter. The decline in the second quarter was mostly the result
+of a correction in seasonally adjusted construction activity, which fell 13
+percent, after increasing 20 percent in the first quarter, due to unusually
+mild winter weather. Exports of goods and services (s.a.) also contributed
+to the sharp swing in GNP, falling 3.1 percent in the second quarter, after
+increasing 8.6 percent in the first quarter.
+Since the establishment of the German Economic and Monetary Union on
+July 1, there appears to have been a shift in demand in East Germany towards
+western goods, causing economic activity to slow in East Germany and expand
+in West Germany. In West Germany, most indicators of economic activity in
+July showed considerable strength. The volume of retail sales (n.s.a.)
+jumped 8.4 percent to 14 percent above the level a year earlier; industrial
+production (n.s.a.) in July rose to 5.1 percent above the level a year
+earlier, with increases in nearly all sectors. Domestic orders (n.s.a.),
+which include orders from East Germany, increased 8.6 percent, while foreign
+orders declined slightly from their level a year earlier. Unemployment
+(s.a.) fell to 7.2 percent in August, down from 7.3 percent where it had
+remained since March.
+In contrast, economic activity in East Germany contracted sharply in
+July and August. Preliminary figures, provided by the Bundesbank, indicate
+that East German industrial production (n.s.a.) fell 35 percent in July to
+
+IV-21
+42 percent below its level a year earlier. East German industrial
+production has declined in every month since March, falling in the second
+quarter by 9.3 percent from its level a year earlier. Official unemployment
+in East Germany rose to 4.2 percent in August, from virtually zero at the
+end of 1989 and 1.6 percent in June immediately prior to monetary
+unification. Workers engaged in government-subsidized "short-time" work
+increased to 16.1 percent in August from 7.6 percent in July. A substantial
+portion of "short-time" workers, 90 percent by some estimates, are believed
+to be unemployed in all but name. There were indications in August that
+conditions may be stabilizing, partial data suggest that East German tax
+collections increased significantly, and that the financial position of
+state-owned enterprises improved.
+In West Germany, in August, consumer prices (n.s.a.) increased 0.3
+percent to a level 2.8 percent above that of a year earlier in August, up
+from 2.4 percent in July. Producer prices (n.s.a.) increased 0.6 percent in
+August, up 1.9 percent from the level a year earlier. These price increases
+were largely due to higher oil prices. In East Germany consumer prices in
+August were 5.1 percent below their average level for all of 1989. Prices
+have fluctuated significantly since monetary unification, rising 0.4 percent
+(n.s.a.) in August and 7.5 percent in July, after falling 12.1 percent in
+June.
+The West German current account (s.a.a.r.) surplus fell $20 billion in
+the second quarter to $45.3 billion, compared with $55.7 billion for all of
+1989, due primarily to a sharp decline in exports. In July, the Bundesbank
+began reporting balance of payments statistics for East and West Germany
+combined. The combined German trade balance (n.s.a.a.r.) was $73 billion in
+July compared with a West German trade surplus of $67 billion in July 1989.
+
+IV-22
+The combined German current account (n.s.a.a.r.) was $36.1 billion in July,
+roughly the same as West Germany's current account surplus in July 1989.
+Through August, West German M3 (s.a.) grew 4.5 percent (a.r.) from its
+level in 1989 Q4, near the bottom of the Bundesbank's target range of 4 to 6
+percent for the year. The Bundesbank recently announced that it will not
+alter its monetary growth target for 1990. It will continue to focus on
+monetary aggregates for West Germany, based on estimates of the West German
+share of total DM currency outstanding, because reliable data from East
+German banks are not yet available. The Bundesbank has stated that it will
+pay less attention to monetary aggregates in setting German monetary policy
+because of these problems.
+In response to the deteriorating situation in East Germany, the West
+German federal government is expected to approve a third supplemental budget
+for 1990 with additional expenditures of roughly DM 20 billion, rasing the
+projected 1990 budget deficit by 60 percent. These funds will go,
+primarily, to finance additional public sector deficits in East Germany.
+Economic activity in France appears to have slowed in the second
+quarter. Marketable GDP (s.a.) (a preliminary indicator of total GDP) grew
+only 0.4 percent (a.r.) in the second quarter, after a rise of 2 percent in
+the first quarter. The slowing of GDP in the second quarter is primarily
+due to a slowing of investment spending, and to poor export performance,
+partly related to a strike at a British supplier for Airbus. Recent
+indicators suggest activity has weakened slightly; average retail sales
+(s.a.) for July and August fell 2.2 percent from the average for May and
+June.
+Inflation increased in August. The consumer price index (n.s.a.) rose
+0.6 percent, compared with 0.3 percent in July, and was up 3.5 percent from
+
+IV-23
+its level a year earlier. Increases in energy prices accounted for two-
+thirds of the August price rise.
+On September 12, the government announced its 1991 budget. It
+envisages a small decrease in the central government budget deficit, from a
+projected 1.4 percent of GDP in 1990 to 1.2 percent in 1991. The budget
+also contains several supply-side tax cuts, including a reduction in the tax
+rate on reinvested profits.
+The U.K. economy continues to be beset by slumping activity and rising
+inflation. Real GDP (s.a.) grew 1.4 percent (a.r.) in the second quarter,
+after rising 3.8 percent in the first quarter of 1990. This slowing was
+primarily the result of an 11.9 percent drop in investment, which was only
+partly offset by increases in government spending and net exports. In July,
+industrial output (s.a.) fell 3.7 percent to stand 0.2 percent above its
+level a year earlier. Unemployment (s.a.) rose again in August to 5.8
+percent, slightly above its low of 5.6 percent in March.
+Retail prices (n.s.a.) rose 1 percent in August, to a level 10.6
+percent above that of a year earlier, the largest increase since February
+1982. Roughly a third of the increase was due to higher oil prices; also
+important was a rise in food prices. Retail prices excluding the effects of
+mortgage interest payments and the poll tax increased 7.9 percent in August.
+Output prices for manufactured goods (n.s.a.) rose 5.8 percent above their
+level a year earlier. In July, the increase in average earnings (a.r.)
+remained constant at 10 percent.
+The cumulative trade and current account deficits for the first 8
+months of the year were $22.6 billion and $20 billion respectively, compared
+with a trade deficit of $27.9 billion and a current account deficit of $21.6
+billion in the same period of last year.
+
+IV-24
+In Italy, recent indicators, such as August auto sales, suggests that
+economic activity remains weak. Industrial production (n.s.a.) in June was
+only one percent above its level a year earlier. Consumer prices (n.s.a.)
+in August rose 6.3 percent from their level a year earlier, up from the 5.7
+percent increase in July, largely as a result of the rise in oil prices.
+After considering a decrease in the excise tax on petroleum products the
+government of Italy has decided to pass oil price increases on fully to
+consumers.
+In Canada, a decline in real GDP (s.a.a.r.) of 1.7 percent in the
+second quarter resulted from a 13.6 percent fall in investment and a 1.8
+percent decline in consumption. These declines were partially offset by a
+rise in net exports as real exports increased 18 percent, while real imports
+rose only 7.8 percent. Recent monthly indicators suggest continued weakness
+in economic activity. Unemployment (s.a.) jumped 0.5 percent in August to
+8.3 percent. Housing starts (s.a.a.r.) fell 7.0 percent in August, and new
+motor vehicle sales (s.a.) declined 1.0 percent in July.
+In Canada, consumer price (n.s.a.) were unchanged in August, and the
+index remained 4.1 percent above its level a year earlier. Moderate wage
+settlements in the second quarter also suggest inflationary pressures are
+lessening. Bank of Canada Governor John Crow indicated that monetary policy
+may be eased due to the weakness in economic activity and lessening of
+inflationary pressures.
+The left-leaning New Democratic Party unexpectedly won the provincial
+election in Ontario. Although the NDP platform called for major changes in
+Ontario's economic policy comments from NDP leaders after the election were
+cautious about the nature and pace of implementing new policies.
+
+IV-25
+Developments in East European Economies
+In Poland, data for August indicates a possible recovery in economic
+activity from recent recessionary levels, along with continued declines in
+monthly inflation rates. Industrial sales by state-owned firms in July and
+August were 18 percent below their levels a year earlier, an improvement
+over the 30 percent average decline registered in the first six months of
+1990. In August, the monthly inflation rate was only 1.8 percent (n.s.a.),
+continuing the downward trend. Unemployment increased to 6.1 percent in
+August.
+Poland has met all IMF performance criteria as of the month of June,
+and in August obtained a World Bank loan of $300 million to support
+enterprise restructuring and banking reform.
+During 1990, Hungary made an impressive switch from trade within the
+CMEA to trade with hard-currency areas. Fully 70 percent of trade was with
+the hard-currency area during the first six months of 1990, up from 58
+percent in 1989. The hard-currency trade surplus in the first six months of
+1990 was $550 million, contributing to a hard-currency current account
+surplus of $200 million, compared with a deficit of $986 million for the
+same period in 1989. However, an offsetting contraction of trade to soft-
+currency areas (principally the Soviet Union) contributed to a decline of 8
+percent in industrial production in the first half of 1990. Consumer prices
+rose 26 percent in June from their level a year earlier, exceeding the IMF
+objective of 20 percent for the year as a whole.
+Disagreement over the approach to economic reforms among officials are
+evident in the new government of the Czech and Slovak Federal Republic
+(CSFR). President Vaclav Havel wants to maintain a measured pace of reform
+that avoids disruptive adjustment and assures an adequate safety net.
+Finance Minister Vaclav Klaus, joined recently by Prime Minister Marian
+
+IV-26
+Calfa, is promoting a program of rapid price liberalization and currency
+convertibility for current account transactions beginning on January 1,
+1991. The CSFR recently rejoined the IMF and World Bank.
+Gross industrial output fell 3 percent in the first half of 1990,
+compared with a year earlier, in part because declining trade within the
+CMEA (roughly 65 percent of the total) outweighed increased trade with the
+West. Trade with CMEA countries fell 15.3 percent in the first six months
+of 1990, while overall trade fell 5.9 percent. CSFR authorities estimate
+that German unification may cost CSFR about $375-$500 million in lost trade.
+Yugoslavia was out of compliance with IMF performance criteria as of
+the June review, despite sharp declines in inflation and rising
+international reserves, because it exceeded its public spending targets.
+Economic Situation in Major Developing Countries
+During the first week of September, the Argentine government announced
+a series of additional fiscal measures to bolster its stabilization program
+initiated in March 1990. The IMF and Brazil agreed to a letter of intent in
+mid-September for an SDR 1.449 billion (approximately U.S. $2 billion)
+stand-by arrangement through February 1992. In Venezuela, the holders of at
+least 90 percent of the public-sector external debt to commercial banks have
+committed to participate in the country's financing package. Mexico's
+current account is expected to improve this year, mainly due to increased
+oil revenues. Mexico's inflation has risen in recent months, as a result of
+increases in administered prices and a fiscal policy stance that is probably
+not restrictive enough. The Chilean government reached a rescheduling
+agreement with creditor banks in late September. On September 11, the Paris
+Club rescheduled Morocco's bilateral debt on precedent-setting terms.
+Individual country notes. During the first week of September, the
+Argentine government announced a series of additional fiscal adjustment
+
+IV-27
+measures to bolster its stabilization program initiated in March 1990. The
+measures include sharp hikes in public sector prices, the payment of 10-year
+bonds to eliminate domestic arrears to suppliers, the cutting of services
+provided by public enterprises to customers with overdue payments, the
+reduction of public payrolls, the re-negotiation of collective bargaining
+agreements with public enterprise employees, and the centralization of
+control over public enterprises under the Ministry of Economy.
+The announcement of new fiscal measures followed Central Bank actions
+at the end of August to tighten liquidity by raising reserve requirements
+from 82 percent to 86 percent on demand deposits held at private banks and
+from 88.5 percent to 100 percent on demand deposits held at publicly owned
+banks. In response, short-term interest rates rose to over 25 percent
+(monthly basis) in the first week of September compared with under 15
+percent in the previous week; in the past week these interest rates declined
+to between 10 percent and 15 percent due to scheduled repayments of short-
+term central bank obligations. The austral price of the dollar has fallen
+from 6400 to 5800 since the end of August. This exchange rate is the same
+in nominal terms as that registered at the end of February, but consumer
+prices have risen 180 percent since then. As a result, the real exchange
+rate is at its most appreciated level since early 1982.
+The tightening of fiscal and monetary policy represents a response to
+the failure to make sufficient progress toward inflation reduction and
+fiscal adjustment in recent months. After registering 10.8 percent in July,
+the monthly inflation rate rose to 15.3 percent in August. It is expected to
+be at least as high as that in September, as a result of recent public
+sector price hikes.
+The IMF management and Brazil agreed to a letter of intent in mid-
+September for an SDR 1.449 billion (approximately U.S. $2 billion) stand-by
+
+IV-28
+arrangement through February 1992. The stand-by program may be approved by
+the Executive Board in October. The IMF's formal approval of the letter of
+intent has been held up pending progress in the Brazilian government's
+negotiations with commercial bank creditors. Brazilian debt in the
+secondary market has been recently selling for about 20 cents on the dollar,
+compared with 17 cents in mid-August.
+Inflation in Brazil has hovered around 10-13 percent per month since
+June, despite continued treasury cash surpluses and a tight monetary policy.
+The monetary base rose less than 3 percent in August. Interest rates have
+been high in real terms since late August in response to news that monetary
+policy would be substantially tighter after mid-September. The overnight
+rate rose from 14 percent on August 31 (monthly basis) to 22 percent on
+September 11, and was 26 percent on September 21.
+Industrial output and sales continue to be substantially lower than
+they were at the beginning of the year, although industrial output
+stabilized in July. The fall in industrial output and a lower agricultural
+harvest this year are expected to reduce real GDP by between 3 and 5
+percent.
+In late August, Congress failed to override President Collor's July
+veto of a wage bill that would have effectively reintroduced wage
+indexation. The failure to override the veto was seen as a victory for
+President Collor's anti-inflation effort. Although employers have granted
+some wage increases since the program began, real wages of most workers,
+particularly government workers, are believed to be substantially lower than
+they were at the beginning of the program. The current recession and
+prospects that economic activity will continue to be depressed has limited
+strike activity.
+
+IV-29
+Brazil continues to register trade surpluses despite a significant real
+appreciation of the cruzeiro. The real effective exchange rate appreciated
+24 percent in 1989 and a further 29 percent in the first quarter of 1990.
+The cruzeiro has appreciated slightly against the dollar in real terms since
+the stabilization program was announced in mid-March. Brazil's trade
+surplus was about $1 billion in August. The accumulated surplus for the
+first eight months of 1990 was $8.5 billion, compared with a $12 billion
+surplus over the same period in 1989.
+In Venezuela, the holders of at least 90 percent of the public-sector
+external debt to commercial banks have committed to participate in the
+country's financing package. The new-money option (with a 20 percent
+increase in exposure) was chosen by holders of $5.7 billion in base debt,
+more than was expected when the term sheet was distributed last March. The
+par-bond option (carrying a fixed interest rate of 6-3/4 percent) attracted
+$6.9 billion in base debt. $1.6 billion in base debt was allocated to a
+principal-reduction-bond option with a 30 percent discount of principal at
+13/16 over LIBOR, and holders of $1.4 billion chose to accept a buyback at
+45 cents per dollar of face value. Commitments are still being accepted,
+and the package is expected to close later this year. Technical problems
+with the government budget caused Venezuela to accumulate $300 million in
+interest arrears to banks in August and September, but these arrears were
+cleared in the second half of September.
+The limited monthly economic data available suggest that Venezuela's
+sharp recession, which brought about an 8 percent decline in real GDP in
+calendar 1989, has bottomed out. Motor vehicle sales, for example, were 46
+percent higher during the first eight months of 1990 than in the same period
+last year, and 19 percent greater in August than in July. After declining
+sharply in 1989, inflation has been stable through August. The Caracas CPI
+
+IV-30
+rose 3.2 percent in August. Since mid-August, domestic interest rates have
+remained roughly constant and are moderately positive in real terms. The
+bolivar has remained at about 48 per U.S. dollar, with the government
+reportedly intervening to prevent capital reflows from bringing about a
+nominal appreciation.
+Venezuela is gradually increasing petroleum output from the 2 mbd level
+that prevailed in the first half of 1990 to a projected level of 2.5 mbd
+by the end of the year. As a result of the recent surge in oil prices and
+production increase, the projection for the current account surplus in 1990
+has been revised upward from $1 billion to $4 billion.
+Mexico stands to earn about $1.6 billion more from crude oil exports
+this year than appeared likely before the onset of the Gulf crisis. As a
+result, a $1.3 billion current account deficit will probably result in the
+second half of 1990. The current account deficit reached $3.2 billion in
+the first half of 1990, when the oil export price averaged about $14 per
+barrel. The improved oil export earnings will strengthen public sector
+revenues, but pressures to increase public expenditures are strong, partly
+because the rate of inflation exceeds the forecast on which the budget was
+based, and partly because Congressional elections are scheduled for next
+July. Mexico met with ample margin the fiscal performance criteria of its
+EFF program for March 31 and June 30, but compliance with the year-end
+criteria is not assured.
+In August, the CPI was 28 percent higher than its level a year earlier,
+compared with a 20 percent increase in the 12 months ending in December
+1989. The rise in inflation reflects adjustments in administered prices
+aimed at correcting relative price distortions and a fiscal policy stance
+that is probably not restrictive enough. The sharp decline in interest
+rates under way since mid-March came to an end in mid-August. The 28-day
+
+IV-31
+Treasury bill rate was 30.3 percent at the September 18 auction, up 100
+basis points from four weeks earlier. The rate had declined 18 percentage
+points from mid-March to mid-August. The government sold less than 60
+percent of the amount of debt it offered at the September 18 auction;
+prospects for higher inflation resulting from the Gulf crisis caused the
+market to expect higher rates than the authorities were willing to pay.
+Private capital inflows contributed to a rise in international reserves of
+almost $300 million in the first seven months of the year, in spite of the
+large current account deficit.
+The Chilean government and creditor banks reached a rescheduling
+agreement in late September. The agreement reschedules $1.8 billion in debt
+due between 1991 and 1993 over a 7-year period (including 3 years of grace)
+at 13/16 over LIBOR (7/8 over LIBOR for Chile's previous new money
+packages). Banks have also indicated an interest, in principle, to provide
+$320 million in 5-year bonds at 1.5-1.75 percentage points over LIBOR. The
+new bonds, if issued, will signal progress towards Chile's return to
+voluntary capital markets.
+On September 11, Paris Club creditors granted Morocco the most generous
+repayment terms offered to a lower middle-income country, following up on
+proposals for more generous terms that were discussed during the Houston
+summit in July. Similar terms were granted to Congo, El Salvador, and
+Honduras. About $1 billion of debt was rescheduled, with payments on
+official development assistance loans extended to 20 years, including 10
+years of grace, and non-development assistance loans were rescheduled over
+15 years, with 8 years of grace. This rescheduling extends through the
+first quarter of 1991, when Morocco's current IMF stand-by arrangement
+expires. Morocco is negotiating with the IMF for an EFF to follow the
+stand-by. Commercial banks have already reached an agreement with Morocco
+
+IV-32
+that will enable the country to engage in debt- and debt-service reduction
+options after an EFF arrangement is in place and certain conditions are met,
+such as remaining current on interest payments and establishing a debt-for-
+equity program.

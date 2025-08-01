@@ -1,0 +1,2978 @@
+ 
+Prefatory Note  
+ 
+ 
+The attached document represents the most complete and accurate version 
+available based on original copies culled from  the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserv e System.  This electronic document was 
+created through a comprehensiv e digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain.  
+Please note that this document may contain occasional gaps in the text.  These 
+gaps are the result of a re daction process that removed information obtained on a 
+confidential basis.  All redact ed passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+ 
+                                                
+ 
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and we re not checked or corrected by staff. 
+CONFIDENTIAL (FR)
+June 14, 1978
+CURRENT ECONOMIC AND FINANCIAL CONDITIONS
+By the Staff
+Board of Governors
+of the Federal Reserve System
+
+TALLE OF CONTENTS
+Section Page
+DOMESTIC NONFINANCIAL DEVELOPMENTS II
+Employment and production ............................. 1
+Consumer sector activity ............................. 6
+Business investment ......... ..... ................ ..... 8
+Residential construction.................................. 13
+Government sector .......... ................... .......... 16
+Prices and wages... ......... ..... ......... ...... ........ 18
+TABLES:
+Average monthly changes in
+employment. ......... ..... ................ .... 2
+Selected unemployment rates ........................... 2
+Recent changes in industrial production.................. 4
+Auto sales ......................... ...................... 5
+Personal income ...................................... . 7
+Plant and equipment
+expenditures ......... o.. ................. , ......... 9
+Recent performance of the
+May Commerce survey .................................. 9
+Contracts and orders for
+plant and equipment .................................. 11
+Business inventories ................................... 14
+Inventory ratios .............. .......... ................... 14
+Recent changes in consumer prices...................... 20
+Recent changes in producer prices........................ 20
+Hourly earnings index ................................... 21
+CHARTS:
+Ratio of unfilled orders to shipments
+for nondefense capital goods ............... ........... 12
+Private housing starts ............................... 15
+DOMESTIC FINANCIAL DEVELOP MENTS III
+Monetary aggregates and
+bank credit ................................. .......... 3
+Business finance ........................ 000........ ..... 10
+Government finance .................. .0........... ....... 15
+Mortgage markets..... .......... 0....................... 19
+Consumer credit ...... .............0................ ..... 21
+
+TABLE OF CONTENTS
+Section Page
+DOMESTIC FINANCIAL DEVELOPMENTS III
+TABLES:
+Selected financial market
+quotations ....................... ....................... 2
+Monetary aggregates........................... ....... 4
+Commercial bank credit.................................... 8
+Security offerings ........................................ 13
+Interest rates and supply of
+funds for conventional
+home mortgages at selected
+S&L's .................................................... 20
+Secondary home mortgage market
+activity............................... ........... ........ 20
+Consumer instalment credit.................................. 23
+CHARTS:
+Components of M-2........................................... 16
+Business loans at commercial banks.......................... 11
+Selected long-term interest rates .......................... 14
+A measure of risk premia on
+corporate bonds... ........................................ 14
+Relative movements in major
+stock price indexes............... ......... ..... ....... 16
+INTERNATIONAL DEVELOPMENTS IV
+Foreign exchange markets ................ ................. .1
+U.S. Bank lendinG abroad..................................... 5
+Foreign official assets in the United States............... 11
+Bank-reported private capital transactions................ 12
+Foreign private net purchases of U.S. corporate
+stocks ............ .............. ........... ............ 12
+U.S. reserve assets........................................ 13
+Foreign economic developments.............................. 14
+Foreign price and wage developments........................ 15
+Notes on individual countries.............................. 17
+
+SELECTED DOMESTIC NONFINANCIAL DATA
+AVAILABLE SINCE PRECEDING GREENBOOK
+(Seasonally adjusted)
+Latest Data
+Release
+Date DatePer Cent Change from
+Three
+Preceding Periods Year
+Period Earlier
+(At annual rate)
+Civilian labor force 1/
+Unemployment rate (%)- 1/
+Insured unemployment rate (%)1/
+Nonfarm employment, payroll (mil.)
+Manufacturing
+Nonmanufacturing
+Private nonfarm: 1/
+Average weekly hours (hr.)1/
+Hourly earnings ($)1/
+Manufacturing:
+Average weekly hours (hr.)1/
+Unit labor cost (1967=100)
+Industrial production (1967=100)
+Consumer goods
+Business equipment
+Defense & space equipment
+Materials
+Consumer prices (1967=100)
+Food
+Commodities except food
+ServicesMay
+May
+May
+May
+May
+May
+May
+May
+May
+Apr.
+Apr.
+Apr.
+Apr.
+Apr.
+Apr.
+Apr.
+Apr.
+Apr.
+Apr.
+Wholesale prices (1967=100) May
+Industrial commodities May
+Farm products & foods & feeds May
+Personal income ($ bil.)2/  Apr.
+Mfrs. new orders dur. goods ($ bil.) Apr.
+Capital goods industries Apr.
+Nondefense Apr.
+Defense Apr.
+Inventories to sales ratio:1/
+Manufacturing and trade, total
+Manufacturing
+TradeMar.
+Apr.
+Mar.6-2-78
+6-2-78
+6-2-78
+6-2-78
+6-2-78
+6-2-78
+6-2-78
+6-2-78
+6-2-78
+6-1-78
+5-15-78
+5-15-78
+5-15-78
+5-15-78
+5-15-78
+5-31-78
+5-31-78
+5-31-78
+5-31-78
+6-2-78
+6-2-78
+6-2-78100.3
+6.1
+3.1
+85.3
+20.2
+65.1
+36.0
+5.64
+40.3
+165.9
+142.5
+147.3
+158.9
+81.2
+142.4
+191.9
+208.1
+171.8
+206.6
+207.6
+207.0
+207.3
+5-17-78 1680.1
+5-31-78
+5-31-78
+5-31-78
+5-31-78
+6-12-78
+5-31-78
+6-12-785.7
+6.0
+3.2
+2.5
+1.5
+2.8
+36.3
+5.62
+40.7
+-2.9
+12.8
+9.9
+11.4
+8.9
+19.7
+10.7
+22.3
+6.3
+11.1
+7.5
+8.2
+6.4
+16.9
+(Not at annual rate)
+70.1 1.5
+21.6 -1.9
+17.4 -.9
+4.2 -5.9
+1.42 1.43
+1.49 1.52
+1.33 1.3235.8 36.3
+5.52 5.20
+39.9
+6.9
+10.7
+15.5
+16.5
+7.5
+9.2
+9.6
+17.9
+5.4
+10.1
+10.9
+7.7
+22.240.4
+8.1
+4.7
+3.1
+8.0
+1.6
+4.3
+6.7
+8.7
+4.7
+7.9
+13.5 11.3
+at annual
+10.6
+11.3
+5.1
+47.0rates)
+19.2
+20.1
+18.2
+28.7
+1.41 1.43
+1.58 1.59
+1.30 1.31
+Ratio: Mfrs.' durable goods inven-/
+tories to unfilled orders1/ Apr.
+Retail sales, total ($ bil.)
+GAF3/
+Auto sales, total
+Domestic models
+Foreign models
+Plant & Equipment
+All Industries(mil. units) 2/
+expen. ($ bil.)2/
+Capital Appropriations, Mfg.
+Housing starts, private (thous.)2/
+Leading indicators (1967=100)May
+May
+May
+May
+May
+1978&
+QII '78-
+QIII '7/
+QIV '78-5-31-78 .599
+6-12-78 63.8
+6-12-78 14.3
+6-8-78
+6-8-78
+6-8-78
+6-7-78
+6-7-78
+6-7-78
+6-7-78
+QI '78 5-30-78
+Apr. 5-16-78
+Apr. 6-1-7812.3
+10.1
+2.2
+151.05
+148.88
+153.83
+156.84
+17,825
+2,189
+134.93.4 10.0
+6.0 13.0
+17.4 5.3
+18.0 10.4
+14.5 -12.8
+-- 11.2
+- 10.9
+-9.6
+-- 13.6
+-21.9
+41.4
+1.015.3
+3.5Period
+1/ Actual data used in lieu of per cent changes for earlier periods.
+_/ At annual rate.
+3/ Excludes mail order houses.
+4/ Planned-Comerce June Survey.II -T -1 June 14, 1978
+
+II -1
+DOMESTIC NONFIANCIAL DEVELOPMENTS
+The expansion of economic activity in May appears to have
+returned to a rate about comparable to that of the last half of 1977,
+following a sharp rebound from the severe weather and coal strike.
+Employment and industrial production both increased more moderately
+in May and retail sales were about unchanged. Unit auto sales, how-
+ever, continued at a very high level. The latest Commerce Department
+survey of business spending plans indicated further moderate increases
+in capital investment over the remainder of this year. Upward
+price pressures remained strong, especially in the food sector.
+Employment and Production
+Demand for labor slowed somewhat in May from the high levels
+of early spring, as nonagricultural establishments reduced their
+hiring pace and trimmed work schedules. Payroll employment (strike-
+adjusted) advanced by 170,000; the average increase in the four
+preceding months had been an exceptional 390,000 per month. The ay
+increases were concentrated in trade, services, and finance whereas
+employment gains earlier this year were widespread; manufacturing
+jobs (strike-adjusted) rose only 17,000 in May. In addition to
+slower hiring, there were widespread cutbacks in the workweek.
+Average weekly factory hours, which lengthened during March and
+April as production rebounded from the effects of bad weather and
+the coal strike, dropped 0.4 hour to 40.3 hours in May, about the
+same level as in the second half of 1977.
+
+II -2
+AVERAGE MONTHLY CHANGES IN EMPLOYMENT
+(Thousands of jobs; based on seasonally adjusted data)
+Dec. 76 June 77 Dec. 77 Mar. 78 Apr. 78
+to to to to to
+June 77 Dec. 77 Mar. 78 Apr. 78 May 78
+Nonfarm payroll employment 1/ 298 212 375 615 175
+(Strike adjusted) 305 239 363 468 172
+Manufacturing 83 43 99 45 26
+(Strike adjusted) 85 46 92 45 17
+Durable 53 44 72 21 40
+Nondurable 30 -1 26 24 -14
+Construction 47 10 35 173 19
+Trade 57 58 80 27 57
+Services and finance 70 87 90 96 61
+State and local government 25 31 53 62 8
+Total employment 2/ 367 327 219 535 311
+Nonagricultural 352 328 223 570 351
+1/ Survey of establishments.
+2/ Survey of households.
+SELECTED UNEMPLOYMENT RATES
+(Per cent; based on seasonally adjusted data)
+1973 1977 1978
+Annual Average QIII QIV QI Apr. May
+Total, 16 years and older 4.9 6.9 6.6 6.2 6.0 6.1
+Teenagers 14.5 17.6 16.7 16.9 16.9 16.5
+20-24 years old 7.7 10.9 10.3 10.3 10.0 9.0
+Men, 25 years and older 2.5 4.1 3.9 3.5 3.3 3.5
+Women, 25 years and older 4.0 6.1 5.8 4.9 4.8 5.3
+White 4.3 6.1 5.8 5.4 5.2 5.2
+Black and other 8.9 13.6 13.3 12.3 11.8 12.3
+Fulltime workers 4.3 6.5 6.2 5.7 5.4 5.6
+White collar 2.9 4.2 4.1 3.5 3.5 3.6
+Blue collar 5.3 8.1 7.6 7.1 6.5 6.6
+Craft and kindred 3.7 5.4 5.3 5.1 4.3 4.3
+Operatives, ex. transport 6.1 9.9 9.2 8.0 7.6 8.4
+
+II -3
+The civilian labor force increased more rapidly than employ-
+ment in May as the unemployment rate edged up to 6.1 per cent. The
+increase in unemployment occurred wholly among adults aged 25 and
+over with jobless rates up for such overlapping groups as semi-skilled
+blue-collar workers, married men and fulltime workers. The total
+unemployment rate has changed little in recent months after falling
+almost a full percentage point from August to February. During that
+period there was a significant reduction in the jobless rates of skilled
+and experienced workers, nevertheless, unemployment rates for such
+groups are still from 1/2 to more than 1 percentage point above
+their levels during the 1973 cyclical peak in activity.
+Industrial production is estimated to have increased
+about 0.6 per cent in May, about half as much as the sharp advances
+in March and April. Business equipment production rose more than one-
+half per cent during the month, well below the pace of recent months.
+Auto assemblies dipped to a 9.4 million unit annual rate from April's
+9.8 million unit rate; April production schedules had been extended
+to make up for losses during the weather-affected first quarter.
+Because of substantial strength in steel equipment components and
+energy materials production, total materials rose 1 per cent in May.
+Increases for nondurable materials were moderate.
+
+II -4
+RECENT CHANGES IN INDUSTRIAL PRODUCTION
+(Per cent change at a compound annual rate; based
+on seasonally adjusted data)
+1977 1978
+QI QII QIII QIV QI Aprill1 May2/
+Total index 6.2 10.6 4.2 2.6 .9 18.4 6.9
+Products, total 8.2 8.0 6.3 2.6 .9 11.6 2.6
+Consumer goods 7.7 6.4 4.8 .8 -3.8 11.2 0
+Durable Consumer Goods 10.4 14.8 7.9 -.4 -10.2 37.1 -10.6
+Autos, total 10.5 31.7 7.3 -15.1 -29.2 107.7 -44.9
+Nondurable Consumer Goods 6.6 2.9 3.5 1.4 -.8 1.7 6.1
+Equipment 10.4 13.7 6.7 1.6 3.8 10.7 4.7
+Business Equipment 12.3 15.3 7.7 5.1 3.5 12.9 7.0
+Defense & Space Equipment 3.7 9.5 3.0 -7.2 4.6 0 0
+Intermediate Products 7.4 4.6 8.0 7.3 7.6 5.7 7.3
+Construction Supplies 2.1 7.5 10.2 13.6 6.0 3.3 5.8
+Materials 3.7 14.6 1.2 2.3 1.1 30.1 13.3
+Durable Goods Materials 2.5 19.6 2.7 4.8 .8 31.5 14.4
+Nondurable Goods Materials 7.3 14.4 -.5 1.6 7.8 9.4 6.1
+Energy Materials 0 2.0 2.6 -4.7 -8.3 67.8 20.2
+1/ Preliminary.
+2/ Estimated.
+
+II -5
+RETAIL SALES
+(Per cent change from previous period;
+based on seasonally adjusted data)
+1977 1978
+QIV QI May/QI Mar. Apr. May
+Total sales 4.4 -.1 3.9 1.7 1.9 -.2
+(Real)1/  3.4 -2.0 n.a. .8 .9 n.a.
+Total, less auto and
+nonconsumption items 4.1 .3 3.5 1.4 .8 .8
+GAF 6.3 -3.7 6.8 1.5 3.0 1.4
+Durable 5.6 -2.0 6.1 1.8 4.6 -1.0
+Auto 6.4 -1.7 4.6 3.3 5.2 -3.5
+Furniture and appliances 3.6 -4.2 9.3 -1.2 5.0 3.3
+Nondurable 3.9 .9 2.7 1.6 .5 .3
+Apparel 6.9 -4.5 4.9 4.7 3.8 -2.4
+Food 2.5 3.1 3.1 0 2.0 .5
+General merchandise 7.2 -3.2 6.6 1.3 2.0 2.1
+Gasoline 2.3 1.9 .5 .6 -2.3 .4
+1/ Deflated by all commodities SA consumer price index.
+AUTO SALES
+(Seasonally adjusted, annual rate, millions of units)
+1977 1978
+QIV QI Mar. Apr. May
+Total 10.8 10.8 12.0 12.1 12.2p
+Imports 2.0 2.0 2.1 2.1 2.1p
+Domestic 8.8 8.8 9.9 10.1 10.1
+
+II -6
+Reflecting the slower gain in production, the manufacturing
+capacity utilization rate apparently was little changed in May
+remaining near 83 per cent--its 1948-1977 average. With the exception
+of some weakness in January and February, the manufacturing utilization
+rate has remained around this level for the past year.
+Consumer Sector Activity
+Consumer goods demand continued at a high level in May,
+following large sales advances in the three previous months. Total
+retail sales are tentatively estimated to have declined fractionally
+in May but because of large increases in March and April, the May
+level was substantially above the first quarter average. Sales ex-
+cluding autos and mainly nonconsumption items rose 0.8 per cent, with
+large gains in general merchandise and furniture and appliance stores
+more than offsetting declines at apparel outlets.
+Although retail sales at automotive stores reportedly
+declined in May, new car sales were at a 12.2 million unit annual
+rate up slightly from April and a record selling pace for the current
+expansion. Dealer sales contests, particularly at Ford Motor Company,
+accounted for some of the sales strength. However, it also appears
+that some consumers are buying in advance of anticipated further
+price rises. Sales of new cars have now exceeded 12 million units
+for three consecutive months, with sales of domestic autos at
+abcut a 10 million unit rate and sales of imports at a 2.1 million
+unit rate.
+
+II -7
+PERSONAL INCOME
+(Per cent change at a compound annual rate;
+based on seasonally adjusted data)
+Feb. 78 Mar. 78
+1977 1978 to 1/ to 1/
+QI QII QIII QIV QI Mar. 78 Apr. 78
+Current dollars
+Total personal income 13.1 11.4 8.9 14.5 9.2 16.4 16.9
+Nonagricultural income 12.0 11.9 10.2 12.6 10.0 17.0 16.8
+Wage and salary
+disbursements 12.7 13.0 7.5 12.7 11.8 19.9 20.2
+Private 14.9 15.1 7.7 12.5 13.4 24.3 24.2
+Manufacturing 17.9 17.5 6.3 12.4 15.7 26.3 9.0
+Government 4.9 5.0 7.1 13.2 5.9 2.3 4.0
+Nonwage income 14.5 8.5 10.8 16.8 7.2 10.4 11.2
+Transfer payments 11.6 -1.0 11.7 7.7 6.4 7.2 4.4
+Dividends 1.0 20.1 21.4 12.9 1.8 5.5 10.9
+Constant dollars2 -/
+Total personal income 4.4 2.4 3.5 9.5 1.3 6.1 6.1
+Nonagricultural income 3.4 2.9 4.7 7.7 2.0 6.8 6.0
+Wage and salary
+disbursements 4.1 3.9 2.3 7.8 3.7 9.6 9.4
+Memorandum:
+Real disposable per
+capita income 2.4 6.4 3.5 8.5 1.0
+1/ Per cent change at annual rate, not compounded.
+2/ Deflated by CPI, seasonally adjusted. Beginning January 1978, deflated
+by CPI/U, seasonally adjusted.
+
+II -8
+Personal income, which has supported higher consumer spending
+this year, advanced sharply in April for the second month in a row;
+large increases in employment and earnings as well as the return of
+coal miners to their jobs contributed to the increase. However, given
+May's smaller employment gains, declines in the workweek, and modest
+wage growth, payroll growth probably slowed significantly.
+Measures of consumer confidence are still relatively high
+by historical standards despite some recent declines. The University
+of Michigan Survey Research Center index of sentiment, which dipped
+earlier this spring, edged up slightly in May to a level about the same
+as over the last none months. One third of the respondents to the
+Michigan survey indicate that its a good time to buy in advance of
+expected price increases. The Conference Board index of confidence
+declined sharply in May but was still in the general range reported
+during most of 1976-77.
+Business Investment
+After being held back by adverse weather, shipments of
+capital goods and nonresidential construction moved ahead sharply in
+March and April. Incoming survey and commitments data continue to
+suggest moderate growth in business investment spending this year.
+The latest Commerce Department plant and equipment spending survey
+for 1978--conducted in late April and May--indicates that business
+expects to increase capital outlays this year by about 11-1/4
+per cent over that in 1977, marginally higher than was indicated in the
+
+II -9
+PLANT AND EQUIPMENT EXPENDITURES
+(Per cent change from preceding year)
+Anticipated for 1978
+Commerce Survey Dates
+Dec. Feb. May
+1977 1977 1978 1978
+All Business 12.7 10.1 10 .91/ 11.21/
+Manufacturing 14.6 10.4 11.7 11.8
+Durables 17.3 11.7 12.0 11.4
+Nondurables 12.4 9.2 11.5 12.2
+Nonmanufacturing 11.2 9.9 10.4 10.7
+1/ Results are adjusted for systematic bias. Without
+this adjustment, the Commerce results would have been
+10.9 per cent in December, 13.9 per cent in February,
+and 12.9 per cent in May.
+RECENT PERFORMANCE OF THE MAY COMMERCE SURVEY
+(Per cent change from preceding year)
+May survey
+7.8
+2.7
+10.3
+13.2
+12.2
+1.6
+7.3
+12.31/Actual Error
+5.5
+1.9
+8.9
+12.8
+12.7
+.3
+6.8
+12.7
+1/ Anticipated minus actual percentage change.Year
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977Year- --~'-~~
+
+II -10
+February survey. If these latest survey results are realized, growth
+in capital spending will rise at an average annual rate of about 12
+per cent over the last three quarters of 1978. Manufacturers' capital
+appropriations net of cancellations, which usually lead expenditures
+by about a year, have held at a relatively high level over the
+past two quarters; because of large gains last year, the level of
+appropriations in the first quarter was 25 per cent above a year
+earlier.
+Near-term indicators of capital spending, after showing
+large increases early in the year, have moderated recently. Orders
+for nondefense capital goods, which tend to move irregularly, declined
+somewhat further in April, but still were 18 per cent above a year
+earlier and fractionally higher than the average for the first
+quarter. Backlogs of unfilled orders increased in April for the
+ninth consecutive month; however, shipments have been growing just
+as fast, and backlogs relative to shipments remain near their all-
+time low.
+Total value of construction contracts awarded in April
+dropped sharply again but, reflecting earlier strength, the average
+level of contracts in the first four months of 1978 was 36 per cent
+above the comparable period of 1977. The declines in March
+and April resulted from the absence of awards for power plants
+as had occurred in January and February; however, contracts for
+commercial and industrial buildings continued strong.
+
+II -11
+CONTRACTS AND ORDERS FOR PLANT AND EQUIPMENT1/
+(Per cent change from preceding comparable period, seasonally adjusted)
+Apr. 77
+1977 1978 to
+QIII QIV QI Mar. Apr. Apr. 78
+Current dollars
+Total -.3 4.1 11.7 -8.3 -8.4 8.8
+Nondefense capital goods orders -1.1 10.3 5.6 -2.1 -.9 18.1
+Construction contracts2/  3.2 -22.0 48.4 -31.4 -47.5 -38.9
+1972 dollars
+Total -2.3 2.1 9.3 -7.9 -9.3 .6
+Nondefense capital goods orders -3.2 8.2 3.5 -1.7 -2.1 8.9
+Construction contracts2/ 1.8 -24.2 45.3 -31.2 -47.8 -43.5
+1/ The Commerce Department creates this series by adding new orders for non-
+defense capital goods to the seasonally adjusted sum of new contracts awarded
+for commercial and industrial buildings and for private nonbuilding projects
+(e.g., electrical utilities, pipelines, etc.).
+2/ FRB staff estimate. Derived by subtracting new orders for nondefense capital
+goods from the published total for contracts and orders.
+
+II -12
+RATIO OF UNFILLED ORDERS TO SHIPMENTS
+FOR NONDEFENSE CAPITAL GOODS
+(SEASONALLY ADJUSTED, MONTHLY RATE)
+i I I I I I lIllil'"il lll Ill 8,0
+7.0
+6.0
+,0I I I I I
+1972 1974 1968 1970 1976 1978
+
+II -13
+Nominal business investment in inventories has been at a
+rapid pace thus far in 1978. The book value of manufacturing and
+trade inventories rose at a $44 billion annual rate in the first
+quarter, up from a $18 billion rate during the fourth quarter of 1977.
+In April, the book value of total manufacturers' inventories increased
+at an $18.7 billian annual rate, following a $16.6 billion annual
+rate in the first quarter. Accumulation of manufacturers' durables
+continued at about the average rate of the first quarter, while
+the buildup of nondurables stocks was more rapid than in previous
+months. With shipments strong, the ratio of book value inventories
+to shipments for all manufacturing fell further in April to 1.49, an
+extremely low level on an historical basis. Wholesale trade
+inventories also registered a sizable increase in April, following
+an upward-revised $30 billion rate of accumulation in March. Nearly
+half of these wholesalestock increases reflect larger holdings of farm
+and food products purchased at higher prices.
+Residential Construction
+Private housing starts, which had bounced back in March
+from the weather-depressed levels of the previous two months,
+increased 6 per cent further in April to an annual rate of 2.19 million
+units, the second highest monthly pace in the last four years.
+Single family starts edged up in April to a 1.5 million unit rate,
+and sales of new and existing homes also rose further from the
+sharply reduced February level. Multi-family starts increased 12
+
+II -14
+BUSINESS
+(Change at annual
+adjusted book valueINVENTORIES
+rate in seasonally
+; billions of dollars)
+1976 1977 1978
+QIV QI QII QIII QIV QI Mar. 1/ Apr. 2/
+Manufacturing and trade 19.3 31.0 28.3 25.2 17.8 44.2 65.3 n.a.
+Manufacturing 9.8 10.6 15.7 10.2 2.8 16.6 17.6 18.7
+Durable 9.6 6.4 7.8 7.7 3.8 13.2 14.6 12.6
+Nondurable .3 4.2 7.9 2.4 -1.0 3.4 3.0 6.1
+Trade, total 9.4 20.4 12.6 15.0 14.9 27.6 47.7 n.a.
+Wholesale 3.5 12.0 2.6 4.7 7.5 19.5 30.3 17.1
+Retail 6.0 8.4 10.0 10.3 7.4 8.1 17.5 n.a.
+Auto 2.7 .8 2.2 1.5 2.9 .9 .2 n.a.
+1/ Revised.
+2/ Preliminary.
+INVENTORY RATIOS
+1976 1977 1978
+QIV QI QII QIII QIV QI Mar. 1/ Apr. 2/
+Inventory to sales:
+Manufacturing and trade 1.50 1.46 1.46 1.48 1.44 1.46 1.43 n.a.
+Manufacturing 1.67 1.60 1.60 1.61 1.56 1.55 1.52 1.49
+Durable 2.07 1.97 1.96 1.96 1.90 1.90 1.84 1.80
+Nondurable 1.23 1.20 1.22 1.22 1.18 1.17 1.15 1.13
+Trade, total 1.33 1.33 1.32 1.35 1.33 1.36 1.34 n.a.
+Wholesale 1.24 1.24 1.21 1.24 1.23 1.27 1.24 1.20
+Retail 1.41 1.41 1.43 1.45 1.42 1.45 1.43 n.a.
+1/ Revised.
+2/ Preliminary.
+
+II -15
+PRIVATE HOUSING STARTS
+(SEASONALLY ADJUSTED ANNUAL RATE) MILLIONS OF
+UNITS -1- I1 1""" 1!r 1111" 111"r''  2,4
+TOTAL 2.0
+1,6
+1.2
+SINGLE FAMILY
+.8
+MULTI-FAMILY .
+I I'IIIIIIIIIIIIHIIII o
+1976 1977 1974 1975 1978
+
+II -16
+per cent in April, reaching their highest figure since February 1974;
+the gain in multi-family starts occurred despite reduced activity under
+HUD's section 8 rental assistance program.
+Government Sector
+Federal spending on a unified budget basis appears to be
+falling short of the quarterly spending pattern projected by the
+Administration at the time of the "March Budget Update." Treasury
+data for April indicate that Federal spending fell about $2 billion
+below agency expectations; spending in May, while higher than expected,
+appears to have only partially offset the April shortfall.
+State and local government spending has picked up sharply
+in recent months. New construction activity rose at a $3.3 billion
+annual rate in April and was 20 per cent above the depressed
+February level. These increases reflect both activity postponed
+from the severe winter and the start-up of projects funded late
+last year under Federal public works legislation. For March and
+April together State and local construction spending was up 6
+per cent from a year earlier. State and local government
+employment rose by a modest 8,000 workers in May, and was 4 per
+cent higher than a year ago. A major share of the positions
+added in the past year are due to the expansion in the public
+employment program (CETA).
+
+II -17
+CONSUMER PRICES
+CONSUMER PRICE INDEX,
+ALL ITEMS, LESS FOOD AND ENERGY
+CPI FOOD PRICE INDEXMONTHLY PERCENTAGE CHANGES
+SEASONALLY ADJUSTED
+1.5
+1.0
+,5
+2.5
+-2,0
+1,5
+1.0
+-15-0
+--.5
+,,,I,,,,,,,ll,111,, 1,0
+CPI SERVICES PRICE INDEX1.5
+1.0
+.5
+1976 1977 1974 1975 1978
+
+II -18
+Prices and Wages
+Price pressures have continued to be quite intense. The May
+increase in producer prices for finished goods--though much less than
+in April--was still at about a 9 per cent annual rate, and the April
+increase in consumer prices accelerated to nearly an 11 per cent rate.
+Large increases in food prices have been an important factor in the
+acceleration of inflation, but other prices have accelerated as well.
+Retail food prices rose steeply in April for the fourth
+consecutive month, following small increases over the second half of
+1977; the increases in April were widespread but were particularly
+large for beef. In producer markets, prices of foods and farm products
+rose much less in May than in previous months. However, these items
+were measured during the second week in May, and prices for a number of
+farm products increased after the survey week. Livestock increases
+were especially sharp in late May, with live cattle prices rising to
+record levels before turning somewhat lower in early June. In an
+effort to boost supplies and damp upward pressures, the Administration
+took action on June 8 to permit greater meat imports into the U.S. this
+year; however, the additional imports allowed would represent less than
+1 per cent of total U.S. beef supplies and may not have a significant
+impact on prices.
+Prices of services also have been major factors in this year's
+acceleration in retail prices. Gas and electricity rates--which are
+included in the services component of the CPI--climbed rapidly in April
+for the third successive month. In addition, costs of home ownership
+
+II -19
+rose sharply further; home maintenance and repair services were up at
+a 16 per cent annual rate in April and 14 per cent for the first four
+months. Home financing, property taxes and insurance as a group rose
+at over an 18 per cent annual rate over the first four months, compared
+to an 11 per cent rate during 1977.
+In other price developments, producer prices for consumer
+nonfood goods rose less in May than in April but were still at a high
+9 per cent annual rate; increases were concentrated in durables, par-
+ticularly cars and tires. Prices of capital equipment accelerated in
+May as prices of trucks rose 2 per cent; however, the average increase
+in these producer prices so far this year is close to the average for
+all of 1977. Intermediate nonfood materials prices rose at a 6 per
+cent annual rate, about in line with the average over the past year.
+The volatile index of average hourly earnings increased
+at a 3-1/4 per cent annual rate in May following a 10-2/3 per cent
+rate a month earlier. Over the past 12 months the index has risen
+8-1/4 per cent. The index rose 7.7 per cent in 1977 and 6.8 per cent
+in 1976.
+
+II -20
+RECENT CHANGES IN PRODUCER PRICES
+(Per cent change at compound annual rates; based
+on seasonally adjusted data)1/
+Relative
+Importance 1977 1978
+Dec. 1977 QI QII QIII QIV QI Apr. May
+Finished goods 41.2 10.0 6.4 2.9 7.2 9.4 15.2 8.8
+Consumer foods 10.3 17.9 4.3 -2.3 7.4 21.0 19.6 8.8
+Consumer nonfoods 18.7 9.0 7.8 4.0 4.7 5.1 16.2 9.3
+Capital equipment 12.2 5.0 6.8 6.0 10.9 6.9 6.8 10.4
+Materials 61.5 12.7 1.2 .4 8.3 14.2 10.6 6.1
+Intermediate2/ 45.5 8.9 5.5 7.1 4.2 9.0 6.2 6.2
+Crude nonfood 4.6 25.6 -8.1 -5.3 20.1 15.7 10.9 4.3
+Crude food 6.3 24.0 -16.6 -19.o 27.6 43.6 44.7 .6
+Memo: Energy 11.3 22.8 15.2 7.6 2.7 4.3 7.6 9.1
+1/ Changes are from final month of preceding period to final month of period
+indicated. Monthly changes are not compounded.
+2/ Excludes intermediate materials for food manufacturing and manufactured
+animal feeds.
+RECENT CHANGES IN CONSUMER PRICES
+(Per cent change at a compound annual rate; based
+on seasonally adjusted data)1/
+Relative
+Importance 1977 19782/
+Dec. 772/ QI QII QIII QIV QI March April
+All items 100.0 10.0 7.8 4.5 4.9 9.3 10.2 10.7
+Food 17.7 15.3 11.5 1.9 4.2 16.4 16.1 22.3
+Commodities (nonfood) 41.6 7.4 4.2 2.7 5.4 6.1 7.1 6.3
+Services 40.7 9.8 9.4 7.6 4.9 9.1 10.0 11.1
+Memoranda:
+All items less food
+and energy 3/ 73.7 8.5 6.9 5.1 5.3 8.0 7.9 8.5
+Gas and electricity 3.4 12.5 11.9 12.0 -.9 12.2 16.2 16.5
+Gasoline and fuel oil 4/ 5.2 12.5 9.9 .8 2.0 .2 0 3.5
+1/ Changes are from final month of preceding period to final month of period
+indicated. Monthly changes are not compounded.
+2/ Based on new index for all urban consumers.
+3/ Energy items excluded: gasoline and motor oil, fuel and coal, gas and
+electricity.
+4/ Includes motor oil, coal, and bottled gas.
+
+II -21
+HOURLY EARNINGS INDEX1/
+(Per cent change from preceding comparable period
+at a compound annual rate; based on seasonally
+adjusted data)
+1977
+QI OII QIII QIV1978
+QI Apr.2/ May 2/
+Private nonfarm 8.1 6.7 7.7 8.3 9.7 10.6 ..2
+Construction 5.7 4.5 4.0 5.6 7.8 2.4 9.2
+Manufacturing 7.9 7.8 9.2 7.9 8.7 7.2 6.6
+Trade 9.0 6.9 6.5 8.0 12.9 12.4 -.8
+Transportation and public
+utilities 6.0 7.3 8.0 10.8 8.7 14.2 -1.4
+Services 10.3 5.7 8.4 8.9 11.4 10.2 3.1
+1/ Excludes the effect of interindustry shifts in employment and fluc-
+tuations in overtime pay in manufacturing.
+2/ Monthly change at an annual rate, not compounded.
+
+III-T-1
+SELECTED DOMESTIC FINANCIAL DATA
+Net change from:
+Indicator Latest data Month Three Year
+Period Level ago months ago ago
+$ billions Per cent at annual rates
+Monetary and credit aggregates 1/
+Total reserves May 31294 11.0 3.9 7.2
+Nonborrowed reserves May 36082 -10.4 -4.9 4.3
+Money supply
+M1 May 347.2 6.3 9.6 7.7
+M2 May 832.5 6.8 7.8 8.3
+M3 May 1417.2 7.0 7.7 9.8
+Time nd savings deposits (less CDs) May 485.4 7.5 6.6 8.8
+CDs 2/ May 87.1 3.7 7.7 24.2Thrift deposits (S&Ls + MSBs
++ Credit Unions) May 584.7 7.4 7.5 11.9
+Bank credit (end of month) May 922.4 15.7 14.0 11.5
+Net change from:
+Latest data Three
+Indicator Per cent Month months Year
+Period or index ago ago ago
+Market yields and stock prices
+Federal funds wk. endg. 6/7/79 7.47 .20 .71 2.11
+Treasury bill (90 day) " 6/7/78 6.61 .22 .28 1.57
+Commercial paper (90-119 day) " 6/7/78 7.34 .38 .59 1.88
+New utility issue Aaa " 6/9/78 9.04 .17 .34 1.14
+Municipal bonds (Bond Buyer) 1 day 6/8/78 6.18 .19 .60 .53
+FNMA auction yield (FHA/VA) 6/12/78 9.86 .34 .50 1.09
+Dividend price ratio (common
+stocks) wk endg. 6/7/78 5.25 .02 .50 .56
+NYSE index (12/31/65=50) end of day 6/12/78 55.89 1.04 6.35 1.95
+Net Change or Gross Offerings
+Indicator Latest Year Year to Date
+Period Data ago 1978 1977
+$ billions
+Credit demands
+Business loans at commercial banks 1/ May
+Consumer instalment credit outstanding1/ Apr.
+Mortgage debt outstanding (major holders)1/ Mar.Corporate bonds (public offerings) May
+Municipal long-term bonds (gross offerings) May
+Federally sponsored agcy. (net borrowing) May
+U.S. Treasury (net cash borrowing) June
+1/ Seasonally adjusted.
+2/ $ billions, not at annual rates.
+e stimsted.5.9 1.8
+3.7 2.9
+8.9 7.3
+1.7e 1.6
+5.le 4.6
+3.0 .7
+3.3 .517.3
+12.9
+23.4
+8.4e
+19.2e
+9.3
+21.29.0
+9.9
+18.9
+10.1
+18.9
+3.0
+16.5
+
+III -1
+DOMESTIC FINANCIAL DEVELOPMENTS
+Aggregate credit flows expanded somewhat in May, reflecting
+mainly a sharp rise in bank loans to businesses. While short- and
+intermediate-term business credit surged, funds raised by corporations
+in bond and equity markets remained essentially unchanged. In the
+government sector, Treasury borrowing picked up somewhat and agency
+borrowing increased significantly. Municipal bond offerings reached
+their second highest level on record, although the increase in such
+issues was more than offset by a substantial decline in short-term
+borrowing. Fragmentary information for May indicates that household
+borrowing in mortgage and consumer credit markets probably declined
+somewhat, though it remained high by historical standards.
+M-1 growth moderated to a 6-1/4 per cent annual rate in May
+following a record advance in April. As a result of this deceleration,
+growth in M-2 and M-3 also slowed. The interest-bearing deposits
+included in the broader monetary aggregates generally expanded at
+a slightly faster pace than in April despite further increases in
+open-market rates. Part of the sustained growth in such deposits
+reflected intensive use of large time deposits by banks to finance
+heavy loan demand.
+The Federal funds rate has moved into the 7-1/2 per cent
+range since the May FOMC meeting, an increase of about 15 basis
+points. Adjusting to this and prior movements in the funds rate,
+
+III -2
+SELECTED FINANCIAL MARKET
+(per cent)QUOTATIONS
+1978 2/ 1 Change1977 1/- FOMC FOMC from:June June
+High Low April May 6 13 April May
+18 16 FOMC FOMC
+Short-term rates
+Federal funds 1/ 6.65 4.47 6.78 7.34 7.47 7.48-/ +.70 +.14
+Treasury bills
+3-month 6.27 4.41 6.15 6.34 6.61 6.63 +.48 +.29
+6-month 6.51 4.55 6.58 7.03 7.10 7.13 +.55 +.10
+1-year 6.62 4.67 6.83 7.30 7.33 7.43 +.60 +.13
+Commercial paper
+1-month 6.58 4.53 6.63 6.92 7.25 7.49 +.86 +.57
+3-month 6.66 4.63 6.79 7.10 7.35 7.60 +.81 +.50
+Large negotiable CDs 4/
+3-month 6.62 4.60 6.90 7.38 7.50 7.70 +.80 +.32
+6-month 6.84 4.65 7.25 7.90 8.00 8.15 +.90 +.25
+Bank prime rate 7.75 6.25 8.00 8.25 8.50 8.50 +.50 +.25
+Intermediate- and long-
+term rates
+Corporate
+New AAA 5/ 8.36 7.90 8.88 8.87 -- 9.04p +.16 +.17
+Recently offered 6/ 8.48 7.95 8.84 8.92 9.05 9.05p +.21 +.13
+Municipal
+(Bond Buyer) 7/ 5.93 5.45 5.74 5.99 6.19 6.18 +.44 +.19
+U.S. Treasury
+(constant maturity)
+3-year 7.39 5.74 7.73 8.05 8.15 8.17 +.44 +.12
+7-year 7.66 6.48 7.99 8.24 8.29 8.35 +.36 +.11
+20-year 7.96 7.20 8.27 8.43 8.47 8.47 +.20 +.04
+S8/ High 8/ FOMC FOMC June June April MayLow 8/  High 8/- Apr.18 May 16 6 13 FOMC FOMC
+Stock prices
+Dow-Jones Industrial 807.74 985.74 803.27 854.30 866.51 856.98 +53.71 +2.68
+N.Y.S.E. Composite 50.13 56.98 52.16 55.53 56.19 55.91 +3.75 +.38
+AMEX 110.37 126.86 134.66 143.83 147.15 150.45 +15.79 +6.62
+Keefe Bank Stock 6/ 530 633 614 660 633 633 +19 -27
+1/ Daily average for statement week, except where noted.
+2/ One-day quotes except as noted.
+3/ Average for first 6 days of statement week ending June 14.
+4/ Highest quoted new issues.
+5/ 1978 figures are averages for preceding week.
+6/ 1978 figures are one-day quotes for preceding Friday.
+7/ 1978 figures are one-day quotes for preceding Thursday.
+8/ Calendar week averages.
+
+III -3
+other money market rates generally have risen 10 to 50 basis points
+since mid-May, with commercial paper rates posting the largest increases.
+Yields on long-term securities meanwhile have risen an additional 5
+to 20 basis points, apparently reflecting both the expectations of
+further rises in short-term rates and increasing concern over the
+prospects for inflation. In addition, rates on new conventional home
+loans have increased about 15 basis points during the intermeeting
+period.
+Monetary Aggregates and Bank Credit
+Growth in M-1 declined sharply in May from the rapid 18-3/4
+per cent annual pace recorded for April. Although delays in the pro-
+cessing of personal income tax payments probably accounted for some
+of the bulge in demand deposits during April, the 12-1/2 per cent
+average rate of growth in M-1 for the past two months combined
+suggests a substantial rise in the demand for transactions balances
+associated with the rebound in economic activity.
+Flows into savings deposits at commercial banks slowed
+somewhat in May, but this decline was more than offset by an accelera-
+tion in the time deposit component of M-2. The added strength in
+time deposit flows resulted principally from a sharp rise in those
+large-denomination time deposits that are included in M-2, as growth
+in small-denomination certificates remained essentially unchanged from
+the surprisingly rapid pace of the preceding two months. Inflows of
+
+III -4
+MONETARY AGGREGATES
+(Seasonally adjusted)1/
+12 mos1 9 7 7 1 9 7 8 ending
+QIII QIV QI April Mayp Mayp
+Net changes at annual rates, per cent
+Major monetary aggregates
+1. M1 (currency plus
+demand deposits) 8.1 7.2 5.0 18.7 6.3 7.7
+2. M2 (M1 + time & savings
+deposits at CBs other 9.9 8.0 6.4 11.1 6.8 8.3
+than large CDs)
+3. M3 (M2 + all deposits at
+thrift institutions) 11.9 10.6 7.4 9.6 7.0 9.8
+Bank time and savings deposits
+4. Total 10.3 13.0 13.1 8.1 13.8 12.5
+5. Other than large negotiable
+CDs atweekly reporting banks 11.2 8.5 7.5 5.7 7.5 8.8
+6. Savings deposits 7.3 5.4 2.2 3.3 1.6 4.1
+7. Individuals2/  9.6 7.0 3.1 4.1 1.7 5.5
+8. Other3  -17.1 -17.8 -8.0 -8.2 0.0 -12.7
+9. Time deposits 14.6 11.4 12.0 7.9 12.4 13.2
+10. Small time4/ 8.3 1.0 2.7 10.1 8.6 5.1
+11. Large time4/ 28.1 32.4 29.9 5.1 17.9 30.7
+Deposits at nonbank thrift institutions5/
+12. Total 15.0 14.4 8.9 7.1 7.4 11.9
+13. Savings and loans 16.2 15.4 9.0 7.6 8.2 12.6
+14. Mutual savings banks 9.5 9.9 5.8 3.6 3.6 7.4
+15. Credit unions 20.1 20.0 18.2 14.7 12.1 19.6
+MEMORANDA: Average monthly changes, $ billions
+16. Total U.S. Govt deposits 0.2 0.2 -1.2 0.4 -1.0 -0.3
+6/17. Total large time deposits- 1.7 6.2 4.5 1.8 5.1 3.9
+18. Nondeposit sources of funds7/ 1.4 1.3 1.9 -1.4 1.8 1.1
+p--preliminary
+1/ Quarterly growth rates are computed on a quarterly average basis.
+2/ Savings deposits held by individuals and nonprofit organizations.
+3/ Savings deposits of business, government and others, not seasonally adjusted.
+4/ Small time deposits are time deposits in denominations less than $100,000.
+Large time deposits are time deposits in denominations of $100,000 and above
+excluding negotiable CDs at weekly reporting banks.
+5/ Growth rates computed from monthly levels based on averages of current and
+preceding end-of-month data.
+6/ All large time certificates, negotiable and nonnegotiable, at all CBs.
+7/ Nondeposit borrowings of commercial banks from nonbank sources include Federal
+funds purchased and security RPs plus other liabilities for borrowed money,
+including borrowings from the Federal Reserve, Eurodollar borrowings and loans
+sold, less interbank loans.
+
+III -5
+small-denomination time deposits at commercial banks probably continue
+to be concentrated among the longest maturity categories, where yields
+remain closer to market rates.1/
+In the past few years compositional changes in M-2 have
+enhanced the cyclical stability of this aggregate. Estimates of the
+components of M-2 indicate that large-denomination time deposits
+rose sharply during the period of high interest rates in 1973-74,
+peaking at about 13 per cent of M-2 in early 1975 (Chart 1). Sub-
+sequently, these deposits declined in importance through 1976, but
+they have been rising again during the past year as banks have sub-
+stituted large time deposits, which are not subject to regulatory
+ceilings, for weakening inflows of savings and short-maturity small
+time deposits. Meanwhile, small-denomination time deposits maturing
+in four years or more have grown steadily since their introduction
+by most banks in mid-1973, and currently represent an estimated 10
+per cent of M-2. As a result, the more traditional M-2 balances--
+M-1, savings accounts, and shorter-term small time deposits--now
+account for only about 80 per cent of M-2.
+M-3 also expanded at a somewhat slower pace in May, as
+deposit growth at thrift institutions remained relatively weak. Like
+commercial banks, thrift institutions in recent months have received
+1/ Data from the Surveys of Time and Savings Deposits through
+January 1978 (the latest date available) suggest that deposits
+with maturities of six years or more have accounted for all of
+the net inflows to small time deposits since mid-1977.
+
+CHART 1
+COMPONENTS OF M-2
+1970 -19781/
+(seasonally adjusted) Per Cent of M2
+IVI -ill II^fllII 100
+t mae depos 5t/// 4/ 'ta ,
+/7/~ -, 790 2 8
+Small time maturing in 4 years or more-0- s
+all time maiurig n less than 4 years-^'
+60 H
+I
+Savings depopit;s -5
+/ 1 //1 . I/ ., 30l/ --/ / //, /
+/," / ' // 20
+/ / // /' ' 1
+/ // // /
+1/ Last observation plotted is May 1978.
+2/ Beyond January 1978 the maturity break is partially estimated.
+
+III -7
+the bulk of their inflows in the form of time deposits; however, be-
+cause of increases in market yields over the past year, time deposits
+at thrift institutions currently are growing at their slowest rate
+since 1974. The latest available balance sheet data show that savings
+deposits did not grow at MSBs in March, and declined at S&Ls in April.
+These developments are consistent with recent increases in short-term
+yields and with relatively large volumes of noncompetitive tenders
+at Treasury auctions and brisk sales of money market mutual fund shares.
+Since June 1, commercial banks and thrift institutions
+have been offering two new certificates: a 6-month certificate whose
+ceiling rate varies weekly with the 6-month Treasury bill auction
+yield, and an 8-year certificate with maximum rates of 7-3/4 per
+cent for banks and 8 per cent for thrifts. At both types of inter-
+mediaries, yields on the 6-month certificates issued during the week
+ending June 14 exceeded the ceilings on ordinary accounts of similar
+maturity by 1-1/2 percentage points and were also greater than the
+rate limits on 1- and 2-1/2-year accounts. Although data on flows
+into the new accounts are not yet available, Reserve Bank and FHLB
+staff indicate that banks and thrifts in most areas of the country are
+vigorously promoting the 6-month accounts, and that a large proportion
+of these institutions are offering the new certificates at the ceiling
+rates.1/
+1/ The fragmentary information on flows into the new accounts will
+be discussed in the Greenbook Supplement. By the end of June,
+Board staff expect to have estimates of outstanding levels and
+rates paid on these accounts for all commercial banks as of
+June 7, based on a survey of about 560 banks. In addition,
+similar surveys of mutual savings banks and large savings and
+loan associations are being conducted by other agencies in
+cooperation with the Federal Reserve. These surveys will
+continue monthly in 1978.
+
+III -8
+COMMERCIAL BANK CREDIT
+(Per cent changes at annual rates, based on seasonally adjusted data)-
+1 9 7 7 1 9 7 8 12 mos
+QIII QIV QI April May ending
+May
+Total loans& investments- 10.3 9.5 9.7 18.4 15.7 11.5
+Investments
+Treasury securities -]
+Other securities
+Total loans2/
+Business loans
+Security loans
+Real estate loans
+Consumer loans0.3 -5.1 3.3 18.8
+L0.4 -20.3 - 25.1
+7.5
+14.74.6
+15.85.3
+12.315.0
+18.31.4
+-6.1
+5.9
+21.41.4
+-5.9
+6.3
+16.1
+11.2 11.7 16.3 17.5 32.8 16.0
+10.7 -10.4 -29.9 215.0 -94.1 -
+18.3 17.8 16.1 15.0 19.4 18.6
+16.1 15.5 14.6 18.7 n.a. n.a.
+MEMORANDA:
+1. Commercial paper issued
+by nonfinancial firms3/ 5.3
+2. Business loans at banks
+net of bank holdings of 7.2
+bankers acceptances
+3. Sum of memo items 1 &2 7.115.8 -2.5 38.2 -7.4 10.2
+15.6 17.8 21.3 31.6 16.&
+15.8 16.1 23.0- 28.8 16.3
+4. Memo item 3 plus
+business loans from
+finance companies8.2 18.7 15.5 21.3 n.a. n.a.
+n.a.-not available
+1/ Last-Wednesday-of-month series except for June and December, which
+are adjusted to the last business day of the month.
+2/ Loans include outstanding amounts of loans reported as sold outright
+by banks to their own foreign branches, nonconsolidated nonbank.
+affiliates of the bank holding companies (if not a bank), and non-
+consolidated nonbank subsidiaries of holding companies.
+3/ Measured from end of month.
+NOTE: DATA ADJUSTED TO REFLECT REVISIONS IN SEASONAL FACTORS AND
+BENCHMARKING TO THE DECEMBER 31, 1977 CALL REPORT. A
+DESCRIPTION OF THE REVISION WILL BE AVAILABLE IN THE
+GREENBOOK SUPPLEMENT.
+
+III -9
+Growth in bank credit slackened to an annual rate of about
+15 per cent in May, but remained above the average pace of recent
+months, according to data revised to incorporate recent benchmarks
+and new seasonal adjustments. Loan expansion picked up somewhat as
+increases in business and real estate loan growth more than offset a
+decline in security loans.1/ The larger-than-seasonal rise in consumer
+instalment loans at large banks in May suggests that consumer lending
+at all banks remained rather robust. Bank security portfolios were
+little changed, on balance, as holdings of Treasury securities
+declined while holdings of other securities increased moderately.
+Given the continued strong advance in bank credit and the
+marked deceleration of demand deposit growth, commercial banks in
+May resumed their reliance on managed liabilities following a tempor-
+ary interruption of this trend in April. Banks raised about $5
+billion through issuance of large time deposits during the month,
+with negotiable CDs at large banks--not included in M-2--accounting
+for $3.7 billion of the increase. In addition, nondeposit sources of
+funds, including Federal funds and security RP borrowing from nonbank
+institutions, were tapped for $1.8 billion.2/
+1/ The surge in security loans in the preceding month was associated
+with some unusually large government financings--including sale
+of New York State notes and Treasury cash management bills--and
+the expanded stock market volume.
+2/ Bank-related commercial paper increased $1.1 billion in May, bring-
+ing the total rise for the year to $1.9 billion. Most of the
+funds raised by such borrowing in May were not channelled to
+commercial banks, but rather to nonbank affiliates, including
+finance companies.
+
+III -10
+Business Finance
+Business short- and intermediate-term borrowing apparently
+increased sharply in May. Commercial paper issued by nonfinancial
+concerns was about unchanged, but bank loans net of bankers accep-
+tances (memorandum item 2 in the Bank Credit Table) grew at a 31-1/2
+per cent annual rate--the highest rate of growth since April 1974. For
+the first two months of the current quarter, such loan growth averaged
+26 per cent, well above the strong 17-3/4 per cent annual pace of the
+first quarter. The recent bulge in business loans was concentrated
+at large banks, with New York City banks participating fully after
+having lagged earlier in this recovery (Chart 2).
+The surge in business loans may be in part a reflection of
+sharp growth in business inventories; however, term loans also have
+continued their recent brisk expansion, suggesting some tendency on
+the part of firms to substitute intermediate-term financing for bond
+issuance. Loan increases at large banks in May were widespread by
+industry, with particular strength at commodity dealers, wholesale
+and retail concerns, and manufacturers. Field reports suggest that
+the so-called "middle-market" companies are exhibiting the strongest
+loan demand.
+The May Survey of Bank Lending Practices shows that, for the
+first time in the current upturn, a majority of respondents at both
+large and medium-sized banks perceive stronger loan demand. The Survey
+
+III -11
+Chart 2
+BUSINESS LOANS AT COMMERCIAL BANKS
+(End of Month, Seasonally Adjusted)
+P TBillions $
+S240
+S220
+All Commercial Banks
+180
+140
+100
+80
+60
+40
+20
+1972 1973 1974 1975 1976 1977 1978
+/ Excludes holdings of bankers' acceptances
+sold to affiliates.at large banks and includes loans
+
+III -12
+also suggests an emerging tendency for medium-sized banks to establish
+firmer price and nonprice lending terms, a development consistent with
+recent increases in loan/deposit ratios at such banks.1/
+In longer-term credit markets, gross public offerings of
+corporate bonds by nonfinancial firms increased modestly in May, although
+total corporate offerings declined $300 million to $1.7 billion owing
+to a reduced slate of offerings by financial concerns. Higher long-term
+interest rates (coupled with 10 years of investor call protection) seem
+to have caused many highly regarded industrial corporations to rely, at
+least temporarily, on alternative sources of funds.2/ Life insurance
+industry executives note that borrowing demand also has slackened in
+the private bond market from last year's record volume.
+Corporate bond yields have continued to rise since the May
+FOMC meeting, with the Board's index of newly issued, Aaa utility
+yields edging above 9 per cent for the first time since late 1975.
+The increase in bond yields in recent weeks has been accompanied by a
+widening in risk premia (lower panel of Chart 3). Newly issued A-rated
+utility bonds currently yield approximately 60 basis points more than
+Aaa-rated issues, an increase of 35 basis points since March and the
+widest margin since September 1976. This development may reflect
+1/ Fuller discussion of the Survey results may be found in an appen-
+dix to the Greenbook.
+2/ Only three industrial corporations whose bonds are rated Aa or
+better have publicly offered long-term issues of $100 million or
+more thus far in 1978.
+
+III -13
+SECURITY OFFERINGS
+(Monthly totals or monthly averages, in millions of dollars)
+1977 1978
+ee e/ f/ f/Year QIV QI/  Apr.- May- June- July-
+Gross offerings
+Corporate securities--total 4,518 5,361 3,390 3,300 3,200 3,800 3,100
+Publicly offered bonds 2,016 1,955 1,582 2,000 1,700 1,800 1,700
+By quality 1/
+Aaa and Aa 1,089 1,010 765 1,125 825
+Less than Aa 2/ 927 945 817 875 875
+By type of borrower
+Utility 692 660 475 425 500
+Industrial 3/ 700 490 546 675 700
+Financial 624 805 561 900 500
+Privately placed bonds 1,501 2,000 1,155 800 800 1,200 800
+Stocks 1,001 1,406 653 500 700 800 600
+Foreign securities--total 621 482 537 554 860
+Publicly offered 4/ 437 342 425 550 650 300 300
+Privately placed 184 140 112 4 210
+State and local govt.
+securities--total 5,771 4,812 5,096 8,489 7,100 5,300 4, -
+Long-term 3,891 3,595 3,518 3,500 5,100 3,300 3,000
+Short-term 1,880 1,217 1,578 4,989 2,000 2,000 1,500
+Net offerings
+U.S. Treasury 3,433 7,167 7,180 -11,445 659 1,200 1,100
+Sponsored Federal agencies 604 703 1,804 811 3,754 1,678 1,392
+1/ Bonds categorized according to Moody's bond ratings.
+2/ Includes issues not rated by Moody's.
+3/ Includes equipment trust certificates.
+4/ Classified by original offering date.
+e/ Estimated.
+f/ Forecast.
+
+III -14
+CHART 3
+SELECTED LONG-TERM INTEREST RATES
+(weekly)
+FRB Recently Offered Aaa
+A MEASURE OF RISK PREMIA ON CORPORATE BONDS
+Salomon Brothers New A Utility Minus Aaa UtilityPer Cent
+10.0
+9.0
+8.0
+7.0
+6.0
+5.0
+Basis Points
+200
+-160
+-120
+-80
+- 40
+I 1 0
+1975 1976
+
+III -15
+concern about the prospects for economic activity and profits, as well
+as a recognition of the recent erosion in corporate balance sheet
+strength.
+Even so, stock prices have moved higher on balance over the
+past few weeks. However, where shares of large industrial companies
+initially led the rally in late April and early May, more recently
+non-N.Y.S.E. issues generally have posted the largest gains. This
+extends a trend that has characterized the equity markets since early
+1977 (Chart 4). The American Stock Exchange Index posted a record high
+in early June, while the N.Y.S.E. Composite Index remains almost 15
+per cent below its early 1973 peak.
+Government Finance
+Treasury borrowing has picked up slightly in recent weeks
+compared with the first part of the quarter, but has remained sea-
+sonally light. In a regular auction of 4-year notes at the end of
+May, the Treasury raised $2.55 billion of new cash. A total of $500
+million in bills were run off in two regular weekly auctions in late
+May. For the second quarter as a whole, the Treasury is expected to
+raise only $4.5 billion of new cash through marketable coupon securities
+and to pay down Treasury bills totalling about $7.0 billion--bringing
+its cash balance to $16 billion by the end of June.
+Short-term Treasury bill rates, although having risen sub-
+stantially recently, still remain well below rates on other short-term
+instruments. A sizable spread has existed for most of the last year
+
+II -16
+CHART 4
+12/31/76=100
+RELATIVE MOVEMENTS IN MAJOR STOCK PRICE INDEXES -
+Averages
+ASE Composite
+I
+I
+I
+I
+I I I
+f / NASDAQ Composite
+NYSE Utilities
+1978 1977
+Latest data shown: Week ending June 9, 1978
+
+III -17
+and may be attributable at least partly to the relative supplies of
+money market instruments. Given the Treasury's debt-lengthening
+objective, the amount of Treasury bills outstanding has fluctuated
+narrowly since last spring, and supplies available to private investors
+have declined substantially owing to large acquisitions by foreign
+central banks.1/ Meanwhile, the outstanding quantity of CDs and
+commercial paper has grown markedly.
+The further rise in Treasury yields relative to deposit
+ceilings has been accompanied by sharp increases in noncompetitive
+tenders in recent Treasury auctions of 2- and 4-year notes. Non-
+competitive tenders in weekly bill auctions, on the other hand, have
+remained within the $550-$600 million range for most of 1978. In
+all cases, however, noncompetitive tenders have been larger in 1978
+than in 1977.
+As deposit inflows at thrifts have remained relatively weak,
+the financing needs of the Government-sponsored housing agencies have
+continued to increase. The FHLB System, FNMA, and the farm credit
+agencies--the principal borrowers in the Federal agency market--
+raised a total of $5.2 billion of new money in April and May, compared
+with $4.5 billion in the entire first quarter and $2.0 billion in the
+fourth quarter of 1977.
+1/ Foreign official accounts have purchased about $14 billion of
+Treasury bills over the past three quarters, though more recently
+their holdings have declined somewhat.
+
+III -18
+In May the volume of State and local government bond offer-
+ings reached $5.1 billion, the second highest monthly volume on record.
+The increase of $1.6 billion over April's total is due in part to a
+surge in advance refundings involving invested sinking fund issues.
+These bonds, which include provisions for sinking fund payments that
+may be invested in taxable securities, were restricted by a Treasury
+ruling effective May 16. Total refundings in May were a record $2.2
+billion.
+Partly as a result of the heavy volume, yields on tax-exempt
+securities have increased about 20 basis points since the last FOMC
+meeting and currently stand at their highest levels since November 1976.
+This rise is about equal to interest rate increases in other markets
+and has thereby resulted in a higher ratio of tax-exempt to taxable
+security yields. Concern about the possible effects of Proposition 13,
+a constitutional amendment approved by California voters on June 6,
+also may have contributed to the upward rate pressure in the tax-exempt
+market.1/ This measure will limit local property taxes in California
+to one per cent of 1975-76 "full cash value" and is expected to lend
+impetus to a variety of similar proposals under consideration in other
+States.
+1/ Following approval of Proposition 13, Standard & Poor's suspended
+ratings on those types of local obligations in California that
+would be most affected by the constitutional amendment. Moody's
+Investors Service had taken similar action on April 13.
+
+III -19
+Mortgage Markets
+Mortgage market conditions tightened further in May as con-
+tinued strong demands for funds pressed against the generally reduced
+supply at private institutions. Although net mortgage acquisitions by
+commercial banks picked up somewhat, mortgage lending activity at other
+major private sources apparently continued well below the record pace
+of late 1977. At S&Ls, net mortgage lending in April (latest data
+available) was somewhat below the reduced first-quarter rate, and new
+commitment activity, which had rebounded somewhat in March as weather
+conditions improved, resumed its downward trend. By the end of April,
+mortgage commitments outstanding (including loans in process) at S&Ls
+had declined to $32.1 billion--7 per cent below the peak at the end
+of 1977. New commitments for FHA/VA-underwritten loans were constrained
+during most of May by a widening spread between market yields and
+ceiling rates on these loans. However, deliveries of FHA/VA mortgages
+to FNMA under prior commitments picked up somewhat in May, and issues
+of GNMA-guaranteed securities backed by previously originated pools
+of FHA/VA loans increased from the relatively low April level (NSA).
+By the end of May the major Federal and related agencies
+operating in the secondary mortgage markets--FNMA, FHLMC, and GNMA--
+had accumulated more than [$1( billion] in purchase commitments, mostly
+involving optional delivery. This is an increase of $6 billion since
+the beginning of the year. Most all of the increase was accounted
+for by FNMA, mainly through its regular bi-weekly auctions of 4-month
+standby commitments.
+
+III -20
+INTEREST RATES AND SUPPLY OF FUNDS FOR
+CONVENTIONAL HOME MORTGAGES
+AT SELECTED S&Ls
+1977--High
+Low
+1977--Oct
+Nov
+Dec
+1978--Jan
+Feb
+Mar
+Apr
+May 5
+12
+19
+26Average rate on
+new commitments
+for 80% loans
+(Per cent)
+9.00
+8.65
+8.90
+8.93
+9.00
+9.05
+9.15
+9.15
+9.43
+9.48
+9.55
+9.58
+9.68Basis point
+change from
+month or
+week earlier
+--
+0
++3
++7
++2
++10
++10
++18
++5
++7
++3
++10Spreadl/
+(basis
+points)
++92
++37
++62
++70
++44
++42
++51
++68
++63
++66Per cent of S&Ls2/
+with funds in
+short supply
+22
+2
+11
+18
+22
+27
+38
+J4
+57
+69
+65
+67
+Jun 2 9.68 0 - 66
+9 9.70 +2 +66 n.a.
+1/ Average mortgage rate minus average yield on new issues of Aaa utility bonds.
+2/ Per cent reporting supply of funds slightly or substantially below normal
+seasonal patterns.
+SECONDARY HOME MORTGAGE MARKET ACTIVITY
+FNMA auctions of forward purchase commitments Yields on GNMA
+Conventional Govt,-underwritten guaranteed
+mortgage backed
+Amount Yield Amount Yield securities for
+($ millions) to ($ millions) to immediate
+Offered Accepted FNMA1! Offered Accepted FNMA1/ delivery2/
+1977-High 416 278 9.21 855 570 8.98 8.43
+Low 123 83 8.81 50 35 8.45 7.56
+1978--May 1646- 9:80z
+9.89
+10.01350 9.52
+297 9.63
+447 9.83
+Jun 5 8.99
+12 350 207 10.07 522 285 9.86 9.01
+1/ Average gross yield before deducting fee of 38 basis points for mortgage ser-
+vicing. Data, based on 4-month FNMA purchase commitments, reflect the average
+accepted bid yield for home mortgages, assuming a prepayment period of 12 years
+for 30-year loan without special adjustment for FNMA commitment fees and related
+stock requirements. Mortgage amounts offered by bidders relate to total eligible
+bids received.
+2/ Average net yields to investors assuming prepayment in 12 years on pools of 30-
+year FHA-VA mortgages carrying the prevailing ceiling rate on such loans.8.80
+8.86
+8.85
+8.96
+9.04
+
+III -21
+With two-thirds of a sample of S&Ls surveyed by FHLMC re-
+porting mortgage funds to be in short supply, interest rates on new
+commitments for 80 per cent home mortgages at sampled S&Ls averaged
+9.70 per cent on June 9, up about 15 basis points since the last FOMC
+meeting. Field reports indicate that nonrate terms also have been
+tightening in most regions. In almost half of the States, usury
+ceilings of 10 per cent or less have been constraining originations
+of conventional first mortgages to some degree, prompting tighter
+nonrate terms and credit standards and/or provoking larger discounts
+where not prohibited by the usury laws. Yields in the secondary
+mortgage markets have also risen. With 8-3/4 per cent Government-
+underwritten mortgages selling in secondary markets at discounts of
+about 6 points, the ceiling rate on FHA/VA home mortgages was raised
+to 9 per cent, effective May 23; however, by early June average dis-
+counts had again risen to nearly 6 points.
+Consumer Credit
+Growth in consumer instalment credit slowed somewhat in
+April, but still was at a 20 per cent annual rate. New extensions
+of instalment credit avdanced strongly, with most of the increase
+attributable to auto credit. Total credit liquidations rose even
+more sharply, resulting in the slower net growth and raising the
+estimated ratio of repayments to disposable personal income to a
+high for the current economic expansion. Meanwhile, latest delinquency
+
+III -22
+rate reports, primarily for the first quarter, show fairly large in-
+creases for the first time since early 1975, although delinquency rates
+remain significantly below recession highs.l/
+I/ Noticeable increases in delinquency rates were recorded in the
+four States principally affected by the coal strike; however,
+they explain only a small fraction of the increase in national
+delinquency rates.
+
+III -23
+CONSUMER INSTALMENT CREDIT1
+1977 1978
+1975 1976 1977 QIV QI Mar Apr
+Total
+Change in outstandings
+Billions of dollars 7.3 19.9 30.8 32.8 36.6 48.8 44.6
+Per Cent 4.7 12.3 16.9 16.0 17.2 22.3 20.0
+Bank share (per cent) 39.6 54.0 50.7 52.5 48.3 49.7 53.8
+Extensions
+Billions of dollars 163.9 192.4 226.0 238.3 245.4 259.1 265.4
+Bank share (per cent) 47.2 48.9 49.1 49.9 49.1 49.1 50.3
+Liquidations
+Billions of dollars 156.6 172.4 195.2 205.5 212.4 210.3 220.8
+Ratio to disposable income 14.4 14.6 14.9 15.1 14.9 14.9 15.4
+Automobile Credit
+Change in outstandings
+Billions of dollars 3.2 10.2 13.3 13.8 15.2 18.3 20.4
+Per cent 6.1 18.3 20.2 18.2 19.2 22.4 24.9
+Extensions
+Billions of dollars 51.5 62.8 73.1 76.6 77.9 81.9 87.0
+Delinquency Rates (per cent, SA)
+Commercial banks 2.60 2.39 2.37 2.34 2.47 2.51 n.e.
+Auto finance companies 2.39 2.00 2.07 2.12 2.19 2.28 2.20
+1/ Quarterly and monthly dollar figures and related per cent changes are
+seasonally adjusted annual rates.
+n.a.-not available.
+
+RESTRICTED
+U.S. International Transactions
+(In millions of dollars, seasonally adjusted 1/)
+IV -T -1
+Merchandise exports
+Merchandise imports
+Trade Balance
+Bank-reported private capital flows
+Claims on foreigners (increase -)
+Long-term
+Short-term
+(of which on commercial banks in
+offshore centers 2/)
+Liabilities to foreigners (increase +)
+Long-term
+Short-term
+to commercial banks abroad
+(of which to commercial banks in
+offshore centers 2/)
+to other private foreigners
+to int'l and regional organizations
+Foreign private net purchases (+) of
+U.S. Treasury securities
+Other private securities transactions (net)
+Foreign net purchases (+) of U.S. corp.
+securities
+(of which stocks)
+U.S. net purchases (-) of foreign securities
+(new foreign issues of bonds and notes)
+Change in foreign official res. assets in the U.S.
+OPEC countries (increase +)
+(of which U.S. corporate stocks)
+Other countries (increase +)
+Change in U.S. reserve assets (increase -)
+Other transactions and statistical discrepancy
+(net payments (-))
+Other current account items
+Military transactions, net
+Receipt of income on U.S. assets abroad
+Payment of income on foreign assets in U.S.
+Other services, net
+Remittances and pensions
+U.S. Gov't grants
+Other capital account items
+U.S. Gov't capital, net claims (increase -)
+U.S. direct investment abroad (increase -)
+Foreign direct investment in U.S. (increase +)
+Nonbank-reported capital, net claims (increase
+Statistical discrepancy1 07A 1 07
+Year Year Q3 Q4 Q1 March April
+114,694 120,509 30,973 29,425 30,674 10,730 11,353
+124,014 151,943 38,408 39,802 41,808 14,115 14,771
+-9,320 -31,434 -7,435 -10,377 -11,134 -3,385 -3,418
+-10 377 -4,708 860 -5,606 -6,584 -3.341 5,631
+-21,368 -11,427 -1,779 -8,750 -6,270 -5.475 634-
+-2,362 -751 -447 -16 -311 -120 -71
+-19,006 -10,676 -1,332 -8,734 -5,959 -5,355 705
+(-12,961) (-7,518) (-892) (-6,087) (-4,066) (-3,355) (357)
+10,991 6,719 2,639 3,144 -314 2,134 4,997
+231 374 193 35 249 215 239
+10,760 6,345 2,446 3,109 -563 1,919 4,758
+8,030 5,183 3,788 2,126 -205 1,633 4,706
+(4,115) (4,618) (3,216) (1555) (-819) (1,151) (3,512)
+2,719 1,718 186 470 -37 -5 -71
+11 -556 -1,528 513 -321 291 123
+2,783 569 1,252 -297 881 101 -265
+-7,480 -2,428 -1,640 72 -511 -86 288
+1,250 2,934 516 803 -424 319 640
+(853) (1,385) (139) (580) (341) (323) (617)
+-8,730 -5,362 -2,256 -731 -935 -405 -352
+(-9,954) (-6,848) (-2,276 (-1,319) (-1,107) (-414) (-973)
+13,091 35,406 7,893 15,152 14.906 8,016 -3,027
+6,802 5,98 1,15 757 139 -129
+(1,810) (1,365) (362; (318) (324) (169) (96)
+6,289 29,417 6,478 14,395 13,507 7,805 -2,898
+-2,532 -237 195 -2 246 238 287
+13.835 2.832 -1.125 1.058 2.196 1.543 504
+7,893
+366
+21,369
+-11,561
+2,743
+-1,878
+-3,146
+-4,297
+725
+-4,596
+2,176
+-2,602
+10,23911,UJ.
+1,432
+24,940
+-13,005
+2,460
+-2,008
+-2,787
+-5,368
+-1,792
+-5,009
+1,527
+-94
+-2,832J,ZLO
+559
+6,391
+-3,225
+845
+-510
+-824
+860
+-848
+-1,058
+619
+2,147
+-5,2211,04V
+50
+5,876
+-3,733
+740
+-480
+-604
+-1,735
+-378
+-1,549
+-197
+389
+944
+41. Current account balance -1,427 -20,402 -4,199 -8,528
+42. Official settlements balance -10,559 -35,169 -8,088 -15,150
+43. 0/S bal. excluding OPEC -3,757 -29,180 -6,673 -14,393
+VOTES :
+/ Only trade and services, U.S. Govt, grants and U.S. Govt. capital are seasonally adjusted.
+2/ Offshore centers are United Kingdom, Bahamas, Panama, British West Indies and Bermuda.
+*/ Less than $500,000.
+RESTICTEDJune 14, 1978
+er transact ons
+y
+
+INTERNATIONAL DEVELOPMENTS
+Foreign exchange markets. The weighted-average value of the
+dollar in mid-June was about 1 per cent below its level a month earlier,
+and about 1-1/2 per cent below its peak near the end of May. The dollar
+eontinued the steady upward movement that began in mid-April until late
+May, when renewed concerns over the continuing imbalances in the current
+accounts of major OECD countries and the high U.S. inflation rate brought
+a substantial downward adjustment in the value of the dollar. During
+June, the dollar has traded at a fairly steady level in generally quiet
+markets although in the past few days, the Japanese yen has risen sharply
+against all currencies as the surplus in the Japanese current account
+appears particularly out of line. Changes in money market conditions
+have had little net effect on the overall value of the dollar since U.S.
+rates have been essentially unchanged over the period against most foreign
+interest rates and only about 20 basis points higher against German rates.
+
+IV -2
+6/14/78
+WEIGHTED AVERAGE EXCHANGE VALUE OF U.S. DOLLAR May 1970=1
+Weekly Series
+/I-
+C'100
+92
+1977 1978
+
+IV -3
+; on June 8, British officials announced several monetary and
+fiscal measures designed to help bolster the exchange rate as well as
+reduce the rate of monetary expansion. (See p. 17 below for further
+details.) In the days immediately following, the pound was strengthened
+by foreign demand for long-term U.K. government bonds.
+During the past five weeks, the Desk continued its practice
+of acquiring German marks for use in repaying swap drawings by both the
+System and the Treasury's ESF account. The Desk has purchased about $750
+million equivalent
+.These marks were split be-
+tween the System and the ESF account on a 60-40 per cent basis; the System
+repaid $457 million equivalent, reducing its outstanding commitment to
+$1,128 million. The ESF repaid $311 million equivalent reducing its out-
+standing commitment to $528 million. On May 16, the System repaid the
+final $27 million equivalent of Swiss francs on the swap drawings made
+in January and February of this year. As of mid-June, the remaining
+commitment on the pre-August 1971 Swiss franc swap drawing equalled $330
+million.
+
+IV -4
+On May 23, in the first of a series of at least 6
+monthly auctions, the U.S. Treasury sold 300,000 ounces of gold
+at an average price of $180.38 per ounce. Bids were received for al-
+most 1.4 million ounces. The market price of gold in following
+weeks has generally fluctuated between $180 and $185.
+
+IV -5
+U.S. bank lending abroad. U.S. banks and their foreign
+branches increased their credits outstanding to foreign borrowers in
+countries other than international financial centers by $2.7 billion
+in the first quarter of 1978. This was not much different from the in-
+crease in claims on these countries in the first quarter of 1977; com-
+parisons with other quarters of last year could be misleading because
+of seasonal factors. At the end of March 1978 these claims showed a
+rise of 20 per cent over the year-earlier level, well below the 29 per
+cent year-over-year increase as of March 1977.
+The first-quarter increase in claims on countries other than
+international financial centers was little different from that of a year
+earlier even though the amount of new medium-term Euro-credits completed
+for these countries accelerated sharply in the first quarter. Some of
+the new funds raised were used to retire old debt, as in the case of
+Indonesia; however, it also appears that drawdowns of credits arranged
+in the first quarter have lagged (e.g., for Venezuela and Nigeria) so
+that outstanding claims are likely to pick up later. In the first
+quarter, outstanding claims on the smaller developed countries and oil-
+exporting countries rose more than in the year-earlier period mainly
+because of increased credits to Greece, Ireland, and Middle East oil
+exporters. But claims on the non-oil LDCs contracted slightly, mostly
+because of a further $700 million decline in claims on Mexico. This
+followed a similar decrease in claims on Mexico in the fourth quarter of
+1977, when Mexican borrowers shifted some loans to non-U.S. banks.
+U.S. bank claims on international financial centers (larger
+developed countries and offshore banking centers) rose $4 billion in the
+first quarter of 1978 in contrast to a decline of similar size a year
+earlier; most of this shift involved the offshore centers.
+
+IV -6
+U.S. Bank Claims on Foreigners
+(in billions of dollars)
+Outstanding
+Claims on:Dec.
+'76Mar.
+'77Dec.
+'77
+I. Countries Other Than Inter-
+national Financial Centers
+Smaller developed countries
+Greece
+Spain
+Scandinavian countries1/
+South Africa
+Turkey
+Other
+Oil-exporting countries
+Indonesia
+Middle East
+Venezuela
+Other
+Non-oil developing countries
+Argentina
+Brazil
+Mexico
+Peru
+Korea
+Philippines
+Taiwan
+Other
+Eastern Europe
+U.S.S.R.
+Other
+II. International Financial
+Centers2/
+III. Miscellaneous & Unallocated81.1 83.5
+15.0
+1.7
+2.8
+3.6
+2.2
+1.3
+3.4
+12.6
+2.2
+4.2
+4.1
+2.1
+43.3
+1.9
+11. 1
+11.7
+1.8
+3.1
+2.2
+2.3
+9.215.9
+1.7
+3.0
+4.0
+2.3
+.8
+4.1
+13.3
+2.3
+5.0
+3.9
+2.1
+44.0
+2.0
+11.5
+11.8
+1.9
+3.2
+2.3
+2.4
+8.9
+5.2 4.7
+1.5 1.5
+3.7 3.297.8 100.5
+19.0
+2.2
+3.5
+4.7
+2.4
+1.5
+4.7
+17.6
+2.2
+6.9
+5.5
+3.0
+49.4
+2.9
+12.7
+11.9
+1.9
+3.9
+2.5
+3.1
+10.5
+6.5
+1.9
+4.620.5
+2.7
+3.6
+4.7
+2.5
+1.5
+5.5
+19.2
+2.1
+8.3
+5.5
+3.3
+49.1
+3.0
+13.0
+11.2
+1.7
+3.7
+2.6
+3.1
+10.8
+6.0
+1.4
+4.62.4
+.9
+I--
+.2
+.4
+.1
+--.5
+.7
+.7
+.1
+.8
+-.2
+--I
+.7
+.1
+.4
+.1
+.1
+.1
+.1
+.1
+-.3
+-.5
+-.5
+126.7 122.4 141.0 145.0 -4.32.7
+1.5
+.5
+.1
+--m
+.1
+.8
+1.6
+-.1
+1.4
+.3
+-.3
+.1
+.3
+-.7
+-.2
+-.2
+.1
+.3
+-.5
+-.5
+4.0
+5.4 5.6 5.3 5.7 .2 .4
+IV. Grand Total 207.8 205.9 238.8 245.5 -1.9
+I/ Denmark, Finland, and Norway.
+2/ G-10 countries, Switzerland, and offshore banking centers.Mar.
+'78Increase
+Q-1 0-1
+'77 '78
+6.7
+
+IV -7
+In April, the U.S. merchandise trade deficit was $41 billion
+at an annual rate. This was about the same size as the deficit in
+March and somewhat smaller than the first-quarter deficit. (See
+chart following.) Private net capital flows for which we have data
+showed a $4.7 billion net inflow (adjusted) as flows into U.S. banking
+offices were particularly strong. Official foreign assets in the
+United States (excluding OPEC) declined by about $3 billion.
+U.S. International Transactions Summary
+(in billions of dollars, (-) = outflow)
+1977
+Year Q-41973
+Q-1 March April
+1. Trade balance 1/
+2. (annual rate)
+3. Private capital trans. adj. 2/
+4. Private capital as rept. net
+5. Reporting bias 2/
+6. OPEC net investments in U.S.
+7. Other foreign official assets
+8. U.S. reserve assets
+All other 4/
+9. Not seasonally adjusted
+10. Seasonal component 5/-31.4 -10.4 -11.1
+-- -41.5 -44.5
+-6.6
+-6.6
+--
+6.0
+29.4
+-.2-3.3
+-5.8
+2.5
+.8
+14.4
+*
+2.8 -1.5
+2.8 -2.6
+-- -1.1-8.0
+-6.2
+-1.8
+1.4
+13.5
+.2
+4.0
+3.9
+.1-3.4
+-40.6
+-5.1
+-3.3
+-1.8-3.4
+-41.0
+4.7
+5.7
+-1.0
+Memorandum:
+11. GNP net exports of goods
+and services -10.9 -4.7 -6.2 n.a. n.a.
+12. Current account balance -20.4 -8.5 n.a. n.a. n.a.
+1/ Seasonally adjusted.
+2/ Includes bank-reported capital, foreign purchases of U.S. Treasury
+securities, and other private securities transactions.
+2/ Adjustment for reporting bias in bank-reported data associated with week-
+end transactions. See page IV 10-11 in the June 1976 greenbook.
+4/ Includes service transactions, unilateral transfers, U.S. government
+capital, direct investment, nonbank capital transactions, and statistical
+discrepancy.
+5/ Equal but opposite in sign to the seasonal component of the trade balance.
+t/ Less than $50 million.
+e/ Estimated..2 -.1
+7.8 -2.9
+.2 .3
+1.4
+1.0
+.4
+
+U.S. Merchandise Trade 6/14/78
+International Accounts Basis IV -8
+Billions of dollars, seasonally adjusted, annual rate
+Monthly Data --
+Quarterly Data -
+- -180
+-~
+, IMPORTS 16
+~ EXPORTS
+\IT
+1A4
+_ ,, -120
+Billions of dollars, seasonally adjusted, annual rate
+--1 0
+S A
+\ / TRADE DEFICIT
+1977-20
+-60
+1978 1976
+
+IV -9
+Exports rose strongly in April with most of the increase
+in nonagricultural commodities, particularly industrial supplies,
+machinery, and civilian aircraft. Among industrial supplies, coal
+exports picked up sharply in April following several strike-
+depressed months, and exports of precious metals, especially gold,
+rose substantially. The rise in machinery exports was the third
+consecutive monthly increase. The value of machinery exports,
+which was essentially unchanged throughout 1977, was 12 per cent
+above the average for last year.
+Agricultural exports rose by 9 per cent in April from
+the already high March level. Increases occured in both volume
+and price. Soybean exports -- particularly to the Soviet Union
+and Western Europe -- were very strong, rising 20 per cent in value,
+one third of which was from higher prices.
+U.S. Merchandise Trade, International Accounts Basis
+(billions of dollars seasonally adjusted annual rates)
+1977r  1977r  1 9 7 8
+Year 3-Q 4-Q 1-Qr Marchr April
+EXPORTS 120.5 123.9 117.7 122.7 128.8 136.2
+Agric. 24.4 23.8 22.6 26.0 28.6 31.2
+Nonagric. 96.1 100.1 95.1 96.7 100.2 105.0
+IMPORTS 151.9 153.6 159.2 167.2 169.4 177.3
+Petroleum 45.0 45.2 42.2 39.8 36.9 45.6
+Nonpetrol. 107.0 108.4 117.0 127.4 132.5 131.6
+BALANCE -31.4 -29.7 -41.5 -44.5 -40.6 -41.0
+NOTE: Details may not add to totals because of rounding.
+
+IV -10
+The increase in imports during the first four months
+of this year occured for both petroleum and other commodities.
+Oil imports rose to an estimated 9.4 million barrels per day (mbd)
+in April, a rate about equal to the 1977 average, from a first-
+quarter average of 8.2 mbd. The price of imported oil rose
+marginally in April to about $13.25 per barrel after declining for
+several months; however the April price was still below the average
+for the first quarter.
+Non-oil imports continued at about the same high level
+as in March, which was 3 per cent higher than the first quarter
+average and 12 per cent higher than during the fourth quarter.
+Most of the recent rise in non-oil imports was in industrial
+supplies, automotive vehicles and parts from non-Canadian sources,
+and consumer goods. Non-oil import prices, which had advanced
+sharply in the first quarter were little changed in April.
+The surge in steel imports during the last few months
+was probably largely related to the imposition of the Treasury's
+"trigger price" mechanism which was not enforced for steel imports
+under fixed price contracts made before February 21 and arriving
+in the United States through the end of April. Imports of foreign
+cars and trucks continued to increase through April, even though
+U.S. sales have eased a bit recently as dealers continue to build
+
+IV -11
+inventories. Inventories of Japanese cars were at record levels
+at the end of April as stocks have doubled since the third quarter
+of 1977. Importers reportedly expect shipments to decline after
+mid-year as unit-sales for 1978 are expected to about equal their
+1977 level.
+In April, foreign official assets in the United States
+(excluding OPEC holdings) declined by more than $3 billion, reflecting
+declines in official holdings by the United Kingdom, Germany and Japan.
+The fall in U.K. holdings reflected the use of dollars both in repay-
+ment of a credit-tranche drawing from the IMF and in official inter-
+vention to support the pound. The decline in Germany's holdings
+reflected conversions of non-resident mark borrowings in Germany as
+required by the Bundesbank. Official Japanese dollar holdings in the
+United States fell as official deposits were placed in Japanese
+commercial banks under the Japanese government's import financing
+facility. The Japanese government also acquired time deposits at
+the Tokyo branches of major U.S. banks. An $800 million increase in
+Canadian holdings reflected the receipts of $1.35 billion in proceeds
+from external borrowings by the Government of Canada.
+In May, foreign official holdings at the Federal Reserve
+Bank of New York declined by about $1 billion. The decline largely
+reflected the retirement of U.S. Treasury debt in conjunction with
+U.S. repayment of swap debt to the Bundesbank.
+
+IV -12
+Bank-reported private capital transactions. adjusted for
+reporting bias, resulted in a net inflow of $4.6 billion in April.
+The strong reflow of funds to U.S. banking offices reflected the
+unwinding of end-of-fiscal year positions by Japanese trading
+firms and banks as well as the increase in the differential between
+U.S. and foreign money market rates.
+Foreign private net purchases of U.S. corporate stocks
+increased to more than $600 million in April, more than five times
+the average monthly volume of 1977. European brokers and investors
+accounted for the upsurge in net foreign purchases of U.S. corporate
+stock.
+U.S. Bank-reported, Private Capital Flows 1/
+(billions of dollars; increase in assets,-)
+1976 1977 1977 1977 1978 1978
+Q1-Q3 Q4 Q1 April
+Change in net foreign positions of
+U.S. banking offices -10.5 -4.7 -1.0 -3.1 -8.5 4.6
+Net change through interbank
+transactions (including own
+foreign affiliates) -8.3 -3.0 .2 -2.6 -7.9 4.7
+Loans to non-bank
+foreigners -3.2 -.5 * -.6 -.2 -.3
+Acceptances and collections 2/ -1.8 -2.7 -1.7 -1.0 -,3 *
+Liabilities to private
+nonbank foreigners 2.8 1.5 .5 1.1 -.1 .2
+1/ Adjusted for reporting bias.
+2/ Includes minor foreign currency claims.
+
+IV- 13
+U.S. net purchases of foreign securities of $350 million
+in April were only slightly above the monthly average for the first
+quarter of 1978 despite an increase in the rate of new foreign
+bond flotations in the U.S. Foreign purchases of Yankee-bonds
+(foreign bonds issued in the U.S.) were associated with a significant
+narrowing of the spread in the yield advantage of intermediate-term
+Yankee-bonds over U.S. Treasury issues.
+OPEC banking and security holdings in the United States
+fell by $100 million in April. In May, OPEC holdings of Treasury
+securities at the Federal Reserve Bank of New York were reduced
+by $500 million. However, offsetting the reduction in the holdings
+of Treasury securities were Saudi Arabia's purchases of $350
+million in notes of AT&T and one of its affiliates.
+The $300 million reduction in U.S. reserve assets
+corresponds to a decline in the U.S. reserve position in the IMF
+associated with the U.K.'s repayment of a credit-tranche drawing.
+
+IV -14
+Foreign Economic Developments. The signs concerning the pace
+of economic activity abroad appear to be somewhat stronger this month,
+although there is not yet evidence of sustained growth. German in-
+dustrial production rose by over 1-1/2 per cent in April though it is
+still below its level of last December; new orders from domestic sources
+rose in both March and April, while orders from foreign sources fell
+slightly. Japanese real GNP rose by about 2-1/2 per cent during the
+first quarter of 1978, bringing the growth rate of real GNP in FY1977
+to 5.4 per cent -- compared with the downward-revised official target of
+5.3 per cent.
+The economies of the United Kingdom and France recently have
+demonstrated signs of expansion. In the United Kingdom, industrial
+production is up about 1-1/2 per cent during the first quarter, with
+consumer spending a major source of strength. Industrial production in
+France was up about 2-1/2 per cent during the first quarter -- and rose
+a further 1-1/2 per cent in April -- spurred by inventory growth, for-
+eign orders and some rise in consumer spending. The most recent surveys
+suggest that this rapid rate of expansion is not likely to be sustained
+in coming months. In general, evidence appears to be accumulating that
+consumer expenditures may be a major source of demand across the major
+foreign countries.
+Japanese and German trade-account surpluses diminished only
+slightly in April. Japan registered a record $28 billion (s.a.a.r.)
+trade surplus during the first four months of the year. The equivalent
+
+IV -15
+figure for Germany was $18 billion. The United Kingdom recorded a trade
+surplus of about $.1 billion during April and May, following a trade
+deficit of about $1 billion during the first quarter. In France the trade
+balance in April was in small surplus for the second month in a row.
+Foreign Price and Wage Developments. Rates of consumer price
+increase in the six major foreign industrial countries, taken as a group,
+have been decelerating steadily since the beginning of 1975, as shown in
+the chart below. From an average year-over-year rate of increase of about
+13 per cent in the first quarter of 1975, the rate of increase in consumer
+prices had moderated to about 7 per cent in the first quarter of 1978.
+Further deceleration for most of the countries is indicated by the most
+recent monthly data. In contrast, the rate of inflation in the United
+States has recently been increasing and is now approaching the average
+rate of the major foreign countries.
+The moderation in the rate of price increases in the major for-
+eign countries has closely paralleled that of wages. Thus the rate of in-
+crease in German prices has decreased from an annual rate of about 6 per
+cent during early 1975 to about 3 per cent in early 1978, while the rate
+of increase in German wages has decreased from about 12 per cent to about
+6 per cent. Similarly, even for a country that continues to experience
+a relatively high rate of inflation such as the United Kingdom, price in-
+creases have halved over this period from a rate of about 20 per cent
+while the rate of earnings increase has decreased from about 30 per cent
+
+IV -16
+Rates of Consumer Price Increases
+in Major Countries
+Change From Same Quarter Previous Year
+' \ UNITED KINGDOM
+/ \
+-7
+WEIGHTED AVERAGE *
+\ UNITED STATES
+GERMANY *---..........
+I I I I I I6/14/78
+Per cent
+18
+12
+6
+1975 1976 1977 1978
+*Average of Canada. France. Germany, Italy. Japan, and United Kingdom, weighted by
+1976 real GNP weightsI I I I Ir \
+\ % Il
+
+IV -17
+to about 10 per cent. On average, the rate of increase of both wages and
+prices in the major foreign countries has been halved since early 1975.
+Notes on Individual Countries. Economic activity in the United
+Kingdom has picked up in recent months, led by consumer spending. During
+the first quarter of 1978, industrial production rose by about 1-1/2 per
+cent while real consumer expenditure rose by about 2 per cent. The un-
+employment rate has been declining slowly for the past 5 months and the
+rate of increase in wholesale prices continued to decelerate in May. The
+British current account has shifted sharply this year, declining to a sur-
+plus of about $.3 billion (s.a.a.r.) in the first five months of 1978,
+from a surplus of about $3 billion (s.a.a.r.) in the second half of 1977.
+Monetary growth has been relatively rapid recently. The govern-
+ment's target for sterling-denominated M3 growth for the year ending in
+mid-April 1978 -- 9 -13 per cent -- was exceeded by some 3 percentage
+points. At the end of May, the Bank of England announced that the Minimum
+Lending Rate would no longer be determined by a formula, and on June 8,
+the Bank to limit monetary growth raised the rate by 1 percentage point --
+to 10 per cent -- and reintroduced the supplementary special deposit
+scheme, which imposes a limit on the growth of banks' liabilities. The
+British government announced also an increase of 2.5 percentage points in
+employers' contributions to national social insurance to offset the cuts
+in personal taxation voted recently by opposition parties in Parliament.
+
+Real GNP and Industrial Production in Major Industrial Countries
+(percentage change from previous period, seasonally adjusted)
+1977
+1975 1976 1977 I021978
+cy1 04& 011978
+Feb. Nar. Apr.
+Canada: GNP
+IP
+France: GDP
+IP
+Germany: GNP
+IP
+Italy: GDP
+IP
+Japan: GNP
+IP
+United Kingdom:
+United States:1.1
+-4.84.9 2.6
+5.0 3.3
+0.1 5.2 2.2
+-9.2 10.1 1.7
+-2.5
+-5.5
+-3.5
+-9.1
+2.5
+-11.1
+GNP -2.1
+IP -4.7
+GNP
+IP-1.3
+-8.95.6 2.4
+7.8 3.0
+5.7 1.7
+12.9 0.8
+6.2 5.2
+11.1 4.1
+2.3 0.8
+0.5 0.2
+6.0 4.9
+10.1 5.60.0 1.3 0.8 n.a.
+0.3 0.0 0.8 0.2
+-0.7 0.3 1.4
+-2.1 -1.3 -0.3
+0.0 -0.1
+-1.1 0.3n.a,
+2.4
+1.4 n.a.
+1.1 0,0
+-2.5 -0.5 -0.1 2.0
+-7.2 -3.7 -0.4 5.2
+1.7 0.4 1.1 2.4
+-0.2 -0.2 1.2 3.1
+0.6 0.2 -0.1 n.a.
+-1.2 0.7 -0.7 1.6
+1.5 1.3 0.9 -0.1
+2.5 1.1 0.6 0.3* * *
+1.2 0.3 -0.2
+* * *
+0.0 2.4 1.6
+* * *
+-3.3 0.0 1.7
+* * *
+3.2 -1.0 -2.8
+0* * *0
+0.3 2.1 0.1
+0.7 -02
+0.7 -0.2 n.a.
+3* * *1
+0.3 1.3 1.1
+*GNP data are not published on monthly basis.*GIP data are not published on monthly basis._1_______ ___
+17 19...7. 197 1 02 .0-
+
+Trade and Current-Account Balances of Major Industrial Countries1/
+(billions of U.S. dollars; seasonally adjusted)
+1975 1976 1977
+Canada: Trade
+Current Account
+France: Trade
+Current Account
+Germany: Trade
+Current Account
+Italy: Trade
+Current
+Japan: Trade
+Current
+United Kingdom:
+United States:Accountb/
+Account
+Trade
+Current Account
+Trade
+Current Account
+a/ The current account includes
+b/ Not seasonally adjusted.-0.6
+-4.7
+1.5
+0.0
+15.3
+4.1
+-3.4
+-0.6
+5.0
+-0.7
+-7.1
+-3.7
+9.0
+11.51.2
+-4.2
+-4.2
+-6.0
+13.5
+3.6
+-6.7
+-2.9
+9.9
+3.7
+-6.3
+-2.0
+-9.3
+-1.42.7
+-4.0
+-2.4
+-3.1
+16.5
+3.8
+-2.5
+n.a.
+17.5
+11.0
+-2.9
+0.0
+-31.5
+-20.51977 197R
+01 02 Q3 04 01
+0.8
+-0.8
+-1.1
+-1.3
+3.7
+0.8
+-1.4
+-0.9
+4.2
+2.3
+-1.7
+-0.9
+-7.0
+-4.60.3
+-1.2
+-0.6
+-0.6
+4.2
+1.1
+-0.0
+0.2
+4.4
+2.8
+-1.2
+-0.6
+-6.6
+-3.80.6
+-1.2
+-0.5
+-0.8
+3.7
+-0.5
+0.1
+2.4
+4.2
+2.7
+-0.1
+0.8
+-7.4
+-4.01.0
+-0.7
+-0.2
+-0.3
+4.8
+2.4
+-0.4
+n.a.
+4.6
+3.1
+0.1
+0.6
+-10.4
+-8.01.2
+-0.6
+-0.2
+0.2
+4.3
+1.4
+-0.2
+n.a.
+7.3
+5.5
+-1.0
+-0.4
+-11.1
+n.a.Feb. Mar.
+'73 '78
+goods, services, and private and official transfers.
+*. Comparable monthly current-account data are not published.Apr.
+'7
+0.2
+*
+0.2
+*
+1,7
+*
+0.3
+*
+1.G
+1.3
+0.4
+0.6
+-3.4
+*0.2
+* :
+0.0
+-t
+1.4
+-0.1-k
+2.5
+1.9
+0.2
+0.4
+-4.5
+*0.7
+*
+0.3
+1.8
+*
+-0.1
+*
+2.8
+2.1
+-0.5
+-0.3
+-3.4
+*i" -1978
+.73 "T
+-
+
+IV -20
+On May 25, the U.K. government announced the continuation of
+its IMF standby arrangement, but it is unlikely that the British will
+draw on it. In fact, the British have begun to repay earlier drawings
+on the IMF ahead of schedule.
+The Japanese authorities have reiterated their public commit-
+ment to achieving 7 per cent real GNP growth in FY1978. This target has
+become more credible in light of the recent announcement of the 2.4 per
+cent growth of real GNP during the first quarter of 1978 (the final
+quarter of FY1977). Private consumption, government expenditures and
+net exports contributed to the first-quarter gain. Japanese industrial
+production rose slightly in April -- the sixth consecutive monthly rise.
+The wholesale price index rose by .3 per cent in May, leaving the index
+about 2 per cent below that of a year earlier.
+The Japanese current-account surplus declined to about $1.3
+billion in April from a monthly average during the first quarter of about
+$1.8 billion. Export volume (s.a.) declined from March by almost 9 per
+cent, while import volume (s.a.) increased by more than 6 per cent. Pre-
+liminary information indicates that the May current-account surplus was
+about the same as that in April.
+The pattern of industrial production and new orders to industry
+in Germany indicates that there may be some recovery of economic activity
+in the second quarter of 1978 from the weak first quarter. Industrial
+production rose by over 1-1/2 per cent in April -- bringing it close to
+its level of last December. New orders from domestic sources rose in
+
+IV -21
+both March and April -- reaching a level about 4 per cent above that
+in April 1977 -- while orders from foreign sources fell slightly.
+On June 1, the Bundesbank cut the minimum reserves of banks
+by DM 4-1/2 billion -- 10 per cent of total required reserves -- rein-
+forcing Bundesbank President Emminger's announcement that the Bundesbank
+will tolerate an overshooting of its 8 per cent central bank money growth
+target in 1978.
+Industrial production in Canada decreased slightly in April,
+leaving it at about its level of last December. Retail sales (s.a.)
+were up by less than 3 per cent in the first quarter, down from an advance
+of over 4 per cent in the previous quarter, while real domestic product in-
+creased by about 1/2 per cent in the first quarter. Reflecting the
+relatively weak growth of activity, the unemployment rate remained at a
+record high of 8.6 per cent in May. However, first quarter growth of
+real GNP is thought to have been moderate -- though below potential.
+In France, the pace of economic activity may be accelerating a
+bit after a slow 1977 pace. Output appears likely to grow somewhat
+further in coming months as inventory building continues. Investment in-
+tentions also appear to have strengthened following the March elections,
+but substantial margins of excess capacity in many sectors and weak
+financial positions will inhibit rapid investment growth in the near
+term. Final consumer demand has been erratic, and weakened in April
+after showing strength in the first quarter.
+
+IV -22
+Despite an increase in the size of the Central Government's
+net borrowing requirement from 1.3 per cent of GNP in 1977 to an
+officially estimated 2 per cent this year, the overall stance of policy
+remains relatively restrictive; monetary policy, in particular, remains
+geared to achieving no more than a 12 per cent rate of growth for M2 --
+slightly less than projected nominal GNP. Recent increases in public
+service charges (gas, electricity, telephone, railway fares, etc.)
+ranging from 10 to 20 per cent, renewed pressures on food prices, and
+the phasing out of industrial price controls are all likely to contrib-
+ute to substantial rates of price increase in coming months.
+Industrial production fell in March and April -- this series
+tends to be erratic -- but a recovery of economic activity appears to be
+underway in Italy -- in February-April, the average level of industrial
+production was about 3-3/4 per cent above the previous three months, and
+real GDP increased by about 2 per cent during the first quarter of 1978.
+The recovery still appears to be largely spurred by stockbuilding -- though
+private consumption appears to have contributed to the upswing. At the
+end of May the government announced a series of increases in taxes and
+public utility charges more than offset by increased expenditures. Since
+the authorities have said that they intend to reduce the public sector
+deficit, new measures still are needed.
+Denmark and Norway are continuing restrictive monetary and fis-
+cal policies in an effort to curb inflation and reduce current-account
+deficits. Danish officials have suggested that even higher taxation might
+
+IV -23
+be appropriate in the coming year. The tripartite wage settlement in
+Norway has just been concluded. It provides for an average increase
+in nominal contractual wages that is expected to keep real wages con-
+stant during 1978. Sweden continues to experience an improving trade
+balance, following the August devaluation. During the first quarter of
+1978, the trade account was in surplus for the second quarter in a row.
+Finland is also experiencing a substantial trade surplus, and, as a
+result, is receiving criticism within the GATT for long-standing import
+restrictions. In Switzerland, 1978 GNP growth is now expected to be in
+the 1.5 -2 per cent range, down from about 4 per cent in 1977 and from
+earlier forecasts of about 4 per cent for 1978. Swiss monetary authori-
+ties are permitting M1 growth well in excess of the 5 per cent target to
+arrest Swiss franc appreciation.
+
+A-
+APPENDIX A*
+SENIOR LOAN OFFICER OPINION SURVEY
+ON BANK LENDING PRACTICES
+More than three-quarters of the 121 respondents to the
+Senior Loan Officer Opinion survey taken in mid-May perceived that
+business loan demand had strengthened over the three previous months.
+In the February survey, only one-third of the respondents had re-
+ported a strengthening relative to conditions in November of last
+year. About 70 per cent of the respondents anticipated a further
+strengthening of business loan demand in the next three months, con-
+siderably more than the 55 per cent who were anticipating stronger
+loan demand at the time of the February survey. Apparently in response
+to the more pervasive strength of loan demand, several officers
+reported a firming of price and nonprice terms of lending.
+Perceptions of business loan demand by respondents at
+large banks (over $5 billion) showed a dramatic change from three
+months earlier, as the proportion of loan officers reporting stronger
+demand jumped from under 15 per cent in the February survey to over
+70 per cent in the May tally. More than 80 per cent of the respon-
+dents at both large and small banks reported stronger loan demand in
+at least one of the two surveys conducted in 1978. In the May survey,
+over 80 per cent of those officers who reported stronger business
+loan demand also anticipated further strengthening in the subsequent
+three months.
+Between the February and May surveys the prime rate charged
+by major banks was increased from 8 per cent to 8-1/4 per cent.
+There was a further rate increase to 8-1/2 per cent in late May--soon
+after the spring survey date. In this climate of rising rates, 10
+per cent of the panel in May reported firmer standards of credit
+worthiness to qualify for loans made at prime and about 20 per cent
+reported firmer standards for lower-quality loans; both proportions
+were about twice as high as in the February survey while a notice-
+ably smaller number of respondents than in February reported easier
+terms of credit worthiness. Virtually all of the respondents
+reporting firming were at banks with assets of under $5 billion.
+* Prepared by Patricia Davis, Economist, Banking Section, Division
+of Research and Statistics.
+
+A -2
+About one-eighth of the panel indicated less willingness
+to make fixed-rate short-term business loans, and more than one-third
+expressed a decreased willingness to make fixed-rate term loans.
+The responses were similar at both large and small banks. Over one-
+fifth of the panel reported firming of compensating balance require-
+ments. Respondents reporting such firming were predominantly those
+at banks with assets of under $5 billion. Less than 10 per cent of
+the loan officers reported an easing of compensating balance stan-
+dards, compared to more than 20 per cent in February.
+About 20 per cent of survey respondents indicated that
+they had tightened approval standards for extending credit to new
+and non-local service area customers compared to 10 per cent in each
+category in the last survey. For established customers in the banks'
+market area, almost all respondents indicated unchanged policies
+toward commitments and loan applications.
+In general, there was far less willingness by respondent
+banks to make secured construction and land development loans or
+secured real estate loans. The smaller banks were less willing to
+make commercial and industrial loans of any maturity, loans to
+finance companies, or loans to securities brokers and dealers. As
+in February, a noticeable number of respondents expressed more
+willingness to make participation loans with their correspondents.
+On balance, the May survey suggests strong signs of a
+tightening of overall lending terms for most loan categories. These
+policies were especially evident at banks with assets of less than
+$5 billion.
+
+A -3
+TABLE I
+SENIOR LOAN OFFICER OPINION SURVEY ON BANK LENDING PRACTICES
+AT SELECTED LARGE BANKS IN THE U.S.
+(STATUS OF POLICY ON MAY 15, 1978 COMPARED TO THREE MONTHS EARLIER)
+(NUMBER OF BANKS & PERCENT OF TOTAL BANKS ANSWERING QUESTION)
+LOAN DEMAND
+STRENGTH OF DEMAND FOR COMMERCIAL AND
+INDUSTRIAL LOANS (AFTER ALLOWANCE FOR
+BANKS USUAL SEASONAL VARIATION):
+1. COMPARED TO THREE MONTHS EARLIER
+2. ANTICIPATED DEMAND IN NEXT 3 MONTHS
+INT ER ST RATE POLICY
+STANDARDS OF CREDIT WORTHINESS:
+3. TO QUALIFY FOR PRIME RATE
+4. TO QUALIFY FOR SPREAD ABOVE PRIME
+WILLINGNESS TO MAKE FIXED RATE LOANS:
+5. SHORT-TERM (UNDER ONE YEAR)
+6. LONG-TERM (ONE YEAR OR LONGER)
+CREDIT AVAILA I LITY
+REVIEWING CREDIT LINES OR LOAN
+APPLICATIONS FOR:
+7. ESTABLISHED CUSTOMERS
+8. NEW CUSTOMERS
+9. LOCAL SERVICE AREA CUSTOMERS
+10. NONLOCAL SERVICE AREA CUSTOMERS
+COMPENSATING BALANCE REQUIREMENTS FOR:
+11. COMMERCIAL & INDUSTRIAL LOANS
+12. LOANS TO FINANCE COMPANIES
+WILLINGNESS TO MAKE OTHER TYPES OF LOANS:
+13. SECURED CONSTRUCTION & LAND DVLPMNT
+SECURED REAL ESTATE LOANS:
+14. 1-4 FAMILY RESIDENTIAL PROPERTIES
+I5. MULTI-FAMILY RESIDENTIAL PROPERTY
+16. COMMERCIAL & INDUSTRIAL PROPERTY
+17. INSTALLMENT LOANS TO INDIVIDUALS
+COMMERCIAL AND INDUSTRIAL LOANS OF:
+18. 1-5 YEARS MATURITY
+19. OVER 5 YEARS MATURITY
+20. LOANS TO FINANCE COMPANIES
+21. LOANS TO SECURITIES BROKERS & DEALERS
+22. PARTICIPATION LOANS WITH
+CORRESPODENT BANKSMUCH
+STRONGER
+BANKS PCT
+B 6.6
+5 4.1
+MUCH
+FIRMER
+BANKS PCT
+3 2.5
+4 3.3
+CONSIDERABLY
+GREATER
+BANKS PCT
+0 0.0
+0 0.0
+MUCH
+FIRMER
+BANKS PCT
+0 0.0
+3 2.5
+0 0.0
+4 3.3MODERATELY
+STRONGER
+BANKS PCT
+85 70.2
+82 67.8
+MODERATELY
+FIRMER
+BANKS PCT
+9 7.5
+18 14.9
+MODERATELY
+GREATER
+BANKS PCT
+8 6.7
+11 9.2
+MODERATELY
+FIRMER.
+BANKS PCT
+3 2.5
+21 17.4
+4 3.3
+20 16.7ESSENTIALLY
+UNCHANGED
+BANKS PCT
+27 22.3
+33 27.3
+ESSENTIALLY
+UNCHANGED
+BANKS PCT
+107 89.2
+93 76.9
+ESSENTIALLY
+UNCHANGED
+BANKS PCT
+97 80.8
+67 55.8
+ESSENTIALLY
+UNCHANGED
+BANKS PCT
+117 96.7
+95 78.1
+114 95.0
+96 80.0MODERATELY
+EASIER
+BANKS PCT
+1 0.8
+1 0.8
+MODERATELY
+EASIER
+BANKS PCT
+0 0.0
+6 5.0
+MODERATELY
+LESS
+BANKS PCT
+IS 12.5
+35 29.2
+MODERATELY
+EASIER
+BANKS PCT
+1 0.8
+2 1.7
+2 1.7
+0 0.0
+23 19.0 87 71.9
+17 14.0 99 81.
+CONSIDERABLY
+GREATER
+BANKS PCT
+0 0.0MODERATELY
+GREATER
+BANKS PCT
+10 8.3ESSENTIALLY
+UNCHANGED
+BANKS PCT
+97 80.2MODERATELY
+LESS
+BANKS PCT
+14 11.6MUCH
+EASIER
+BANKS PCT
+0 0.0
+0 0.0
+MUCH
+EASIER
+BANKS PCT
+1 0.8
+0 0.0
+MUCH
+LESS
+BANKS PCT
+0 0.0
+7 5.8TOTAL
+BANKS
+ANSWERING
+121
+121
+MUCH
+EASIER
+BANKS
+0
+0
+0
+0
+O 0.0 121
+0 0.0 121
+MUCH
+LESS
+BANKS PCT
+0 0.0

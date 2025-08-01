@@ -1,0 +1,956 @@
+Prefatory Note  
+ 
+ 
+The attached document represents the most  complete and accurate version available 
+based on original copies culled from the f iles of the FOMC Secretariat at the Board 
+of Governors of the Federal Reserve Syst em.  This electronic document was created 
+through a comprehensive digitization proce ss which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned 
+versions text-searchable.2   Though a stringent quality assurance process was 
+employed, some imperfections may remain. 
+ Please note that some material may have b een redacted from this document if that 
+material was received on a confidential ba sis.  Redacted material is indicated by 
+occasional gaps in the text or by gray boxe s around non-text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of 
+Information Act.           
+ 
+   
+ 
+    
+ 
+                                                            
+ 
+1  In some cases, original copies needed to be photocopied before being scanned into electronic 
+format.  All scanned images were deskewed (to rem ove the effects of printer- and scanner-introduced 
+tilting) and lightly cleaned (to remove dark spots caused by staple holes, hole punches, and other 
+blemishes caused after initial printing). 
+ 
+2 A two-step process was used.  An advanced optical character recognition computer program (OCR) 
+first created electronic text from the document im age.  Where the OCR results were inconclusive, 
+staff checked and corrected the text as necessary.  Pl ease note that the numbers and text in charts and 
+tables were not reliably recognized by the OCR process and were not checked or corrected by staff.  
+Content last modified 5/26/2009. 
+ 
+1  See the box o n page 2 on  the effects of war-related news on T reasury yields.
+2  These chang es in Treasury yields and equ ity prices followed sharp increases
+in the  run-up t o the March meet ing af ter que stions about t he timing of the  onset o f
+the war wer e largely resol ved.  Since March 1 2 (the  day the  previ ous Greenbook
+closed) broa d equity  indexe s have g ained a bout 14 per cent a nd Treasur y coupon yi elds
+have risen 6 to 24 basis points.Stric tly C onfidential (F.R .) May 1, 2003
+Class II – FOMC
+MONETARY POLICY ALTERNATIV ES
+Recent D evelo pments
+(1) Favorabl e devel opments re garding  the war i n Iraq and di sappoi nting
+economic da ta releases produc ed notabl e cros scurr ents i n fina ncial  markets  over t he
+intermeeting per iod.  The rapid mili tary gains , as well  as the ass ociated subst antial
+decline in  oil prices, ap pear to  have led  to an u nwin ding o f previou s flight-to-qu ality
+flows a nd tended t o bright en the e conomic outl ook, work ing to boos t Treas ury yi elds
+and equ ity prices.1  That impetus has been offs et, however,  by soft economic data t hat
+were read by inv estors as indicating that the econom ic upturn m ay be a bit mo re
+delayed than previ ously antic ipated.   On balance, the two-year  Treasury yiel d has
+decli ned 15 bas is poi nts, but longe r-dat ed Treas ury yi elds are l ittle cha nged si nce the
+March meeting  (Chart 1 ).  Broad equit y index es, which have  also be nefited f rom
+better-tha n-expe cted co rpora te earnin gs repo rts, have risen  abou t 6 percen t.2 
+Inflation compensat ion impli ed by the  sprea d of the  nominal ove r the i nflation-
+indexed ten-year Treasu ry yield has declined 15 basis points, probab ly spurred in part
+by the c onside rable  drop in oi l prices, although a surv ey-ba sed measur e of
+household s’ long-term  inflation e xpectatio ns has re main ed aro und 2¾ percen t.
+Chart 1
+Financial Market Indicators
+Note: Solid vertical lines indicate March 17, 2003.300320340360380400
+Mar. May July Sept. Nov. Jan. Mar.
+2002 2003242628303234363840$US
+Gold (Left Scale)Oil (Right Scale)Commodity Prices
+Daily
+Note.  Oil data are through April 30, 2003.
+Jan. July Jan. July Jan. July Jan.
+2000 2001 2002 2003  0100200300400Basis Points
+Six Months AheadTwelve Months AheadMarket Uncertainty Regarding the
+Federal Funds Rate*
+*Width of 90 percent confidence interval computed from futures ratesand implied volatility.  Data are through April 30, 2003. 800 850 900 9501000105011001150
+June Aug. Oct. Dec. Feb. Apr.
+2002 20034.04.24.44.64.85.05.25.45.6Index Percent
+S&P 500 Index
+(Left Scale)Ten-year Treasury
+(Right Scale)S&P 500 and the Ten-year Treasury
+12357 1 0 2 0 3 0-20-10010Basis pointsChange in One-Year Treasury Forward Rates
+Since 3/17/03
+Years Ahead
+Sept. Feb. June Oct. Feb. June Oct. Feb.
+2000 2001 2002 20031.52.02.53.03.5PercentLong-Run Inflation Expectations
+Michigan Survey
+Philadelphia Fed Survey
+TIIS Inflation
+Compensation*
+*The inflation rate that equalizes the price of the January 2012 TIIS and
+the value of a portfolio of nominal securities with the same payments.
+Jan. July Jan. July Jan. July Jan.
+2000 2001 2002 2003 80100120140160180200Basis Points
+One-year RateTen-year RateMarket Uncertainty Regarding Swap Rates
+Six Months Ahead*
+*Width of 90 percent confidence interval computed from swap ratesand implied volatility.
+2
+The Effe cts of War-Rel ated News on Tr easur y Yiel ds
+On balance,  the yi eld on t he two-y ear Tre asury  note ( the t hick l ine in the
+upper panel of Chart 2) has f allen 63 basi s points si nce September 11, 2002,  the day
+before  Presi dent Bush’ s spee ch at t he U.N. Gener al Asse mbly that  first called on
+the worl d to dis arm Iraq.   Financi al marke t commentary  sugges ts that some of  the
+movements in  the yi eld (and other  asse t prices) during t his pe riod were  drive n by
+chang ing view s regard ing the p rospec t for wa r with I raq an d, in the ev ent, by its
+relatively quick resolution.  Presumab ly, the channels of such influence on T reasury
+yields inc lude ef fects on inve stors ’ out look f or economic  activity and inf lation, t he
+attendant cons equences  for moneta ry poli cy, and change s in t he perc eption of and
+attitude toward bearing risk.
+Quantifying  these effects, and  the exten t to wh ich they h ave un wound, is
+complicated because other factors also have left t heir imprint on Treasury yields. 
+To con trol for the systematic effect of macroeconom ic information, daily changes
+in the two-year Treasu ry yield over the past 15 years were regressed o n the surprise
+component of  15 data  releases, where  the sur prises were  measured us ing the
+median expe ctation fr om surveys  conducte d by Money Market Ser vices.  Acc ording
+to thi s regr ession, incoming news s ince t he fal l of l ast year hav e pull ed down the
+two-ye ar yield about  60 basi s point s (the thi n line  in the  upper pane l).  The
+unexpla ined port ion of t he yie ld movements v aried quite a  bit ove r this peri od and,
+on n et, left the yield little ch anged  (the do tted line in  the m iddle p anel).
+By no m eans is war-related news likely to accoun t for all these unexplained
+movem ents.  Indeed, before mid-D ecember, the wo rds “Iraq” or “w ar” were
+mention ed only occasionally in the C redit Markets colu mn o f the Wall Stree t Jour nal 
+(the bottom panel).   Beginning in December, however, mention of war with Ir aq as
+an expl anati on of Trea sury y ield movements st epped up cons idera bly.  From
+September 1 1, 20 02, to March 5, 20 03, the nadir  of most Tre asury  yields, the two-
+year note rate fell about 70 basis points, with m ost of that decline attributable to the
+unexpla ined component  on days i n which war news  was prominent .  Simil arly, the
+rebound in that yiel d since then i s mainly accounted for  by influences  other than
+the predicta ble responses  to economic data surpris es on days when financia l
+reporters,  at leas t, were f ocusing on the war, with t he most dramatic move
+occurring in the r un-up to the March 18th FOM C meeting.   Over the i ntermeet ing
+period i tself, a diminuti on of war ef fects appar ently off set some, but not  all, of the
+drag on yields as sociate d with mostly softe r economic data.
+Chart 2
+Sept. Oct. Nov. Dec. Jan. Feb. Mar. Apr.
+2002 20031.41.61.82.02.22.4Percent
+Actual Yield
+Due to Macroeconomic and Policy Surprises
+Sept. Oct. Nov. Dec. Jan. Feb. Mar. Apr.
+2002 20031.41.61.82.02.22.4Percent
+Actual Yield
+Due to Macroeconomic and Policy Surprises
+Note: The portion due to macroeconomic and policy surprises is indexed to equal the actual yield on 9/11/02.Two-Year Treasury Yield
+Sept. Oct. Nov. Dec. Jan. Feb. Mar. Apr.
+2002 2003 Days of War News*
+*Days on which "war" or "Iraq" was mentioned in Wall Street Journal Credit Markets column.Sept. Oct. Nov. Dec. Jan. Feb. Mar. Apr.
+2002 2003-0.6-0.4-0.2 0.0 0.2 0.4Percentage Points
+Total
+On Days of War News
+Sept. Oct. Nov. Dec. Jan. Feb. Mar. Apr.
+2002 2003-0.6-0.4-0.2 0.0 0.2 0.4Percentage Points
+Total
+On Days of War NewsPortion Due to Factors Other than Macroeconomic and Policy Surprises
+3
+3 Over the inte rmee ting per iod, the fed eral fund s rate avera ged clo se to its
+1¼ percen t target.  Th e Des k has p urcha sed $7.6 b illion of T reasury s ecurities in
+outright operations: $5.3 billion of Treasury co upon secu rities and bills in the market
+and $2. 3 billion of  bills from foreig n offi cial institutions.   The outst anding vol ume of
+long-t erm Syste m RPs was unchanged,  on net,  at $16 bi llion.(2) The abatem ent of war-related risks has been reflected in sizable declines
+in forward-looking  measures of un certainty in short- and long-term  interest rates,
+exchan ge rates, and  oil and  equity p rices (Ch arts 1 and  3).  Risk sp reads o n corp orate
+debt securities have narrow ed across the credit quality spectrum –probab ly pulled
+down a lso in part by expectations of impr oved def ault and re covery rates–and  flows
+into hi gh-yi eld bond mutual  funds ha ve been s ubstant ial.  The s pread bet ween the
+forward e arning s-price ratio and the r eal longer- term Trea sury y ield, a meas ure of t he
+equity p remiu m, has  narro wed only sligh tly, but ther e have b een siza ble flow s into
+equity mu tual funds of late.
+(3) The d ecision to  leave po licy on h old at th e March m eeting w as mo stly
+anticipat ed by market  parti cipant s, and inte rest rates edged hi gher on t he aft ernoon of
+the ann ounceme nt.3  The FO MC’s deci sion not to charact erize the bal ance of ris ks
+and to mention “heightened surveil lance” in the a nnouncement was apparently read as
+indicating that the Commi ttee wa s poised to react quickly to evolving economic  news
+and global events,  elevati ng market partici pants’ ex pectati on of the possibi lity of  an
+intermeeti ng acti on.  Inde ed, a t one poi nt in l ate March,  futur es pri ces s uggest ed a
+significant chance of an ease som etime before M ay 6th.  As time passed an d the speed
+and extent of m ilitary su ccess in Iraq became evident, such expectations unwound. 
+On net, the term structure of m oney m arket futures rates has rotated since the M arch
+meeting, with the exp ected path for the target federal funds rate revised up ward
+throu gh the  sum mer b ut do wnw ard the reafter in ligh t of the d ownbeat eco nom ic
+news.  The cu rrent co nfigura tion of fu tures rates s ugge sts that m arket pa rticipants
+Chart 3
+Financial Market Indicators
+Note: Solid vertical lines indicate March 17, 2003.Jan. Feb. Mar. Apr.
+200335404550556065PercentMarket Uncertainty Regarding Crude Oil Prices*
+*Implied by options on West Texas Intermediate Crude Oil futures contracts expiring
+in June 2003.
+May Sept. Feb. June Oct. Feb. June Oct.
+2003 2004 20051.01.52.02.53.03.54.0Percent
+May 1, 2003
+March 17, 2003Expected Federal Funds Rates*
+*Estimates from federal funds and eurodollar futuresJan. July Jan. July Jan. July Jan.
+2000 2001 2002 20032025303540455055PercentS&P 100 Implied Volatility (VIX)
+Daily
+Sept. Feb. July Dec. May Oct. Mar.
+2000 2001 2002 2003 50100150200250300350Basis points
+Ten-year AATen-year BBB
+Ten-year SwapSpreads of Selected Private Long-Term Yields
+Daily
+Note: Spreads measured over ten-year Treasury. 400 80012001600200024002800
+July Oct. Jan. Apr. July Oct. Jan. Apr.
+2001 2002 2003 500 700 900110013001500Basis Points Basis Points
+High-YieldHigh-Yield Debt Spreads
+Telecom Sector
+Note: Spreads measured over five-year Treasury. Telecom shown through
+April 30.  Source: Merrill Lynch.Daily
+1993 1995 1997 1999 2001 2003123456789Percent12-Month Forward Earnings-Price Ratio
+for S&P 500 and 10-Year Treasury
+Monthly
+E/P ratio
+Real 10-year Treasury yield*
+* 10-year Treasury yield minus Philadelphia Fed 10-year expected
+inflation.
+4
+4              
+     .  The Desk did not  intervene dur ing the  period f or
+the account of the S ystem or Trea sury.now place a bout one- in-three odds  on a 25-b asis-point  cut i n the t arget  feder al funds
+rate at the  upcoming meeti ng and that  the ex pecte d amount of pol icy tighte ning by
+the end of next year has b een trimm ed about 50  basis points, placing the expected
+funds  rate then  at abou t 1¾  percen t.
+(4) After recording a sharp rise in the days just before the Mar ch FOMC
+meeting in an ticipation of the start of military operations in Iraq, the dollar fluctuated
+widely  during t he first ha lf of the i ntermeet ing per iod, drive n large ly by ne ws from the
+battlef ield and other gl obal trouble spots  (Chart 4).  Foll owing the capture of Baghdad
+in ear ly April , the doll ar came under  downward press ure tha t has i ntensi fied in rec ent
+days.   On balance,  the dol lar ha s lost about 3 ¾ percent a gains t an i ndex of maj or
+forei gn curre ncies  sinc e the March FOMC m eeting.4  The d ollar fell partic ularly
+steeply—about 5¾ pe rcent—agai nst the e uro, but i t also de clined 4½ pe rcent ve rsus
+the C anad ian do llar.  The B ank o f Can ada raise d its over night in terest rate 25  basis
+points  on April 15 , citing i nflationa ry pre ssure s, although i t also acknowle dged the
+possibility of  some ne ar-term weakne ss in the  econ omy.  Much a s was  the c ase in U. S.
+markets , stock pri ces in most major f oreig n markets  benefi ted f rom the re ducti on of
+geop olitical un certainty a nd fro m so me b etter-than -anticipate d earn ings rep orts, wh ile
+yields on most f oreig n long-t erm government  secur ities ros e slightly.  In Japan,  by
+contra st, the ten-year  gover nment bo nd yield  slum ped to  a record  low o f 57 basis
+points, stock prices moved  essentially sideways, and the yen was un changed ag ainst
+the dollar over th e period. 
+(5) Since t he March FOM C meeting,  the dol lar ha s depre ciated 
+2¾ percent  agains t the  curren cies of our ot her import ant tr ading par tners .  The
+Chart 4
+Financial Market Indicators
+Note: Solid vertical lines indicate March 17, 2003.Sept. Feb. July Dec. May Oct. Mar.
+2000 2001 2002 2003 95100105110115120Index(8/31/00 = 100)
+Broad Index
+Major
+Currencies IndexOther Important
+Trading PartnersDailyNominal Trade-Weighted Dollar
+Exchange Rates
+Sept. Feb. July Dec. May Oct. Mar.
+2000 2001 2002 2003 50010001500200025003000Basis Points
+OverallBrazilDailyEMBI+ Index
+Net New Cash Inflows to Mutual Funds
+($ billions, at monthly rates, NSA)
+eEquity Funds Bond Funds
+Govt. OtherMemo:
+Money
+Funds*
+2001
+20022002 Q32002 Q4
+2003 Jan.
+2003 Feb.2003 Mar.2003 Apr.2.8
+-2.2
+-23.9
+-3.0
+-0.4
+-11.1
+0.2
+17.52.3
+5.0
+10.9
+2.6
+4.1
+6.02.00.74.0
+5.46.14.9
+8.7
+11.9
+8.8
+12.237.7
+-1.6
+-12.6
+30.8
+19.9
+-32.8-35.3-81.9
+* Net change. April number is actual.
+e = estimate.-20-10010203040Commercial paper
+C&I loans
+Bonds
+J
+F
+MA   eGrowth of Components of
+Nonfinancial Business Debt
+2000 2001 2002 2003H1 H2TotalMonthly rate$Billions
+5
+Mexican p eso gain ed abo ut 6 pe rcent as th e Ban k of M exico tigh tened p olicy aga in
+near the end of March.  Favorable  developments in Brazil,  including an
+announcement that the primary budget surplus in 2002 exceeded its target and some
+progres s on fi scal and pensi on refo rm, buoyed f inanci al marke ts there.   Extending
+recent trends, the real appre ciated a lmost  17 pe rcent, Brazi lian st ocks  moved up
+15 percent, and Brazil’s EMBI+  spread narrowed 230 basis points.  Mar kets in some
+Asian count ries were buff eted not iceably by ne ws about t he SARS epidemic and
+menacing rhetoric f rom N orth Korea.  The most visible  market reacti on to SAR S was
+in Hong Kong,  where  stock pr ices dec lined s harpl y midway  through t he pe riod but
+recouped m uch of that loss in recent days.  For a tim e, Korean m arkets were
+support ed by buil ding opti mism that di plomati c progre ss would be  made on the
+impasse with N orth K orea, but those gains were k nocked ba ck somew hat when  such
+hopes w aned in recent days.
+(6) Despite  improvements  in market  condit ions,  domestic  busine ss demands
+for cr edit have re mained sl uggish i n rece nt months,  owing importa ntly to a cont inuing
+narrow g ap between  capital expenditures and intern al sources of funds.  Gross
+issuance  of corp orate b onds slowe d som ewhat in the p ast coup le of m onth s from  its
+relatively robus t pace  earlier in the ye ar, and borrower s conti nued to use  much of the
+proceeds to pay down other debt, especially co mmercial paper and C&I loans. 
+Indeed, according to resp onses to the A pril Senior Loan  Officer O pinion Su rvey,
+demand for C&I loans has weakened further over th e past three months.  However, a
+notabl y small er net  perce ntage of  banks re ported t ighte ning loa n terms a nd standa rds
+than i n rece nt surv eys.  Household debt  is estimated to ha ve grown 9½ perce nt in t he
+first quarter, only a touch below th e average pace in 2002, prop elled by continued
+rapid gr owth of mortga ge debt t hat has  been fue led by r ecord l evels of r efinancing
+activity.   Con sumer credit expanded mo derately in the first quarter, at about the same
+6
+rate as la st year, but consumer loans at banks are  estimated to h ave weakened in A pril. 
+Facing grow ing financing needs, the Treasu ry announ ced yesterday additional chan ges
+to its auct ion sc hedule.   (See t he box on the  next pag e on Treas ury debt  management
+developments.)
+(7) M2 growth slowed ove r March and April , but  most of t he dece leration
+appea red to b e attribu table to ta x-related fac tors.  A s hift tow ard earlier  electron ic
+filing pu shed re fund d istribution s into F ebrua ry, thereby  weak ening  the level o f M2  in
+March.  In a dditi on, f inal tax pay ments by i ndivi duals i n April ra n below the  avera ge
+of recen t years, and  the resu lting bu ildup o f depo sits in anticip ation o f tax paym ents
+was lower than what was incorporated in s easonal fa ctors.   M2 grow th may also have
+been held do wn som ewhat in recent m onths by sub stantial net flows to capital market
+mutual fun ds.  In the first q uarter, M 2 velocity c ontinu ed to fall ro ughly  in line w ith
+movem ents in opportu nity costs.
+7
+Treas ury D ebt M anag ement D evelop ments
+The average maturity  of T reasu ry de bt he ld by  the p ublic has bee n falling sin ce late
+2001, nea rly reversin g an u ptrend  that had  started in the  mid -1990s.  Th is decline  is partly
+attributable t o the expectati on of Treasury debt managers that  the surge i n federal
+borrowing in late 2001 and early 2002 would be short-li ved and thus better
+accommodat ed throug h inc reased o fferings o f short-term se curities.  As def icits have
+apparently be come more p ersisten t, the T reasu ry ha s ann ounced measures to in crease its
+borro wing  capac ity in longe r-dated  securities in re cent qu arterly refu nding  stateme nts. 
+For insta nce, qua rterly a uctio ns of thre e-year no tes w ill be r eintro duced next w eek with
+the primary purpose of all owing the Treasury to r educe its borr owing in bills  and two-year
+notes.  In  addition , the Trea sury an nounced  at yesterda y’s qua rterly refun ding p ress
+confe rence th at, starting in A ugust, it w ill issue five-ye ar notes o n a m onthly  basis,
+introduce regul ar reopenings of t he ten-year note  (to t ake place about a month after each
+refunding aucti on) and increase t he numb er of ten-year  indexed note auctions f rom three
+to four  times  a year.   In tot al, the Tre asury  will sell $58 bil lion of  notes  at the upcoming
+quart erly refundi ng auc tions—the l argest refundin g off ering si nce 1996 .
+Given  that the Congress has n ot yet taken action to raise the Treasury’s statutory
+borrowing limit of $6. 4 tril lion, t he Treasury has been engaging i n extraordinary measures
+to keep i ts statutory  debt under  the l imit a nd avoid any di srupt ions t o the May ref unding
+aucti ons.  On April  4, the  Treasur y invoked i ts authori ty to suspend i ssuing debt t o the
+Civil Service R etirement and D isability Fund until July 11, 200 3.  In addition, the Treasury
+has been underinvesti ng two other trust  funds: the Thrif t Savings Plan of Federal
+Retirem ent Th rift Investm ent Bo ard (the “G -fund ”) and th e Ex chan ge Stab ilization F und. 
+Yesterd ay, th e Treasury ind icated  that th ese m easures w ill allow  it to stay  with in its
+statutory debt li mit only until  the second half of May.  
+8
+Policy Al ternati ves
+(8) The c onto urs of th e staff outlo ok for th is meetin g are ge nerally sim ilar to
+those in  the prev ious few  projectio ns in tha t near-term  sluggish ness in eco nom ic
+growth is  anticipat ed to gi ve way to  more vigor ous expans ion over  the bal ance of  the
+forecast p eriod.  T his tim e roun d, projec ted gro wth in  econo mic ac tivity is a bit
+weak er in the n ear term  in light o f generally d isappo inting ec onomic d ata released  in
+the past se ven w eeks and  slightly stro nger n ext year, give n a hig her track  for we alth
+and m ore fiscal stimulus than anticipated in M arch.  The projection is again p remised
+on the assumption that the FOMC  keeps the ta rget feder al funds rat e flat  at
+1¼ p ercent through th e end of next year.  W hile yields on longer-term T reasuries are
+expected to edge u p slightly over the next few qu arters, those on lower-tier
+inves tment- grade a nd specul ative-grade se curit ies fall further a s the e xpansi on gains
+firmer footi ng.  Equity prices  again are anti cipated to ri se stea dily, but from a base that
+is considerably higher than in th e March  Greenb ook.  These financial cond itions are
+projected to spur b usiness investment, which, together w ith a bit larger and mo re
+front -loaded fi scal stimulus than a ssumed in t he March Greenbook,  contri butes t o a
+gradual  accel eration in ov erall activity, wi th rea l GDP growth reac hing 4¾ perce nt
+over next  year.  Still, with pr oduct ivity rising bri skly, the u nemplo yment  rate edg es up
+over th e next sev eral qu arters, peak ing just a bove 6  percen t before b eginn ing to slip
+lower in the second  quarter of next year.  Reflecting the persistent slack in produ ct
+and labor  markets , core consumer pr ice inflation i s expec ted to  conti nue to edge
+down , but along a slightly lower trajectory that reflects the surprisingly subdued p rice
+data of  late.  In t his quar ter and next,  decli nes i n energy  price s are  projec ted to  pull t he
+rate of overall PCE  inflation down to  ½ percen t.  Over 2004, both total and  core
+inflation average 1 percent. 
+9
+(9) Should th e Co mmittee believe th e staff forecast like ly and b e attracted  to
+the pro jected co mbination  of accelera ting ou tput an d som e further  decline in
+inflation, it might wi sh to leave the stance of poli cy unchang ed at th is meeting. 
+The projected pickup in t he growth of activi ty, al beit gradual,  does suggest t hat
+maintai ning the  curren t stance of  polic y would be cons istent wit h a narrowi ng of the
+output gap by the end of next yea r.  Indeed,  the Comm ittee might anticipat e that
+economic s lack will be worked down more qui ckly, and downward pr essur es on
+inflation diminished corresp ondingly soo ner, than in the Green book.  In particular,
+the Com mittee migh t see substantial odds that aggregate dem and will grow  more
+vigorously than p ortrayed in the G reenbook.  W ith the war conclud ed, business
+confidence could  rebound  sharply and, com bined with the im provem ent in consum er
+senti ment and fi nancia l market  condit ions al ready s een, prove more s upporti ve of
+growth than projected by the s taff.  In addition,  the forthcoming degree of  fisca l
+stimulus, whi ch curr ently is being de bated i n the Congres s, could well  turn out t o be
+greater th an assu med in the G reenb ook.  E ven if the C ommittee e xpects ag gregate
+demand growth about  in line with t hat of  the st aff forec ast, it might  still expect  the
+output gap  to shrink mo re quickly if it is les s optimistic about pro ductivity growth.  If
+so, the Com mittee may reg ard the further disinflation projected by the staff as less
+likely, despi te th e rec ent subdue d price  data,  a vie w that might  be rei nforce d by the
+observation that core P CE inflation shows no d iscernable trend over the past few
+years and  other re ading s on inflatio n sho w mixed ch anges (C hart 5).
+(10) If the C ommittee in stead fou nd th e Gre enbo ok pro jection o f only
+sluggish progress in closing the output gap over the next six quarters with a P CE
+inflation r ate of 1 p ercent a t the end o f the pr ojection per iod t o be c redible but
+undesi rable , it might c hoose t o ease mon etary policy  at this meeting.  In particular,
+concer ns about a  protra cted out put gap may be e speci ally pres sing i n the cur rent
+Chart 5
+Inflation and Real Federal Funds Rates
+1960 1963 1966 1969 1972 1975 1978 1981 1984 1987 1990 1993 1996 1999 2002 2 4 6 81012Four-quarter percent change
+Core PCE
+Total PCE
+Market-Based PCE
+GDP DeflatorPrice Indexes
+1960 1963 1966 1969 1972 1975 1978 1981 1984 1987 1990 1993 1996 1999 2002 -4 -2  0  2  4  6  8 10Percent
+Federal Funds Rate minus Core PCE
+Federal Funds Rate minus Total PCE
+Federal Funds Rate minus Market-Based PCE
+Federal Funds Rate minus GDP Deflator
+++++Real Federal Funds Rate
+Federal funds rate minus four-quarter inflation rate.
+Inflation
+Core PCETotal PCEMarket-based PCEGDP Deflator
+Real Federal Funds Rate
+Core PCETotal PCEMarket-based PCEGDP DeflatorAverage Most Recent12
+1960 - present
+3.833.904.043.861.52
+2.280.891.64
+ 2.55
+ 2.48 3.00 2.53-0.27
+-1.03
+ 0.36
+-0.39
+1. 1968 - present for market-based PCE.
+2. Based on four-quarter averages.
+10
+circumstances of  surprisi ngly low infla tion.  I ndeed, as shown in Chart 6, t he real
+short-term federal funds rate do es not differ much from  the level prevailing before
+the Com mittee’s Novem ber 6th policy ea sing.  Cu tting the n ominal fun ds rate at th is
+meeting may be appropriate to ree stabli sh the previousl y sought spread of t he actual
+real fund s rate belo w its estim ated eq uilibrium .  Goin g forw ard, a furth er declin e in
+inflation from its already low level, by limiting the scope for red uctions in short-term
+interest rates, could inor dinat ely constr ain the abil ity of monetar y poli cy to pr ovide
+stimulus in re sponse t o an adver se shoc k to spe nding at  some lat er dat e.  Eve n if t he
+Comm ittee sa w the ri sks s urrounding  the proj ected paths of  aggrega te demand and
+inflation in the  Greenbook as  symmetri c, it might v iew the  costs  of fa lling
+unex pected ly short o f either of th ose path s in com ing qu arters as larg er than  the costs
+of an o verage.  In  that case, the  regret asso ciated w ith easing  policy an d sub seque ntly
+discoveri ng that  it was  unneces sary would pres umably be s mall re lative to t hat of
+holdin g the fun ds rate at 1 ¼ percent an d even tually learn ing tha t a low er level w ould
+have been appropriate. 
+(11) The evident reducti on in “Knightian uncertainty” i n recent weeks may
+incline the Committee t o retur n to it s prac tice of announc ing an as sessment of t he
+balance of ri sks.  I f so, a nd if it e lects to leave t he stance of pol icy unchanged, an
+outlook in w hich resource slack rem ains substantial and inflation declines slightly over
+the nex t sev eral quarte rs, such as  in the  Greenbook,  might sugge st that the  balanc e of
+risks is weig hted to ward  econo mic w eakness fo r the fore seeable fu ture.  H owever, if
+the Committee  either were  to int erpre t the  “fore seeable future” a s referring to a
+period extending beyond the next  few quarters or were t o judge aggregate demand as
+likely to be notably stronger or agg regate supply weak er than in the G reenbook, then
+it might characterize the risks to its objectives as balanced.  The app ropriate balance
+of risks follo wing  an easin g move w ould depen d partly  on th e Co mmittee’s econo mic
+Chart 6
+Actual Real Federal Funds Rate and 
+Range of Estimated Equilibrium Real Rates
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003-1.5-0.5 0.5 1.5 2.5 3.5 4.5 5.5Percent
+Note: The shaded range represents the maximum and the minimum values each quarter of four estimates of the equilibrium 
+real federal funds rate based on a statistical filter and the FRB/US model. Real federal funds rates employ a four-quarter movi ng
+average of core PCE inflation as a proxy for inflation expectations, with the staff projection used for 2003Q2.Quarterly
+-1.5-0.5 0.5 1.5 2.5 3.5 4.5 5.5
+Actual Real Funds Rate
+TIIS-Based EstimateHistorical Average: 2.68
+  (1966Q1-2003Q1)
+●
+●●Current Rate
+25 b.p. Easing50 b.p. Easing
+ Equilibrium Real Funds Rate Estimates (Percent)
+    2001     2002    2003Q1    2003Q2    ____     ____    ______    ______
+     March Bluebook
+     March Bluebook
+     March Bluebook
+     March Bluebook
+   March BluebookStatistical Filter
+ - Two-sided:
+     Based on historical data and the staff forecast
+ - One-sided:
+     Based on historical data*
+FRB/US Model
+ - Two-sided:     Based on historical data and the staff forecast
+ - One-sided:
+     Based on historical data**
+Treasury Inflation-Indexed Securities1.0
+2.2
+2.2
+2.1
+3.91.0
+2.2
+2.2
+2.0
+3.90.3
+0.7
+1.5
+0.9
+3.50.2
+0.6
+1.6
+0.9
+3.5 0.2
+-0.3
+ 1.2
+ 0.2
+ 3.1 0.1
+-0.5
+ 1.3
+ 0.1
+ 3.1 --
+ --
+ --
+ --
+ -- 0.2
+-0.5
+ 1.3
+ 0.1
+ 3.3
+* Also employs the staff projection for the current and next quarters.
+** Also employs the staff projection for the current quarter.
+11
+outlook and  perhaps partly on th e forcefulness of its action.  Particularly i f mem bers’
+basic ou tlook w as mo re pessim istic than th at of the G reenb ook o r the cos t of a
+down side surprise to that outlook loo med especially large, the risks might be view ed
+as weig hted to ward  econo mic w eakness— especially if the  easing ac tion w as limited  to
+25 basi s point s.  A 25- basis -point  easing couple d with a more s anguine out look f or the
+econom y, however, or a 50-basis-point action, by providin g appreciably m ore
+stimulus, a rguably could equalize  the risks , espec ially if the “f oreseeable  future” was
+interpreted as extending w ell into next year.
+(12) Financial mark ets have incorporated a o ne-in-three chance of a policy
+easing at t his meet ing.  As to the ba lance -of-risks statement , one- half of the
+respon dents to  a recent su rvey of p rimar y dealers e xpected  the FO MC to adop t a
+neutra l assessment , but  the ot her hal f were a bout eve nly s plit between e xpect ing one
+tilted toward weak ness and a deferral of any assessmen t.  If this re flects broader
+market think ing, a dec ision to lea ve the stan ce of m onetar y policy u nchan ged an d to
+issue a ne utral ba lance-of-risk s statem ent w ould likely elicit only  a mo dest bac kup in
+yields on  money m arket instru ments and h ave little effect on  bon d yields, eq uity
+price s, and the f oreig n exchange  value  of the  dolla r.  However , a statement that  the
+balance of risks was tilted toward eco nom ic weakness, coupled w ith an unchan ged
+stance o f policy, w ould prom pt investo rs to reex amin e their ow n foreca sts and w ould
+probably lead to a decl ine in inte rest rat es across  the yiel d curve, es peciall y at
+intermediat e maturi ties, and a deprec iation of the  dolla r.  In view of  the count ervai ling
+effects of low er interest ra tes and th e chan ce of a w eaker ear nings o utcom e imp licit in
+such  a statement of  risks, the r espo nse o f equity prices is mor e difficult to judge,  but
+some d ecline cannot be ruled o ut.  An easing of po licy would com e as some surp rise
+to finan cial ma rkets, and  short-term  yields w ould fall substan tially.  Bond  yields likely
+would  drop as w ell, and equity prices should increase.  A jud gmen t that the risks were
+12
+weighted toward weakness li kely would give pause t o equity inves tors, while a neutral
+balance of risks and a generally op timistic statement that stressed an “insurance”
+motive for the action w ould be m ore likely to fuel a stock market rally.
+(13) Under the  Gree nbook pro jections o f incom e and in terest rates, do mestic
+nonfinancial sector debt is expected to ex pand abo ut 7 percent this year, close to last
+year’s pace a nd d istinctly abo ve the ra te of exp ansion  of nom inal G DP.  This
+relati vely rapi d growth primarily ref lects federal debt , which at 10 perc ent this y ear
+expands a bit faster than forecasted in the M arch Green book becau se of wider
+projecte d bu dget d eficits.  Busine ss sector d ebt is foreca st to accelera te gradu ally to
+finance a  wide ning fin ancing  gap, bu t debt g rowth in this se ctor still is on ly
+4¼ percen t in 2003 .  Wh ile busin ess borr owin g is expe cted to r emain con centrated  in
+bond and  mortgage m arkets, the ac celeration  is accou nted fo r entirely b y a sizab le
+swing f rom runoff s to i ncreas es in short er-term debt s uch as ba nk loans  and
+commerc ial paper .  Hous ehold sec tor debt  growt h shoul d slow somewha t as stimulus
+from previou s declines in mortgage rates tapers off and  increases in home p rices
+moderate f urther .  Still, househol ds are  expect ed to cont inue t o rely  mainly on
+mortgage d ebt ove r the ba lance o f this year.  M 2 is proje cted to g row 6 percen t this
+year,  down from las t yea r’s 7 perce nt advanc e.  With t hat per formance , the vel ocity of
+that aggregate wo uld decline, but a little less rapidly than in 2002 as the effects of past
+monetary pol icy easing s begi n to ebb.
+Ease 50 bp Ease 25 bp No changeGreenbook
+Forecast*
+Monthly Growth Rates
+Oct-02 8.3 8.3 8.3 8.3
+Nov-02 8.1 8.1 8.1 8.1Dec-02 3.2 3.2 3.2 3.2
+Jan-03 6.4 6.4 6.4 6.4
+Feb-03 11.6 11.6 11.6 11.6
+Mar-03 3.1 3.1 3.1 3.1
+Apr-03 3.4 3.4 3.4 3.4
+May-03 13.3 13.1 12.9 12.9
+Jun-03 7.2 6.6 6.0 6.0
+Jul-03 6.6 5.8 5.0 5.0
+Aug-03 6.5 5.8 5.0 5.0Sep-03 5.7 5.1 4.5 4.5
+Quarterly Growth Rates
+2002 Q4 7.1 7.1 7.1 7.12003 Q1 6.7 6.7 6.7 6.72003 Q2 6.9 6.8 6.7 6.72003 Q3 7.4 6.7 6.1 6.1
+Annual Growth Rates
+2002 6.9 6.9 6.9 6.92003 6.7 6.4 6.1 6.1
+Growth Rates
+From To
+2002 Q4 Apr-03 5.9 5.9 5.9 5.92002 Q4 May-03 7.2 7.2 7.1 7.12002 Q4 Sep-03 7.0 6.7 6.4 6.4
+Dec-02 Sep-03 7.2 6.9 6.6 6.6
+Apr-03 Sep-03 8.0 7.4 6.8 6.8
+May-03 Sep-03 6.6 5.9 5.2 5.2
+* This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.Alternative Growth Rates for M2
+13
+Directive  and Balance-of-Ris ks Language
+(14) Prese nted bel ow for the  members' c onside ration is dr aft wording f or
+(1) the dire ctive and (2 ) the  “balanc e of ri sks” s entenc e that  the Committee  may want
+to inclu de in th e press relea se issued a fter the m eeting (n ot part o f the directiv e).
+(1) Dir ective Wording
+The Federal Open M arket Committee seeks monetary and fi nancial
+cond itions tha t will foster p rice stability an d pro mote sustaina ble gro wth
+in output .  To fur ther i ts long-run obj ectives, the Committee  in the
+imm ediate futu re seeks co ndition s in reserve  mar kets con sistent w ith
+main taining/I NCREASING/REDUCING the f ederal funds rate at/TO
+an aver age of  around ___ 1-1/4  percent.
+(2) “Balance of R isks” Sentence
+(Not adop ted at Marc h meet ing)
+Against t he backgr ound of it s long- run goals  of pri ce stability and
+sustainable econom ic growth and  of the information cu rrently available,
+the Commit tee believes that t he risks [ARE WEIGH TED M AINLY
+TOWARD CONDITIO NS T HAT MAY GENERATE E CONOMIC
+WEAK NESS]  [ ARE BALANCED W ITH RESPECT TO
+PROSPECTS FO R BOTH  GOA LS] [ ARE W EIGHTED M AINLY
+TOWA RD COND ITIONS THAT M AY  GENERA TE
+HEIGH TEN ED INFL ATION  PRE SSURES] in the foreseeable future.
+Short-term Long-term
+Federal
+fundsTreasury bills
+secondary marketCDs
+secondary
+marketComm.
+paperOff-the-run Treasury yields Indexed yields Moody’s
+BaaMunicipal
+Bond
+BuyerConventional home
+mortgages
+primary market
+4-week 3-month 6-month 3-month 1-month 2-year 5-year 10-year 30-year 5-year 10-year Fixed-rate ARM
+1234567891 0 1 1 1 2 1 3 1 4 1 5 1 6
+1.80 1.80 1.85 2.12 1.97 1.79 3.69 4.94 5.69 6.00 3.31 3.54 8.18 5.67 7.18 5.26
+1.23 1.13 1.18 1.26 1.34 1.28 1.69 2.79 4.01 4.91 1.62 2.17 7.37 5.02 5.93 4.01
+1.28 1.23 1.22 1.25 1.31 1.28 1.80 3.13 4.36 5.20 1.77 2.38 7.44 5.20 5.97 4.06
+1.20 1.12 1.11 1.09 1.18 1.19 1.47 2.63 3.88 4.85 0.82 1.69 6.79 5.06 5.61 3.68
+1.75 1.74 1.76 1.91 1.82 1.75 3.24 4.54 5.40 5.82 2.50 3.10 8.09 5.54 6.81 4.79
+1.75 1.71 1.73 1.83 1.81 1.74 2.97 4.24 5.16 5.71 2.46 3.08 7.95 5.44 6.65 4.651.73 1.72 1.71 1.74 1.79 1.74 2.52 3.86 4.90 5.60 2.39 2.92 7.90 5.34 6.49 4.511.74 1.68 1.65 1.64 1.73 1.72 2.12 3.37 4.54 5.27 2.11 2.51 7.58 5.30 6.29 4.381.75 1.67 1.66 1.64 1.76 1.73 1.98 3.01 4.16 4.97 1.80 2.25 7.40 5.10 6.09 4.291.75 1.62 1.61 1.59 1.73 1.72 1.92 3.02 4.25 5.13 1.90 2.40 7.73 5.16 6.11 4.271.34 1.26 1.25 1.30 1.39 1.34 1.94 3.13 4.33 5.16 2.00 2.44 7.62 5.25 6.07 4.161.24 1.20 1.21 1.27 1.34 1.31 1.84 3.09 4.31 5.12 1.89 2.41 7.45 5.20 6.05 4.12
+                                                                                                                       
+1.24 1.17 1.19 1.22 1.29 1.25 1.76 3.07 4.30 5.14 1.64 2.26 7.35 5.19 5.92 3.991.26 1.20 1.19 1.20 1.27 1.24 1.64 2.92 4.14 5.01 1.21 1.95 7.06 5.15 5.84 3.861.25 1.18 1.15 1.16 1.23 1.21 1.59 2.81 4.04 4.98 1.03 1.88 6.95 5.12 5.75 3.761.26 1.16 1.15 1.17 1.24 1.22 1.65 2.94 4.16 5.07 1.27 2.12 6.85 5.17 5.81 3.80
+1.27 1.23 1.21 1.20 1.27 1.25 1.57 2.78 4.01 4.93 0.95 1.78 6.97 5.10 5.79 3.83
+1.26 1.20 1.17 1.18 1.26 1.23 1.47 2.63 3.88 4.85 0.84 1.70 6.90 5.06 5.67 3.761.24 1.15 1.11 1.09 1.18 1.19 1.48 2.64 3.88 4.86 0.82 1.69 6.90 5.06 5.61 3.681.25 1.18 1.16 1.18 1.22 1.21 1.75 3.00 4.19 5.09 1.23 2.07 7.04 5.17 5.79 3.751.24 1.18 1.17 1.18 1.25 1.23 1.67 2.97 4.19 5.12 1.20 2.07 6.97 5.17 5.91 3.841.26 1.17 1.12 1.11 1.22 1.21 1.57 2.87 4.13 5.08 1.11 2.00 6.91 5.20 5.79 3.821.24 1.18 1.15 1.16 1.23 1.22 1.64 2.95 4.18 5.12 1.23 2.10 6.93 5.19 5.85 3.801.27 1.16 1.18 1.21 1.26 1.21 1.72 2.99 4.19 5.10 1.28 2.14 6.89 5.16 5.82 3.791.26 1.14 1.16 1.19 1.26 1.23 1.68 2.98 4.17 5.05 1.37 2.18 6.79 5.11 5.79 3.79
+  -- 1.12 1.13 1.16 1.25 1.23 1.58 2.88 4.10 4.98 1.31 2.11   --   -- 5.70 3.74
+1.34 1.17 1.18 1.21 1.26 1.22 1.70 2.97 4.18 5.10 1.25 2.12 6.90   --   --   --1.26 1.15 1.17 1.20 1.26 1.23 1.69 2.96 4.16 5.08 1.27 2.13 6.86   --   --   --1.28 1.14 1.18 1.20 1.27 1.22 1.74 3.00 4.18 5.06 1.32 2.16 6.84   --   --   --1.24   --   --   --   --   --   --   --   --   --   --   --   --   --   --   --1.29 1.14 1.18 1.20 1.26 1.25 1.74 3.03 4.20 5.08 1.36 2.19 6.84   --   --   --1.26 1.14 1.18 1.21 1.26 1.23 1.73 3.02 4.21 5.09 1.39 2.21 6.84   --   --   --1.24 1.14 1.17 1.21 1.26 1.23 1.72 3.03 4.21 5.08 1.45 2.24 6.81   --   --   --1.24 1.13 1.15 1.18 1.26 1.23 1.64 2.93 4.12 5.01 1.35 2.16 6.73   --   --   --1.28 1.13 1.14 1.17 1.26 1.22 1.59 2.89 4.10 4.99 1.31 2.12 6.73   --   --   --1.29 1.13 1.14 1.18 1.24 1.24 1.62 2.91 4.11 4.99 1.31 2.11 6.71   --   --   --1.27 1.14 1.15 1.18 1.25 1.20 1.64 2.95 4.14 5.02 1.37 2.16 6.73   --   --   --1.31 1.13 1.13 1.15 1.26 1.24 1.54 2.85 4.08 4.96 1.29 2.10 6.65   --   --   --
+  --1.091.101.121.24  --1.512.834.064.971.252.08  --  --  --  --
+SELECTED INTEREST RATES
+(percent)
+NOTE: Weekly data for columns 1 through 13 are week-ending averages. Columns 2 through 4 are on a coupon equivalent basis. Data in column 6 are interpola ted from data on certain commercial paper trades settled by the
+DepositoryTrustCompany. Column14istheBondBuyerrevenueindex,whichisa1-dayquoteforThursday. Column15istheaveragecontractrateonnewco mmitmentsforfixed-ratemortgages(FRMs)with80percent
+loan-to-value ratios at major institutional lenders. Column 16 is the average initial contract rate on new commitments for 1-year, adjustable-rate mortgages (ARMs) at major institutional lenders offering both FRMs and
+ARMs with the same number of discount points.
+p - preliminary data   May Jun Jul Aug Sep Oct  Nov  Dec       Jan  Feb  Mar  Apr  
+Feb  
+Mar  Mar  Mar  Mar  Apr  Apr  Apr  Apr  May  
+Apr  
+Apr  Apr  Apr  Apr  Apr  Apr  Apr  Apr  Apr  Apr  Apr  May  0202020202020202
+     
+03030303
+28
+7
+14
+2128
+4
+111825
+2
+151617182122232425282930
+1                    
+                                        
+03030303030303030303
+03
+03030303030303030303030302   -- High
+-- Low
+03   -- High
+-- Low
+Monthly
+Weekly
+Daily
+  
+MFMA
+Strictly Confidential (FR)-
+Class II FOMC
+             
+Money Aggregates
+Seasonally adjusted
+nontransactions components
+Annual growth rates(%):
+Annually (Q4 to Q4)
+  2000            
+  2001            
+  2002            
+Quarterly(average)
+  2002-Q2         
+       Q3         
+       Q4         
+  2003-Q1         
+Monthly
+  2002-Apr.       
+       May        
+       June        
+       July        
+       Aug.        
+       Sep.        
+       Oct.        
+       Nov.        
+       Dec.        
+                   
+  2003-Jan.        
+       Feb.        
+       Mar.        
+       Apr. e      
+                   
+Levels ($billions):
+Monthly
+  2002-Nov.        
+       Dec.        
+  2003-Jan.        
+       Feb.        
+       Mar.        
+                   
+Weekly
+  2003-Mar.  3     
+            10     
+            17     
+            24     
+            31     
+                   
+       Apr.  7     
+            14p    
+            21p    
+                       -1.7
+     6.8
+     3.2
+    -0.6
+     3.1
+     4.5
+     7.1
+   -14.5
+    10.9
+      5.9      7.3
+    -11.1
+      6.3
+     11.2
+     -0.9
+      7.8
+         
+      2.1
+     19.8
+      3.2
+     -2.4
+         
+   1202.7
+   1210.5
+   1212.6
+   1232.6
+   1235.9
+         
+   1249.5
+   1230.4
+   1229.9
+   1235.7
+   1241.4
+         
+   1222.7
+   1222.2
+   1240.5
+              6.0
+    10.2
+     6.9
+     4.1
+     9.1
+     7.1
+     6.7
+    -2.6
+    14.4
+      6.9     10.5
+      8.3
+      5.5
+      8.3
+      8.1
+      3.2
+         
+      6.4
+     11.6
+      3.1
+      3.4
+         
+   5781.4
+   5796.6
+   5827.3
+   5883.5
+   5898.7
+         
+   5898.8
+   5895.2
+   5910.8
+   5897.6
+   5894.0
+         
+   5890.2
+   5894.2
+   5910.2
+              8.5
+    11.2
+     8.0
+     5.4
+    10.8
+     7.8
+     6.6
+     0.7
+    15.3
+      7.1     11.4
+     13.5
+      5.3
+      7.5
+     10.5
+      2.0
+         
+      7.5
+      9.4
+      3.1
+      4.9
+         
+   4578.6
+   4586.1
+   4614.7
+   4650.9
+   4662.8
+         
+   4649.3
+   4664.8
+   4680.9
+   4661.9
+   4652.6
+         
+   4667.5
+   4672.0
+   4669.7
+             17.4
+    18.3
+     5.4
+     4.3
+     4.5
+     8.6
+     3.1
+     6.9
+    -0.9
+      2.1      0.3
+     14.3
+      7.5
+    -14.7
+     37.4
+     17.9
+         
+    -14.6
+     -1.1
+      2.3
+     -9.5
+         
+   2680.9
+   2720.8
+   2687.7
+   2685.3
+   2690.4
+         
+   2674.1
+   2670.3
+   2705.1
+   2695.7
+   2699.0
+         
+   2665.7
+   2664.2
+   2673.0
+              9.2    12.7
+     6.4
+     4.1
+     7.7
+     7.6
+     5.5
+     0.4
+     9.5
+      5.4      7.3
+     10.2
+      6.1
+      1.0
+     17.3
+      7.8
+              -0.4
+      7.6
+      2.8
+     -0.6
+         
+   8462.3
+   8517.5
+   8515.0
+   8568.8
+   8589.1
+         
+   8572.9
+   8565.5
+   8615.8
+   8593.3
+   8592.9
+         
+   8555.8
+   8558.4
+   8583.2
+         5 4 3 2 1Period
+In M3 only In M2M3 M2 M1
+ p    preliminary   
+ e    estimated   
+Changes in System Holdings of Securities 1 Strictly Confidential
+(Millions of dollars, not seasonally adjusted) Class II FOMC
+May 1, 2003
+Treasury Bills Treasury Coupons Federal Net change Net RPs 5 
+Agency total
+Net  Redemptions Net Net Purchases 3  Redemptions Net  Redemptions outright Short- Long- Net
+Purchases 2 (-) Change < 1 1-5 5-10 Over 10 (-) Change (-) holdings 4 Term 6 Term 7 Change
+2000 8,676 24,522 -15,846 8,809 14,482 5,871 5,833 3,779 31,215 51 15,318 -2,163 7,133 4,970
+2001 15,503 10,095 5,408 15,663 22,814 6,003 8,531 16,802 36,208 120 41,496 3,492 636 4,128
+2002 21,421 --- 21,421 12,720 12,748 5,074 2,280 --- 32,822 --- 54,242 -5,366 517 -4,850
+2002 QI 6,827 --- 6,827 4,349 6,153 971 1,927 --- 13,401 --- 20,228 -1,961 -2,191 -4,152
+QII 8,227 --- 8,227 5,535 2,580 2,471 210 --- 10,796 --- 19,023 -2,644 -4,563 -7,207
+QIII 6,117 --- 6,117 2,835 3,676 1,318 143 --- 7,972 --- 14,089 -3,067 -5,225 -8,291
+QIV 250 --- 250 --- 339 314 --- --- 653 --- 903 4,892 -304 4,588
+2003 QI 6,024 --- 6,024 1,796 2,837 1,291 50 --- 5,974 --- 11,998 1,957 3,770 5,727
+2002 Aug 529 --- 529 445 1,921 690 80 --- 3,136 --- 3,665 -527 -4,645 -5,172
+Sep 750 --- 750 1,286 --- 51 --- --- 1,337 --- 2,087 1,084 -1,026 59
+Oct --- --- --- --- --- --- --- --- --- --- --- 2,779 -4,716 -1,937
+Nov 250 --- 250 --- --- --- --- --- --- --- 250 2,910 4,616 7,526
+Dec --- --- --- --- 339 314 --- --- 653 --- 653 -1,097 10,706 9,610
+2003 Jan --- --- --- --- --- --- --- --- --- --- --- 1,342 -3,581 -2,239
+Feb 4,161 --- 4,161 478 2,127 769 --- --- 3,374 --- 7,534 1,736 -2,262 -526
+Mar 1,863 --- 1,863 1,318 710 522 50 --- 2,600 --- 4,463 -2,254 520 -1,734
+2003 Feb 5 --- --- --- --- --- --- --- --- --- --- --- 4,163 --- 4,163
+Feb 12 556 --- 556 478 520 --- --- --- 998 --- 1,554 -7,574 2,000 -5,574
+Feb 19 323 --- 323 --- --- --- --- --- --- --- 323 11,807 --- 11,807
+Feb 26 3,045 --- 3,045 --- 995 701 --- --- 1,696 --- 4,740 -7,559 1,000 -6,559
+Mar 5 455 --- 455 --- 612 68 --- --- 680 --- 1,135 3,474 --- 3,474
+Mar 12 244 --- 244 1,318 --- --- --- --- 1,318 --- 1,562 -7,176 -1,000 -8,176
+Mar 19 451 --- 451 --- 710 --- --- --- 710 --- 1,161 5,816 --- 5,816
+Mar 26 387 --- 387 --- --- 522 50 --- 572 --- 959 -5,733 --- -5,733
+Apr 2 564 --- 564 --- --- --- --- --- --- --- 564 6,207 2,000 8,207
+Apr 9 2,843 --- 2,843 --- 733 --- --- --- 733 --- 3,576 -7,933 --- -7,933
+Apr 16 264 --- 264 1,422 --- --- --- --- 1,422 --- 1,686 4,836 --- 4,836
+Apr 23 81 --- 81 --- --- --- --- --- --- --- 81 -1,735 -1,000 -2,735
+Apr 30 354 --- 354 --- --- --- --- --- --- --- 354 5,460 -999 4,461
+2003 May 1 45 --- 45 --- --- --- --- --- --- --- 45 -12,768 --- -12,768
+Intermeeting Period
+Mar 18-May 1 4,866 --- 4,866 1,422 733 522 50 --- 2,727 --- 7,593 -6,696 1 -6,695
+Memo: LEVEL (bil. $)
+May 1   236.3 99.0 180.5 51.5 80.0  411.0 0.0 647.3 -12.1 16.0 3.9
+1.  Change from end-of-period to end-of-period.  Excludes changes in compensation for the effects of 4.  Includes redemptions (- ) of Treasury and agency securities.
+     inflation on the principal of inflation-indexed securities. 5.  RPs outstanding less reverse RPs.2.  Outright purchases less outright sales (in market and with foreign accounts). 6.  Original maturity of 15 days or less.3.  Outright purchases less outright sales (in market and with foreign accounts).  Includes short-term notes 7.  Original maturi ty of 16 to 90 days.
+     acquired in exchange for maturing bills.  Excludes maturity shifts and rollovers of maturing issues,     except the rollover of inflation compensation.
+MRA:HRM

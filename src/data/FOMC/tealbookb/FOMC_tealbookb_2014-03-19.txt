@@ -1,0 +1,2080 @@
+ Prefatory Note 
+The attached document represents the most complete and accurate version  available 
+based on original files from the FOMC Secretariat at the Board of Governors of the 
+Federal Reserve System.  
+Please note that some material may have been redacted from this document if that material was received on a confidential basis.  Redacted material is indicated by occasional gaps in the text or by gray boxes around non- text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of Information Act.  
+Content last modified 01/1 0/2020. 
+Class I FOMC – Restricted Controlled (FR) 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ Report to the FOMC 
+on Economic Conditions  
+and Monetary Policy 
+Prepared for the Federa l Open Market Committee 
+by the staff of the Board of Governors of the Federal Reserve System Book B 
+ 
+Monetary Policy: 
+Strategies and Alternatives 
+March 13, 2014 
+Authorized for Public Release
+ 
+Monetary Policy Strategies 
+The top panel of the first exhibit, “P olicy Rules and the Staff Projection,” 
+provides near-term prescriptions for the federal funds rate from six different policy rules: 
+the Taylor (1993) rule, the Taylor (1999) rule, the iner tial Taylor (1999) rule, the 
+outcome-based rule, the first-difference rule , and the nominal income targeting rule.1  
+These prescriptions take as given the staff’s baseline proj ections for real activity and 
+inflation in the near term.  (Medium-term prescriptions derived from dynamic simulations 
+of the rules are discussed below.)  As shown in the left-hand columns, the prescriptions 
+from four of the six rules are above the Committee’s current target range for the federal 
+funds rate.  Specifically, the first-differe nce rule, the Taylor (1999) rule, and the 
+outcome-based rule prescribe increases in the federal funds rate to values above ¼ 
+percent in the second qu arter and to levels between ¾ and 1¼ percent in the third quarter.  
+The Taylor (1993) rule, which places considerab ly less weight on the output gap than the 
+other rules, calls for the federal funds rate to be about 1¾ percent in the second quarter 
+and 2 percent in the third quarter.  The iner tial Taylor (1999) rule prescribes a federal 
+funds rate of ¼ percent by the third quarter. 
+The right-hand columns display the near-ter m prescriptions in the absence of the 
+lower-bound constraint on the federal funds rate.2  Of the six rules, only the nominal 
+income targeting rule calls for negative po licy rates in the coming two quarters.  This 
+more-accommodative prescription arises because th is rule responds not only to the staff’s 
+estimates of the current output gap and cu rrent inflation but also to the cumulative 
+shortfall of inflation from the Committee’s 2 percent objective since the end of 2007. 
+As shown in the two lower panels of the exhibit, the staff changed its outlook for 
+the output gap and inflation onl y a little relative to  the January Tealbook.  Consequently, 
+the near-term prescriptions for all of th e rules are likewise little changed.   
+                                                 
+1 The appendix to this section provides detail on each of the six rules. 
+2 Four of the rules—the inertial Taylor (1999) rule, the outcome-based rule, the nominal income 
+targeting rule, and the first-difference rule—place subs tantial weight on the lagged federal funds rate.  
+Because the rule prescriptions are conditioned on th e actual level of the nominal federal funds rate 
+observed thus far for the current quarter, the unconstra ined prescriptions shown in the table are indirectly 
+affected by the presence of the effective lower bound.   
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 1 of 60
+Authorized for Public Release
+     Near-Term Prescriptions of Selected Policy Rules
+Constrained Policy Unconstrained Policy
+2014Q2 2014Q3 2014Q2 2014Q3
+Taylor (1993) rule  1.69  1.94  1.69  1.94
+     
+     Previous Tealbook 1.70 1.95 1.70 1.95
+Taylor (1999) rule 0.35 0.78  0.35  0.78
+     
+     Previous Tealbook 0.39 0.80  0.39  0.80
+Inertial Taylor (1999) rule 0.16 0.25  0.16  0.25
+     
+     Previous Tealbook outlook 0.16 0.26  0.16  0.26
+Outcome-based rule 0.39 0.75  0.39  0.75
+     
+     Previous Tealbook outlook 0.33 0.67  0.33  0.67
+First-difference rule 0.66 1.18  0.66  1.18
+     
+     Previous Tealbook outlook 0.61 1.16  0.61  1.16
+Nominal income targeting rule 0.13 0.13
+   
+     Previous Tealbook outlook 0.13 0.13
+Current Previous
+Tealbook Tealbook
+Tealbook-consistent FRB/US r* estimate  
+  
+Actual real federal funds rate
+ 
+2013 2014 2015 2016 2017 2018 2019 2020-5-4-3-2-1012
+-5-4-3-2-1012 GDP Gap
+Current Tealbook
+Previous TealbookPolicy Rules and the Staff Projection
+Memo: Equilibrium and Actual Real Federal Funds Rates
+Key Elements of the Staff Projection
+Percent Four-quarter percent change
+Note: For rules that have the lagged policy rate as a right-hand-side variable, the lines denoted "Previous Tealbook
+outlook" report rule prescriptions based on the previous Tealbook's staff outlook, but jumping off from the average value
+for the policy rate thus far in the current quarter.2013 2014 2015 2016 2017 2018 2019 20200.00.51.01.52.02.5 
+0.00.51.01.52.02.5 PCE Prices ex. Food and Energy
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 2 of 60-0.55
+-0.55-0.97
+-0.98
+-0.74
+-1.03-0.67
+-0.99
+Authorized for Public Release
+   
+The top panel of the first exhibit also re ports the Tealbook-consistent estimate of 
+the equilibrium real federal funds rate,  r*, generated using the FRB/US model after 
+adjusting it to reproduce the staff’s baseline forecast.  The estimated r* corresponds to 
+the real federal funds rate th at would, if maintained, retu rn output to potential in 
+12 quarters.  As in the January Tealbook, the r* estimate for the first quarter of 2014 is 
+near –¾ percent, slightly higher than the –1 percent estimate of the current real federal 
+funds rate.  
+The second exhibit, “Policy Rule Simu lations without Thresholds,” reports 
+dynamic simulations of the FRB/US model.3  These simulations incorporate the 
+endogenous responses of inflation and the outpu t gap when the federal funds rate follows 
+the paths prescribed by the different policy rules, under the assump tion that the federal 
+funds rate is constrained by the effectiv e lower bound and without regard to the 
+Committee’s threshold-based forward gui dance related to inflation and the 
+unemployment rate.4  (Alternative policy rule simulations that take account of the 
+thresholds are discussed below.)  Each rule  is applied from th e second quarter of 2014 
+onward, under the assumptions that  financial market participants as well as price- and 
+wage-setters believe that the FOMC will follo w that rule and that agents fully understand 
+and anticipate the implications of the rule for future real activity, inflation, and interest 
+rates. 
+The second exhibit also displays the imp lications of following the baseline policy 
+assumption adopted in this Tealbook.  As discussed in Tealbook Book A, this policy 
+begins raising the federal funds rate fr om the assumed effective lower bound of 12½ 
+basis points in the second quarter of 2015—the  same quarter as in the January Tealbook 
+and two quarters after the projected end of the FOMC’s curr ent program of large scale 
+asset purchases.  The assumed two-quarter la g between the end of a sset purchases and the 
+departure from the effective lower bound is inte nded to be consistent with the guidance in 
+                                                 
+3 A few changes have been introduced to the FRB/US model for this Tealbook; however, these 
+changes have only small effects on the simulations of the simple policy rules as well as the optimal control 
+simulations discussed below.  Among the changes is the inclusion of gross domestic income as a variable in the model, changes in the specification of the equations determining the unemployment rate, and a change to the way interest on the federal debt is forecast. 
+4 The policy rule simulations discussed here and below incorporate the macroeconomic effects of 
+the FOMC’s large-scale asset purchase programs.  Fo r the current program, th e baseline forecast embeds 
+the assumption that purchases of longer-term Treasury securities and agency MBS continue to be reduced 
+gradually, end in the second half of 2014, and tota l a bit less than $1.5 trillion over 2013 and 2014. 
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 3 of 60
+Authorized for Public Release
+Policy Rule Simulations without Thresholds
+2013 2014 2015 2016 2017 2018 2019 2020-10123456 
+-10123456Percent
+ Effective Nominal Federal Funds Rate
+Taylor (1993) rule
+Taylor (1999) rule
+Inertial Taylor (1999) rule
+Outcome-based rule
+Nominal income targeting rule
+First-difference rule
+Tealbook baseline
+2013 2014 2015 2016 2017 2018 2019 2020-3-2-101234 
+-3-2-101234Percent
+ Real Federal Funds Rate
+2013 2014 2015 2016 2017 2018 2019 202045678 
+45678Percent
+ Unemployment Rate
+Note: The policy rule simulations in this exhibit are based on rules that respond to core inflation. This choice
+of rule specification was made in light of the tendency for current and near-term core inflation rates to outperform
+headline inflation rates as predictors of the medium-term behavior of headline inflation.2013 2014 2015 2016 2017 2018 2019 20200.00.51.01.52.02.5 
+0.00.51.01.52.02.5Percent
+ PCE Inflation
+Four-quarter average
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 4 of 60
+Authorized for Public Release
+   
+the FOMC’s recent postmeeting statement indicating that “a highly accommodative 
+stance of monetary policy will remain appropriate for a considerable time after the asset 
+purchase program ends.”  Once it rises above the effective lower bound, the baseline path 
+for the federal funds rate follows the prescrip tions of the inertial Taylor (1999) rule.  
+After the initial firming in the second quarter of 2015, the federal funds rate steadily 
+increases by a little more than ¼ percentage point per quarter over the next few years, 
+reaching almost 2½ percent at the end of 2016 and 4 percent by late 2018.  The 
+unemployment rate reaches the staff’s esti mate of the long-term natural rate of 
+unemployment of 5.2 percent by the end of 2016.  Headline inflation rises gradually, 
+reaching 2 percent only in 2018.  
+Without the thresholds, most of the polic y rules call for policy tightening to begin 
+over the next couple of quarters.  Four of the rules put the real federal funds rate 
+appreciably above the path implied by th e baseline forecast, leading to higher 
+unemployment and lower inflation than in the baseline through most of the decade.  The inertial Taylor (1999) rule calls for only a very gradual tightening beginning in the middle of this year; its prescriptions are nearly identical to the baseline from late 2016 
+onward and the associated macroeconomic outcome s are similar to those in the baseline.  
+Only the nominal income targeting rule prescribes a later onset of tightening than that in 
+the Tealbook baseline.  This rule keeps the fe deral funds rate at th e effective lower bound 
+until late 2015 and generates a re al federal funds rate persistently below the baseline for 
+the rest of the decade, thereby leading to a stronger path for real activity as well as higher 
+inflation. 
+The results for each rule presented in these and subsequent simulations depend 
+importantly on the assumptions that policymakers will adhere to that rule in the future 
+and that the private sector fully understands  the policy that will be pursued and its 
+implications for real activity and inflation.  These assumptions play a particularly critical 
+role in the case of the nominal income targ eting rule, which is associated with outcomes 
+in which inflation runs somewhat above the 2 percent longer-run goal for some years, 
+even after the output gap has closed. 
+The third exhibit, “Policy Rule Simulati ons with Current Thresholds and Forward 
+Guidance,” displays simulations in which the policy rules are subject to the thresholds 
+that the Committee adopted in December 2012, which have been implemented with an 
+assumption about the enhanced forward guidance provided in the last two postmeeting 
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 5 of 60
+Authorized for Public Release
+Policy Rule Simulations with Current Thresholds and Forward Guidance
+2013 2014 2015 2016 2017 2018 2019 2020-10123456 
+-10123456Percent
+ Effective Nominal Federal Funds Rate
+Taylor (1993) rule
+Taylor (1999) rule
+Outcome-based rule
+Nominal income targeting rule
+First-difference rule
+Tealbook baseline
+2013 2014 2015 2016 2017 2018 2019 2020-3-2-101234 
+-3-2-101234Percent
+ Real Federal Funds Rate
+2013 2014 2015 2016 2017 2018 2019 202045678 
+45678Percent
+ Unemployment Rate
+Note: The policy rule simulations in this exhibit are based on rules that respond to core inflation. This choice
+of rule specification was made in light of the tendency for current and near-term core inflation rates to outperform
+headline inflation rates as predictors of the medium-term behavior of headline inflation.2013 2014 2015 2016 2017 2018 2019 20200.00.51.01.52.02.5 
+0.00.51.01.52.02.5Percent
+ PCE Inflation
+Four-quarter average
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 6 of 60
+Authorized for Public Release
+   
+statements.  In particular, for each of the rule s, the federal funds rate is constrained to 
+stay at the effective lower bound of 12½ basis points as long as the unemployment rate is 
+6 percent or higher, the level of  the unemployment rate that, in  the baseline, also prevails 
+in the quarter before the federal funds rate  departs from the effective lower bound.  (This 
+constraint is meant to be consistent with the Committee’s recent statement from January 
+that “it likely will be ap propriate to maintain the current target range for the federal funds 
+rate well past the time that the unemployment rate declines below 6½ percent, especially 
+if projected inflation conti nues to run below the Committee’ s 2 percent longe r-run goal.”)  
+In subsequent quarters, the federal funds rate follows the prescriptions of the specified 
+rule.  As in the simulations without threshol ds, financial market participants and price- 
+and wage-setters are assumed to understa nd that the Committee will switch to the 
+specified rule once this condition is satisfied or the threshold for pr ojected inflation has 
+been crossed, and to view this switch as permanent and fully credible.  For all of the 
+simulations discussed below, the decline in the unemployment rate turns out to be the 
+catalyst for the shift to the specified rule; projected inflation betw een one and two years 
+ahead remains below 2 percent at the time of de parture of the federal funds rate from the 
+effective lower bound in each simulation.  
+For most rules, the imposition of the th resholds and additional forward guidance 
+leads to a departure of the fe deral funds rate from the effective lower bound in the second 
+quarter of 2015, the same quarter as in the January Tealbook and the staff’s current baseline.  The thresholds are not binding for the nominal income targeting rule:  Under this rule, the unemployment rate declines belo w 6 percent considerably ahead of the time 
+that the federal funds rate is  raised above its effective lo wer bound.  For the other rules, 
+imposing the thresholds and additional forw ard guidance postpones th e departure of the 
+federal funds rate from the effective lower bound by about a year compared with the case 
+of no thresholds and no additi onal forward guidance.  As a result, the unemployment rate 
+generally declines a bit more rapi dly, and inflation is a touch higher.
+  
+The fourth exhibit, “Constr ained versus Unconstraine d Optimal Control Policy,” 
+compares the optimal control simulations de rived using this Tealbook’s baseline forecast 
+with those reported in  the January Tealbook.5  Policymakers are assumed to place equal 
+weights on keeping headline PCE inflation close to the Committee’s 2 percent goal, on 
+                                                 
+5 The optimal control policy simulations incorporate the assumptions about underlying economic 
+conditions used in the staff’s baseline forecast, as well as the assumptions about balance sheet policies 
+described in footnote 4.  The simulated policies do not incorporate thresholds. 
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 7 of 60
+Authorized for Public Release
+Constrained versus Unconstrained Optimal Control Policy
+2013 2014 2015 2016 2017 2018 2019 2020-10123456 
+-10123456Percent
+ Effective Nominal Federal Funds Rate
+Current Tealbook: Constrained
+Previous Tealbook: Constrained
+Current Tealbook: Unconstrained
+Tealbook baseline
+2013 2014 2015 2016 2017 2018 2019 2020-3-2-101234 
+-3-2-101234Percent
+ Real Federal Funds Rate
+2013 2014 2015 2016 2017 2018 2019 202045678 
+45678Percent
+ Unemployment Rate
+2013 2014 2015 2016 2017 2018 2019 20200.00.51.01.52.02.5 
+0.00.51.01.52.02.5Percent
+ PCE Inflation
+Four-quarter average
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 8 of 60
+Authorized for Public Release
+   
+keeping the unemployment rate close to the staff’s estimate of the natural rate of 
+unemployment, and on minimizing changes in th e federal funds rate.  The optimal control 
+concept presented here corresponds to a commitment policy under which policymakers make decisions today that effectively c onstrain policy choices in future periods. 
+Reflecting the fact that the staff outlook fo r inflation and slack in the economy is 
+largely unchanged, the federal funds rate under the constrained optimal control path is almost identical to its count erpart in the January Tealbook.  As in January, the outcomes 
+derived from the optimal control simulations are also similar to those associated with 
+policy under the staff baseline.  In the simulations, which are subject to the usual caveats regarding expectations and commitment, the op timal federal funds rate departs from the 
+lower bound in the second quarter of 2015, as in the staff’s baseline forecast, but rises 
+relatively more slowly over subsequent year s.  The constrained optimal control policy 
+implies a slightly lower path fo r the real federal funds rate ov er the next few years than in 
+the staff’s baseline outlook; th ereafter the optimal-control path is slightly higher than the 
+baseline path, implying, on net, only sma ll differences in the outcomes for the 
+unemployment rate and inflation.
+6 
+As in the January Tealbook, the presence of the lower-bound constraint has only 
+minor effects on the outcomes under optimal cont rol policy.  In the absence of the lower-
+bound constraint, the optimal federal funds ra te would reach a minimum of only about 
+negative 20 basis points in the seco nd half of 2014 and subsequently rise to levels that are 
+similar to those in the constrained simulations.  Accordingly, the path for the real federal 
+funds rate is only slightly lower than in  the constrained policy rate path, and the 
+unconstrained policy would bring down the une mployment rate at about the same speed 
+as the constrained policy and l ead to a nearly identical path  for inflation.  This result 
+depends importantly on the presence of the pena lty on changes in the federal funds rate in 
+policymakers’ quadratic objective function.  An objective function wi th a substantially 
+smaller interest-rate smoothing term would imply a federal funds rate path that falls 
+                                                 
+6 Although the loss function uses headline inflation in stead of core inflation,  the real federal funds 
+rate shown in the upper-right panel of the exhibit, as in the other simulations reported in this section, is 
+calculated as the difference between the nominal federa l funds rate and a four-quarter moving average of 
+core PCE inflation.  Core PCE inflation is used to com pute the real interest rate for this illustrative purpose 
+because it provides a less volatile m easure of inflation expectations th an does a four-quarter moving 
+average of headline inflation.  
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 9 of 60
+Authorized for Public Release
+Optimal Control Policy with Minimal Weight on Interest-Rate Smoothing under Commitment
+2013 2014 2015 2016 2017 2018 2019 2020-10123456 
+-10123456Percent
+ Effective Nominal Federal Funds Rate
+Equal weights on inflation,
+unemployment and
+interest rate smoothing
+Lower weight on
+interest rate smoothing
+Tealbook baseline
+2013 2014 2015 2016 2017 2018 2019 2020-3-2-101234 
+-3-2-101234Percent
+ Real Federal Funds Rate
+2013 2014 2015 2016 2017 2018 2019 202045678 
+45678Percent
+ Unemployment Rate
+2013 2014 2015 2016 2017 2018 2019 20200.00.51.01.52.02.5 
+0.00.51.01.52.02.5Percent
+ PCE Inflation
+Four-quarter average2013 2014 2015 2016 2017 2018 2019 20200.00.51.01.52.02.53.03.54.0 
+0.00.51.01.52.02.53.03.54.0Percent
+ Real 10-year Treasury Yield
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 10 of 60
+Authorized for Public Release
+   
+considerably below zero under the unconstraine d optimal policy, leading to a more rapid 
+decline in the unemployment rate than under the constrained policy. 
+The staff has included interest-rate smoot hing in the assumed loss function for the 
+optimal control policy simulations in large pa rt because the assumption helps to keep the 
+simulated variation and persistence of the fe deral funds rate close to their observed 
+historical ranges.  The federal funds rate  may have typically moved gradually and 
+persistently in the past because policymakers,  for a number of possible reasons, prefer not 
+to adjust the rate sharply.  Different policym akers may have different tolerances for funds 
+rate fluctuations, and thus they might consider different penalties on interest-rate 
+smoothing as being more appropriate.  The fifth exhibit, “Optimal Control Policy with 
+Minimal Weight on Interest-Rate Smoothi ng under Commitment,” examines how 
+outcomes differ between an optimal control simu lation that features a substantially lower 
+weight on the change in the federal funds  rate and the standard (equal-weight) 
+parameterization of the objective function.7   
+A lower weight on interest-rate smoothing implies an optimal policy in which the 
+federal funds rate is raised above the lower bound about a year later than in the standard 
+case but then rises more steeply.  However, th e profile of longer-term interest rates is 
+essentially unchanged, as the effect of the lo wer federal funds rate in the near term is 
+about offset by the effect of the higher level of  the funds rate in the intermediate-term.  
+Because changes in federal funds rate po licy in the FRB/US model are primarily 
+transmitted to aggregate demand via longer-term  interest rates, th e differences in the 
+effects on the unemployment rate and on inflation are also small.8  
+                                                 
+7 In the case of minimal interest-rate smoothing, th e weight placed on changes in the funds rate is 
+lowered to an essentially negligible value.  Specifi cally, while the standard si mulations place a weight of 
+one-third on minimizing changes in the federal funds rate in the objective function, the minimal-smoothing 
+case corresponds to a weight of about one fortieth on  this term.  Lowering the weight any further would 
+lead to convergence problems for the simulations of the FRB/US model.  Simulations of optimal control 
+under discretion with the alternate weights on interest-rate smoothing considered here yield very similar 
+results to the respective results under commitment. 
+8 This result is specific to conditions, such as in the current situation, in which the optimal funds 
+rate path is constrained by the lower bound at least for some time to come.  In general, the effects of 
+altering the weight placed on interest -rate smoothing can have material e ffects on the opti mal control paths 
+for the unemployment rate and inflation as illustrated in the memo by Robert Tetlow, “Optimal Control 
+Simulations with Minimal Penalty on the Change in the Funds Rate” (sent to the Committee on January 27, 
+2014), which considered optimal control simulations  in the absence of the lower-bound constraint. 
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 11 of 60
+Authorized for Public Release
+   
+Taken at face value, these results suggest that, in current circumstances, the 
+policies associated with great er and lesser degrees of inte rest-rate smoothing would serve 
+equally well in achieving the Committee’s du al mandate of price stability and maximum 
+employment.  It deserves emphasis, how ever, that in practice the communication 
+strategies associated with these two objectiv e-function settings woul d likely need to be 
+decidedly different, each presenting its own challenges. 
+For the case with less inte rest-rate smoothing, the firs t increase in the federal 
+funds rate is shifted further into the future; with more interest rate smoothing, the first 
+increase occurs earlier and is followed by a period of relatively gradual tightening.  
+Arguably, communications about th e conditions that would be associated with the later 
+onset of tightening in the less-interest-rate smoothing case might pose less-formidable 
+challenges than the provision of conditional guidance about the gradual firming of the 
+federal funds rate once rate increases have  begun in the more-interest-rate-smoothing 
+case, as that gradual tightening sequence c ontinues into the more distant future.  
+However, if the post-lower-bound behavior of policy with less interest rate smoothing constitutes a more substantial break from pa st behavior, intensive communication efforts 
+could be required for its su ccessful implementation as well.
+9  If market participants did 
+not expect such a steep increase after departing from the lower bound, current longer-
+term rates would be different from those im plied by the simulations and may not achieve 
+the intended outcomes for real activity and infl ation.  In addition, if market participants 
+were surprised by the swift increases prescrib ed in this simulation, the adjustments in 
+markets could potentially be quite disorderly.  Considering the sta ndard case with a high 
+degree of interest-rate smoothing, effective communication would need to emphasize the 
+conditions under which the slow pattern of increases in the federal funds rate would be appropriate in order to avoid a false sense of security among market participants.  If 
+investors were to underestimate the extent to which future policy actions remain sensitive 
+to surprises in incoming data under this state-contingent policy path, investors might take 
+on excessively risky projects in their s earch for high yields, thereby undermining 
+financial stability. 
+                                                 
+9 Specifically, this policy implies increasing the federal funds rate by about 400 basis points over a 
+period of two years, as opposed to four years in the case with a substantial weight on interest-rate 
+smoothing.  While the more gradual trajectory appears more aligned with current market expectations, the 
+pace of increases prescribed by the simu lations with less interest-rate smoot hing is also consistent with the 
+400 basis points increase in the federal funds rate seen most recently over the two-year period from mid-
+2004 to mid-2006. 
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 12 of 60
+Authorized for Public Release
+   
+The final two exhibits, “Outcomes under A lternative Policies without Thresholds” 
+and “Outcomes under Alternat ive Policies with Current Thresholds and Forward 
+Guidance,” tabulate the simulation results for key variables under each of the policy rules 
+discussed above, both for the cases without th resholds and with cu rrent thresholds and 
+forward guidance. 
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 13 of 60
+Authorized for Public Release
+Outcomes under Alternative Policies without Thresholds
+(Percent change, annual rate, from end of preceding period except as noted)
+ H2Measure and scenario  2013
+  2014   2015   2016   2017   2018
+Real GDP
+Extended Tealbook baseline13.22.93.23.02.52.0
+Taylor (1993) 3.22.62.73.02.82.3
+Taylor (1999) 3.22.72.82.92.62.2
+Inertial Taylor (1999) 3.22.93.23.12.62.0
+Outcome based 3.22.82.92.92.62.2
+First difference 3.22.72.92.92.72.3
+Nominal income targeting 3.23.13.73.42.71.8
+Constrained optimal control 3.22.93.33.12.51.9
+Unemployment rate2
+Extended Tealbook baseline17.06.25.65.14.94.9
+Taylor (1993) 7.06.46.05.65.25.0
+Taylor (1999) 7.06.35.95.55.25.1
+Inertial Taylor (1999) 7.06.25.65.24.94.9
+Outcome based 7.06.35.85.55.25.1
+First difference 7.06.35.95.55.25.1
+Nominal income targeting 7.06.15.34.74.34.4
+Constrained optimal control 7.06.25.55.14.95.0
+Total PCE prices
+Extended Tealbook baseline11.51.51.51.71.82.0
+Taylor (1993) 1.51.41.51.61.71.9
+Taylor (1999) 1.51.41.51.61.71.9
+Inertial Taylor (1999) 1.51.51.51.71.82.0
+Outcome based 1.51.41.41.51.71.8
+First difference 1.51.41.51.61.82.0
+Nominal income targeting 1.51.51.71.82.02.2
+Constrained optimal control 1.51.51.51.71.82.0
+Core PCE prices
+Extended Tealbook baseline11.31.51.71.81.92.0
+Taylor (1993) 1.31.51.61.71.81.9
+Taylor (1999) 1.31.51.61.71.81.9
+Inertial Taylor (1999) 1.31.51.71.81.92.0
+Outcome based 1.31.41.61.71.71.8
+First difference 1.31.51.71.71.81.9
+Nominal income targeting 1.31.51.82.02.12.2
+Constrained optimal control 1.31.51.71.81.92.0
+Effective nominal federal funds rate2
+Extended Tealbook baseline10.10.11.12.43.44.0
+Taylor (1993) 0.12.22.93.54.04.1
+Taylor (1999) 0.11.22.33.54.14.2
+Inertial Taylor (1999) 0.10.41.42.53.54.0
+Outcome based 0.11.12.33.44.14.1
+First difference 0.11.12.43.74.24.2
+Nominal income targeting 0.10.10.21.22.32.9
+Constrained optimal control 0.10.20.82.23.33.9
+1. Policy in the Tealbook baseline keeps the federal funds rate at an effective lower bound of 12.5 basis points until
+two quarters after the projected end of the FOMC's current program of large scale asset purchases. Thereafter, the
+federal funds rate follows the prescriptions of the inertial Taylor (1999) rule.
+2. Percent, average for the final quarter of the period.
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 14 of 60
+Authorized for Public Release
+Outcomes under Alternative Policies with
+Current Thresholds and Forward Guidance1
+(Percent change, annual rate, from end of preceding period except as noted)
+ H2Measure and scenario  2013
+  2014   2015   2016   2017   2018
+Real GDP
+Extended Tealbook baseline13.22.93.23.02.52.0
+Taylor (1993) 3.22.82.92.82.72.2
+Taylor (1999) 3.22.82.92.82.62.2
+Outcome based 3.22.93.12.82.52.1
+First difference 3.22.93.33.02.62.1
+Nominal income targeting 3.23.13.73.42.71.8
+Constrained optimal control 3.22.93.33.12.51.9
+Unemployment rate2
+Extended Tealbook baseline17.06.25.65.14.94.9
+Taylor (1993) 7.06.25.85.55.25.1
+Taylor (1999) 7.06.25.75.55.25.1
+Outcome based 7.06.25.65.45.15.1
+First difference 7.06.25.65.24.94.8
+Nominal income targeting 7.06.15.34.74.34.4
+Constrained optimal control 7.06.25.55.14.95.0
+Total PCE prices
+Extended Tealbook baseline11.51.51.51.71.82.0
+Taylor (1993) 1.51.41.51.61.71.9
+Taylor (1999) 1.51.41.51.61.71.9
+Outcome based 1.51.41.41.51.71.8
+First difference 1.51.51.61.81.92.1
+Nominal income targeting 1.51.51.71.82.02.2
+Constrained optimal control 1.51.51.51.71.82.0
+Core PCE prices
+Extended Tealbook baseline11.31.51.71.81.92.0
+Taylor (1993) 1.31.51.61.71.81.9
+Taylor (1999) 1.31.51.61.71.81.9
+Outcome based 1.31.41.61.71.81.8
+First difference 1.31.51.81.92.02.1
+Nominal income targeting 1.31.51.82.02.12.2
+Constrained optimal control 1.31.51.71.81.92.0
+Effective nominal federal funds rate2
+Extended Tealbook baseline10.10.11.12.43.44.0
+Taylor (1993) 0.10.13.03.64.04.1
+Taylor (1999) 0.10.12.53.54.14.2
+Outcome based 0.10.11.53.54.14.1
+First difference 0.10.11.43.03.53.6
+Nominal income targeting 0.10.10.21.22.32.9
+Constrained optimal control 0.10.20.82.23.33.9
+1. With the exception of constrained optimal control, monetary policy is specified to keep the federal funds rate
+at an effective lower bound of 12.5 basis points as long as the unemployment rate is above 6.0 percent and
+projected one-year-ahead inflation is less than 2.5 percent. Once either of these thresholds is crossed, the federal
+funds rate follows the prescriptions of the specified rule. Policy in the Tealbook baseline is consistent with these
+threshold conditions.
+2. Percent, average for the final quarter of the period.
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 15 of 60
+Authorized for Public Release
+(This page  is intentionally blank.) 
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 16 of 60
+Authorized for Public Release
+Class  I FOMC  - Restricted  Controlled  (FR) March  13, 2014
+Appendix
+POLICY  RULES  USED  IN “MONETARY  POLICY  STRATEGIES ”
+The table  below  gives  the expressions  for the selected  policy  rules  used  in “Monetary
+Policy  Strategies. ” In the table,  Rt denotes  the effective  nominal  federal  funds  rate for quarter  t, 
+while  the right-hand-side  variables  include  the staff's  projection  of trailing  four-quarter  core PCE 
+inflation  for the current  quarter  and three  quarters  ahead  (nt and ^t+3|t), the output  gap estimate  
+for the current  period  as well as its one-quarter-ahead  forecast  (gapt and gapt +1|t), and the forecast  
+of the three-quarter-ahead  annual  change  in the output  gap (A4gap t+3\t). The value  of 
+policymakers'  long-run  inflation  objective,  denoted  n*, is 2 percent.  The nominal  income  
+targeting  rule responds  to the nominal  income  gap, which  is defined  as the difference  between 
+nominal  income  ynt (100 times  the log of the level of nominal  GDP)  and a target  value  yn‘t 
+(100 times  the log of target  nominal  GDP). Target  nominal  GDP in 2007:Q4  is set equal  to the 
+staff's  current  estimate  of potential  real GDP in that quarter  multiplied  by the GDP deflator  in 
+that quarter;  subsequently,  target  nominal  GDP  grows  2 percentage  points  per year  faster  than the 
+staff's  estimate  of potential  GDP.
+Strategies
+Taylor  (1993)  rule Rt = 2 + nt + 0.5 - n*} + 0.5gap t
+Taylor  (1999)  rule Rt = 2 + nt + 0.5(n t — n*) + gapt
+Inertial  Taylor  (1999)  rule Rt = 0.85/? t_1 + 0.15  (2+ny  + 0.5 (nt — n**) + gap^
+Rt = 1.2Rt_1 - 0.39R t_2 + 0.19(0.54  + 1.73rc t
+Outcome-based  rule
++ 3.66gap t — 2.72gap t_1]
+First-difference  rule Rt = Rt-i + 0.5(^ t+3|t -w*)  + 0.5A 4^upt+3|t
+Nominal  income  targeting  rule Rt = 0.75Rt_1 + 0.25(2  + n:t + ynt -yn*)
+The first two of the selected  rules were studied  by Taylor  (1993,  1999),  while  the inertial  
+Taylor  (1999)  rule has been featured  prominently  in recent  analysis  by Board  staff. 1 The 
+outcome-based  rule uses policy  reactions  estimated  using  real-time  data over  the sample  
+1988:Q1 -2006:Q4.  The intercept  of the outcome-based  rule was chosen  so that it is consistent 
+with a 2 percent  long-run  inflation  objective  and a long-run  real interest  rate of 2 percent,  a value  
+used in the FRB/US  model. 2 The intercepts  of the Taylor  (1993,  1999)  rules and the long-run
+1 See Erceg  and others  (2012).
+2 For the January  2013  Tealbook,  the staff revised  the long-run  value  of the real interest  rate from  
+2% percent  to 2 percent.  The FRB/US  model  as well as the intercepts  of the different  policy  rules have 
+been  adjusted  to reflect  this change.
+Page  17 of 60
+Authorized for Public Release
+   
+intercept of the inertial Taylor (1999) rule are set  at 2 percent for the same reason.  The 2 percent 
+real rate estimate also enters the long-run intercept of the nominal income targeting rule.  The 
+prescriptions of the first-difference rule do not de pend on the level of the output gap or the long-
+run real interest rate; see Orphanides (2003).   
+Near-term prescriptions from the different policy rules are calculated using Tealbook 
+projections for inflation and the output gap.  For the rules that include the lagged policy rate as a right-hand-side variable—the inertial Taylor (199 9) rule, the first-difference rule, the estimated 
+outcome-based rule, and the nominal income targeting rule—the lines denoted “Previous 
+Tealbook outlook” report prescriptions derived from the previous Tealbook projections for inflation and the output gap, while using the same  lagged funds rate value as in the prescriptions 
+computed for the current Tealbook.  When the Tealbook is published early in the quarter, this lagged funds rate value is set e qual to the actual value of the lagged funds rate in the previous 
+quarter, and prescriptions are shown for the current  quarter.  When the Tealbook is published late 
+in the quarter, the prescriptions are shown for th e next quarter, and the lagged policy rate, for 
+each of these rules, including those that use the “Previous Tealbook outlook,” is set equal to the 
+average value for the policy rate thus far in the quarter.  For the subsequent quarter, these rules 
+use the lagged values from their simulated, unconstrained prescriptions. 
+References  
+ 
+Erceg, Christopher, Jon Faust, Michael Kiley, Jean-Philippe Laforte, David López-Salido, 
+Stephen Meyer, Edward Nelson, David Reif schneider, and Robert Tetlow (2012).  “An 
+Overview of Simple Policy Rules and Their Use in Policymaking in Normal Times and 
+Under Current Conditions.”  Memo sent to the Committee on July 18, 2012. 
+Erceg, Christopher, Michael Kiley, and David López-Salido (2011).  “Alternative Monetary 
+Policy Frameworks.”  Memo sent to the Committee on October 6, 2011.  
+McCallum, Bennett T., and Edward Nelson (1999).  “Nominal Income Targeting in an Open-
+Economy Optimizing Model,” Journal of Monetary Economics , Vol. 43 (June), pp. 553–
+578.  
+Orphanides, Athanasios (2003).  “Historical Mone tary Policy Analysis and the Taylor Rule,” 
+Journal of Monetary Economics , Vol. 50 (July), pp. 983 1022.  
+Taylor, John B. (1993).  “Discretion versus Policy Rules in Practice,” Carnegie-Rochester 
+Conference Series on Public Policy , Vol. 39 (December), pp. 195 214. 
+Taylor, John B.  (1999).  “A Historical Analysis of Monetary Policy Rules,” in John B. Taylor, 
+ed., Monetary Policy Rules.  University of Chicago Press, pp. 319 341. 
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 18 of 60
+Authorized for Public Release
+   
+ESTIMATES OF THE EQUILIBRIUM AND ACTUAL REAL RATES  
+An estimate of the equilibrium real rate a ppears as a memo item in the first exhibit, 
+“Policy Rules and the Staff Projection.”  The c oncept of the short-run equilibrium real rate 
+underlying the estimate corresponds to the level of th e real federal funds rate  that is consistent 
+with output reaching potential in 12 quarters using an output projection from FRB/US, the staff’s 
+large-scale econometric model of the U.S. economy.   This estimate depends on a very broad array 
+of economic factors, some of which take the fo rm of projected values of the model’s exogenous 
+variables.  The memo item in the exhibit reports the “Tealbook-consistent” estimate of r*, which 
+is generated after the paths of e xogenous variables in the FRB/US model are adjusted so that they 
+match those in the extended Tealbook forecast.  Model simulations then determine the value of the real federal funds rate that closes the outpu t gap conditional on the exogenous variables in the 
+extended baseline forecast. 
+The estimated actual real federal funds rate reported in the exhibit is constructed as the 
+difference between the federal funds rate and the trailing four-quarter change in the core PCE price index.  The federal funds rate is specified as the midpoint of the target range for the federal 
+funds rate on the Tealbook Book B publication date. 
+FRB/US  MODEL SIMULATIONS  
+The exhibits of “Monetary Policy Strategies” that report results from simulations of 
+alternative policies are derived from dynamic simula tions of the FRB/US model.  Each simulated 
+policy rule is assumed to be in force over the whole period covered by the simulation.  For the 
+optimal control simulations, the dotted line la beled “Previous Tealbook” is derived from the 
+optimal control simulations, when applied to the previous Tealbook projection. 
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 19 of 60
+Authorized for Public Release
+(This page  is intentionally blank.) 
+Strategies
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 20 of 60
+Authorized for Public Release
+ 
+  Monetary Policy Alternatives  
+This Tealbook presents three policy alte rnatives—labeled A, B, and C—for the 
+Committee’s consideration.  The alternatives di ffer in their path fo r asset purchases and 
+forward guidance and in their characterizat ion of the outlook for economic activity and 
+inflation.  With the unemployment rate nearing 6½ percent, all three alternatives feature 
+significant revisions to the forward guidance for the federal funds rate.  Alternative A 
+offers an inflation floor.  Alternatives B and C offer qualitative gui dance that links the 
+first increase in the federal funds rate to  progress toward the Committee’s employment 
+and inflation objectives, with the draft statement for Alternative B also expressing the 
+Committee’s view that the new guidance is full y consistent with th at in its previous 
+statement.  
+Under Alternative B, the Committee redu ces monthly purchases of both agency 
+MBS and Treasury securities each by another $5 billion starting in April and signals that 
+further reductions of that size are likely at  future meetings.  Under Alternative C, the 
+Committee announces larger reductions in mont hly asset purchases and indicates that 
+further reductions are likely.  For both of these alternatives , the draft statement includes a 
+new sentence indicating that the Committee judges that there is “sufficient” underlying 
+strength in the broader economy to suppor t “ongoing improvement in labor market 
+conditions.”  Under Alternative A, the Committ ee would continue asset purchases at their 
+current pace on the grounds that informati on received since late  January suggests a 
+somewhat greater downside risk to the ou tlook for the labor market and inflation. 
+The forward guidance for the federal f unds rate under Alternatives B and C 
+includes new language for the fifth paragraph; it states that, in determining how long to 
+maintain the 0 to ¼ percent target range for the federal funds rate, the Committee will 
+“assess progress—both realized and expect ed—toward its objectives of maximum 
+employment and 2 percent inflation.”  Unde r both of these altern atives the Committee 
+would go on to state that its assessment will “take into account a wide range of information, including measures of labor market conditions, indicators of inflation 
+pressures and inflation expectations, a nd readings on financial developments.” 
+However, Alternatives B and C offer diffe rent language to replace the “well past 
+the time that the unemployment rate declines  below 6½ percent” qualitative guidance that 
+the Committee added to the December statement to indicate its thinking about the likely 
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 21 of 60
+Authorized for Public Release
+   
+ path of the federal funds rate  after the unemployment rate declines below 6½ percent.  
+Alternative B indicates that the Committee cont inues to anticipate maintaining the current 
+target range “for a considerable time” after the asset purchase program ends, while 
+Alternative C says “for some  time” after purchases end.  
+In contrast, Alternative A replaces the threshold-based forward guidance language 
+with an inflation floor, indicat ing that the Committee will maintain the current 0 to ¼ 
+percent target range for the fe deral funds rate “at least as long as inflation between one 
+and two years ahead is projected to be below 2 percent and longer-term inflation 
+expectations continue to be  well anchored.”  Alternative A also contains language 
+indicating that the Committee likely will maintain the current target for the federal funds rate “for a considerable time after th e asset purchase program ends.”   
+All of the alternatives reiterate th at the Committee will take a “balanced 
+approach” when it begins to remove policy accommodation, consistent with its longer-
+run goals.  Alternative B provi des additional guidance, in a new sixth paragraph, stating 
+that the Committee “currently anticipates that , even after employment and inflation are 
+near mandate-consistent levels, economic conditions may, for some time, warrant 
+keeping short-term interest rates below levels the Committee views as normal in the 
+longer run.”  This language not only provides some guidance about the federal funds rate 
+after liftoff, it also opens the option of target ing some short-term interest rate or rates 
+other than the federal funds rate during normalization.  The new final paragraph of 
+Alternative B states that the Committee’s “new guidance” is “fully consistent” with the 
+“guidance in its pr evious statement.” 
+The three policy alternatives have as b ackdrops different assessments of recent 
+and prospective economic conditions.  Alterna tive B presents the view that the economic 
+outlook has changed only modestly since the January meeting.  The draft statement for 
+Alternative B observes that growth in ec onomic activity “slowed during the winter 
+months, in part reflecting adverse weather condi tions.”  As in the January statement, the 
+text for Alternative B states that “labor market indicators were mixed but on balance showed further improvement,” while again obs erving that inflation “has been running 
+below” the Committee’s longer-r un objective but that longer-te rm inflation expectations 
+have remained stable.  However, in order to emphasize that the Committee’s assessment 
+of the labor market situation depends on many variables, the outlook paragraph in 
+Alternative B no longer focuses on the unempl oyment rate; it now indicates that the 
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 22 of 60
+Authorized for Public Release
+   
+ Committee expects that, with appropriat e policy accommodation, economic activity will 
+expand at a moderate pace, a nd “labor market conditions will continue to improve 
+gradually, moving toward those the Committee judges consistent  with its dual mandate.”  
+The statement for Alternative B describes the risks to the outlook for the economy and 
+the labor market as “nearly balanced” and it again notes the risks to economic 
+performance posed by inflation being persistently below the Committee’s 2 percent 
+objective. 
+The draft statement for Alternative C offe rs a somewhat stronger characterization 
+of the economic situation and outlook, setting up the larger  reduction in the pace of 
+purchases.  The first paragraph of Alterna tive C observes that labor market conditions 
+have shown further improvement, pointing in particular to payroll employment having 
+expanded “at a solid pace,” and it puts greater emphasis on the diminution of fiscal 
+restraint.  In addition, Alternative C dow nplays the recent softness in economic growth 
+by indicating that “much of [it]  likely reflected adverse weat her conditions.”  Under this 
+alternative, the Committee would emphasize the stability of longer-term inflation 
+expectations and place less em phasis on actual inflation running below 2 percent.  The 
+outlook paragraph for Alternative C, like that for Alternative B, omits the reference to the 
+gradual decline in the unem ployment rate, replacing it w ith a broader reference to 
+improvement in labor market conditions toward  those consistent with the dual mandate.  
+Alternative C further indicates that the Comm ittee “continues to anticipate” that inflation 
+will move back toward 2 percent over the medium term rather than suggesting that it is looking for evidence of such movement. 
+Under Alternative A, the Committee w ould express greater concern about 
+lackluster economic growth, low inflation, and the downside risks to the outlook for the labor market and inflation.  In particular, Alternative A says that the housing recovery 
+“slowed further” while Alternative B says th at it “remained slow.”   The statement for 
+Alternative A goes on to observe  that inflation has continued to run “well below” 2 
+percent “even though” longer-term inflati on expectations have been stable.  
+The following table summarizes key elements of the three alternative statements, 
+followed by complete drafts of the statements and arguments for each alternative.
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 23 of 60
+Authorized for Public Release
+   
+ Table 1:  Overview of Policy Alternatives for March FOMC Statement 
+Selected 
+Elements January 
+Statement March Alternatives 
+A B C 
+Economic Conditions, Outlook, and Risks 
+Economic 
+Conditions growth in economic activity picked up in 
+recent quarters growth slowed growth slowed somewhat 
+adverse weather conditions: 
+in part adverse weather 
+conditions: 
+likely much 
+labor market indicators were mixed but on 
+balance showed further improvement  unchanged 
+unemployment rate declined but remains 
+elevated unemployment rate, however, remains elevated payroll employment 
+expanded at solid pace 
+fiscal policy is restraining growth, 
+although extent of restraint is diminishing unchanged fiscal policy has been 
+restraining growth, but 
+extent is diminishing 
+inflation has been running below the 
+longer-run objective, but inflation 
+expectations have remained stable inflation has continued to run 
+well below objective, even 
+though … unchanged although  inflation has 
+been running below 
+objective, inflation 
+expectations have 
+remained stable 
+Outlook economic activity will expand at moderate 
+pace and unemployment rate will 
+gradually decline unchanged economic activity will expand at moderate pace 
+and labor market conditions will continue to… 
+improve gradually improve 
+Risks risks have become more nearly balanced  risks tilted slightly to the downside risks nearly balanced risks balanced 
+Balance Sheet Policies 
+Agency 
+MBS $30 billion per month unchanged $25 billion per month $20 billion per month 
+Treasuries $35 billion per month unchanged $30 billion per month $25 billion per month 
+Rationale for Pace of  Purchases  improvement in economic activity and labor market conditions [since inception 
+of program] consistent with growing 
+underlying strength in broader economy information received about spending and inflation suggests somewhat greater risk to outlook sufficient underlying strength in the broader economy to 
+support ongoing improvement in labor market conditions 
+Purchase 
+Guidance if incoming information broadly supports 
+Committee’s expectations, will likely reduce pace in further measured steps . . . will likely reduce pace in 
+measured steps … unchanged . . . will likely continue to 
+reduce pace . . . 
+Federal Funds Rate  
+Target 0 to ¼ percent unchanged 
+Rate Guidance  at least as long as thresholds (6½ percent; 2½ percent) are not crossed and inflation expectations continue to be well anchored Inflation floor: 
+at least as long as projected inflation is below 2 percent and 
+inflation expectations continue to 
+be well-anchored Qualitative: 
+in determining how long to main tain current target range,  
+will assess progress—both rea lized and expected—toward 
+objectives of maximum employme nt and 2 percent inflation
+maintain current targ et range well past 
+time that unemployment rate threshold is crossed, especially if projected inflation 
+continues to run below 2 percent maintain current ta rget range for…  
+…a considerable time  after asset  
+purchase program ends… …some time after asset 
+purchase program ends… 
+n.a. …especially if projected inflation continues to run below  
+2 percent, and provided that inflation expectations remain 
+well anchored  
+when begin to remove accommodation, 
+will take balanced approach unchanged 
+n.a.  
+n.a. economic conditions may, for 
+some time, warrant keeping short-term rates below longer-
+run normal levels; new 
+guidance is fully consistent with previous guidance  
+n.a. 
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 24 of 60
+Authorized for Public Release
+   
+ JANUARY FOMC  STATEMENT  
+1. Information received since the Federal Open Market Committee met in December 
+indicates that growth in economic activity pi cked up in recent quart ers.  Labor market 
+indicators were mixed but on balance showed further improvement.  The 
+unemployment rate declined but remains el evated.  Household spending and business 
+fixed investment advanced more quickly in recent months, while the recovery in the 
+housing sector slowed somewhat.  Fiscal  policy is restraining economic growth, 
+although the extent of restrain t is diminishing.  Inflation has been running below the 
+Committee’s longer-run objective, but longe r-term inflation expectations have 
+remained stable. 
+2. Consistent with its statutory mandate , the Committee seeks to foster maximum 
+employment and price stability.  The Comm ittee expects that, with appropriate policy 
+accommodation, economic activity will expand at a moderate pace and the unemployment rate will gradually decline toward levels the Committee judges consistent with its dual mandate.  The Comm ittee sees the risks to the outlook for the 
+economy and the labor market as having become more nearly balanced.  The 
+Committee recognizes that infl ation persistently below its 2 percent objective could 
+pose risks to economic performance, and it is monitoring inflation developments 
+carefully for evidence that inflation will move back toward its objective over the medium term. 
+3. Taking into account the extent of federal fiscal retrenchment  since the inception of its 
+current asset purchase program, the Committ ee continues to see the improvement in 
+economic activity and labor market conditions over that period as consistent with growing underlying strength in the broader economy.  In light of the cumulative 
+progress toward maximum employment and th e improvement in the outlook for labor 
+market conditions, the Committee decided to  make a further measured reduction in 
+the pace of its asset purchases.  Beginning in February, the Committee will add to its 
+holdings of agency mortgage-backed securities at a pace of $30 billion per month rather than $35 billion per month, and will add to its holdings of longer-term Treasury 
+securities at a pace of $35 billion per m onth rather than $40 billion per month.  The 
+Committee is maintaining its existing policy of reinvesting principal payments from 
+its holdings of agency debt and agency mortgage-backed securities in agency 
+mortgage-backed securities and of rolli ng over maturing Treasury securities at 
+auction.  The Committee’s sizable and still-increasing holdings of longer-term 
+securities should maintain downward pressu re on longer-term interest rates, support 
+mortgage markets, and help to make  broader financial conditions more 
+accommodative, which in turn should promote a stronger economic recovery and help 
+to ensure that inflation, over time, is at the rate most consistent with the Committee’s 
+dual mandate. 
+4. The Committee will closely monitor inco ming information on economic and financial 
+developments in coming months and will continue its purchases of Treasury and agency mortgage-backed securities, and employ its other policy t ools as appropriate, 
+until the outlook for the labor market has impr oved substantially in a context of price 
+stability.  If incoming information broadly supports the Committee’s expectation of ongoing improvement in labor market conditions and inflation moving back toward 
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 25 of 60
+Authorized for Public Release
+   
+ its longer-run objective, the Committee will likely reduce the pace of asset purchases 
+in further measured steps at future meetin gs.  However, asset purchases are not on a 
+preset course, and the Committee’s decisions about their pace will remain contingent 
+on the Committee’s outlook for the labor market and inflation as well as its 
+assessment of the likely efficacy and costs of such purchases. 
+5. To support continued progress toward maxi mum employment and price stability, the 
+Committee today reaffirmed its view that a highly accommodative stance of monetary 
+policy will remain appropriate for a considerable time after the asset purchase program ends and the economic recovery strengthens.  The Committee also reaffirmed its expectation that the curre nt exceptionally low target range for the 
+federal funds rate of 0 to ¼ percent will be appropriate at least as long as the 
+unemployment rate remains above 6½ percen t, inflation between one and two years 
+ahead is projected to be no more than a half percentage point above the Committee’s 2 percent longer-run goal, and longer-term inflation expectati ons continue to be well 
+anchored.  In determining how long to maintain a highly accommodative stance of 
+monetary policy, the Committee will also consider other information, including 
+additional measures of labor market conditi ons, indicators of inflation pressures and 
+inflation expectations, and readings on  financial developments.  The Committee 
+continues to anticipate, based on its assessmen t of these factors, that it likely will be 
+appropriate to maintain the current target ra nge for the federal funds rate well past the 
+time that the unemployment rate declines below 6½ percent, especially if projected inflation continues to run below the Co mmittee’s 2 percent lo nger-run goal.  When 
+the Committee decides to begin to rem ove policy accommodation, it will take a 
+balanced approach consistent with its l onger-run goals of maximum employment and 
+inflation of 2 percent.    
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 26 of 60
+Authorized for Public Release
+   
+ FOMC  STATEMENT —M ARCH 2014  ALTERNATIVE A 
+1. Information received since the Federal Open Market Committee met in December 
+January  indicates that growth in economic ac tivity picked up in recent quarters 
+slowed during the winter months, in part reflecting adverse weather conditions .  
+Labor market indicators were mixed but on balance showed further improvement.  
+The unemployment rate declined but , however, remains elevated.  Household 
+spending and business fixed investment advanced more quickly in recent months, 
+while the recovery in the hous ing sector slowed somewhat further.  Fiscal policy is 
+restraining economic growth, although the extent of restraint is di minishing.  Inflation 
+has been running continued to run well  below the Committee’s longer-run objective, 
+but even though longer-term inflation expectations have remained stable. 
+2. Consistent with its statutory mandate , the Committee seeks to foster maximum 
+employment and price stability.  The Comm ittee expects that, with appropriate policy 
+accommodation, economic activity will expand at a moderate pace and the 
+unemployment rate will gradually decline toward levels the Committee judges consistent with its dual mandate.  The Comm ittee sees the risks to the outlook for the 
+economy and the labor market as having become more nearly balanced tilted slightly 
+to the downside .  The Committee recognizes that in flation persistently below its 2 
+percent objective could pose s risks to economic performance, and it is monitoring 
+inflation developments carefully for evidence that inflation will move back toward its 
+objective over the medium term. 
+3. Taking into account the extent of federal fiscal retrenchment  since the inception of its 
+current asset purchase program, the Committ ee continues to see the improvement in 
+economic activity and labor market conditions over that period as consistent with 
+growing underlying strength in the broader economy.  In light of the cumulative 
+progress toward maximum employment and th e improvement in the outlook for labor 
+market conditions, the Committee decided to  make a further measured reduction in 
+the pace of its asset purchases.  Information about spending  and inflation received 
+since the Committee met in January suggest s a somewhat greater risk that the 
+pace of improvement in the labor market might slow and that inflation will not 
+return, over the medium run, to the 2 percent rate that the Committee judges 
+most consistent with its dual mandate.   Beginning in February For this reason , the 
+Committee will continue to  add to its holdings of agency  mortgage-backed securities 
+at a pace of $30 billion per month rather than $35 billion per month, and will add to 
+its holdings of longer-term Treasury securi ties at a pace of $35 billion per month 
+rather than $40 billion per month.  The Committee is maintaining its existing policy 
+of reinvesting principal payments from its holdings of agency debt and agency 
+mortgage-backed securities in agency mort gage-backed securities and of rolling over 
+maturing Treasury securities at auction.  The Committee’s sizable and still-increasing holdings of longer-term securities should maintain downward pressure on longer-term interest rates, support mortgage markets,  and help to make broader financial 
+conditions more accommodative, which in turn should promote a stronger economic 
+recovery and help to ensure that inflation, over time, is at the rate most consistent 
+with the Committee’s dual mandate. 
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 27 of 60
+Authorized for Public Release
+   
+ 4. The Committee will closely monitor inco ming information on economic and financial 
+developments in coming months and will continue its purchases of Treasury and 
+agency mortgage-backed securities, and employ its other policy t ools as appropriate, 
+until the outlook for the labor market has impr oved substantially in a context of price 
+stability.  If incoming information broadly supports the Committee’s expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will likely reduce the pace of asset purchases 
+in further measured steps at future meetin gs.  However, asset purchases are not on a 
+preset course, and the Comm ittee’s decisions about their the  pace of purchases will 
+remain contingent on the Committee’s outlook for the labor market and inflation as 
+well as its assessment of the likely efficacy and costs of such purchases. 
+5. To support continued progress toward maxi mum employment and price stability, the 
+Committee today reaffirmed its view that a highly accommodative stance of monetary 
+policy will remain s appropriate for a considerable time after the asset purchase 
+program ends and the economic recovery strengthens.  The Committee also 
+reaffirmed its expectation that the curre nt exceptionally low target range for the 
+federal funds rate of 0 to ¼ percent will be appropriate at least as long as the 
+unemployment rate remains above 6½ percen t, inflation between one and two years 
+ahead is projected to be no more than a half percentage point above the Committee’s 
+2 percent longer-run goal, and longer-term inflation expectati ons continue to be well 
+anchored.  In determining how long to maintain a highly accommodative stance of 
+monetary policy, the Committee will also consider other a wide range of  
+information, including additional measures of labor market conditions, indicators of 
+inflation pressures and inflation exp ectations, and readings on financial 
+developments.  The Committee continues to anticipate s, based on its assessment of 
+these factors, that it likely will be appropriate to maintain the current 0 to ¼ percent 
+target range for the federal funds rate we ll past the time that the unemployment rate 
+declines below 6½ percent if projected inflation continues to run below the 
+Committee’s 2 percent longer-run goal  at least as long as in flation between one and 
+two years ahead is projected to be be low 2 percent and longer-term inflation 
+expectations continue to be well anchored .  In particular, the Committee expects 
+to maintain the 0 to ¼ percent target ra nge for a considerable time after the 
+asset purchase program ends.   When the Committee decides to begin to remove 
+policy accommodation, it will take a balanced approach consistent with its longer-run 
+goals of maximum employment and inflation of 2 percent.    
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 28 of 60
+Authorized for Public Release
+   
+ FOMC  STATEMENT —M ARCH 2014  ALTERNATIVE B 
+ 1. Information received since the Federal Open Market Committee met in December 
+January  indicates that growth in economic ac tivity picked up in recent quarters 
+slowed during the winter months, in part reflecting adverse weather conditions .  
+Labor market indicators were mixed but on balance showed further improvement.  
+The unemployment rate declined but , however, remains elevated.  Household 
+spending and business fixed investment continued to  advanced more quickly in 
+recent months, while the recovery in the housing sector slowed somewhat remained 
+slow .  Fiscal policy is restraining economic gr owth, although the extent  of restraint is 
+diminishing.  Inflation has been running below the Committee’s longer-run objective, 
+but longer-term inflation expectations have remained stable. 
+2. Consistent with its statutory mandate , the Committee seeks to foster maximum 
+employment and price stability.  The Comm ittee expects that, with appropriate policy 
+accommodation, economic activity will expand at a moderate pace and the 
+unemployment rate will gradua lly decline toward levels labor market conditions 
+will continue to improve gradually, moving toward those  the Committee judges 
+consistent with its dual mandate.  The Comm ittee sees the risks to the outlook for the 
+economy and the labor market as having become more nearly balanced.  The 
+Committee recognizes that infl ation persistently below its 2 percent objective could 
+pose risks to economic performance, and it is monitoring inflation developments 
+carefully for evidence that inflation will move back toward its objective over the 
+medium term. 
+3. Taking into account the extent of federal fiscal retrenchment  since the inception of its 
+current asset purchase program, The Committ ee continues to see the improvement in 
+economic activity and labor market conditions over that period as consistent with 
+growing currently judges that  there is sufficient  underlying strength in the broader 
+economy to support ongoing improvement  in labor market conditions .  In light of 
+the cumulative progress toward maximum employment and the improvement in the outlook for labor market conditions  since the inception of the current asset 
+purchase program , the Committee decided to make a further measured reduction in 
+the pace of its asset purchases.  Beginning in February April , the Committee will add 
+to its holdings of agen cy mortgage-backed secu rities at a pace of $30 $25 billion per 
+month rather than $35 $30 billion per month, and will add to its holdings of longer-
+term Treasury securities at a pace of $35 $30 billion per month rather than $40 $35 
+billion per month.  The Committee is mainta ining its existing policy of reinvesting 
+principal payments from its holdings of agency debt and agency mortgage-backed 
+securities in agency mortgage-backed secu rities and of rolling over maturing Treasury 
+securities at auction.  The Committee’s sizab le and still-increasing holdings of longer-
+term securities should maintain downward pressure on longer-term interest rates, support mortgage markets, and help to make broader financ ial conditions more 
+accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee’s 
+dual mandate. 
+4. The Committee will closely monitor inco ming information on economic and financial 
+developments in coming months and will continue its purchases of Treasury and 
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 29 of 60
+Authorized for Public Release
+   
+ agency mortgage-backed securities, and employ its other policy tools as appropriate, 
+until the outlook for the labor market has impr oved substantially in a context of price 
+stability.  If incoming information broadly supports the Committee’s expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will likely reduce the pace of asset purchases 
+in further measured steps at future meetin gs.  However, asset purchases are not on a 
+preset course, and the Committee’s decisions about their pace will remain contingent 
+on the Committee’s outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases. 
+5. To support continued progress toward maxi mum employment and price stability, the 
+Committee today reaffirmed its view that a highly accommodative stance of monetary 
+policy will remain s appropriate for a considerable time after the asset purchase 
+program ends and the economic recovery strengthens.  The Committee also 
+reaffirmed its expectation that the curre nt exceptionally low target range for the 
+federal funds rate of 0 to ¼ percent will be appropriate at least as long as the 
+unemployment rate remains above 6½ percen t, inflation between one and two years 
+ahead is projected to be no more than a half percentage point above the Committee’s 
+2 percent longer-run goal, and longer-term inflation expectati ons continue to be well 
+anchored.  In determining how long to maintain a highly accommodative stance of 
+monetary policy the current 0 to ¼ p ercent target range fo r the federal funds 
+rate, the Committee will also c onsider other information, assess progress—both  
+realized and expected—toward its objectives of maximum employment and 2 
+percent inflation.  This assessment will take into account a wide range of 
+information , including additional measures of la bor market conditions, indicators of 
+inflation pressures and inflation exp ectations, and readings on financial 
+developments.  The Committee conti nues to anticipate, based on its [ current ]  
+assessment of these factors, that it likely  will be appropriate  to maintain the  
+[ current | 0 to ¼ percent ]  target range for the federal funds rate well past the time 
+that the unemployment rate declines below 6½ percent for a considerable time after 
+the asset purchase program ends, especially if projected inflation continues to run 
+below the Committee’s 2 percent longer-run goal,  and provided that longer-term 
+inflation expectations remain well anchored. 
+6.  When the Committee decides to begin to re move policy accommodation, it will take a 
+balanced approach consistent with its l onger-run goals of maximum employment and 
+inflation of 2 percent.  The Committee currently antici pates that, even after 
+employment and inflation are near ma ndate-consistent levels, economic 
+conditions may, for some time, warrant keeping short-term in terest rates below 
+levels the Committee views as normal in the longer run.  
+7. With the unemployment rate approaching its 6½ percent threshold and 
+projected inflation likely to run well below its 2½ percent threshold for some 
+time, the Committee has updated its forwar d guidance.  The Committee sees its 
+new guidance as fully consistent with the guidance in its previous statement, 
+including the anticipation that it likel y will be appropriate to maintain the 
+current target range for the federal funds rate well past the time that the 
+unemployment rate declines below 6½ percent.   
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 30 of 60
+Authorized for Public Release
+   
+ FOMC  STATEMENT —M ARCH 2014  ALTERNATIVE C 
+ 1. Information received since the Federal Open Market Committee met in December 
+January  indicates that growth in economic ac tivity picked up in recent quarters 
+slowed somewhat during the winter mont hs; however, much of that softness 
+likely reflected adverse weather conditions .  Labor market indicators were mixed 
+but on balance showed further improvement ; the unemployment rate declined but 
+remains elevated payroll employment expanded at a solid pace .  Household 
+spending and business fixed investment advanced more quickly in recent months, 
+while the recovery in the hous ing sector slowed somewhat remained slow .  Fiscal 
+policy is has been  restraining economic growth, although but the extent of restraint is 
+diminishing.  Although inflation has been running below the Committee’s longer-run 
+objective, but longer-term inflation e xpectations have remained stable. 
+2. Consistent with its statutory mandate , the Committee seeks to foster maximum 
+employment and price stability.  The Comm ittee expects that, with appropriate policy 
+accommodation, economic activity will expand at a moderate pace and the 
+unemployment rate will gradua lly decline toward levels labor market conditions 
+will continue to improve, moving toward those  the Committee judges consistent 
+with its dual mandate.  The Committee sees  the risks to the outlook for the economy 
+and the labor market as having become more nearly balanced.  The Committee 
+recognizes that inflation pers istently below its 2 percent objective c ould pose risks to 
+economic performance, and it is monitoring inflation developments carefully for 
+evidence , but it continues to anticipate  that inflation will move back toward its 
+objective over the medium term. 
+3. Taking into account the extent of federal fiscal retrenchment  since the inception of its 
+current asset purchase program, The Committ ee continues to see the improvement in 
+economic activity and labor market conditions over that period as consistent with 
+growing currently judges that  there is sufficient  underlying strength in the broader 
+economy to support significant ongoing improvement in labor market 
+conditions .  In light of the cumulative progress toward maximum employment and 
+the improvement in the outlook for labor market conditions since the inception of 
+the current asset purchase program , the Committee decided to make a further 
+measured reduction in the pace of its asse t purchases.  Beginning in February April , 
+the Committee will add to its holdings of agen cy mortgage-backed securities at a pace 
+of $30 $20 billion per month rather than $35 $30 billion per month, and will add to its 
+holdings of longer-term Treasury securities at a pace of $35 $25 billion per month 
+rather than $40 $35 billion per month.  The Committee is maintaining its existing 
+policy of reinvesting principal payments from  its holdings of agency debt and agency 
+mortgage-backed securities in agency mort gage-backed securities and of rolling over 
+maturing Treasury securities at auction.  The Committee’s sizable and still-increasing 
+holdings of longer-term securities should maintain downward pressure on longer-term interest rates, support mortgage markets,  and help to make broader financial 
+conditions more accommodative, which in turn should promote a stronger economic 
+recovery and help to ensure that inflation, over time, is at the rate most consistent 
+with the Committee’s dual mandate. 
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 31 of 60
+Authorized for Public Release
+   
+ 4. The Committee will closely monitor inco ming information on economic and financial 
+developments in coming months and will continue its purchases of Treasury and 
+agency mortgage-backed securities, and employ its other policy t ools as appropriate, 
+until the outlook for the labor market has impr oved substantially in a context of price 
+stability.  If incoming information broadly supports the Committee’s expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will likely continue to  reduce the pace of 
+asset purchases in further measured steps at future meetings.  However, asset 
+purchases are not on a preset course, and the Committee’s decisions about their pace will remain contingent on the Committee’s outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.  
+5. To support continued progress toward maxi mum employment and price stability, the 
+Committee today reaffirmed its view that a highly accommodative stance of monetary 
+policy will remain s appropriate for a considerable time after the asset purchase 
+program ends and the economic recovery strengthens.  The Committee also 
+reaffirmed its expectation that the curre nt exceptionally low target range for the 
+federal funds rate of 0 to ¼ percent will be appropriate at least as long as the 
+unemployment rate remains above 6½ percen t, inflation between one and two years 
+ahead is projected to be no more than a half percentage point above the Committee's 2 
+percent longer-run goal, and l onger-term inflation expectations continue to be well 
+anchored.  In determining how long to maintain a highly accommodative stance of 
+monetary policy the current 0 to ¼ p ercent target range fo r the federal funds 
+rate, the Committee will also c onsider other information, assess progress—both 
+realized and expected—toward its objectives of maximum employment and 2 
+percent inflation.  This assessment will take into account a wide range of 
+information , including additional measures of la bor market conditions, indicators of 
+inflation pressures and inflation exp ectations, and readings on financial 
+developments.  The Committee continues to now anticipate s, based on its assessment 
+of these factors, that it likely will be a ppropriate to maintain the current target range 
+for the federal funds rate well past the time that the unemployment rate declines 
+below 6½ percent for some time after the asset purchase program ends , especially 
+if projected inflation continues to r un below the Committee’s 2 percent longer-run 
+goal,  and provided that longer-term inflat ion expectations remain well anchored .  
+When the Committee decides to begin to re move policy accommodation, it will take a 
+balanced approach consistent with its l onger-run goals of maximum employment and 
+inflation of 2 percent. 
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 32 of 60
+Authorized for Public Release
+   
+ THE CASE FOR ALTERNATIVE B 
+Policymakers might judge that inform ation received during the intermeeting 
+period, after allowing for weather-related distor tions in the data, is broadly consistent 
+with their expectations at the times of the December and January FOMC meetings, and 
+share the staff’s assessment that the medium-term outlook for economic activity has 
+changed only modestly.  In addition, policymakers may remain confident that there has 
+not only been considerable cumulative progress toward maximum employment but also 
+an appreciable improvement in the outl ook for labor market conditions since the 
+inception of the Committee’s current asse t purchase program.  Moreover, although 
+inflation has remained below the Committee’s longer-run objective, participants may note that indicators of medium- and longer-run inflation expectations have continued to 
+be relatively stable over the intermeeting period.  With the unemployment rate nearing 
+the 6½ percent threshold, participants may find it necessary and appropriate to clarify the 
+Committee’s intentions regard ing adjustments to the fede ral funds rate after the 6½ 
+percent unemployment rate threshold is reac hed, in order to ensure the continued 
+effectiveness of the Committee’s forward gui dance.  Accordingly, policymakers may see 
+the March meeting as an opportune occasion for introducing new forward guidance, especially in view of the fact  that the meeting will be followed by a press conference and 
+that the unemployment rate c ould fall below 6½ percent prior to the April meeting.  As 
+proposed under Alternative B, the Committee may therefore choose to combine a modest 
+further reduction in the pace of asset purchas es with a revision to its forward guidance. 
+In place of the current threshold-base d forward guidance, policymakers may 
+prefer to use qualitative language to comm unicate the Committee’s intentions about the 
+federal funds rate, thereby maintaining flexibility about th e timing and size of future 
+adjustments in their target for that rate.  If policymakers favor qua litative guidance, they 
+may want to point to the Committee’s assessment of “progress—both realized and expected—toward its objectives of maximum employment and 2 percent inflation” as the 
+key factor that will influence their decision about when to raise th e federal funds rate 
+above its effective lower bound.  This wording mi ght also be seen as  desirable because it 
+adopts a characterization of the Committee’s policy decisionmaking that is not focused 
+on a single labor market indicator, but focuses more broadly on the goals of “maximum 
+employment” and 2 percent inflation.  Such a reference would be cons istent with the dual 
+mandate and the Committee’s Statement on Longer-Run Goals and Monetary Policy 
+Strategy (hereafter, Consensus Statement).   
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 33 of 60
+Authorized for Public Release
+   
+ The message that the amount of po licy accommodation depends on progress 
+toward the Committee’s goals is reinforced by adding that it likely will be appropriate to 
+maintain the current target range for the fede ral funds rate “for a considerable time after 
+the asset purchase program ends.”  In pa rticular, because the asset purchases are 
+themselves linked to economic progress, the indication that firming of the federal funds 
+rate will not occur unt il after the purchase program ends  underscores the state-dependent 
+nature of federal funds rate decisions even as it adds an element of calendar dependence.   
+A new sixth paragraph in the draft st atement for Alternative B expands the 
+Committee’s description of its conduct of po licy once the federal funds rate has been 
+raised above its lower bound.  The paragraph retains the refe rence to taking a “balanced 
+approach” to removing policy accommodati on, as in the Consensus Statement and 
+previous FOMC statements, allowing for the possibility that the Committee may face a tradeoff in achieving the dual mandate goa ls when it begins to remove policy 
+accommodation.  In light of the important economi c role of expectati ons for the path of 
+interest rates, and with the fi rst increase in the federal funds  rate gradually approaching, 
+the Committee may want to provide additional information about the likely course of the 
+federal funds rate once it has left the lo wer bound.  As suggested by the Summary of 
+Economic Projections released after the December FOMC meeting, policymakers may judge that it will be appropriate to keep th e federal funds rate well below its longer-run 
+normal level for the next several years—perhaps reflecting one or more of the following factors:  a lower-than-normal equilibrium real interest rate, the asymmetric risks posed by 
+the effective lower bound on the federal funds rate, a commitment to keeping the federal 
+funds rate low in the medium term in order to spur more rapid ec onomic growth in the 
+near term, or a judgment that the Committee should reduce the size of the balance sheet 
+as it raises the funds rate.  If so, policym akers might wish to pr ovide such additional 
+guidance by noting that “even after employ ment and inflation are near mandate-
+consistent levels, economic conditions may, fo r some time, warrant keeping short-term 
+interest rates below levels the Committ ee views as normal in the longer run.”  
+Some participants may view the use of the phrase “short-term interest rates,” 
+instead of specifically referring to the federal funds rate, as an  appropriate way of 
+opening the option of targeting a different sh ort-term interest rate or rates during 
+normalization.  However, other policymak ers, while supportin g the policy action 
+embodied in Alternative B, ma y regard it as inappropriate for the Committee, at this 
+stage, to add to the perception—in a way that will surely be noticed by market 
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 34 of 60
+Authorized for Public Release
+   
+ participants—that it might not  continue to target the federal funds rate.  These 
+policymakers may see further detailed Committee deliberation as warranted before any 
+signal about the future operation of monetary policy is provided in the statement.  If so, 
+they might favor language like that in Alterna tive B, but with “short-term interest rates” 
+replaced by “the target federal funds rate.” 
+The revisions to the forward guidance in Alternative B are not intended to 
+indicate a change in the Committee’s thinki ng about the conditions that will warrant 
+raising the federal funds rate or  the time at which it likely will become appropriate to do 
+so.  The seventh paragraph of the draft st atement of Alternative B makes this point 
+explicitly by stating that the revised forw ard guidance is “fully consistent” with the 
+previous statement’s guidance.  Participants ma y view this paragraph as useful in limiting 
+possible misinterpretations by market par ticipants of the new forward guidance and 
+thereby reducing the likelihood of  undesired changes in financia l conditions in response 
+to the release of the statement.  
+Some policymakers may wish to emphasize that inflation has stayed low in recent 
+months or, while acknowledging recent growth  in payroll employment, may judge that 
+adverse weather conditions likely account for only part of the recent softness in economic 
+activity, suggesting that the outlook for the labor market may have deteri orated.  In either 
+case, participants may believe that it has beco me appropriate to provide greater monetary 
+policy accommodation, perhaps by strengthenin g the forward guidance and continuing 
+asset purchases at their current pace, as in Alternative A, rather than reducing the pace again as market participants expect.  Participants may see the inflation-floor form of 
+forward guidance as desirable because it implie s that, even if employment is nearing the 
+Committee’s assessment of its mandate-consistent level, accommodation will remain in 
+place if necessary to ensure th at inflation will move up to 2 percent.  They may believe 
+that in response to this language, investors w ould push back the date of the first hike in 
+the federal funds rate, perhaps considerably, if inflation were  to continue to run below 2 
+percent.  However, other policymakers may see financial market expectations regarding 
+the future path of the federal funds rate as appropriately aligned with the Committee’s 
+thinking at this time.  Consequently, they may be concerned that the adoption of an 
+inflation floor, as in paragraph A.5, could c onfuse financial market participants about the 
+Committee’s intentions, with possible unwelcome  volatility in financial markets.  In 
+addition, some participants may be concerned th at an inflation floor would not provide an 
+indication regarding the implications for polic y of an unexpected above-target inflation 
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 35 of 60
+Authorized for Public Release
+   
+ rate.  These policymakers may therefore judge that, as the economy transitions from 
+extraordinary conditions to more ordinary times, it is appropriate for their forward 
+guidance to shift from relianc e on numerical thresholds to qualitative language that 
+reflects the Committee’s Consensus Statement. 
+Alternatively, some policymakers may be concerned that maintaining very low 
+rates for as long as suggested by the new forward guidance language in paragraph B.6 
+could risk a rise in longer-ter m inflation expectations and an  undesirably large increase in 
+inflation over the medium run.  They may al so worry that this forward guidance could 
+lead to excessive risk-taking in the financ ial sector.  For these reasons, they may be 
+inclined toward an earlier incr ease in the federal f unds rate than envisioned in Alternative 
+B.  However, increases in medium- and longer- term interest rates si nce the middle of last 
+year appear to have reduced risk-taking at least to so me extent by spurring market 
+participants to pare back some of their le veraged positions in fixed-income markets.  
+Moreover, as valuations in most asset markets appear to be broadly in line with historical 
+norms, and the level of vulnerability of the financial system to potential adverse shocks is apparently at moderate levels, policymakers may think it unlikely th at sizable financial 
+imbalances will arise from current polic y settings.  Consequently, with the 
+unemployment rate still elevated, inflation be low 2 percent, and expected inflation well 
+anchored, these policymakers may judge that th e risks of an increas e in inflation to a 
+level persistently above the Committee’s 2 percent longer-term goal currently remains small and that the risks to financial stab ility of maintaining highly accommodative policy 
+remain manageable.  Moreover, they may j udge that the language in paragraph B.5 
+indicating that the Committee will consider fi nancial conditions, inflation pressures, and 
+inflation expectations in determining how  long to maintain a highly accommodative 
+stance of monetary policy provides the Committ ee with sufficient flexibility for attaining 
+its long-run objectives.   
+The likely market reaction to a statement li ke Alternative B is difficult to predict 
+with confidence, particularly in light of the substantial of changes to the Committee’s 
+forward guidance.  According to the Desk’s latest survey, all of  the primary dealers 
+expect the Committee to announce a third $10 bi llion cut in the pace of asset purchases 
+next week.  Moreover, most dealers expect this reduction to be accompanied by a 
+modification of the forward guidance for the federal funds rate—either by deemphasizing 
+the unemployment rate threshold or droppi ng it and replacing it with qualitative 
+guidance.  Therefore, market participants  may not be surprised by a statement like 
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 36 of 60
+Authorized for Public Release
+   
+ Alternative B and may view the stance of policy as broadly unchanged.  In that case, the 
+effects of the announcement on financial market prices would be small.  There is a risk, 
+however, that the move to more-qualitative forward guidance could be read by investors 
+as suggesting that the Committee is pulling b ack from its earlier guidance, potentially 
+boosting both the level and vol atility of longer-term intere st rates through increased 
+uncertainty about the expected path of future short-term rates as well as higher term 
+premiums.  The risk of this scenario is reduced by the inclusion in the postmeeting 
+statement of paragraph B.7; it might be re duced still further if the postmeeting press 
+conference emphasized that the Committee’s outlook for policy had not changed 
+significantly and if this unchanged outl ook was confirmed by the March Summary of 
+Economic Projections.  
+THE CASE FOR ALTERNATIVE C 
+Policymakers may view the expansion of payroll employment observed in recent 
+months as establishing that the economy and the labor market have sufficient momentum 
+to continue making significant progress to ward the Committee’s objective of maximum 
+employment.  They may view adverse w eather conditions as masking the underlying 
+strength in private-sector demand, and thus  place more weight on strong consumer and 
+business confidence, as in the “Faster Recovery” scenario in Tealbook Book A.  
+Participants may further cite last year’s moderate economic expansion in the face of 
+significant fiscal restraint as evidence that th e recovery has become self-sustaining and is 
+set to strengthen in the coming year as fiscal restraint cont inues to wane.  Alternatively, 
+policymakers may have concluded that the slower-than-anticipated improvement in 
+output and employment over much of the current  recovery largely reflects a step-down in 
+trend productivity growth from its pre-crisis norm (a possibility suggested by the 
+“Supply-Side Damage” alternative scenario in Tealbook Book A), coupled with a 
+downward trend in the labor fo rce participation rate and a persistent increase in the 
+natural rate of unemployment.  If so, they may judge that the level of potential output is 
+significantly lower than the staff currently es timates and that the unemployment rate is 
+not much above its longer-run normal level.  In addition, policymakers may view the recent stability of inflation readings as a sign that the temporary factors that put 
+downward pressure on inflation for a time have begun to diminish; if so, they may anticipate that inflation will firm toward 2 percent in coming quarters, provided that 
+longer-term inflation expectati ons remain stable.  Conseque ntly, policymakers may opt to 
+issue a statement like that in Alternative C.  
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 37 of 60
+Authorized for Public Release
+   
+ Some policymakers may worry that main taining a highly accommodative stance 
+of policy for a protracted period could rais e the risk of an undesirable increase in 
+inflation.  Thus, they may prefer making a la rger reduction in asset purchases at this 
+meeting than under Alternative B, thereby moving up the end of the purchase program 
+and raising the federal funds rate sooner th an under Alternative B.   In addition, some 
+policymakers may not want to indicate that shor t-term interest rates are likely to be below 
+average for some time.  Policymakers may simply  judge that short-term interest rates will 
+not be below average, or they may be concerne d that such a forecast, if interpreted as an 
+unconditional statement about future policy, could undermine the stability of financial 
+markets over time or limit the Committee’s scope  to tighten policy more rapidly than 
+under the baseline projection should such a tightening become appropriate.   
+Based on the Survey of Primary Dealers,  a decision to adopt a statement like 
+Alternative C would surprise market participants, as all deal ers expect a third $10 billion 
+cut in the pace of tota l asset purchases.  A $20 billion reduc tion in the pace of purchases, 
+along with the removal of the “measured step s” language from the fourth paragraph of 
+the statement, likely would be interpreted by investors as a signal that the Committee is moving to end the asset purchas e program more quickly than previously anticipated.  In 
+conjunction with the solidly positive characterization of the economy in the first 
+paragraph of the draft statemen t for Alternative C, a larger-than-expected cut in the pace 
+of purchases would probably lead market part icipants to pull forward their forecasts of 
+the date on which the Committee will first increase  its target for the federal funds rate and 
+perhaps also lead them to an ticipate a steeper path  for the federal funds rate during the 
+period of policy firming.  In response, longer-te rm interest rates likely would rise, equity 
+prices and inflation compen sation would fall, and the dollar would appreciate.  If, 
+however, a statement like that in Alternative C led investors to become more confident 
+about the economic outlook, inte rest rates and the dollar c ould rise more, and equity 
+prices might not decline, and could even increase. 
+THE CASE FOR ALTERNATIVE A 
+Inasmuch as inflation has lingered be low the Committee’s longer-run objective 
+for almost two years and has shown little sign of moving back toward 2 percent, 
+policymakers might be concerned that monetary policy is not sufficiently 
+accommodative.  They also may see recent data as again disappointing their expectations 
+that the economic recovery will strengthen.  In particular, they may point to weaker-than-
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 38 of 60
+Authorized for Public Release
+   
+ expected fourth-quarter real  GDP growth and argue that unusually severe weather can 
+account for only a portion of the softness in the first-quarter data.  Although 
+policymakers may be encouraged by recent gains in private payroll employment, they 
+could remain skeptical that significant grow th in employment can be sustained in the 
+absence of a broader pickup in economic activit y.  Moreover, they may judge that the fall 
+in the unemployment rate in recent quarters overstates the degree to which labor market 
+slack has been removed, and see other indicators—for example, the number of 
+individuals who are either long-term unemployed or work ing part time for economic 
+reasons—as pointing toward the existence of considerable unused labor resources.  All 
+told, policymakers may judge that there ha s not been sufficient progress towards the 
+Committee’s objectives for the labor market and inflation to warrant reducing the pace of 
+purchases at this meeting.  If so, they may prefer Alternative A.   
+Policymakers may see a statement like that in Alternative A as desirable because 
+it maintains the pace of asset purchases and exp licitly introduces a floor to inflation that 
+is expressed in terms of the projected infl ation between one and tw o years ahead, stating 
+that the federal funds rate will not be increased until inflation over that time frame is 
+projected to be back at its mandate-consiste nt level.  They may view such a policy 
+decision as appropriate in order to put additional downward pressure on longer-term 
+interest rates, thus helping to ensure that the recovery gains trac tion and that inflation 
+moves up toward the Committee’ s longer-run goal.  In additi on, some participants may 
+view an explicit inflation floor as desira ble because it provides assurance to the public 
+and financial market participants that the Committee is committed to returning inflation 
+to its 2 percent goal.   
+Some participants may judge not only that  the modal outlook is unsatisfactory but 
+also that downside risks to  the outlook for inflation, while  modest, remain large enough 
+to be a concern.  In particular, with underlying inflation continui ng to run well below 2 
+percent, some policymakers may be partic ularly concerned by the possibility that 
+persistently low inflation c ould eventually lead to dec lines in longer-run inflation 
+expectations, resulti ng in mutually reinforcing downw ard dynamics for inflation and 
+economic activity along the lines of the “Low In flation” alternative scenario in Tealbook 
+Book A.  If so, then they might favor the inflation-floor language in Alternative A 
+because it would reinforce the Committee’s intention to defend its 2 percent inflation goal from below, and so help to avoid a sustained decline in infla tion.  In addition, some 
+participants may judge that a further reduction in inflation in current  circumstances would 
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 39 of 60
+Authorized for Public Release
+   
+ have larger-than-usual advers e implications for the economy because the effective lower 
+bound on interest rates limits the Committee’s scope to respond.  As a result, these 
+participants may prefer to wait to reduce a sset purchases further until they have clear 
+evidence that the first-quarter slowdown in  economic growth will prove temporary and 
+that inflation will move back toward the Committee’s 2 percent longer-run goal.    
+An announcement like Alternative A would co me as a considerable surprise to 
+market participants.  Investors likely would mark up their expectations for total asset 
+purchases and push back the date of the first hike in the federal funds rate, perhaps by a 
+considerable amount.  Therefore,  longer-term interest rates lik ely would decline, inflation 
+compensation and equity prices might rise, a nd the dollar could depreciate.  However, if 
+investors read the statement in Alternative A as reflecting a more downbeat assessment of 
+the outlook for economic growth and inflation, eq uity prices might not rise or could even 
+decline, and inflation compensation could fall.  In addition, in troducing new forward 
+guidance language only in terms of infla tion might create significant confusion among 
+investors about the extent to which the Committee feels bound by its earlier forward 
+guidance, a development that could incr ease the volatility of  asset prices.  
+ 
+  
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 40 of 60
+Authorized for Public Release
+   
+ DIRECTIVE   
+The directive that was issued after the January meeting appears on the next page, 
+followed by drafts for a Marc h directive that co rrespond to each of the three policy 
+alternatives.  Each draft in cludes changes to make it consistent with th e corresponding 
+postmeeting statement.   
+The directive for Alternative A instructs the Desk to continue purchasing 
+additional agency mortgage-backed securities  at a pace of about $30 billion per month 
+and to continue purchasing longer-term Treasury securities at a pace of about $35 billion 
+per month.  The draft directiv e for Alternative B instructs the Desk to purchase agency 
+mortgage-backed securities at a pace of a bout $25 billion per month, and to purchase 
+longer-term Treasury securities at a pace of about $30 billion per month, beginning in 
+April.  The draft directive for Alternativ e C instructs the Desk to purchase agency 
+mortgage-backed securities at a pace of a bout $20 billion per month, and to purchase 
+longer-term Treasury securities at a pace of  about $25 billion per month, also beginning 
+in April.  All three of the draft directives dire ct the Desk to maintain the current policy of 
+reinvesting principal payments from its holdings of agency debt and agency mortgage-
+backed securities in agency mortgage-back ed securities and of rolling over maturing 
+Treasury securities in to new issues.   
+ 
+  
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 41 of 60
+Authorized for Public Release
+   
+ January 2014 Directive 
+Consistent with its statutory mandate, the Federal Open Market Committee seeks 
+monetary and financial cond itions that will foster ma ximum employment and price 
+stability.  In particular, the Committee seeks c onditions in reserve markets consistent with 
+federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to 
+undertake open market operations as necessary  to maintain such conditions.  Beginning 
+in February, the Desk is directed to purchase longer-term Treasury securities at a pace of 
+about $35 billion per month and to purchase ag ency mortgage-backed securities at a pace 
+of about $30 billion per month.  The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary  to facilitate settlement of the Federal 
+Reserve’s agency mortgage-backed securities  transactions.  The Committee directs the 
+Desk to maintain its policy of rolling over maturing Treasury securities into new issues 
+and its policy of reinvesting pr incipal payments on all agency debt and agency mortgage-
+backed securities in agency mortgage-back ed securities.  The System Open Market 
+Account Manager and the Secretary will keep the Committee informed of ongoing 
+developments regarding the System’s balance sheet that could affect the attainment over 
+time of the Committee’s objectives of maxi mum employment and price stability.  
+  
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 42 of 60
+Authorized for Public Release
+   
+ Directive for March 2 014 Alternative A 
+Consistent with its statutory mandate, the Federal Open Market Committee seeks 
+monetary and financial cond itions that will foster ma ximum employment and price 
+stability.  In particular, the Committee seeks c onditions in reserve markets consistent with 
+federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to 
+undertake open market operations as necessary  to maintain such conditions.  Beginning 
+in February,  The Desk is directed to purchase continue purchasing  longer-term 
+Treasury securities at a pace of about  $35 billion per month and to purchase continue 
+purchasing agency mortgage-backed securities at a pace of about $30 billion per month.  
+The Committee also directs the Desk to  engage in dollar roll and coupon swap 
+transactions as necessary to  facilitate settle ment of the Federal Reserve’s agency 
+mortgage-backed securities transactions.  The Committee directs the Desk to maintain its 
+policy of rolling over maturing Treasury securi ties into new issues and its policy of 
+reinvesting principal payments  on all agency debt and agen cy mortgage-bac ked securities 
+in agency mortgage-backed securities.  Th e System Open Market Account Manager and 
+the Secretary will keep the Committee inform ed of ongoing developments regarding the 
+System’s balance sheet that could affect the attainment over time of the Committee’s 
+objectives of maximum employ ment and price stability.  
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 43 of 60
+Authorized for Public Release
+   
+ Directive for March 2 014 Alternative B 
+Consistent with its statutory mandate, the Federal Open Market Committee seeks 
+monetary and financial cond itions that will foster ma ximum employment and price 
+stability.  In particular, the Committee seeks c onditions in reserve markets consistent with 
+federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to 
+undertake open market operations as necessary  to maintain such conditions.  Beginning 
+in February April , the Desk is directed to purchase longer-term Treasury securities at a 
+pace of about $35 $30 billion per month and to purc hase agency mortgage-backed 
+securities at a pace of about $30 $25 billion per month.  The Committee also directs the 
+Desk to engage in dollar roll and coupon swap  transactions as necessary to facilitate 
+settlement of the Federal Reserve’s agency mo rtgage-backed securities transactions.  The 
+Committee directs the Desk to maintain it s policy of rolling over maturing Treasury 
+securities into new issues a nd its policy of reinvesting pr incipal payments on all agency 
+debt and agency mortgage-backed securities in agency mortgage-backed securities.  The 
+System Open Market Account Manager a nd the Secretary will keep the Committee 
+informed of ongoing developments regarding the System’s balance sheet that could affect 
+the attainment over time of the Committee’s objectives of maximum employment and 
+price stability.  
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 44 of 60
+Authorized for Public Release
+   
+ Directive for March 2 014 Alternative C 
+Consistent with its statutory mandate, the Federal Open Market Committee seeks 
+monetary and financial cond itions that will foster ma ximum employment and price 
+stability.  In particular, the Committee seeks c onditions in reserve markets consistent with 
+federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to 
+undertake open market operations as necessary  to maintain such conditions.  Beginning 
+in February April , the Desk is directed to purchase longer-term Treasury securities at a 
+pace of about $35 $25 billion per month and to purc hase agency mortgage-backed 
+securities at a pace of about $30 $20 billion per month.  The Committee also directs the 
+Desk to engage in dollar roll and coupon swap  transactions as necessary to facilitate 
+settlement of the Federal Reserve’s agency mo rtgage-backed securities transactions.  The 
+Committee directs the Desk to maintain it s policy of rolling over maturing Treasury 
+securities into new issues a nd its policy of reinvesting pr incipal payments on all agency 
+debt and agency mortgage-backed securities in agency mortgage-backed securities.  The 
+System Open Market Account Manager a nd the Secretary will keep the Committee 
+informed of ongoing developments regarding the System’s balance sheet that could affect 
+the attainment over time of the Committee’s objectives of maximum employment and 
+price stability. 
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 45 of 60
+Authorized for Public Release
+(This page  is intentionally blank.) 
+Alternatives
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 46 of 60
+Authorized for Public Release
+ 
+Projections 
+BALANCE SHEET , INCOME , AND MONETARY BASE 
+The staff has prepared three scenarios for the Federal Reserve’s balance sheet that 
+correspond to Alternatives A, B, and C.  A ll three alternatives include additional asset 
+purchases, though the pace and cumulative amount of purchases differ across the 
+alternatives.  Projections under each scenario are based on the staff’s assumptions about the trajectory of various components of the balance sheet and the balance sheet 
+normalization strategy.
+1  The projections associated with each of the policy alternatives 
+assume that when the time comes to norma lize the balance sheet, the SOMA portfolio 
+shrinks only through redemptions of Treasury securities and agency debt and paydowns 
+of principal from agency MBS; consistent  with the strategy outlined in the press 
+conference statement following the June 2013 FOMC meeting, no sales of agency MBS 
+are contemplated. 
+For the balance sheet scen ario that corresponds to Alternative B, monthly 
+purchases of longer-term Treasury securi ties and of agency MBS are reduced by 
+$5 billion each in April.  Th ereafter, monthly purchases of Treasury securities and agency 
+MBS are each reduced further by $5 billion after subsequent FOMC meetings; purchases 
+wind down to zero early in the fourth quarter of 2014.  U nder these assumptions, which 
+are consistent with the staff baseline forecas t assumption, purchases total a bit less than 
+$1.5 trillion over 2013 and 2014, unchanged from A lternative B and the staff forecast in 
+the January Tealbook.  
+As shown in the exhibit “Total Assets and Selected Balance Sheet Items,” total 
+assets under the purchase progr am assumed for Alternative B peak at about $4.5 trillion 
+in the first quarter of 2015, with $2.4 trilli on in Treasury securities holdings and  
+$1.7 trillion in agency MBS holdings.2  We assume that the first increase in the target 
+federal funds rate is in the second quarter of 2015, consistent with the staff forecast and 
+unchanged from Alternative B of the January Tealbook.  At the time of liftoff, all reinvestments and rollovers of securities ar e assumed to cease, and the SOMA portfolio 
+                                                 
+1 Further information on the assumptions regard ing asset and liability categories not discussed 
+here can be referenced in the appendix of the December 2013 Tealbook, Book B. 
+2 Total assets peak after the end of the purchase program due to delayed settlement of agency 
+MBS purchases. 
+Projections
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 47 of 60
+Authorized for Public Release
+Alternative B
+Alternative CAlternative A
+January Tealbook Alternative B
+Total Assets
+2010
+2012201420162018202020222024   0 50010001500200025003000350040004500500055006000Billions of dollars
+MonthlyReserve Balances
+2010
+2012201420162018202020222024   0 5001000150020002500300035004000Billions of dollars
+Monthly
+SOMA Treasury Holdings
+2010
+2012201420162018202020222024   0 500100015002000250030003500Billions of dollars
+MonthlySOMA Agency MBS Holdings
+2010
+2012201420162018202020222024   0 200 400 600 80010001200140016001800200022002400Billions of dollars
+MonthlyTotal Assets and Selected Balance Sheet Items
+Projections
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 48 of 60
+Authorized for Public Release
+begins to contract.3,4  The size of the portfolio is normalized by late 2021, as in the 
+January Tealbook.5  The balance sheet then begins to expand, with increases in SOMA 
+holdings essentially matching the growth of currency in circulation and Federal Reserve 
+Bank capital.  Total assets are $2.5 trillion at the e nd of 2025, with about $640 billion in 
+agency MBS holdings remaining in the SOMA portfolio. 
+The second exhibit, “Income Projections,”  shows the implications of balance 
+sheet developments for Federal Reserve income.  Under Alternative B, interest income 
+rises while purchases are ongoing, and subsequently  declines for a number of years as the 
+SOMA portfolio contracts through redempti ons and paydowns of principal.  Although 
+interest expense is quite sma ll in the near term, when the federal funds rate rises with 
+reserve balances still quite elev ated, interest expense climbs.  As a result, Federal Reserve 
+remittances to the Treasury remain robust in the near term but then decline markedly over the period from 2016 to 2018; nevertheless, rem ittances are projected to remain positive 
+over the entire projection period.  Annual rem ittances peak at about $100 billion in 2014 
+and trough at about $15 billion later in the decade, and no deferred asset is recorded.
+6  
+The Federal Reserve’s cumulative remitta nces from 2009 through 2025 are about $950 
+billion, well above the level that would have been observed in the absence of the asset 
+purchase programs.   
+                                                 
+3 Temporary reserve draining tools—reverse repurchase agreements (RRPs) and term deposits—
+are not modeled in any of the scenarios presented, although the model does assume RRPs associated with 
+foreign official and international accounts will rema in around $100 b illion throughout the forecast period.    
+Use of these tools would result in a shift in the composition of Federal Reserve liabilities—a decline in reserve balances and a corresponding increase in reve rse repurchase agreements or term deposits—but 
+would not produce an overall change in the size of the balance sheet. 
+4 Projected prepayments of agency MBS reflect interest rate projections as of March 10, 2014. 
+5 The size of the balance sheet is assumed to be normalized when the securities portfolio reverts to 
+its longer-run trend level, which is determined largely by currency in circulation plus Federal Reserve capital and a projected steady-state level of reserve balances.  The projected timing of the normalization of the size of the balance sheet depends importantly on the level of reserve balances that is assumed to be 
+necessary to conduct monetary policy in the long run; cu rrently, we assume that level of reserve balances to 
+be $25 billion, about where these balances stood prio r to the crisis.  However, ongoing regulatory and 
+structural changes could lead to a higher demand for reserve balances in the new steady state.  A higher 
+steady-state level for reserve balances would, all else eq ual, imply an earlier norma lization of the size of the 
+balance sheet.  In addition, if the Committee were to select a different operating regime for monetary policy 
+than was used prior to the crisis, the new normal size of the balance sheet could potentially be quite different than it was prior to the crisis.   
+6 In the event that a Federal Reserve Bank’s earnings fall short of the amount necessary to cover 
+its operating costs, pay dividends, and equate surplus to capital paid-in, a deferred asset would be recorded.  In this Tealbook, none of the alternatives re sults in the need to record a deferred asset. 
+Projections
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 49 of 60
+Authorized for Public Release
+Alternative B
+Alternative CAlternative A
+January Tealbook Alternative B
+Interest Income
+2012
+20142016
+2018
+202020222024  0 20 40 60 80100120140Billions of dollars
+AnnualInterest Expense
+2012
+20142016
+2018
+202020222024  0 20 40 60 80100120140Billions of dollars
+Annual
+Realized Capital Gains
+2012
+201420162018202020222024−20  0 20 40 60 80100120140Billions of dollars
+AnnualRemittances to Treasury
+2012
+201420162018202020222024−20  0 20 40 60 80100120140Billions of dollars
+Annual
+Deferred Asset
+2012
+201420162018202020222024  0 10 20 30 40 50 60 70 80 90100110120Billions of dollars
+End of yearMemo: Unrealized Gains/Losses
+2012
+20142016
+2018
+202020222024−500−400−300−200−100   0 100 200 300 400Billions of dollars
+End of yearIncome Projections
+Projections
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 50 of 60
+Authorized for Public Release
+The unrealized gain/loss position of the SOMA  portfolio is importantly influenced 
+by the level of interest rates.  Staff estimates that the portfolio was in an unrealized gain 
+position of about $35 billion as of the end of February 2014.7  Reflecting the rise in 
+interest rates over the project ion period, the position under Alternative B shifts to an 
+unrealized loss in the near term and reaches a peak unrealized loss of about $360 billion at year-end 2017.  The unrealized loss positi on narrows through the remainder of the 
+forecast period as securities mature and new securities are added at par. 
+Under Alternative C, in April, the monthly pace of purchases of longer-term 
+Treasury securities is reduced by $10 billion; the same is tr ue of purchases of agency 
+MBS.  Purchases are assumed to wind down to zero by mid-2014.
+8  Under this balance 
+sheet scenario, purchases total about $1.3 trillion over 2013 and 2014, and the federal 
+funds rate is assumed to lift off in late 2014.  Reinvestment of principal from maturing or 
+prepaying securities ends and redemptions begi n in the fourth quarter of 2014 concurrent 
+with the first increase in the federal funds rate.  Total assets in this scenario peak at about 
+$4.3 trillion in the third quarter  of 2014, and the size of the balance sheet is normalized 
+around the same time as in Alternative B.  Federal Reserve remittances to the Treasury 
+are projected to remain positive throughout th e projection period, and no deferred asset is 
+recorded.  Cumulative remittances from 2009 to 2025 are slightly lower than under 
+Alternative B. 
+In the scenario for Altern ative A, the current pace of purchases of longer-term 
+Treasury securities and agency MBS is maintain ed in the near term and then is reduced 
+gradually, with purchases ending in early 2015.9  Under these assumptions, purchases 
+total about $1.7 trillion from 2013 to 2015.  In this scenario, total assets increase to a 
+peak of about $4.7 trillion in the first quarter  of 2015.  The first increase in the target 
+federal funds rate is assumed to occur in the second quarter of 2016, consistent with the 
+                                                 
+7 The Federal Reserve reports the level and the change in the quarter-end net unrealized gain/loss 
+position of the SOMA portfolio to the public with a la g in the “Federal Reserve Banks Combined Quarterly 
+Financial Report,” available on the Board’s website at 
+http://www.federalre serve.gov/monetarypolicy/bst_ fedfinancials.htm#quarterly .   
+8 The assumption that purchases will end by mid-2014  is consistent with a view that the recovery 
+is proceeding more strongly than in the staff forecast or that the level of potentia l output is lower than the 
+current staff estimate.  It is also consistent with a concern about the possible cost s or risks associated with 
+asset purchases and keeping interest rates very low for a protracted period of time. 
+9 This later conclusion to the purchases would be  consistent with progress toward the Committee’s 
+objectives for the labor mark et and inflation occurring more gradually in the near term than in the staff 
+forecast, or with a desire on the part of policymakers to return employment and inflation to mandate-consistent levels more rapidly than in the baseline. 
+Projections
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 51 of 60
+Authorized for Public Release
+Federal Reserve Balance Sheet
+End-of-Year Projections -- Alternative B
+Billions of dollars
+Feb 28, 2014 2015 2017 2019 2021 2023 2025
+Total assets 4,166 4,366 3,609 2,651 2,063 2,276 2,516
+Selected assets
+Loans and other credit extensions * 3 0 0 0 0 0 0
+Securities held outright 3,905 4,126 3,407 2,480 1,913 2,141 2,395
+U.S. Treasury securities 2,283 2,448 2,038 1,340 9671,360 1,755
+Agency debt securities 51 33 4 2 2 2 2
+Agency mortgage-backed securities 1,570 1,645 1,365 1,137 944 779 637
+Unamortized premiums 209 192 150 117 93 76 62
+Unamortized discounts -16 -18 -15 -12 -9 -8 -7
+Total other assets 64 66 66 66 66 66 66
+Total liabilities 4,109 4,304 3,531 2,553 1,939 2,118 2,317
+Selected liabilities
+Federal Reserve notes in circulation 1,208 1,351 1,507 1,643 1,802 1,984 2,183
+Reverse repurchase agreements 217 100 100 100 100 100 100
+Deposits with Federal Reserve Banks 2,677 2,846 1,921 809 38 38 38
+Reserve balances held by depository institutions 2,609 2,833 1,908 796 25 25 25
+U.S. Treasury, General Account 46 5 5 5 5 5 5
+Other Deposits 23 8 8 8 8 8 8
+Interest on Federal Reserve Notes due
+to U.S. Treasury3 0 0 0 0 0 0
+Total capital 56 62 78 98124 157 199
+   Source: Federal Reserve H.4.1 statistical releases and staff calculations.
+   Note: Components may not sum to totals due to rounding. 
+  * Loans and other credit extensions includes primary, secondary, and seasonal credit; central bank liquidity swaps; Term Asset-Backed Securities Loan 
+     Facility (TALF); net portfolio holdings of Maiden Lane LLC, Maiden Lane II LLC, and Maiden Lane III LLC; and net portfolio holdings of TALF LLC.
+Projections
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 52 of 60
+Authorized for Public Release
+expectation that inflation one to two years ahead is projected to  be below 2 percent 
+through at least this time.  All reinvestments are assumed to cease at the time of the first 
+increase in the federal funds rate, and then the SOMA portfolio begins to contract.  The 
+size of the portfolio is normalized about two quarters later than in the scenario 
+corresponding to Alternative B, reflecting the larger amount of asset purchases.  Federal 
+Reserve remittances to the Treasury are pr ojected to remain pos itive over the entire 
+projection period, and no deferred asset is r ecorded.  Cumulative remittances from 2009 
+through 2025 are slightly highe r than under Alternative B. 
+As shown in the exhibit, “Alternative Projections for the 10-Year Treasury Term 
+Premium Effect,” under Alterna tive B, the effect of the Federal Reserve’s cumulative 
+increase in asset holdings on th e term premium in ten-year yields in the first quarter of 
+2014 is negative 126 basis points, about the sa me as under Alternative B in the January 
+Tealbook.  Over the remainder of the projectio n period, the term premium effect declines 
+slowly toward zero, reflecting the actual and anticipated nor malization of the portfolio.  
+Under Alternative C, the contemporaneous term premium effect is negative 119 basis 
+points.  The effect is less negative than in A lternative B because there are fewer securities 
+purchased than under Alternative B and the ba lance sheet begins to contract sooner.  
+Under Alternative A, the term premium effect  is about negative 138 basis points in the 
+current quarter.  The effect is more negative than in Alternative B because more 
+securities are purchased a nd the balance sheet begins to contact later than under 
+Alternative B.  
+The differences across the scenarios re garding the projected peak amount of 
+reserve balances and the level of reserve balances at lifto ff are directly related to the 
+magnitude of assumed asset purchases and th e timing of the liftoff of the federal funds 
+rate, although the level of reserve balances is  also contingent on th e evolution of other 
+balance sheet items.  Reserve balances peak at about $3.2 trillion and $3.0 trillion in early 
+2015 under Alternatives A and B, respectively.  For Alternative C, re serve balances peak 
+at about $2.9 trillion in the third quarter of 2014. 
+As shown in the final exhibit, “Alternativ e Projections for the Monetary Base,” in 
+the scenario corresponding to Alternative B, the monetary base increases on balance 
+through the middle of 2015 because the purchas e program is accompanied by an increase 
+in reserve balances.  Once exit begins, the monetary base shrinks, on net, through 2021, 
+primarily because redemptions of securities  cause corresponding reductions in reserve 
+balances.  Starting around mid-2022, after re serve balances are assumed to have 
+Projections
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 53 of 60
+Authorized for Public Release
+Alternative Projections for the 10-Year Treasury Term Premium Effect
+Basis Points
+Quarterly AveragesDate Alternative B Alternative C Alternative AJanuary
+Alternative B
+2014: Q1 –126 –119 –138 –127
+           Q2 –121 –114 –134 –123
+           Q3 –116 –109 –129 –117
+           Q4 –111 –103 –124 –112
+2015 : Q1 –106 –98 –119 –107
+           Q2 –101 –93 –114 –102
+           Q3 –95 –88 –108 –96
+           Q4 –90 –83 –103 –91
+2016 : Q1 –86 –79 –98 –87
+           Q2 –81 –75 –93 –82
+           Q3 –77 –71 –88 –78
+           Q4 –73 –67 –84 –74
+2017: Q4 –58 –53 –67 –59
+2018: Q4 –46 –42 –53 –47
+2019: Q4 –37 –34 –42 –37
+2020: Q4 –29 –27 –33 –29
+2021: Q4 –24 –22 –26 –23
+2022: Q4 –19 –18 –20 –19
+2023: Q4 –15 –14 –16 –15
+2024: Q4 –12 –11 –12 –11
+2025: Q4 –8 –8 –9 –8
+Projections
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 54 of 60
+Authorized for Public Release
+stabilized at $25 billion, the monetary base be gins to expand in line with the growth of 
+currency in circulation.  Because the contours of the balance sheet are similar across the 
+alternatives, the growth rates of the monetary base in Alte rnatives C and A are broadly 
+similar to those under Alternative B.10 
+  
+                                                 
+10 The projections for the monetary base depend critically on the FOMC’s use of various tools 
+during the exit.  If, for example, the FOMC employs reverse repurchase agreements or term deposits 
+extensively during the exit, the projected level of re serve balances and the monetary base could decline 
+quite markedly in the out years. 
+Projections
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 55 of 60
+Authorized for Public Release
+Alternative Projections for the Monetary Base
+Date Alternative B Alternative C Alternative AJanuary
+Alternative BPercent change, annual rate; not seasonally adjusted
+Quarterly
+2014 : Q1 18.3 18.4 18.4 55.0
+          Q2 18.9 17.9 20.3 17.7
+          Q3 19.3 12.9 23.7 14.2
+          Q4 6.8 3.4 12.4 6.1
+2015 : Q1 -0.3 3.2 5.1 1.4
+          Q2 5.6 -4.6 -4.3 4.7
+          Q3 -2.1 -4.7 5.9 -2.9
+          Q4 -4.6 -4.6 0.2 -4.0
+2016 : Q1 -6.8 -6.9 -1.4 -6.1
+          Q2 -12.6 -13.0 1.2 -11.5
+          Q3 -9.9 -10.1 -6.9 -9.1
+          Q4 -8.3 -8.4 -8.1 -7.6
+Annual
+2017 -9.5 -9.7 -9.2 -8.8
+2018 -14.5 -15.0 -14.1 -13.3
+2019 -15.8 -16.2 -15.6 -14.4
+2020 -15.0 -15.3 -14.6 -13.6
+2021 -12.7 -8.0 -13.9 -11.9
+2022 3.3 4.8 -7.2 1.7
+2023 4.8 4.8 4.9 4.2
+2024 4.8 4.8 4.9 4.3
+2025 4.8 4.8 4.9 4.3
+Note: For years, Q4 to Q4; for quarters, calculated from corresponding 
+average levels.
+Projections
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 56 of 60
+Authorized for Public Release
+MONEY  
+After having grown significantly faster th an nominal GDP for several years, M2 
+is projected to increase at nearly the same  rate as nominal GDP throughout the remainder 
+of this year and then to c ontract modestly in 2015 and 2016.11  This pattern results 
+primarily from the assumed increase in the targ et federal funds rate over the forecast 
+horizon and the associated rise in the opport unity cost of holding M2.  In addition, the 
+staff assumes that investors will shift their portfolios away from the safe and liquid assets 
+in M2 toward riskier non-M2 assets as the economic recovery progresses.12   
+ 
+                                                 
+11 The staff’s M2 forecast is constructed using th e staff’s forecast of nominal income growth and 
+model-based estimates of interest rate effects with judgmental adjustments. 
+12 The monetary aggregates could be affected by tools that the Federal Reserve employs during the 
+normalization period, although the size and direction of such effects are difficult to judge.  In these 
+projections, we do not take account of such effects. Quarterly
+2014: Q1 6.2
+Q2 5.1
+Q3 5.0
+Q4 5.2
+2015: Q1 -0.2
+Q2 -1.7
+Q3 -2.3
+Q4 -2.1
+2016: Q1 -1.5
+Q2 -1.1
+Q3 -0.4
+Q4 0.2
+Annual
+2014 5.5
+2015 -1.6
+2016 -0.7
+* Quarterly growth rates are com puted from quarter averages.  Annual 
+growth rates are calculated using the change from fourth quarter of 
+previous year to fourth quarter of year indicated.M2 Monetary Aggregate Projections
+(Percent change, annual rate; seasonally adjusted) *
+Note: This forecast is consistent with nominal G DP and interest rates in the Tealbook for ecast.  Actual data through March 3, 2014; 
+projections thereafter.
+Projections
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 57 of 60
+Authorized for Public Release
+(This page  is intentionally blank.) 
+Projections
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 58 of 60
+Authorized for Public Release
+   
+Abbreviations 
+ABS asset-backed securities 
+AFE advanced foreign economy 
+BEA Bureau of Economic Analys is, Department of Commerce 
+BHC bank holding company 
+BOE  Bank of England 
+BOJ Bank of Japan 
+CDS credit default swaps 
+C&I commercial and industrial 
+CMBS commercial mortgage-backed securities CP commercial paper 
+CPI consumer price index 
+CRE commercial real estate 
+Desk Open Market Desk  
+ECB European Central Bank 
+EME emerging market economy 
+ETF exchange-traded fund FDIC  Federal Deposit Insurance Corporation 
+FOMC Federal Open Market Committee; also, the Committee 
+G-7 Group of Seven (Canada, France, Germany, Italy, Japan, U.K., U.S.) 
+G-20  Group of Twenty (Argentina, Australia, Brazil, Canada, China, 
+European Union, France, Germany, India, Indonesia, Italy, Japan, 
+Mexico, Russia, Saudi Arabia, Sout h Africa, South Korea, Turkey, 
+U.K., U.S.) 
+GCF general collateral finance 
+GDP gross domestic product 
+LIBOR London interbank offered rate  
+LSAP large-scale asset purchase 
+MBS mortgage-backed securities NIPA national income and product accounts 
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 59 of 60
+Authorized for Public Release
+   
+  OIS overnight index swap 
+ON RRP overnight reverse repurchase agreement 
+OTC over-the-counter 
+PCE personal consumption expenditures REIT real estate investment trust 
+REO real estate owned repo repurchase agreement 
+RMBS  residential mortgage-backed securities 
+RRP reverse repurchase agreement  SCOOS Senior Credit Officer Opini on Survey on Dealer Financing Terms 
+SFA Supplemental Financing Account 
+SOMA System Open Market Account 
+S&P Standard & Poor’s 
+TALF Term Asset-Backed Securities Loan Facility 
+TBA to be announced (for  example, TBA market) 
+TGA U.S. Treasury’s General Account 
+TIPS Treasury inflation-protected securities 
+TPE Term premium effects 
+Class I FOMC – Restricted Controlled (FR)
+March 13, 2014
+Page 60 of 60
+Authorized for Public Release
